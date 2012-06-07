@@ -7,7 +7,7 @@ Copy the content of this files and add it to the /out/{LOCALE}/lang.php header, 
 <br>
 $sLangName  = "{Lang_Name}";<br>
 <br>
-and <br>
+and <br><br>
 // -------------------------------<br>
 // RESOURCE IDENTITFIER = STRING<br>
 // -------------------------------
