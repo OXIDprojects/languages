@@ -1931,74 +1931,98 @@ $aLang = array(
 'TOOLTIPS_RECALCNROFARTICLESINCAT' => 'Recalcular Número de productos en categorías',
 'TOOLTIPS_RECALCNROFARTICLESINMAN' => 'Recalcular Número de Productos en fabricantes',
 'TOOLTIPS_RECALCNROFARTICLESINVND' => 'Recalcular número de productos en los distribuidores',
-'TOOLTIPS_RESETNROFARTICLESINCAT' => 'Perdí mi número de producto<?phpas categoría file is part of OXID eShop CommuMANy Edition.
- *
- *    OXID eShop Commde fabricants file is part of OXID eShop CommuVNDy Edition.
- *
- *    OXID eShop Communit
-/**
- *    This file is part TIMEFORMity EditFormatOXID hora:file is part VALDESCy EditEntry1__ @D eShop*    2__ USW.file S_RATINGS_BUTTON_ALty EditEscriba un comentario!ion is distribuURL_TITLEy EditTrusted Shops añadir al ClientefileUPDATEAPP_DIRNOTDELETED_WARNINGy Editior favor, elimine el directorio: updateAppl,
- usery Editlied warrantSERGROUP_LIST_MENUITEMy EditAdmin
- *ar ususefuicense for more detailsSUB.
- *
- * Gruphe terd have  filese for morMAIn thLMEMBERS WARRANodosion, nse
- *    along with OXID op ComINor moy EditMiembrhe tel gblicLicense
- *   along_ADDRESS_DELIVERYs.com
-y EditDPOSEcionee terenvíoxid-esaleshop Co_QUANTITYeral Puantidadxid-esaleEXTEND_BONIversion lificación CrediticiaShop CE
- * @traCREDITPOINTang
- *Punthe tercréditoxid-esale * @traDISABLEAUTOenses/>.
- Desactivar automátichttp:ublic terUse
- *  terAsign
- */---
-// RESOURCEEMAILFAILEshed byE-mail Adr. no es válid----
-// RESOURCEMOBILFO it andO via teléfon----
-// RESOURCENEWSLETTERy EditRecibAR PUBoletíarset' => 'utf-8'PRIVATNS_LIST_MTTEM' =>  durthe  la nochLicense fre detCUSTOMERNU *
- * Cust N ºTHATTR' => 'PrMENls.
- *
- *    You should have receivedNOTSELECTEDGNU General P
-$aLano de la lista PLACY WARRACiuD eShop CE
-e detZIs/>.
- o de la lOXID omovido SNAIN_ALLN °-----blic License f> 'Ent,
-'ACLOGI it and> 'InformacióHASPASSWORshed byTiene contraseña?> 'InformacióLDAB_LIST_ENTRY' => 'EntNAMY WARRANombre Apelión del cliesitas EWUSUBITEM' => 'Nueva Ce visitas'> 'InformacióRIGH--------Derech*    alongM' => STRDMINGB_LCalle E' =>s',
-'ADMIOVERVIEWanslators: Tráf-------cuelgoz
- */
-c
-$sLangNa terluzaces OXID AdministrREACKORDMAIN_ALLLos pediitioabortad free  OXID Administor moang
- *ublic License
- *    alongD AdministLASTBU@versioÚltimall bprNLINKS_LIS remota. Por .
- *
- * ga cuidaeShop Commadquiror ds detectadas, los OXIshed bys detectaPAYMENT 'InfoBUTE'�n del clios métditioID eagbios',
-'ADRIBUTE' 'Asignar atri(at yLE_ATTRIBUTE_ASSIGNSELECTLIST' =>TYPY WARRAM'ARTICink  TipBUTE_ASSIGNSELECTLVALUY WARRAValors detectaREMARK'ACTIy Edit[NoangNas]
-'ARTICLE_ATTRIBalternativa[Orden> 'Selección de _ATTRIITEMSSELLIa> 'Selección de se fctos LiReg]tion usrRegisteredLIST_MEl If not, se rATTRIrará despuéLE_ATintShop ir su de visitas'tion VENDO lista de s.
- *
- * Maestronte'figur
-'charset_NOSELLIST' => 'GNU General PD
- *    This file_NOSELLIST' T ANY WARRA[Proveedor ATTR    You sho
- */> 'Se_NOSELLOXID eSh.
- munity Edition.  under the tisponibl atributos enOXID ICONUPLOAshed bySubir Ic=> 'Procione un atri_ATTWITH_NOSELnativa servnder the tereste**
- *    ThifileviewAllas dispo shoulRTICL_TOOMOUCHERSERIE_EXPORTDONT_AUTHORupight (C) xpmágSERVER_ompletadoIBUTE_productos disponibleWN',
-'ARTICLDescargaICLE_ón del producto',
-S_LIST_MBon solo aASSIGNARTIC) anyón del producto',
- or FITNEEASSIGNARTICLTIVECLE_BUN..gnación del produGENERActos incl serdel prodgeneradosDLE_UNASSIGNARTICLSSELLING_es',
-'ARTlaos los gnación del prodE' => 'Asignación del produSSELLIN or FITNELLLING_ASSIGNACCESSORIES' ucto',
-'ARTICLE_CROSSrchiv_icenses/>.
- Dor favor  para     h License
- *    aón del produe details.
- *
- *  Selección',
-ón LibrdNLINKProductos',
-'ARTICLE_CGNU General PPromoyrigal'<b> a serilacesProductos',
-'ARTICLINs de producMin. stas' Sums para el producto',
-'Atos ALProductosADMINLegorías disponibOXID eShOWOTductos d_ITEMSSVación de  diferd wasas cats los productos dioducto estSAME esta categoría',dadonity mismlas categorías disponibOXID eVAILENTICROSSSELLING_CRO 'Precio de Compra',
-'CALCULATEONST_AUTHORalculouldna sola vez (mación sóloSSSELLon, bidos:',
-ione un  oEdition is ) 'Precio de Compra',
-'DISCOUnar atriE_ASuen-----ecio de Compra',
-'sponibncelar la asignaciroduzca <br> existenteSSELLINGos no s los EDARTICLE' => 'De lícula PDF mRANDOneral PuuTube! impazarón ación (externa pelícuMINalterPRIST_AUTHOND_ARTEXTRA' => 'Paquete de Prod' => 'Inón delSELLINGreSSIGNACCESuidos:',
-TICLclieroduzca <br> existenteGTPRICICLE_EXTEN*    Os alea.  SeEDPRICE' => 'N Promociobr> (Tiá enalternativa'ARTICLE_EXTENDTEXTRAArchivS catICLE_EXTEND__BPRtroduzca <br> existenteUSS_LIST_MUsa�n del_EXTURL' => 'URL eón del> 'Carga de archD_HEIGHcupicación (externa pelícuón del TATISTIC_ITEMSSICLE_BUfileweighty Editiosbios'WRAPPING'ARTICLE_CROSSSELLING_EXTRAS' => 'Accesorios pars',
-'ARTICLE_EXTENGNU General PEnvoltur '<b>regalRTICLEs',
-'ARTICLE_EPICTURmp3 o YImageacióEXTEND_QUESTIONof ONTPACKUCancelar  inmaterial',
-'ARTICLE_EXTEND_QUESTIOventana nuevLE_ATe inmver> 'Ses',
-'ARTIOXID NEMAIL' => 'Alt. Póngase en cone entrego:',
-'ARTICLE_ATTRi)',
-'ARTICLE_EXTEND_TEMPcon',
-'ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Salte todosOXID negativos <br> descuentos (de);
+'TOOLTIPS_RESETNROFARTICLESINCAT' => 'Perdí mi número de productos en las categorías',
+'TOOLTIPS_RESETNROFARTICLESINMAN' => 'Perdí mi número de productos de fabricantes',
+'TOOLTIPS_RESETNROFARTICLESINVND' => 'Perdí mi número de productos en los distribuidores',
+'TOOLTIPS_TIMEFORMAT' => 'Formato de hora:',
+'TOOLTIPS_VALDESC' => 'Entry1__ @ @ @ @ Entry2__ USW.',
+'TS_RATINGS_BUTTON_ALT' => 'Escriba un comentario!',
+'TS_RATINGS_URL_TITLE' => 'Trusted Shops añadir al Cliente',
+'UPDATEAPP_DIRNOTDELETED_WARNING' => 'Por favor, elimine el directorio: updateApp!',
+'user' => 'Cliente',
+'USERGROUP_LIST_MENUITEM' => 'Administrar usuario',
+'USERGROUP_LIST_MENUSUBITEM' => 'Grupos de usuarios',
+'USERGROUP_MAIN_ALLMEMBERS' => 'Todos los usuarios',
+'USERGROUP_MAIN_MEMBERINGROUP' => 'Miembros del grupo de usuario',
+'USER_ADDRESS_DELIVERYADDRESS' => 'Direcciones de envío',
+'USER_ARTICLE_QUANTITY' => 'Cantidad',
+'USER_EXTEND_BONI' => 'Calificación Crediticia',
+'USER_EXTEND_CREDITPOINTS' => 'Puntos de crédito',
+'USER_EXTEND_DISABLEAUTOGROUP' => 'Desactivar automático de Grupo de Usuarios de Asignación',
+'USER_EXTEND_EMAILFAILED' => 'E-mail Adr. no es válido',
+'USER_EXTEND_MOBILFON' => 'O via teléfono',
+'USER_EXTEND_NEWSLETTER' => 'Recibe el Boletín',
+'USER_EXTEND_PRIVATFON' => 'Teléfono durante la noche',
+'USER_LIST_CUSTOMERNUM' => 'Cust N º',
+'USER_LIST_MENNUITEM' => 'Administrar usuario',
+'USER_LIST_MENNUSUBITEM' => 'Usuario',
+'USER_LIST_PLACE' => 'Ciudad',
+'USER_LIST_ZIP' => '',
+'USER_MAIN_CUSTOMERSNR' => 'N ° de cliente',
+'USER_MAIN_EMAILLOGIN' => '',
+'USER_MAIN_HASPASSWORD' => 'Tiene contraseña?',
+'USER_MAIN_LDAP' => '',
+'USER_MAIN_NAME' => 'Nombre Apellido',
+'USER_MAIN_NEWPASSWORD' => 'Nueva Contraseña',
+'USER_MAIN_RIGHTS' => 'Derechos',
+'USER_MAIN_STRNR' => 'Calle Calle',
+'USER_OVERVIEW_BONI' => 'Tráfico de calificación crediticia de luz',
+'USER_OVERVIEW_BREACKORDER' => 'Los pedidos abortadas',
+'USER_OVERVIEW_GROUPS' => 'Grupos de usuarios',
+'USER_OVERVIEW_LASTBUY' => 'Última compra',
+'USER_OVERVIEW_LASTITEM' => 'Última productos adquiridos',
+'USER_OVERVIEW_OXID' => '',
+'USER_PAYMENT_NEWPAYMENT' => 'Nuevos métodos de pago',
+'USER_PAYMENT_PAYMENT' => 'Formas de pago',
+'USER_PAYMENT_PAYMENTTYPE' => 'Método del Tipo',
+'USER_PAYMENT_VALUE' => 'Valor',
+'USER_REMARK_NEWS' => '[Noticias]',
+'USER_REMARK_ORDER' => '[Orden]',
+'USER_REMARK_REMARK' => '[Nota]',
+'USER_REMARK_USER' => '[Reg].',
+'usrRegistered' => 'El usuario se registrará después de introducir su contraseña.',
+'VENDOR_LIST_MENUITEM' => 'Maestro Configuración',
+'VENDOR_LIST_MENUSUBITEM' => 'Distribuidores',
+'VENDOR_LIST_TITLE' => '[Proveedor OXID Administración]',
+'VENDOR_MAIN_ALLITEMS' => 'Todos los productos disponibles',
+'VENDOR_MAIN_ICONUPLOAD' => 'Subir Icono',
+'VENDOR_MAIN_ITEMSWITHVENDOR' => 'Los productos de este distribuidor',
+'viewAll' => 'Mostrar todos',
+'VOUCHERSERIE_EXPORTDONE' => 'Cupones de exportación completado.',
+'VOUCHERSERIE_EXPORTDOWNLOAD' => 'Descargar',
+'VOUCHERSERIE_EXPORTED' => 'Bonos de exportación:',
+'VOUCHERSERIE_EXPORTING' => 'Exportación de cupones ...',
+'VOUCHERSERIE_GENERATED' => 'Los cupones generados:',
+'VOUCHERSERIE_GENERATEDONE' => 'la generación de cupones completado.',
+'VOUCHERSERIE_GENERATING' => 'La generación de cupones ...',
+'VOUCHERSERIE_GROUPS_INGROUP' => 'Disponible para grupos de usuarios',
+'VOUCHERSERIE_LIST_MENUITEM' => 'Configuración de Tienda',
+'VOUCHERSERIE_LIST_MENUSUBITEM' => 'Promocional de la serie',
+'VOUCHERSERIE_LIST_MINVALUE' => 'Min. Orden Suma',
+'VOUCHERSERIE_LIST_SERIALNUM' => 'Nombre',
+'VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Válido con diferentes series',
+'VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Válida con la misma serie',
+'VOUCHERSERIE_MAIN_AVAILABLE' => 'Disponible',
+'VOUCHERSERIE_MAIN_CALCULATEONCE' => 'Calcular una sola vez (válido sólo para los bonos de producto o categoría)',
+'VOUCHERSERIE_MAIN_DISCOUNT' => 'Descuento',
+'VOUCHERSERIE_MAIN_EXPORT' => 'Exportación',
+'VOUCHERSERIE_MAIN_GENERATE' => 'Generar',
+'VOUCHERSERIE_MAIN_GENERATERANDOM' => 'Generar al azar de n',
+'VOUCHERSERIE_MAIN_MINORDERPRICE' => 'Min. Orden Suma',
+'VOUCHERSERIE_MAIN_NEWVOUCHER' => 'Creación de Bonos de la nueva',
+'VOUCHERSERIE_MAIN_RANDOMNUM' => 'Números aleatorios',
+'VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Válida con la Orden de la Serie diferentes mismo',
+'VOUCHERSERIE_MAIN_USED' => 'Usado',
+'VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Número de la cupón',
+'VOUCHERSERIE_MAIN_VOUCHERSTATISTICS' => 'Cupones',
+'weight' => 'Peso',
+'WRAPPING_LIST_MENUITEM' => 'Configuración de Tienda',
+'WRAPPING_LIST_MENUSUBITEM' => 'Envoltura de regalos',
+'WRAPPING_LIST_PICTURE' => 'Imagen',
+'WRAPPING_LIST_PRESENTPACKUNG' => 'Envoltura de regalos',
+'WRAPPING_LIST_TITLE' => '[OXID envolver]',
+'WRAPPING_MAIN_PICTURE' => 'Imagen',
+'WRAPPING_MAIN_PICUPLOAD' => 'Subir imagen',
+'WRAPPING_MAIN_PRESENTPACKUNG' => 'Envoltura de regalos',
+'WRAPPING_MAIN_TITLE' => '[OXID envolver]',
+);
