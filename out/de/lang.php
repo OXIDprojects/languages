@@ -29,7 +29,7 @@ $sLangName  = "Deutsch";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACCESSORIES' => 'Zubehoer',
+'ACCESSORIES' => 'Zubehör',
 'ACCOUNT' => 'Konto',
 'ACCOUNT_INFORMATION' => 'Kontoinformationen',
 'ADD' => 'hinzufügen',
