@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: tlt
+ * @translators: tlt (204)
  */
 
 $sLangName  = "Lietuvių";
