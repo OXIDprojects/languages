@@ -3,7 +3,7 @@ Language packs for OXID eShop
 
 This repository is used to collect all language key translations and related files under GPLv3 for OXID eShop:
 
-#1: language keys and translations for the store front, admin panel, help texts and setup
+##1: language keys and translations for the store front, admin panel, help texts and setup
 The translations are done via http://translate.oxidforge.org and will be exported to GitHub from this place. 
 If you can help with translations, please register there instead of sending a pull request via GitHub.
 
