@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: tlt (204)
+ * @translators: abejingas (29), tlt (204)
  */
 
 $sLangName  = "Lietuvių";
@@ -209,11 +209,11 @@ Patiktinkite adresus.',
 'ERROR_MESSAGE_INPUT_EMPTYPASS' => 'Įveskite slaptažodį.',
 'ERROR_MESSAGE_INPUT_INVALIDAMOUNT' => 'Įveskite teisingą prekių kiekį!',
 'ERROR_MESSAGE_INPUT_NOTALLFIELDS' => 'Užpildykite privalomą lauką.',
-'ERROR_MESSAGE_INPUT_NOVALIDEMAIL' => '',
-'ERROR_MESSAGE_INPUT_PASSTOOSHORT' => '',
+'ERROR_MESSAGE_INPUT_NOVALIDEMAIL' => 'Įveskite teisingą el. pašto adresą',
+'ERROR_MESSAGE_INPUT_PASSTOOSHORT' => 'Slaptažodis per trumpas',
 'ERROR_MESSAGE_INPUT_WRONGCAPTCHA' => '',
 'ERROR_MESSAGE_INVITE_COMLETECORRECTLYFIELDS' => '',
-'ERROR_MESSAGE_INVITE_ERRORWHILESENDINGMAIL' => '',
+'ERROR_MESSAGE_INVITE_ERRORWHILESENDINGMAIL' => 'Nepavyko išsiųsti el. laiško',
 'ERROR_MESSAGE_INVITE_INCORRECTEMAILADDRESS' => '',
 'ERROR_MESSAGE_MANDATES_EXCEEDED1' => '',
 'ERROR_MESSAGE_MANDATES_EXCEEDED2' => '',

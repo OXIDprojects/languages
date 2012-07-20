@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: tlt (204)
+ * @translators: abejingas (29), tlt (204)
  */
 
 $sLangName  = "Lietuvių";
@@ -29,26 +29,26 @@ $sLangName  = "Lietuvių";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACCOUNT_PASSWORD_CONFIRMPASSWORD' => '',
-'ACCOUNT_PASSWORD_PASSWORDMINLENGTH' => '',
-'ACCOUNT_RECOMM_LISTTITLE' => '',
-'ACCOUNT_RECOMM_TITLE' => '',
-'ACCOUNT_USER_BILLINGADDRESS' => '',
-'ACCOUNT_USER_COMPLETEMARKEDFIELDS' => '',
-'ACCOUNT_USER_ERRCOMLETEBILLINGADDRESS' => '',
-'ACCOUNT_USER_ERRCOMPLETEMARKEDFIELDS' => '',
-'ACCOUNT_USER_ERREMAILALREADYTAKEN' => '',
-'ACCOUNT_USER_ERRINVALIDEMAIL' => '',
-'ACCOUNT_USER_ERRPASSWORDSDONTMATCH' => '',
-'ACCOUNT_USER_ERRWRONGUSERNAMEPASSW' => '',
-'ACCOUNT_WISHLIST_BUYFORME1' => '',
-'ACCOUNT_WISHLIST_BUYFORME2' => '',
-'ACCOUNT_WISHLIST_CLICKHERETOSENDWISHLIST' => '',
-'ACCOUNT_WISHLIST_ERRWRONGEMAIL' => '',
-'ACCOUNT_WISHLIST_SEARCH' => '',
-'ACCOUNT_WISHLIST_SEND' => '',
-'ACCOUNT_WISHLIST_SENDSUCCESSFULLY1' => '',
-'ACCOUNT_WISHLIST_SENDSUCCESSFULLY2' => '',
+'ACCOUNT_PASSWORD_CONFIRMPASSWORD' => 'Pakartokite slaptažodį',
+'ACCOUNT_PASSWORD_PASSWORDMINLENGTH' => 'Slaptažodis turi būti bent iš 6 simbolių',
+'ACCOUNT_RECOMM_LISTTITLE' => 'Pavadinimas',
+'ACCOUNT_RECOMM_TITLE' => 'Pavadinimas',
+'ACCOUNT_USER_BILLINGADDRESS' => 'Adresas',
+'ACCOUNT_USER_COMPLETEMARKEDFIELDS' => 'Užpildykite pažymėtus laukus',
+'ACCOUNT_USER_ERRCOMLETEBILLINGADDRESS' => 'Nurodykite adresą',
+'ACCOUNT_USER_ERRCOMPLETEMARKEDFIELDS' => 'Užpildykite pažymėtus laukus',
+'ACCOUNT_USER_ERREMAILALREADYTAKEN' => 'Vartotojas su tokiu el. pašto adresu jau užsiregistravęs',
+'ACCOUNT_USER_ERRINVALIDEMAIL' => 'Blogas el. pašto adresas',
+'ACCOUNT_USER_ERRPASSWORDSDONTMATCH' => 'Slaptažodžiai nesutampa',
+'ACCOUNT_USER_ERRWRONGUSERNAMEPASSW' => 'Neteisingas vartotojo vardas arba slaptažodis',
+'ACCOUNT_WISHLIST_BUYFORME1' => 'Laba diena, aš sukūriau dovanų sąrašą el. parduotuvėje',
+'ACCOUNT_WISHLIST_BUYFORME2' => 'Būtų puiku, jei galėtumėt nupirkti ką nors iš šio sąrašo',
+'ACCOUNT_WISHLIST_CLICKHERETOSENDWISHLIST' => 'Spauskite čia jei norit išsiųsti dovanų sąrašą savo draugams',
+'ACCOUNT_WISHLIST_ERRWRONGEMAIL' => 'Nepavyko išsiųsti el. laiško. Pasitikrinkite el. pašto adresą',
+'ACCOUNT_WISHLIST_SEARCH' => 'Ieškoti',
+'ACCOUNT_WISHLIST_SEND' => 'Siųsti',
+'ACCOUNT_WISHLIST_SENDSUCCESSFULLY1' => 'Jūsų dovanų sąrašas sėkmingai išsiųstas šiems žmonėms:',
+'ACCOUNT_WISHLIST_SENDSUCCESSFULLY2' => 'Išsiųsta!',
 'ADD_RECOMM_ADDRECOMMLINK1' => '',
 'ADD_RECOMM_ADDRECOMMLINK2' => '',
 'BASKET_ARTICLENOTONSTOCK' => '',

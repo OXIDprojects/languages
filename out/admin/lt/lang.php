@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: tlt (204)
+ * @translators: abejingas (29), tlt (204)
  */
 
 $sLangName  = "Lietuvių";
@@ -29,11 +29,11 @@ $sLangName  = "Lietuvių";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACTIONS_LIST_MENUITEM' => '',
-'ACTIONS_LIST_MENUSUBITEM' => '',
-'ACTIONS_MAIN_ALLARTICLES' => '',
-'ACTIONS_MAIN_ALLARTICLESWITHATTR' => '',
-'ACTIONS_MAIN_NOTSELECTED' => '',
+'ACTIONS_LIST_MENUITEM' => 'Vartotojo informacija',
+'ACTIONS_LIST_MENUSUBITEM' => 'Akcijos',
+'ACTIONS_MAIN_ALLARTICLES' => 'Visi galimi produktai',
+'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Reklamuojami produktai',
+'ACTIONS_MAIN_NOTSELECTED' => 'Pasirinkite iš sąrašo viršuje, norėdami pakeisti',
 'ADMINGB_LIST_AUTHOR' => '',
 'ADMINGB_LIST_ENTRY' => '',
 'ADMINGB_LIST_MENUITEM' => '',
