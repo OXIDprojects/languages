@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (29), tlt (204)
+ * @translators: abejingas (47), tlt (204)
  */
 
 $sLangName  = "Lietuvių";
@@ -34,22 +34,22 @@ $aLang = array(
 'ACTIONS_MAIN_ALLARTICLES' => 'Visi galimi produktai',
 'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Reklamuojami produktai',
 'ACTIONS_MAIN_NOTSELECTED' => 'Pasirinkite iš sąrašo viršuje, norėdami pakeisti',
-'ADMINGB_LIST_AUTHOR' => '',
-'ADMINGB_LIST_ENTRY' => '',
-'ADMINGB_LIST_MENUITEM' => '',
-'ADMINGB_LIST_MENUSUBITEM' => '',
-'ADMINGB_TITLE' => '',
-'ADMINLINKS_LIST_MENUITEM' => '',
-'ADMINLINKS_LIST_MENUSUBITEM' => '',
-'ADMINLINKS_LIST_TITLE' => '',
-'ALTERNATIVE_IMAGE_SERVER_NOTE' => '',
-'amount' => '',
-'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => '',
-'ARTICLE_ATTRIBUTE_ASSIGNSELECTLIST' => '',
-'ARTICLE_ATTRIBUTE_ITEMSATTRIBUTE' => '',
-'ARTICLE_ATTRIBUTE_ITEMSSELLIST' => '',
-'ARTICLE_ATTRIBUTE_NOATTRIBUTE' => '',
-'ARTICLE_ATTRIBUTE_NOATTRIBUTES' => '',
+'ADMINGB_LIST_AUTHOR' => 'Autorius',
+'ADMINGB_LIST_ENTRY' => 'Įrašas',
+'ADMINGB_LIST_MENUITEM' => 'Klientų informacija',
+'ADMINGB_LIST_MENUSUBITEM' => 'Svečių knyga',
+'ADMINGB_TITLE' => '[OXID svečių knyga]',
+'ADMINLINKS_LIST_MENUITEM' => 'Kliento informacija',
+'ADMINLINKS_LIST_MENUSUBITEM' => 'Nuorodos',
+'ADMINLINKS_LIST_TITLE' => '[OXID nuorodų administravimas]',
+'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b>Dėmesio:</b> Sukonfigūruotas atskiras paveikslėlių serveris. Failai į nutolusį serverį nebus keliami. Jūs turite patys pasirūpinti sinchronizacija.',
+'amount' => 'Kiekis',
+'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => 'Priskirti atributus',
+'ARTICLE_ATTRIBUTE_ASSIGNSELECTLIST' => 'Priskirti pasirinkimų sąrašus',
+'ARTICLE_ATTRIBUTE_ITEMSATTRIBUTE' => 'Prekės atributai',
+'ARTICLE_ATTRIBUTE_ITEMSSELLIST' => 'Produkto pasirinkimų sąrašai',
+'ARTICLE_ATTRIBUTE_NOATTRIBUTE' => 'Egzistuojantys atributai',
+'ARTICLE_ATTRIBUTE_NOATTRIBUTES' => 'Pasirinkite atributą!',
 'ARTICLE_ATTRIBUTE_NOSELLIST' => '',
 'ARTICLE_ATTRIBUTE_OPENINNEWWINDOW' => '',
 'ARTICLE_ATTRIBUTE_SAVE' => '',

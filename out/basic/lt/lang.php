@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (29), tlt (204)
+ * @translators: abejingas (47), tlt (204)
  */
 
 $sLangName  = "Lietuvių";
@@ -50,7 +50,7 @@ $aLang = array(
 'ACCOUNT_WISHLIST_SENDSUCCESSFULLY1' => 'Jūsų dovanų sąrašas sėkmingai išsiųstas šiems žmonėms:',
 'ACCOUNT_WISHLIST_SENDSUCCESSFULLY2' => 'Išsiųsta!',
 'ADD_RECOMM_ADDRECOMMLINK1' => '',
-'ADD_RECOMM_ADDRECOMMLINK2' => '',
+'ADD_RECOMM_ADDRECOMMLINK2' => 'čia',
 'BASKET_ARTICLENOTONSTOCK' => '',
 'BASKET_ARTNOMBER' => '',
 'BASKET_COUPONNOTACCEPTED1' => '',
