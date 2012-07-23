@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: 
+ * @translators: dsb (1)
  */
 
 $sLangName  = "Slovenščina";
@@ -1516,7 +1516,7 @@ $aLang = array(
 'SHOP_OPTIONS_GROUP_STOCK' => '',
 'SHOP_OPTIONS_GROUP_VARIANTS' => '',
 'SHOP_OPTIONS_GROUP_VAT' => '',
-'SHOP_PERF_CALCVATONLYFORBASKETORDER' => '',
+'SHOP_PERF_CALCVATONLYFORBASKETORDER' => 'Calculeaza TVA specific pentru tari numai in Cosul de Cumparaturi si la Iesire',
 'SHOP_PERF_CHECKIFTPLCOMPILE' => '',
 'SHOP_PERF_CLEARCACHEONLOGOUT' => '',
 'SHOP_PERF_COMPARE' => '',
