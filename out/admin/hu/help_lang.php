@@ -19,10 +19,10 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (188), tlt (204)
+ * @translators: koikaam (203)
  */
 
-$sLangName  = "Lietuvių";
+$sLangName  = "Magyar";
 
 // -------------------------------
 // RESOURCE IDENTITFIER = STRING

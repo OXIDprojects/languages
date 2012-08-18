@@ -19,18 +19,18 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (188), tlt (204)
+ * @translators: koikaam (203)
  */
 
-$sLangName  = "Lietuvių";
+$sLangName  = "Magyar";
 
 // -------------------------------
 // RESOURCE IDENTITFIER = STRING
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ADD_RECOMM_ADDRECOMMLINK1' => 'Dabar nėra Listmania sąrašų. Norėdami sukurti, spauskite',
-'ADD_RECOMM_ADDRECOMMLINK2' => 'čia',
+'ADD_RECOMM_ADDRECOMMLINK1' => '',
+'ADD_RECOMM_ADDRECOMMLINK2' => '',
 'BETA_NOTE' => '',
 'BETA_NOTE_CLOSE' => '',
 'byBrand' => '',
