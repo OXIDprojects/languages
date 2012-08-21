@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: 
+ * @translators: gvlimpt (97)
  */
 
 $sLangName  = "Nederlands";
@@ -29,8 +29,8 @@ $sLangName  = "Nederlands";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ADD_RECOMM_ADDRECOMMLINK1' => '',
-'ADD_RECOMM_ADDRECOMMLINK2' => '',
+'ADD_RECOMM_ADDRECOMMLINK1' => 'U heeft op dit moment geen favorieten. Om deze aan te maken, klik',
+'ADD_RECOMM_ADDRECOMMLINK2' => 'hier',
 'BETA_NOTE' => '',
 'BETA_NOTE_CLOSE' => '',
 'byBrand' => '',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: nuelgoz (156)
+ * @translators: jsmaster (6), nuelgoz (156)
  */
 
 $sLangName  = "Español";
@@ -71,7 +71,7 @@ $aLang = array(
 'ARTICLE_EXTEND_BPRICE' => 'Precio de Compra',
 'ARTICLE_EXTEND_DEFAULT' => 'Establecer como categoría principal',
 'ARTICLE_EXTEND_DESCRIPTION' => 'Descripción',
-'ARTICLE_EXTEND_DIMENSIONS_UNIT' => '',
+'ARTICLE_EXTEND_DIMENSIONS_UNIT' => 'Articulo extiende su unidad de dimensión',
 'ARTICLE_EXTEND_ENTERURL' => 'Introduzca <br> existentes URL medios de comunicación (externa película PDF mp3 o YouTube!)',
 'ARTICLE_EXTEND_ERRORSAVINGTPRICE' => 'Atención: el precio PVP debe ser mayor que el precio normal.',
 'ARTICLE_EXTEND_EXTURL' => 'URL externa',

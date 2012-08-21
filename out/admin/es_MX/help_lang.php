@@ -19,10 +19,10 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: gvlimpt (97)
+ * @translators: jsmaster (11)
  */
 
-$sLangName  = "Nederlands";
+$sLangName  = "Español de México";
 
 // -------------------------------
 // RESOURCE IDENTITFIER = STRING

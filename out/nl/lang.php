@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: 
+ * @translators: gvlimpt (97)
  */
 
 $sLangName  = "Nederlands";
@@ -29,31 +29,31 @@ $sLangName  = "Nederlands";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACCESSORIES' => '',
-'ACCOUNT' => '',
-'ACCOUNT_INFORMATION' => '',
-'ADD' => '',
-'ADDITIONAL_INFO' => '',
-'ADDRESS' => '',
-'ADDRESSES' => '',
-'ADDRESSES_2' => '',
-'ADDRESS_2' => '',
-'ADD_TAGS' => '',
-'ADD_THIS_PAGE_TO' => '',
-'ADD_THIS_PAGE_TO_WEBNEWS' => '',
-'ADD_THIS_PAGE_TO_YIEEHA' => '',
-'ADD_TO_CART' => '',
-'ADD_TO_CART_2' => '',
-'ADD_TO_GIFT_REGISTRY' => '',
-'ADD_TO_LIST' => '',
-'ADD_TO_LISTMANIA_LIST' => '',
-'ADD_TO_WISH_LIST' => '',
-'ADD_WRAPPING' => '',
+'ACCESSORIES' => 'Accesoires',
+'ACCOUNT' => 'Account',
+'ACCOUNT_INFORMATION' => 'Accountgegevens',
+'ADD' => 'toevoegen',
+'ADDITIONAL_INFO' => 'Extra info:',
+'ADDRESS' => 'Adres',
+'ADDRESSES' => 'Adressen',
+'ADDRESSES_2' => 'Adressen:',
+'ADDRESS_2' => 'Adres:',
+'ADD_TAGS' => 'Tags toevoegen',
+'ADD_THIS_PAGE_TO' => 'Deze pagina toevoegen aan',
+'ADD_THIS_PAGE_TO_WEBNEWS' => 'Deze pagina toevoegen aan Webnews',
+'ADD_THIS_PAGE_TO_YIEEHA' => 'Deze pagina toevoegen aan Yieeha',
+'ADD_TO_CART' => 'in winkelwagentje',
+'ADD_TO_CART_2' => 'in winkelwagentje',
+'ADD_TO_GIFT_REGISTRY' => 'Zet op mijn verlanglijstje',
+'ADD_TO_LIST' => 'Toevoegen aan mijn favorieten',
+'ADD_TO_LISTMANIA_LIST' => 'Toevoegen aan mijn favorieten',
+'ADD_TO_WISH_LIST' => 'Zet op mijn verlanglijstje',
+'ADD_WRAPPING' => 'Als cadeau verpakken',
 'ADD_YOUR_COMMENTS' => '',
-'ALL' => '',
-'ALL_LISTMANIA' => '',
+'ALL' => 'Alle',
+'ALL_LISTMANIA' => 'Alle favorieten',
 'ALREADY_ADDED_TAG' => '',
-'ALREADY_CUSTOMER' => '',
+'ALREADY_CUSTOMER' => 'Ik ben al klant',
 'APPLAY' => '',
 'ARTNUM' => '',
 'ART_NUMBER' => '',

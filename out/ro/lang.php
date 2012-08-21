@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: 
+ * @translators: urecheatu007 (3)
  */
 
 $sLangName  = "Română";
@@ -29,8 +29,8 @@ $sLangName  = "Română";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACCESSORIES' => '',
-'ACCOUNT' => '',
+'ACCESSORIES' => 'Accesorii',
+'ACCOUNT' => 'Cont',
 'ACCOUNT_INFORMATION' => '',
 'ADD' => '',
 'ADDITIONAL_INFO' => '',

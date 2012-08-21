@@ -19,33 +19,32 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: gvlimpt (97)
+ * @translators: jsmaster (11)
  */
 
-$sLangName  = "Nederlands";
+$sLangName  = "Español de México";
 
 // -------------------------------
 // RESOURCE IDENTITFIER = STRING
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'HELP_SHOP_THEME_blDisableNavBars' => '',
-'HELP_SHOP_THEME_blLoadFullTree' => '',
+'HELP_SHOP_THEME_blShowListDisplayType' => '',
 'HELP_SHOP_THEME_blTopNaviLayout' => '',
-'HELP_SHOP_THEME_bl_perfLoadCatTree' => '',
-'HELP_SHOP_THEME_bl_perfLoadTreeForSearch' => '',
 'HELP_SHOP_THEME_iNewBasketItemMessage' => '',
+'HELP_SHOP_THEME_sCatIconsize' => '',
+'HELP_SHOP_THEME_sCatPromotionsize' => '',
+'HELP_SHOP_THEME_sCatThumbnailsize' => '',
 'HELP_SHOP_THEME_sIconsize' => '',
+'HELP_SHOP_THEME_sManufacturerIconsize' => '',
 'HELP_SHOP_THEME_sThumbnailsize' => '',
 'SHOP_THEME_aDetailImageSizes' => '',
 'SHOP_THEME_aNrofCatArticles' => '',
-'SHOP_THEME_blDisableNavBars' => '',
-'SHOP_THEME_blLoadFullTree' => '',
+'SHOP_THEME_aNrofCatArticlesInGrid' => '',
 'SHOP_THEME_blShowBirthdayFields' => '',
 'SHOP_THEME_blShowFinalStep' => '',
+'SHOP_THEME_blShowListDisplayType' => '',
 'SHOP_THEME_blTopNaviLayout' => '',
-'SHOP_THEME_bl_perfLoadCatTree' => '',
-'SHOP_THEME_bl_perfLoadTreeForSearch' => '',
 'SHOP_THEME_bl_perfShowLeftBasket' => '',
 'SHOP_THEME_bl_perfShowRightBasket' => '',
 'SHOP_THEME_bl_perfShowTopBasket' => '',
@@ -58,15 +57,25 @@ $aLang = array(
 'SHOP_THEME_GROUP_display' => '',
 'SHOP_THEME_GROUP_features' => '',
 'SHOP_THEME_GROUP_images' => '',
-'SHOP_THEME_GROUP_navigation' => '',
 'SHOP_THEME_iNewBasketItemMessage' => '',
 'SHOP_THEME_iNewBasketItemMessage_0' => '',
 'SHOP_THEME_iNewBasketItemMessage_1' => '',
 'SHOP_THEME_iNewBasketItemMessage_2' => '',
 'SHOP_THEME_iNewBasketItemMessage_3' => '',
 'SHOP_THEME_iTopNaviCatCount' => '',
+'SHOP_THEME_sCatIconsize' => '',
+'SHOP_THEME_sCatPromotionsize' => '',
 'SHOP_THEME_sCatThumbnailsize' => '',
+'SHOP_THEME_sDefaultListDisplayType' => '',
+'SHOP_THEME_sDefaultListDisplayType_grid' => '',
+'SHOP_THEME_sDefaultListDisplayType_infogrid' => '',
+'SHOP_THEME_sDefaultListDisplayType_line' => '',
 'SHOP_THEME_sIconsize' => '',
+'SHOP_THEME_sManufacturerIconsize' => '',
+'SHOP_THEME_sStartPageListDisplayType' => '',
+'SHOP_THEME_sStartPageListDisplayType_grid' => '',
+'SHOP_THEME_sStartPageListDisplayType_infogrid' => '',
+'SHOP_THEME_sStartPageListDisplayType_line' => '',
 'SHOP_THEME_sThumbnailsize' => '',
 'SHOP_THEME_sZoomImageSize' => '',
 );

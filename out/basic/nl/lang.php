@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: 
+ * @translators: gvlimpt (97)
  */
 
 $sLangName  = "Nederlands";
@@ -33,7 +33,7 @@ $aLang = array(
 'ACCOUNT_PASSWORD_PASSWORDMINLENGTH' => 'Uw wachtwoord moet minstens 6 tekens lang zijn.',
 'ACCOUNT_RECOMM_LISTTITLE' => 'Titel',
 'ACCOUNT_RECOMM_TITLE' => 'Mijn favorieten',
-'ACCOUNT_USER_BILLINGADDRESS' => 'factuuradres',
+'ACCOUNT_USER_BILLINGADDRESS' => 'Factuuradres',
 'ACCOUNT_USER_COMPLETEMARKEDFIELDS' => '(Velden met een <span class="fontred">*</span> zijn verplicht.)',
 'ACCOUNT_USER_ERRCOMLETEBILLINGADDRESS' => 'Fout: factuuradres niet compleet!',
 'ACCOUNT_USER_ERRCOMPLETEMARKEDFIELDS' => 'Fout: velden met "*" zijn verplicht!',
@@ -42,12 +42,12 @@ $aLang = array(
 'ACCOUNT_USER_ERRPASSWORDSDONTMATCH' => 'Fout: wachtwoorden zijn niet identiek!',
 'ACCOUNT_USER_ERRWRONGUSERNAMEPASSW' => 'Fout: gebruikersnaam/wachtwoord niet correct!',
 'ACCOUNT_WISHLIST_BUYFORME1' => 'Hallo, ik heb hier bij',
-'ACCOUNT_WISHLIST_BUYFORME2' => 'een verlanglijst ingericht. Ik zou het fijn vinden als je iets hiervan voor mij wilt kopen.',
-'ACCOUNT_WISHLIST_CLICKHERETOSENDWISHLIST' => 'Klik hier om uw verlanglijst te verzenden:',
-'ACCOUNT_WISHLIST_ERRWRONGEMAIL' => 'Fout tijdens verzenden - controleer e-mailadres.',
+'ACCOUNT_WISHLIST_BUYFORME2' => 'een verlanglijstje ingericht. Ik zou het fijn vinden als je iets hiervan voor mij wilt kopen.',
+'ACCOUNT_WISHLIST_CLICKHERETOSENDWISHLIST' => 'Klik hier om uw verlanglijstje te verzenden:',
+'ACCOUNT_WISHLIST_ERRWRONGEMAIL' => 'Fout tijdens verzenden - controleer uw e-mailadres.',
 'ACCOUNT_WISHLIST_SEARCH' => 'zoek',
 'ACCOUNT_WISHLIST_SEND' => 'verzenden',
-'ACCOUNT_WISHLIST_SENDSUCCESSFULLY1' => 'Uw verlanglijst is succesvol aan',
+'ACCOUNT_WISHLIST_SENDSUCCESSFULLY1' => 'Uw verlanglijstje is succesvol aan',
 'ACCOUNT_WISHLIST_SENDSUCCESSFULLY2' => 'verzonden!',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'Geen favorietenlijst gevonden. Om een nieuwe favorietenlijst aan te maken klik',
 'ADD_RECOMM_ADDRECOMMLINK2' => 'hier',
