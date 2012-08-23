@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: marco (98), pianoservis (1), vanilla.thunder (35)
+ * @translators: marco (824), pianoservis (1), unicum (29), vanilla.thunder (35)
  */
 
 $sLangName  = "Русский";
