@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: vikapera (376)
+ * @translators: admin (3431), vikapera (376)
  */
 
 $sLangName  = "Français";

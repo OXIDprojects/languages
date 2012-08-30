@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: karlis.kavacis (143)
+ * @translators: admin (377), karlis.kavacis (143)
  */
 
 $sLangName  = "Latviešu";

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: e.mersinlioglu (37)
+ * @translators: admin (1849), e.mersinlioglu (37)
  */
 
 $sLangName  = "Türkçe";
