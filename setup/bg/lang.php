@@ -19,10 +19,10 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), marco (824), pianoservis (1), unicum (35), vanilla.thunder (35)
+ * @translators: crashover (13)
  */
 
-$sLangName  = "Русский";
+$sLangName  = "Български";
 
 // -------------------------------
 // RESOURCE IDENTITFIER = STRING
@@ -32,7 +32,7 @@ $aLang = array(
 'ATTENTION' => '',
 'BUTTON_BEGIN_INSTALL' => '',
 'BUTTON_DB_INSTALL' => '',
-'BUTTON_LICENCE' => 'Дальше',
+'BUTTON_LICENCE' => '',
 'BUTTON_PROCEED_INSTALL' => '',
 'BUTTON_RADIO_INSTALL_DB_DEMO' => '',
 'BUTTON_RADIO_LICENCE_ACCEPT' => '',
@@ -64,7 +64,7 @@ $aLang = array(
 'ERROR_VIEWS_CANT_CREATE' => '',
 'ERROR_VIEWS_CANT_DROP' => '',
 'ERROR_VIEWS_CANT_SELECT' => '',
-'FOOTER_OXID_ESALES' => '© OXID eSales AG 2003 - Y',
+'FOOTER_OXID_ESALES' => '',
 'HEADER_META_MAIN_TITLE' => '',
 'HEADER_TEXT_SETUP_NOT_RUNS_AUTOMATICLY' => '',
 'HERE' => '',

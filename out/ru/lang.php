@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), marco (824), pianoservis (1), unicum (29), vanilla.thunder (35)
+ * @translators: admin (1341), marco (824), pianoservis (1), unicum (35), vanilla.thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -162,7 +162,7 @@ $aLang = array(
 'DISPLAY_BASKET' => 'Показать корзину',
 'DOWNLOADS_EMPTY' => 'Вы пока ничего не выбрали.',
 'DOWNLOADS_PAYMENT_PENDING' => 'Ожидается оплата.',
-'DOWNLOAD_LINK_EXPIRED_OR_MAX_COUNT_RECEIVED' => '',
+'DOWNLOAD_LINK_EXPIRED_OR_MAX_COUNT_RECEIVED' => 'Ссылка больше не действительна или достигнуто максимальное количество скачиваний',
 'DO_NOT_WANT_CREATE_ACCOUNT' => '(Я не хочу создавать аккаунт покупателя)',
 'EDIT' => 'Редактировать',
 'EDIT_TAGS' => 'Редактировать тэги',
@@ -260,7 +260,7 @@ $aLang = array(
 'FACEBOOK_ENABLELINK' => 'Показать в FACEBOOK',
 'FACEBOOK_ENABLETEXT' => 'Данные передаются в Facebook.',
 'FACEBOOK_ENABLE_INFOTEXT' => 'Вы можете перенести информацию о личных файлах на хранение в сеть Facebook.<br><br>При использовании плагинов Facebook будет установлена связь с аккаунтом Facebook, чтобы Вы могли делиться информацией с другими пользователями. Если Вы пользуетесь плагинами при посещении нашего магазина и одновременно авторизованы в Facebook, личная информация автоматически будет передаваться в Facebook. Объём передаваемой информации, её дальнейшую обработку и использование Вы можете изменить <a href=FACEBOOK_ENABLE_INFOTEXTHEADERУказания по защите данных при использовании плагинов Facebook',
-'FACEBOOK_ENABLE_INFOTEXTHEADER' => '',
+'FACEBOOK_ENABLE_INFOTEXTHEADER' => 'Указания по защите данных при использовании плагинов Facebook',
 'FACEBOOK_FACEPILE' => 'Facebook Facepile',
 'FACEBOOK_INVITE' => 'Пригласить друзей из Facebook',
 'FACEBOOK_INVITETEXT' => 'Нажмите кнопку внизу чтобы порекомендовать друзьям.',
@@ -534,8 +534,8 @@ $aLang = array(
 'OXHEIGHT' => 'Высота',
 'OXICON' => 'oxicon',
 'OXID' => 'идентификационный номер',
-'OXID_ESALES_URL' => '',
-'OXID_ESALES_URL_TITLE' => '',
+'OXID_ESALES_URL' => 'http://www.oxid-esales.com/',
+'OXID_ESALES_URL_TITLE' => 'Программное обеспечение от OXID eSales',
 'OXINSERT' => 'Вложено/размещено',
 'OXISCONFIGURABLE' => 'Моделируется по желанию покупателя',
 'OXISSEARCH' => 'Можно искать',
@@ -636,12 +636,12 @@ $aLang = array(
 'PLUS_SHIPPING3' => '* включая стоимость пересылки',
 'POSTAL_CITY' => 'Почтовый адрес',
 'POSTAL_CODE' => 'Почтовый индекс',
-'POSTAL_CODE_AND_CITY' => '',
+'POSTAL_CODE_AND_CITY' => 'Индекс, Населенный пункт',
 'POST_CARD_FROM' => 'Открытка от',
 'PREVIOUS' => 'Предыдущий шаг',
 'PREVIOUS_PRODUCT' => 'Предыдущий товар',
 'PREVIOUS_STEP' => 'Назад',
-'PREVIUOS_PRODUCT' => '',
+'PREVIUOS_PRODUCT' => 'Предыдущий товар',
 'PRICE' => 'Цена',
 'PRICE_ALERT' => 'Уведомить о скидке',
 'PRICE_ALERT_AT' => 'Уведомить о скидке в',
