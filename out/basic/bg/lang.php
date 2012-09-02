@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: crashover (13)
+ * @translators: crashover (26)
  */
 
 $sLangName  = "Български";
@@ -116,7 +116,7 @@ $aLang = array(
 'GUESTBOOKENTRY_TITLE' => '',
 'GUESTBOOK_TITLE' => '',
 'INC_ACCOUNT_HEADER_ADDRESS' => '',
-'INC_ACCOUNT_HEADER_LOGOUT' => '',
+'INC_ACCOUNT_HEADER_LOGOUT' => 'ИЗХОД',
 'INC_ACCOUNT_HEADER_LOGOUTFROMSHOP' => '',
 'INC_ACCOUNT_HEADER_PASSWORD' => '',
 'INC_ACCOUNT_HEADER_TOBASKET' => '',

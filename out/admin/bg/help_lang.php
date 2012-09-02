@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: crashover (13)
+ * @translators: crashover (26)
  */
 
 $sLangName  = "Български";

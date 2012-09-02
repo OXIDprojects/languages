@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: crashover (13)
+ * @translators: crashover (26)
  */
 
 $sLangName  = "Български";
@@ -38,21 +38,21 @@ $aLang = array(
 'ADDRESSES' => '',
 'ADDRESSES_2' => '',
 'ADDRESS_2' => '',
-'ADD_TAGS' => '',
+'ADD_TAGS' => 'Добавяне на етикети:',
 'ADD_THIS_PAGE_TO' => '',
-'ADD_THIS_PAGE_TO_WEBNEWS' => '',
+'ADD_THIS_PAGE_TO_WEBNEWS' => 'Добави страницата в Webnews',
 'ADD_THIS_PAGE_TO_YIEEHA' => '',
-'ADD_TO_CART' => '',
+'ADD_TO_CART' => 'Добави в Картата',
 'ADD_TO_CART_2' => '',
 'ADD_TO_GIFT_REGISTRY' => '',
 'ADD_TO_LIST' => '',
 'ADD_TO_LISTMANIA_LIST' => '',
 'ADD_TO_WISH_LIST' => '',
 'ADD_WRAPPING' => '',
-'ADD_YOUR_COMMENTS' => '',
+'ADD_YOUR_COMMENTS' => 'Добавете вашите коментари',
 'ALL' => '',
 'ALL_LISTMANIA' => '',
-'ALREADY_ADDED_TAG' => '',
+'ALREADY_ADDED_TAG' => 'Вече сте маркирали този текст',
 'ALREADY_CUSTOMER' => '',
 'APPLAY' => '',
 'ARTNUM' => '',

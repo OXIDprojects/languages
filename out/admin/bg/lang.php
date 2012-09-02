@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: crashover (13)
+ * @translators: crashover (26)
  */
 
 $sLangName  = "Български";
@@ -35,15 +35,15 @@ $aLang = array(
 'ACTIONS_MAIN_ALLARTICLESWITHATTR' => '',
 'ACTIONS_MAIN_NOTSELECTED' => '',
 'ADMINGB_LIST_AUTHOR' => '',
-'ADMINGB_LIST_ENTRY' => '',
+'ADMINGB_LIST_ENTRY' => 'Влизане',
 'ADMINGB_LIST_MENUITEM' => '',
-'ADMINGB_LIST_MENUSUBITEM' => '',
+'ADMINGB_LIST_MENUSUBITEM' => 'Книга за гости',
 'ADMINGB_TITLE' => '',
-'ADMINLINKS_LIST_MENUITEM' => '',
+'ADMINLINKS_LIST_MENUITEM' => 'Информация за клиента',
 'ADMINLINKS_LIST_MENUSUBITEM' => '',
-'ADMINLINKS_LIST_TITLE' => '',
+'ADMINLINKS_LIST_TITLE' => '[OXID Връзка към администрацията]',
 'ALTERNATIVE_IMAGE_SERVER_NOTE' => '',
-'amount' => '',
+'amount' => 'Размер',
 'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => '',
 'ARTICLE_ATTRIBUTE_ASSIGNSELECTLIST' => '',
 'ARTICLE_ATTRIBUTE_ITEMSATTRIBUTE' => '',
@@ -52,7 +52,7 @@ $aLang = array(
 'ARTICLE_ATTRIBUTE_NOATTRIBUTES' => '',
 'ARTICLE_ATTRIBUTE_NOSELLIST' => '',
 'ARTICLE_ATTRIBUTE_OPENINNEWWINDOW' => '',
-'ARTICLE_ATTRIBUTE_SAVE' => '',
+'ARTICLE_ATTRIBUTE_SAVE' => 'Запази',
 'ARTICLE_ATTRIBUTE_SELECTONEATTR' => '',
 'ARTICLE_ATTRIBUTE_TOOMANYATTRIBUTES' => '',
 'ARTICLE_BUNDLE_ALLITEMS' => '',
