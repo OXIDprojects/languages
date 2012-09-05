@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: crashover (191)
+ * @translators: crashover (311)
  */
 
 $sLangName  = "Български";
@@ -32,33 +32,33 @@ $aLang = array(
 'ACCOUNT_PASSWORD_CONFIRMPASSWORD' => 'Потвърдете паролата',
 'ACCOUNT_PASSWORD_PASSWORDMINLENGTH' => 'Минимална дължина на паролата е 6 символа.',
 'ACCOUNT_RECOMM_LISTTITLE' => 'Заглавие',
-'ACCOUNT_RECOMM_TITLE' => '',
+'ACCOUNT_RECOMM_TITLE' => 'Моята Listmania страници',
 'ACCOUNT_USER_BILLINGADDRESS' => 'Адрес за фактуриране',
-'ACCOUNT_USER_COMPLETEMARKEDFIELDS' => '',
-'ACCOUNT_USER_ERRCOMLETEBILLINGADDRESS' => '',
-'ACCOUNT_USER_ERRCOMPLETEMARKEDFIELDS' => '',
+'ACCOUNT_USER_COMPLETEMARKEDFIELDS' => '(Моля попълнете всички полета, отбелязани с <span class="req">*</span>)',
+'ACCOUNT_USER_ERRCOMLETEBILLINGADDRESS' => 'Error: Please complete the Billing Address.',
+'ACCOUNT_USER_ERRCOMPLETEMARKEDFIELDS' => 'Грешка: Моля, попълнете всички полета, отбелязани с <span class="req">*</span>.',
 'ACCOUNT_USER_ERREMAILALREADYTAKEN' => 'Грешка: Този имейл адрес е вече зает!',
 'ACCOUNT_USER_ERRINVALIDEMAIL' => 'Грешка: Невалиден имейл адрес!',
 'ACCOUNT_USER_ERRPASSWORDSDONTMATCH' => 'Грешка: Паролите не съвпадат!',
 'ACCOUNT_USER_ERRWRONGUSERNAMEPASSW' => 'Грешка: Грешно потребителско име / парола.',
-'ACCOUNT_WISHLIST_BUYFORME1' => '',
-'ACCOUNT_WISHLIST_BUYFORME2' => '',
+'ACCOUNT_WISHLIST_BUYFORME1' => 'Здравейте, аз създадох подарък Registry на',
+'ACCOUNT_WISHLIST_BUYFORME2' => '. Great if you could buy something for me.',
 'ACCOUNT_WISHLIST_CLICKHERETOSENDWISHLIST' => 'Кликнете тук, за да изпратите  подарък на вашите приятели:',
-'ACCOUNT_WISHLIST_ERRWRONGEMAIL' => '',
+'ACCOUNT_WISHLIST_ERRWRONGEMAIL' => 'Грешка при изпращане - моля, проверете вашия имейл адрес',
 'ACCOUNT_WISHLIST_SEARCH' => 'Търси',
 'ACCOUNT_WISHLIST_SEND' => 'Изпрати сега',
 'ACCOUNT_WISHLIST_SENDSUCCESSFULLY1' => 'Вашият подарък е изпратено успешно на:',
 'ACCOUNT_WISHLIST_SENDSUCCESSFULLY2' => 'Изпратено!',
-'ADD_RECOMM_ADDRECOMMLINK1' => '',
+'ADD_RECOMM_ADDRECOMMLINK1' => 'Няма Listmania списъци. За да създадете нов, кликнете',
 'ADD_RECOMM_ADDRECOMMLINK2' => 'тук',
 'BASKET_ARTICLENOTONSTOCK' => '',
 'BASKET_ARTNOMBER' => '',
 'BASKET_COUPONNOTACCEPTED1' => '',
-'BASKET_COUPONNOTACCEPTED2' => '',
+'BASKET_COUPONNOTACCEPTED2' => 'е била отказана.',
 'BASKET_PAYMENTTAX1' => '',
 'BASKET_PLUSTAX1' => 'плюс данък',
-'BASKET_POPUP_ADDEDARTICLETOBASKET' => '',
-'BASKET_POPUP_FULL_ADDEDARTICLETOBASKET' => '',
+'BASKET_POPUP_ADDEDARTICLETOBASKET' => 'Вие добавихте продукт в кошницата.',
+'BASKET_POPUP_FULL_ADDEDARTICLETOBASKET' => 'Вие добавихте продукт в кошницата.',
 'BASKET_SHIPPINGNET' => '',
 'BASKET_TAX1' => '',
 'BASKET_TSPROTECTIONCHARGETAX1' => '',
