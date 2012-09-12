@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3431), vikapera (376)
+ * @translators: admin (3431), Phenix (49), vikapera (376)
  */
 
 $sLangName  = "Français";
@@ -238,7 +238,7 @@ $aLang = array(
 'ATTRIBUTE_MAIN_SORTING' => 'Tri',
 'AUCTMASTER_DO_EXPORTEND' => 'Export terminé.',
 'AUCTMASTER_DO_EXPORTFILE1' => 'Génération du fichier d\'export impossible',
-'AUCTMASTER_DO_EXPORTFILE2' => '',
+'AUCTMASTER_DO_EXPORTFILE2' => 'n\'écrivez pas!',
 'AUCTMASTER_DO_EXPORTING1' => 'Export en cours. Export',
 'AUCTMASTER_DO_EXPORTING2' => 'sur un total de',
 'AUCTMASTER_DO_EXPORTNOTSTARTED' => 'L\'export n\'a pas encore démarré.',
@@ -344,7 +344,7 @@ $aLang = array(
 'DELIVERY_MAIN_ORDER' => 'Ordre de traitement des règles',
 'DELIVERY_MAIN_PARAM' => 'Moyens de paiement',
 'DELIVERY_MAIN_PRICE' => 'Frais/ Remise',
-'DELIVERY_RDFA_ADVICE_END' => '',
+'DELIVERY_RDFA_ADVICE_END' => 'selon',
 'DELIVERY_RDFA_ADVICE_START' => '<b>Astuce:</b> Ne choisissez que parmi les modes de livraison pré-définis dans GoodRelations, qui correspondent aux modes de livraison de votre boutique',
 'DELIVERY_RDFA_ASIGN_DELIVERY' => 'Affecter un mode de livraison',
 'DELIVERY_RDFA_DELIVERYMODEDIRECTDOWNLOAD' => 'Télécharger',
@@ -380,7 +380,7 @@ $aLang = array(
 'DISCOUNT_USERS_SETGROUPS' => 'Groupes de clients définis',
 'DISCOUNT_USERS_SETUSER' => 'Clients sélectionnés',
 'DYNBASE_ADDCATTOCAMPAIGN' => 'Ajouter la catégorie aux paramètres de la campagne',
-'DYNBASE_DO_DOWNLOAD' => '',
+'DYNBASE_DO_DOWNLOAD' => 'télécharger.',
 'DYNBASE_DO_HERE' => 'ici',
 'DYNBASE_DO_LINK' => 'Votre fournisseur/partenaire peut également récupérer lui-même ce fichier - via le lien suivant:',
 'DYNBASE_DO_SUCCESS' => '<br>Bravo! votre export peut maintenant être téléchargé',
@@ -395,7 +395,7 @@ $aLang = array(
 'DYN_AFFILIWELT_PARTNERID' => 'Affiliwelt PartnerID (alt)',
 'DYN_ECONDA_ACTIVE' => 'Activer Econda ?',
 'DYN_ECONDA_ATTENTION' => 'Veuillez noter :',
-'DYN_ECONDA_COPY' => '',
+'DYN_ECONDA_COPY' => 'copier',
 'DYN_ECONDA_FILETO' => 'Vous devez copier le fichier "emos2.js" reçu de la part de eConda dans le répertoire',
 'dyn_efire' => 'OXID eFire',
 'dyn_interface' => 'Interface',

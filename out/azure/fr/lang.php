@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3431), vikapera (376)
+ * @translators: admin (3431), Phenix (49), vikapera (376)
  */
 
 $sLangName  = "Français";
@@ -36,28 +36,28 @@ $aLang = array(
 'byBrand' => 'Par marque',
 'byManufacturer' => 'Par marque',
 'byVendor' => 'Par distributeur',
-'DETAILS_ARTNUMBER' => '',
+'DETAILS_ARTNUMBER' => 'Produit n°:',
 'DETAILS_CHOOSEVARIANT' => 'Veuillez choisir une variante',
 'DETAILS_LOCATOR_PRODUCT' => 'Produit',
-'DETAILS_PLUSSHIPPING2' => '',
+'DETAILS_PLUSSHIPPING2' => 'coût de livraison.',
 'DETAILS_PRICEALARM' => '<b>[!]</b> Alerte Prix',
 'DETAILS_VPE_MESSAGE_1' => 'Ce produit ne peut être commandé que par lot de',
-'DETAILS_VPE_MESSAGE_2' => '',
+'DETAILS_VPE_MESSAGE_2' => 'acheté.',
 'EMAIL_INVITE_HTML_INVITETOSHOP' => 'Une invitation de',
 'EMAIL_INVITE_HTML_INVITETOSHOP2' => 'à visiter',
-'EMAIL_INVITE_HTML_INVITETOSHOP3' => '',
-'EMAIL_ORDER_CUST_HTML_ARTNOMBER' => '',
+'EMAIL_INVITE_HTML_INVITETOSHOP3' => 'à inviter.',
+'EMAIL_ORDER_CUST_HTML_ARTNOMBER' => 'Produit n°:',
 'EMAIL_ORDER_CUST_HTML_NONE' => 'AUCUN(E)',
 'EMAIL_ORDER_CUST_HTML_PAYMENTCHARGEVAT1' => 'TVA sur frais de paiement',
-'EMAIL_ORDER_CUST_HTML_PAYMENTMETHOD' => '',
-'EMAIL_ORDER_CUST_HTML_PLUSTAX1' => '',
-'EMAIL_ORDER_CUST_HTML_PLUSTAX21' => '',
-'EMAIL_ORDER_CUST_HTML_SHIPPINGCARRIER' => '',
-'EMAIL_ORDER_CUST_HTML_SHIPPINGNET' => '',
-'EMAIL_ORDER_CUST_HTML_TAX1' => '',
-'EMAIL_ORDER_CUST_HTML_TSPROTECTIONCHARGETAX1' => '',
-'EMAIL_ORDER_OWNER_HTML_MESSAGE' => '',
-'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '',
+'EMAIL_ORDER_CUST_HTML_PAYMENTMETHOD' => 'Sera payé par:',
+'EMAIL_ORDER_CUST_HTML_PLUSTAX1' => 'taxes en sus',
+'EMAIL_ORDER_CUST_HTML_PLUSTAX21' => 'taxes en sus',
+'EMAIL_ORDER_CUST_HTML_SHIPPINGCARRIER' => 'Sera livré via',
+'EMAIL_ORDER_CUST_HTML_SHIPPINGNET' => 'Coût de livraison (HT):',
+'EMAIL_ORDER_CUST_HTML_TAX1' => 'taxes en sus',
+'EMAIL_ORDER_CUST_HTML_TSPROTECTIONCHARGETAX1' => 'taxes en sus',
+'EMAIL_ORDER_OWNER_HTML_MESSAGE' => 'Message:',
+'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>INFORMATIONS DE PAIEMENT DESACTIVEES</b> - Pour les réactiver, merci de changer email_order_owner_html.tpl.',
 'EMAIL_SUGGEST_HTML_MENYGREETINGS' => '',
 'FOOTER_CATEGORIES' => 'CATEGORIES',
 'FOOTER_DISTRIBUTORS' => 'DISTRIBUTEURS',
