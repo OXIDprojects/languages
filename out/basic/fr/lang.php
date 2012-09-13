@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3431), Phenix (49), vikapera (376)
+ * @translators: admin (3431), Phenix (77), vikapera (376)
  */
 
 $sLangName  = "Français";
@@ -100,21 +100,21 @@ $aLang = array(
 'EMAIL_ORDER_OWNER_HTML_MESSAGE' => 'Message:',
 'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>INFORMATIONS DE PAIEMENT DESACTIVEES</b> - Pour les réactiver, merci de changer email_order_owner_html.tpl.',
 'EMAIL_OWNER_REMINDER_HTML_ARTNOMBER' => 'N° produit:',
-'EMAIL_SUGGEST_HTML_MENYGREETINGS' => '',
+'EMAIL_SUGGEST_HTML_MENYGREETINGS' => 'Cordialement,',
 'EXCEPTION_INPUT_NOTALLFIELDS' => 'Merci de renseigner tous les champs désignés par <span class="req">*</span>',
-'FACEBOOK_COMMENTS' => '',
-'FACEBOOK_POPUP_CANCELBTN' => '',
+'FACEBOOK_COMMENTS' => 'Commentaires Facebook',
+'FACEBOOK_POPUP_CANCELBTN' => 'Annuler',
 'FACEBOOK_POPUP_HEADER' => 'Mise à jour du compte',
 'FACEBOOK_POPUP_UPDATEBTN' => 'Mettre à jour le compte',
 'FACEBOOK_POPUP_UPDATEDONETEXT' => 'Votre compte a bien été mis à jour. Dorénavant, quand vous utiliserez Facebook connect, vous serez automatiquement connecté avec votre compte.',
 'FACEBOOK_POPUP_UPDATETEXT' => 'Vous êtes connecté via Facebook Connect. Si vous avez déjà un compte dans cette boutique,<br> veuillez saisir vos identifiants de connexion pour rattacher les 2 comptes entre eux.<br>Dorénavant, quand vous utiliserez Facebook connect, vous serez automatiquement connecté<br>avec votre compte.',
 'FORGOTPWD_FORGOTPWD' => 'Vous avez oublié votre mot de passe ?',
 'FORGOTPWD_TITLE' => 'Mot de passe oublié ?',
-'FORGOTPWD_UPDATEPASSWORD' => '',
-'FORM_WISHLIST_SUGGEST_ERRWRONGEMAIL' => '',
+'FORGOTPWD_UPDATEPASSWORD' => 'Enregistrer le nouveau mot de passe',
+'FORM_WISHLIST_SUGGEST_ERRWRONGEMAIL' => 'Erreur pendant l\'envoi - merci de vérifier votre adresse email.',
 'fullDateFormat' => 'd-m-Y H:i:s',
-'GUESTBOOKENTRY_TITLE' => '',
-'GUESTBOOK_TITLE' => '',
+'GUESTBOOKENTRY_TITLE' => 'livre d\'or',
+'GUESTBOOK_TITLE' => 'Livre d\'or',
 'INC_ACCOUNT_HEADER_ADDRESS' => 'Mon adresse',
 'INC_ACCOUNT_HEADER_LOGOUT' => '*DECONNEXION*',
 'INC_ACCOUNT_HEADER_LOGOUTFROMSHOP' => '',

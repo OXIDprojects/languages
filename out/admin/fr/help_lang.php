@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3431), Phenix (49), vikapera (376)
+ * @translators: admin (3431), Phenix (77), vikapera (376)
  */
 
 $sLangName  = "Français";
@@ -29,7 +29,7 @@ $sLangName  = "Français";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => '',
+'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => 'Il est possible de spécifier une url alternative d\'un serveur d\'images distant dans le fichier de configuration config.inc.php avec les paramètres <i>sAltImageUrl</i> et <i>sSSLAltImageUrl</i>.<br>Ainsi, toutes les photos de produits seront chargés depuis ce serveur alternatif plutôt que depuis le serveur local. Cependant, les fichiers uploadés sont stockés en local. Dans ce cas, une synchronisation avec le serveur externe doit être mis en place manuellement ou avec un script personnalisé.',
 'HELP_ARTICLE_EXTEND_EXTURL' => 'Dans <span class="navipath_or_inputname">URL Externe</span> vous pouvez renseigner un lien vers des informations complémentaires (ex: Vers le site de la marque). Dans <span class="navipath_or_inputname">Texte de l\'URL externe</span> saisissez le texte qui sera affiché pour le lien (ex: <span class="userinput_or_code">Plus d\'information sur le site de la marque</span>.',
 'HELP_ARTICLE_EXTEND_FREESHIPPING' => 'Le paramètre est hérité du produit parent aux variantes et s\'applique sur l\'ensemble du produit.',
 'HELP_ARTICLE_EXTEND_ISCONFIGURABLE' => 'Si le produit est customizable, un champ de saisie additionel est affiché sur la fiche produit et dans le panier d\'achats. Les clients pourront alors saisir un texte pour customiser le produit.<br><br>Un exemple typique de l\'utilité de cette fonction pour la vente de tee-shirts qui peuvent être imprimés avec un message personnalisé.',
@@ -44,7 +44,7 @@ $aLang = array(
 'HELP_ARTICLE_FILES_LINK_EXPIRATION_TIME' => 'Spécifiez la durée en heures, pendant laquelle le lien de téléchargement sera valide après le premier téléchargement. Les paramètres par défaut (Configuration générale -> Paramètres système -> Paramètres -> Téléchargement pour tous les produits) peuvent être modifiés pour un fichier particulier.',
 'HELP_ARTICLE_FILES_LINK_EXPIRATION_TIME_UNREGISTERED' => 'Vous pouvez définir ici combien de fois un client peut utiliser un lien de téléchargement, lors d\'une commande dans compte client. Des paramètres spécifique à un produit particulier peuvent être définis et se substitueront à la configuration par défaut : Configuration générale -> Paramètres système -> Paramètres -> Téléchargement des produits.',
 'HELP_ARTICLE_FILES_MAX_DOWNLOADS_COUNT' => 'Vous pouvez définir ici combien de fois un client peut télécharger un fichier après sa commande. Des paramètres spécifique à un produit particulier peuvent être définis et se substitueront à la configuration par défaut : Configuration générale -> Paramètres système -> Paramètres -> Téléchargement des produits.',
-'HELP_ARTICLE_FILES_NEW' => '',
+'HELP_ARTICLE_FILES_NEW' => 'Saisissez un nom de fichier transféré par FTP ou envoyez un nouveau fichier ici. Notez que les fichiers lourds doivent être envoyés par FTP. La limite de taille de fichier n\'est appliquée que lors d\'un envoi via l\'admin. Cette limitation dépend des paramètres PHP du serveur et ne peut être modifiée que à cet endroit.',
 'HELP_ARTICLE_IS_DOWNLOADABLE' => 'Les fichiers de ce produit peuvent être téléchargés',
 'HELP_ARTICLE_MAIN_ALDPRICE' => 'Grâce à <span class="navipath_or_inputname">Prix Alt.</span> vous pouvez définir des prix spéciaux enfonction de groupes d\'utilisateurs.',
 'HELP_ARTICLE_MAIN_TAGS' => 'Saisissez ici des tags pour le produit. Ces tags seront utilisés pour le nuage de tags sur la page d\'accueil. Les Tags sont séparés par une virgule.',
@@ -193,9 +193,9 @@ $aLang = array(
 'HELP_SHOP_PERF_SEO_CACHE' => 'Activer le cache SEO augmente les performances, mais nécessite beaucoup d\'espace disque dans le répertoire /tmp.',
 'HELP_SHOP_PERF_TOPSELLER' => 'Une liste des produits les plus commandés est affichée dans <span class="filename_filepath_or_italic">Best sellers</span>. Vous pouvez spécifier ici comment est gérée cette liste:<ul><li><span class="userinput_or_code">inactive</span>: La liste n\'est pas affichée.</li><li><span class="userinput_or_code">manual</span>: Vous définissez le contenu dans <span class="navipath_or_inputname">Information clients -> Promotions -></span> dans la promotion <span class="filename_filepath_or_italic">Best sellers</span>.</li><li><span class="userinput_or_code">automatic</span>: Les produits sont calculés automatiquement.</li></ul>',
 'HELP_SHOP_PERF_USESELECTLISTPRICE' => 'Les surcharges/remises peuvent être activés. Si ce paramètre est activé, les surcharges/ remises sont chargées et activées. Sinon, elles ne le seront pas.',
-'HELP_SHOP_RDFA_COND' => '',
+'HELP_SHOP_RDFA_COND' => 'Sélectionnez ici, quel terme décrit l\'état du produit (neuf, usagé ou reconditionné).',
 'HELP_SHOP_RDFA_CONTENT_DELIVERY' => '',
-'HELP_SHOP_RDFA_CONTENT_OFFERER' => '',
+'HELP_SHOP_RDFA_CONTENT_OFFERER' => 'Sélectionnez ici, dans quelle page de contenu est affichée l\'information principale de l\'eShop, par exemple "A propos de nous".',
 'HELP_SHOP_RDFA_CONTENT_PAYMENT' => '',
 'HELP_SHOP_RDFA_COSTUMER' => '',
 'HELP_SHOP_RDFA_DUNS' => '',
