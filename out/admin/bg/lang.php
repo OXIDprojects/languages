@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: crashover (328)
+ * @translators: crashover (329)
  */
 
 $sLangName  = "Български";
@@ -83,7 +83,7 @@ $aLang = array(
 'ARTICLE_EXTEND_ISSEARCH' => 'за търсене',
 'ARTICLE_EXTEND_LENGTH' => 'L:',
 'ARTICLE_EXTEND_MASS' => 'Размери',
-'ARTICLE_EXTEND_MEDIAURLS' => '',
+'ARTICLE_EXTEND_MEDIAURLS' => 'Медийни URL-та',
 'ARTICLE_EXTEND_NONMATERIAL' => '',
 'ARTICLE_EXTEND_QUESTIONEMAIL' => '',
 'ARTICLE_EXTEND_SKIPDISCOUNTS' => '',

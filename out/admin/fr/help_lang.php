@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3431), Phenix (77), vikapera (376)
+ * @translators: admin (3431), Phenix (168), vikapera (376)
  */
 
 $sLangName  = "Français";
@@ -194,25 +194,25 @@ $aLang = array(
 'HELP_SHOP_PERF_TOPSELLER' => 'Une liste des produits les plus commandés est affichée dans <span class="filename_filepath_or_italic">Best sellers</span>. Vous pouvez spécifier ici comment est gérée cette liste:<ul><li><span class="userinput_or_code">inactive</span>: La liste n\'est pas affichée.</li><li><span class="userinput_or_code">manual</span>: Vous définissez le contenu dans <span class="navipath_or_inputname">Information clients -> Promotions -></span> dans la promotion <span class="filename_filepath_or_italic">Best sellers</span>.</li><li><span class="userinput_or_code">automatic</span>: Les produits sont calculés automatiquement.</li></ul>',
 'HELP_SHOP_PERF_USESELECTLISTPRICE' => 'Les surcharges/remises peuvent être activés. Si ce paramètre est activé, les surcharges/ remises sont chargées et activées. Sinon, elles ne le seront pas.',
 'HELP_SHOP_RDFA_COND' => 'Sélectionnez ici, quel terme décrit l\'état du produit (neuf, usagé ou reconditionné).',
-'HELP_SHOP_RDFA_CONTENT_DELIVERY' => '',
+'HELP_SHOP_RDFA_CONTENT_DELIVERY' => 'Sélectionnez ici, dans quelle page de contenu les informations de livraison non assignées au RDFa sont affichées, par exemple "Coûts de livraison". Pour assigner les méthodes de livraison aux méthodes de paiement RDFa en général, rendez-vous sur la page : Paramètres de la boutique -> Méthodes de livraison -> RDFa',
 'HELP_SHOP_RDFA_CONTENT_OFFERER' => 'Sélectionnez ici, dans quelle page de contenu est affichée l\'information principale de l\'eShop, par exemple "A propos de nous".',
-'HELP_SHOP_RDFA_CONTENT_PAYMENT' => '',
-'HELP_SHOP_RDFA_COSTUMER' => '',
-'HELP_SHOP_RDFA_DUNS' => '',
-'HELP_SHOP_RDFA_DURATION_OFFERINGS' => '',
-'HELP_SHOP_RDFA_DURATION_PRICES' => '',
-'HELP_SHOP_RDFA_FNC' => '',
-'HELP_SHOP_RDFA_GEO_LATITUDE' => '',
-'HELP_SHOP_RDFA_GEO_LONGITUDE' => '',
-'HELP_SHOP_RDFA_GLN' => '',
+'HELP_SHOP_RDFA_CONTENT_PAYMENT' => 'Sélectionnez ici, dans quelle page de contenu les informations de livraison non assignées au RDFa sont affichées, par exemple "Coûts de livraison". Pour assigner les méthodes de livraison aux méthodes de paiement RDFa en général, rendez-vous sur la page : Paramètres de la boutique -> Méthodes de livraison -> RDFa',
+'HELP_SHOP_RDFA_COSTUMER' => 'Les types de client pour lesquels les produits de la boutique sont valides (utilisateur final, revendeur, professionnel et/ou public)',
+'HELP_SHOP_RDFA_DUNS' => 'Le D-U-N-S de Dun & Bradstreet est un nombre de neuf chiffres utilisé pour identifier des entités légales.',
+'HELP_SHOP_RDFA_DURATION_OFFERINGS' => 'Cette propriété spécifie la durée de validité des produits, par exemple 1 jour, 1 semaine ou 1 mois.',
+'HELP_SHOP_RDFA_DURATION_PRICES' => 'Renseignez ici la durée de validité des coûts des produits, paiements et livraison (par exemple 1 jour, 1 semaine).',
+'HELP_SHOP_RDFA_FNC' => 'Sélectionnez ici la nature commerciale des produits. Par exemple, sont-ils proposés à la vente, à la location ou à la réparation?',
+'HELP_SHOP_RDFA_GEO_LATITUDE' => 'La latitude du magasin pour la position géographique. Merci de ne saisir que des nombres.',
+'HELP_SHOP_RDFA_GEO_LONGITUDE' => 'La longitude du magasin pour la position géographique. Merci de ne saisir que des nombres.',
+'HELP_SHOP_RDFA_GLN' => 'Le code lieu-fonction (ou GLN) de l\'entreprise. Le code lieu-fonction est un nombre à 13 chiffres utilisé pour identifier des emplacements physiques.',
 'HELP_SHOP_RDFA_ISIC' => '',
-'HELP_SHOP_RDFA_LOGO_URL' => '',
+'HELP_SHOP_RDFA_LOGO_URL' => 'L\'adresse web (url) d\'un logo ou une image.',
 'HELP_SHOP_RDFA_NAICS' => '',
-'HELP_SHOP_RDFA_RATING_MAX' => '',
-'HELP_SHOP_RDFA_RATING_MIN' => '',
-'HELP_SHOP_RDFA_SHOW_PRODUCTSTOCK' => '',
+'HELP_SHOP_RDFA_RATING_MAX' => 'Valeur maximum possible par rapport à l\'échelle utilisée pour les notations dans votre boutique. Cette valeur n\'est pas la plus haute note actuelle d\'un produit.',
+'HELP_SHOP_RDFA_RATING_MIN' => 'Valeur minimum possible par rapport à l\'échelle utilisée pour les notations dans votre boutique. Cette valeur n\'est pas la plus haute note actuelle d\'un produit.',
+'HELP_SHOP_RDFA_SHOW_PRODUCTSTOCK' => 'Si cette option est activée cela signifie que le stock réel du produit est affiché.',
 'HELP_SHOP_RDFA_SUBMIT_URL' => '',
-'HELP_SHOP_RDFA_VAT' => '',
+'HELP_SHOP_RDFA_VAT' => 'Cette option spécifie si la taxe (TVA) est incluse dans le prix et les coûts de paiement/livraison ou non.',
 'HELP_SHOP_SEO_IDSSEPARATOR' => 'Le séparateur est utilisé lorsque le nom des catégories et des produits est composé de plusieurs mots Le séparateur sera utilisé à la place des espaces. ex: www.youreshop.com/category-name-of-several-words<br>Si aucun séparateur n\'est défini, - sera utilisé.',
 'HELP_SHOP_SEO_REPLACECHARS' => 'Des caractères accentués, comme le ù français doivent être enelvés des URLs SEO, car ils peuvent poser problème. Vous pourrez définir ici comment ces caractères seront remplacés. La syntaxe est <code>caractère spécial => caractère de substitution</code>, ex: <code>Ü => Ue</code>.<br>Pour l\'allemand, les caractères de substitution sont déjà définis.',
 'HELP_SHOP_SEO_RESERVEDWORDS' => 'Quelques URLs sont réservées dans OXID eShop, comme www.youreshop.com/admin pour accéder au back-office. Si une catégorie est nommée <span class="filename_filepath_or_italic">admin</span> son URL SEO devrait logiquement être www.youreshop.com/admin également - dans ce cas, la catégorie ne pourraît être accessible. Voici donc la raison d\'être du suffixe SEO, qui est rajouté à ces URLs. Vous pouvez définir ici quelles URLs seront automatiquement suffixées.',

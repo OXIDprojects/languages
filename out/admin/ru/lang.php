@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), marco (824), pianoservis (1), unicum (35), vanilla.thunder (35)
+ * @translators: admin (1341), marco (827), pianoservis (1), unicum (35), vanilla.thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -108,10 +108,10 @@ $aLang = array(
 'ARTICLE_FILES_NEW_FILE' => '',
 'ARTICLE_FILES_NEW_PURCHASEDONLY' => '',
 'ARTICLE_FILES_NEW_TITLE' => '',
-'ARTICLE_FILES_NEW_UPLOAD' => '',
+'ARTICLE_FILES_NEW_UPLOAD' => 'Oтправлять',
 'ARTICLE_FILES_OR' => '',
 'ARTICLE_FILES_OR_FILENAME' => '',
-'ARTICLE_FILES_TABLE_FILENAME' => '',
+'ARTICLE_FILES_TABLE_FILENAME' => 'Имя файла',
 'ARTICLE_FILES_TABLE_PURCHASEDONLY' => '',
 'ARTICLE_FILES_TABLE_UPLOADEDFILES' => '',
 'ARTICLE_LIST_ALLPRODUCTS' => 'Все товары',

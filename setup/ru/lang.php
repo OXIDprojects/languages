@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), marco (824), pianoservis (1), unicum (35), vanilla.thunder (35)
+ * @translators: admin (1341), marco (827), pianoservis (1), unicum (35), vanilla.thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -30,7 +30,7 @@ $sLangName  = "Русский";
 $aLang = array(
 'charset' => 'utf-8',
 'ATTENTION' => '',
-'BUTTON_BEGIN_INSTALL' => '',
+'BUTTON_BEGIN_INSTALL' => 'Начать установку',
 'BUTTON_DB_INSTALL' => '',
 'BUTTON_LICENCE' => 'Дальше',
 'BUTTON_PROCEED_INSTALL' => '',
