@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3431), Phenix (168), vikapera (376)
+ * @translators: admin (3431), Phenix (201), vikapera (376)
  */
 
 $sLangName  = "Français";
@@ -1193,7 +1193,7 @@ $aLang = array(
 'PAYMENT_MAIN_SELECTED' => 'Selectionné',
 'PAYMENT_MAIN_TILL' => 'jusqu\'au',
 'PAYMENT_OVERVIEW_HOWMANYPAYMENTS' => 'Nombre de paiements effectués avec ce moyen de paiement',
-'PAYMENT_RDFA_ADVICE_END' => '',
+'PAYMENT_RDFA_ADVICE_END' => 'conforme',
 'PAYMENT_RDFA_ADVICE_START' => '<b>Conseil:</b> Veuillez choisir parmi ces moyens de paiement, pré-définis dans GoodRelations, compatibles avec les moyens de paiement de votre boutique.',
 'PAYMENT_RDFA_AMERICANEXPRESS' => 'American Express',
 'PAYMENT_RDFA_ASIGN_PAYMENT' => 'Définir moyens de paiement',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3431), Phenix (168), vikapera (376)
+ * @translators: admin (3431), Phenix (201), vikapera (376)
  */
 
 $sLangName  = "Français";
@@ -108,8 +108,8 @@ $aLang = array(
 'SELECT_SETUP_LANG_HINT' => '. Si nécessaire, activez simplement d\'autres langues dans le back-office.',
 'SELECT_SETUP_LANG_SUBMIT' => 'Selectionner',
 'SELECT_SHOP_LANG' => 'Langue de la boutique',
-'SELECT_SHOP_LANG_HINT' => '',
-'SELECT_SHOP_LOCATION' => '',
+'SELECT_SHOP_LANG_HINT' => 'Si besoin, activez facilement plus de langues dans l\'administration.',
+'SELECT_SHOP_LOCATION' => 'Votre magasin',
 'SELECT_SHOP_LOCATION_HINT' => '',
 'SETUP_CONFIG_PERMISSIONS' => 'Pour des raisons de sécurité, veuillez modifier les propriétés du fichier config.inc.php en lecture seule!',
 'SETUP_DIR_DELETE_NOTICE' => 'Pour des raisons de sécurité, veuillez supprimer le répertoire \'setup\' s\'il n\'avait pas été supprimé durant le processus d\'installation.',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3431), Phenix (168), vikapera (376)
+ * @translators: admin (3431), Phenix (201), vikapera (376)
  */
 
 $sLangName  = "Français";
@@ -66,8 +66,6 @@ $aLang = array(
 'FOOTER_SERVICES' => 'SERVICE',
 'FORM_CONTACT_SEND' => 'Envoyer le mot de passe',
 'FORM_FIELDSET_USER_ACCOUNT_CONFIRMPWD' => 'Confirmer le mot de passe:',
-'FORM_FIELDSET_USER_BILLING_ADDITIONALINFO_TOOLTIP' => '',
-'FORM_FIELDSET_USER_SHIPPING_ADDITIONALINFO2_TOOLTIP' => '',
 'FORM_LOGIN_ACCOUNT_FORGOTPWD' => 'Mot de passe oublié?',
 'FORM_NEWSLETTER_FIRSTNAME' => 'Prénom',
 'FORM_PRICEALARM_SEND' => 'Envoyer',
@@ -138,7 +136,7 @@ $aLang = array(
 'PAGE_CHECKOUT_THANKYOU_REGISTEREDYOUORDERNO2' => '',
 'PAGE_CHECKOUT_THANKYOU_THANKYOU1' => 'Merci pour votre commande',
 'PAGE_CHECKOUT_THANKYOU_THANKYOU2' => 'dans',
-'PAGE_CHECKOUT_USER' => '',
+'PAGE_CHECKOUT_USER' => 'Envoyer',
 'PAGE_CHECKOUT_USER_OPTION_REGISTRATION_DESCRIPTION' => 'Un compte client permet à son détenteur:<br>- La gestion de ses adresses<br>- Le suivi des commandes<br>- L\'historique des commandes<br>- Les listes d\'envies<br> - Les listes de sélections<br>- L\'abonnement à la newsletter<br>- L\'accès aux offres spéciales',
 'PAGE_CHECKOUT_WRAPPING_CANCEL' => 'Annuler',
 'PAGE_CHECKOUT_WRAPPING_NONE' => 'Aucun',
@@ -148,7 +146,7 @@ $aLang = array(
 'PAGE_DETAILS_THANKYOUMESSAGE4' => '.',
 'PAGE_INFO_CONTACT_THANKYOU1' => 'Merci.',
 'PAGE_INFO_CONTACT_THANKYOU2' => 'Vous remercie pour vos commentaires.',
-'PAGE_INFO_NEWS_LATESTNEWSBY' => '',
+'PAGE_INFO_NEWS_LATESTNEWSBY' => 'Actualités de',
 'PAGE_WISHLIST_PRODUCTS_PRODUCTS1' => 'Ces produits sont dans la listes d\'envies de',
 'PAGE_WISHLIST_PRODUCTS_PRODUCTS2' => '. Si vous souhaitez faire plaisir, offrez-lui ces produits.',
 'priceFrom' => '<span class="pricefrom">à partir de</span>',
@@ -156,10 +154,10 @@ $aLang = array(
 'simpleDateFormat' => 'd-m-Y',
 'usrRegistered' => 'L\'utilisateur sera enregistré après avoir fourni son mot de passe',
 'view' => 'Vue',
-'WIDGET_FOOTER_MANUFACTURERS_MORE' => '',
-'WIDGET_LOGINBOX_LOGIN' => '',
-'WIDGET_PRODUCT_PRODUCT_DETAILS' => '',
-'WIDGET_SERVICES_GUESTBOOK' => '',
-'WIDGET_SERVICES_HOME' => '',
-'WIDGET_TRUSTEDSHOPS_ITEM_ALTTEXT' => '',
+'WIDGET_FOOTER_MANUFACTURERS_MORE' => 'Plus ...',
+'WIDGET_LOGINBOX_LOGIN' => 'Connexion',
+'WIDGET_PRODUCT_PRODUCT_DETAILS' => 'Détails du produit',
+'WIDGET_SERVICES_GUESTBOOK' => 'Livre d\'or',
+'WIDGET_SERVICES_HOME' => 'Accueil',
+'WIDGET_TRUSTEDSHOPS_ITEM_ALTTEXT' => 'Plus d\'informations',
 );

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: 
+ * @translators: tarazi (12)
  */
 
 $sLangName  = "العربية";
@@ -29,9 +29,9 @@ $sLangName  = "العربية";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACCESSORIES' => '',
-'ACCOUNT' => '',
-'ACCOUNT_INFORMATION' => '',
+'ACCESSORIES' => 'كماليات',
+'ACCOUNT' => 'رقم الحساب',
+'ACCOUNT_INFORMATION' => 'معلومات عن الحساب',
 'ADD' => '',
 'ADDITIONAL_INFO' => '',
 'ADDRESS' => '',

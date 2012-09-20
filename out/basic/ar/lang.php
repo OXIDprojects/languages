@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: 
+ * @translators: tarazi (12)
  */
 
 $sLangName  = "العربية";
@@ -29,15 +29,15 @@ $sLangName  = "العربية";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACCOUNT_PASSWORD_CONFIRMPASSWORD' => '',
-'ACCOUNT_PASSWORD_PASSWORDMINLENGTH' => '',
-'ACCOUNT_RECOMM_LISTTITLE' => '',
-'ACCOUNT_RECOMM_TITLE' => '',
-'ACCOUNT_USER_BILLINGADDRESS' => '',
+'ACCOUNT_PASSWORD_CONFIRMPASSWORD' => 'إعادة كلمة الدخول',
+'ACCOUNT_PASSWORD_PASSWORDMINLENGTH' => 'كلمة الدخول لا تقل  عن ستة أحرف',
+'ACCOUNT_RECOMM_LISTTITLE' => 'العنوان',
+'ACCOUNT_RECOMM_TITLE' => 'قوائمي المفضلة',
+'ACCOUNT_USER_BILLINGADDRESS' => 'عنوان الفاتورة',
 'ACCOUNT_USER_COMPLETEMARKEDFIELDS' => '',
-'ACCOUNT_USER_ERRCOMLETEBILLINGADDRESS' => '',
-'ACCOUNT_USER_ERRCOMPLETEMARKEDFIELDS' => '',
-'ACCOUNT_USER_ERREMAILALREADYTAKEN' => '',
+'ACCOUNT_USER_ERRCOMLETEBILLINGADDRESS' => 'خطأ : من فضلك اكتب أيضاً عنوان الفاتورة',
+'ACCOUNT_USER_ERRCOMPLETEMARKEDFIELDS' => 'يجب تعبئة الحقل المميز بنجمة',
+'ACCOUNT_USER_ERREMAILALREADYTAKEN' => 'خطأ : هذا العنوان بالبريد الالكتروني تم استعماله',
 'ACCOUNT_USER_ERRINVALIDEMAIL' => '',
 'ACCOUNT_USER_ERRPASSWORDSDONTMATCH' => '',
 'ACCOUNT_USER_ERRWRONGUSERNAMEPASSW' => '',
