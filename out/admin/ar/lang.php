@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: tarazi (12)
+ * @translators: tarazi (33)
  */
 
 $sLangName  = "العربية";
@@ -29,9 +29,9 @@ $sLangName  = "العربية";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACTIONS_LIST_MENUITEM' => '',
-'ACTIONS_LIST_MENUSUBITEM' => '',
-'ACTIONS_MAIN_ALLARTICLES' => '',
+'ACTIONS_LIST_MENUITEM' => 'إستعلامات الزبائن',
+'ACTIONS_LIST_MENUSUBITEM' => 'أدارة الإجراءات',
+'ACTIONS_MAIN_ALLARTICLES' => 'جميع المواد',
 'ACTIONS_MAIN_ALLARTICLESWITHATTR' => '',
 'ACTIONS_MAIN_NOTSELECTED' => '',
 'ADMINGB_LIST_AUTHOR' => '',

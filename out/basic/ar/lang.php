@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: tarazi (12)
+ * @translators: tarazi (33)
  */
 
 $sLangName  = "العربية";
@@ -29,26 +29,26 @@ $sLangName  = "العربية";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACCOUNT_PASSWORD_CONFIRMPASSWORD' => 'إعادة كلمة الدخول',
+'ACCOUNT_PASSWORD_CONFIRMPASSWORD' => 'أعد كلمة الدخول',
 'ACCOUNT_PASSWORD_PASSWORDMINLENGTH' => 'كلمة الدخول لا تقل  عن ستة أحرف',
 'ACCOUNT_RECOMM_LISTTITLE' => 'العنوان',
 'ACCOUNT_RECOMM_TITLE' => 'قوائمي المفضلة',
 'ACCOUNT_USER_BILLINGADDRESS' => 'عنوان الفاتورة',
-'ACCOUNT_USER_COMPLETEMARKEDFIELDS' => '',
+'ACCOUNT_USER_COMPLETEMARKEDFIELDS' => 'الحقل المؤشر إليه بنجمة يجب تعبئته',
 'ACCOUNT_USER_ERRCOMLETEBILLINGADDRESS' => 'خطأ : من فضلك اكتب أيضاً عنوان الفاتورة',
 'ACCOUNT_USER_ERRCOMPLETEMARKEDFIELDS' => 'يجب تعبئة الحقل المميز بنجمة',
-'ACCOUNT_USER_ERREMAILALREADYTAKEN' => 'خطأ : هذا العنوان بالبريد الالكتروني تم استعماله',
-'ACCOUNT_USER_ERRINVALIDEMAIL' => '',
-'ACCOUNT_USER_ERRPASSWORDSDONTMATCH' => '',
-'ACCOUNT_USER_ERRWRONGUSERNAMEPASSW' => '',
-'ACCOUNT_WISHLIST_BUYFORME1' => '',
-'ACCOUNT_WISHLIST_BUYFORME2' => '',
-'ACCOUNT_WISHLIST_CLICKHERETOSENDWISHLIST' => '',
-'ACCOUNT_WISHLIST_ERRWRONGEMAIL' => '',
-'ACCOUNT_WISHLIST_SEARCH' => '',
-'ACCOUNT_WISHLIST_SEND' => '',
-'ACCOUNT_WISHLIST_SENDSUCCESSFULLY1' => '',
-'ACCOUNT_WISHLIST_SENDSUCCESSFULLY2' => '',
+'ACCOUNT_USER_ERREMAILALREADYTAKEN' => 'خطأ: هذا العنوان البريد الالكتروني تم استعماله',
+'ACCOUNT_USER_ERRINVALIDEMAIL' => 'خطأ: عنوان بريد إلكتروني غير صالح',
+'ACCOUNT_USER_ERRPASSWORDSDONTMATCH' => 'كلمات الدخول لا  تتطابقان',
+'ACCOUNT_USER_ERRWRONGUSERNAMEPASSW' => 'خطأ: المستعمل/ كلمة الدخول',
+'ACCOUNT_WISHLIST_BUYFORME1' => 'هالو ، لقد وضعت لي هنا قائمة رغبات',
+'ACCOUNT_WISHLIST_BUYFORME2' => 'سيكون ذلك رائعاً إذا اشتريت منها شيئاً',
+'ACCOUNT_WISHLIST_CLICKHERETOSENDWISHLIST' => 'انقر هنا لإرسال قائمة رغباتك إلى أصدقائك',
+'ACCOUNT_WISHLIST_ERRWRONGEMAIL' => 'خطأ عند الإرسال - الرجاء مراجعة عنوان البريد الالكتروني',
+'ACCOUNT_WISHLIST_SEARCH' => 'ابحث الأن',
+'ACCOUNT_WISHLIST_SEND' => 'أرسل',
+'ACCOUNT_WISHLIST_SENDSUCCESSFULLY1' => 'قائمة رغباتك بنجاح ل',
+'ACCOUNT_WISHLIST_SENDSUCCESSFULLY2' => 'تم إرسال',
 'ADD_RECOMM_ADDRECOMMLINK1' => '',
 'ADD_RECOMM_ADDRECOMMLINK2' => '',
 'BASKET_ARTICLENOTONSTOCK' => '',
