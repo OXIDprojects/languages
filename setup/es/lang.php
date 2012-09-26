@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (2202), afimage (89), jsmaster (6), nuelgoz (156)
+ * @translators: admin (2202), afimage (126), jsmaster (6), nuelgoz (156)
  */
 
 $sLangName  = "Español";
@@ -29,7 +29,7 @@ $sLangName  = "Español";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ATTENTION' => '',
+'ATTENTION' => 'Atención',
 'BUTTON_BEGIN_INSTALL' => 'Comienzo de la instalación',
 'BUTTON_DB_INSTALL' => '',
 'BUTTON_LICENCE' => 'Continuar',
