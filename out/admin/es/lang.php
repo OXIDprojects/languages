@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (2202), afimage (126), jsmaster (6), nuelgoz (156)
+ * @translators: admin (2202), afimage (337), jsmaster (6), nuelgoz (156)
  */
 
 $sLangName  = "Español";
@@ -92,9 +92,9 @@ $aLang = array(
 'ARTICLE_EXTEND_UNITNAME' => 'Unidad',
 'ARTICLE_EXTEND_UNITQUANTITY' => 'Cantidad',
 'ARTICLE_EXTEND_UPDATEMEDIA' => 'Actualización de los medios de comunicación',
-'ARTICLE_EXTEND_UPDATEPRICE' => '',
+'ARTICLE_EXTEND_UPDATEPRICE' => 'Precio',
 'ARTICLE_EXTEND_UPDATEPRICEA' => 'Precio A:',
-'ARTICLE_EXTEND_UPDATEPRICEB' => '',
+'ARTICLE_EXTEND_UPDATEPRICEB' => 'Precio B:',
 'ARTICLE_EXTEND_UPDATEPRICEC' => 'Precio C:',
 'ARTICLE_EXTEND_UPDATEPRICES' => '',
 'ARTICLE_EXTEND_UPDATEPRICETIME' => 'Hora de inicio:',
@@ -279,11 +279,11 @@ $aLang = array(
 'CATEGORY_ORDER_NEWSORTSAVE' => 'Guardar selección nueva',
 'CATEGORY_ORDER_SORTCATEGORIES' => 'Ordenar las categorías',
 'CATEGORY_PICTURES_UPLOADISDISABLED' => '',
-'CATEGORY_RIGHTS_ALLGROUPS' => '',
+'CATEGORY_RIGHTS_ALLGROUPS' => 'Grupos de usuarios',
 'CATEGORY_RIGHTS_ALLGROUPS2' => 'Grupos de usuarios',
-'CATEGORY_RIGHTS_APPLYLEVEL' => '',
+'CATEGORY_RIGHTS_APPLYLEVEL' => 'Aplicar los cambios a categorías',
 'CATEGORY_RIGHTS_APPLYLEVEL2' => 'Aplicar los cambios a categorías, subcategorías y sus productos',
-'CATEGORY_RIGHTS_APPLYLEVEL3' => '',
+'CATEGORY_RIGHTS_APPLYLEVEL3' => 'Aplicar los cambios a categorías, subcategorías y sus productos',
 'CATEGORY_RIGHTS_APPLYLEVEL4' => 'Aplicar los cambios a categorías, subcategorías y sus productos',
 'CATEGORY_RIGHTS_ASSIGNBUYABLE' => '',
 'CATEGORY_RIGHTS_ASSIGNVISIBLE' => 'Asignación de grupos de usuarios (exclusivamente visible)',
@@ -300,7 +300,7 @@ $aLang = array(
 'CONTENT_LIST_MENUITEM' => 'Información del cliente',
 'CONTENT_LIST_MENUSUBITEM' => 'CMS Páginas',
 'CONTENT_MAIN_CATEGORY' => 'Categoría',
-'CONTENT_MAIN_ERROR' => '',
+'CONTENT_MAIN_ERROR' => 'Error',
 'CONTENT_MAIN_INSERTBEFORE' => 'Inserta antes',
 'CONTENT_MAIN_MAINMENU' => 'Superior del menú',
 'CONTENT_MAIN_MANUAL' => 'Manualmente',
@@ -312,7 +312,7 @@ $aLang = array(
 'COUNTRY_LIST_MENUITEM' => 'Maestro Configuración',
 'COUNTRY_LIST_MENUSUBITEM' => 'Países',
 'COUNTRY_MAIN_ISO2' => 'ISO 2',
-'COUNTRY_MAIN_ISO3' => '',
+'COUNTRY_MAIN_ISO3' => 'ISO3',
 'COUNTRY_MAIN_ISOUNNUM' => 'ISO N º ONU',
 'COUNTRY_MAIN_OPDESCRIPTION' => 'Descripción opcional',
 'COUNTRY_MAIN_OXVATSTATUS' => 'IVA manipulación',

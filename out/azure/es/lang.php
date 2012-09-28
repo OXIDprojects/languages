@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (2202), afimage (126), jsmaster (6), nuelgoz (156)
+ * @translators: admin (2202), afimage (337), jsmaster (6), nuelgoz (156)
  */
 
 $sLangName  = "Español";
@@ -31,7 +31,7 @@ $aLang = array(
 'charset' => 'utf-8',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'No hay listas Listmanía en este momento. Para crear, haga clic en nuevo',
 'ADD_RECOMM_ADDRECOMMLINK2' => 'aquí',
-'BETA_NOTE' => '',
+'BETA_NOTE' => 'Descartar',
 'BETA_NOTE_CLOSE' => 'Descartar mensaje',
 'byBrand' => 'Por Marca',
 'byManufacturer' => 'Por Marca',

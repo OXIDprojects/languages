@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (2202), afimage (126), jsmaster (6), nuelgoz (156)
+ * @translators: admin (2202), afimage (337), jsmaster (6), nuelgoz (156)
  */
 
 $sLangName  = "Español";
@@ -33,7 +33,7 @@ $aLang = array(
 'BUTTON_BEGIN_INSTALL' => 'Comienzo de la instalación',
 'BUTTON_DB_INSTALL' => '',
 'BUTTON_LICENCE' => 'Continuar',
-'BUTTON_PROCEED_INSTALL' => '',
+'BUTTON_PROCEED_INSTALL' => 'Instalar',
 'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Instalar muestra',
 'BUTTON_RADIO_LICENCE_ACCEPT' => '',
 'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'No acepto las condiciones de la licencia.',

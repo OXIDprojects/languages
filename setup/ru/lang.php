@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), marco (827), pianoservis (1), unicum (35), vanilla.thunder (35)
+ * @translators: admin (1341), marco (834), Natalia I (7), pianoservis (1), unicum (35), vanilla.thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -29,16 +29,16 @@ $sLangName  = "Русский";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ATTENTION' => '',
+'ATTENTION' => 'Пожалуйста, обратите внимание',
 'BUTTON_BEGIN_INSTALL' => 'Начать установку',
 'BUTTON_DB_INSTALL' => '',
 'BUTTON_LICENCE' => 'Дальше',
-'BUTTON_PROCEED_INSTALL' => '',
-'BUTTON_RADIO_INSTALL_DB_DEMO' => '',
-'BUTTON_RADIO_LICENCE_ACCEPT' => '',
-'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => '',
-'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => '',
-'BUTTON_START_INSTALL' => '',
+'BUTTON_PROCEED_INSTALL' => 'Начать установку',
+'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Установить демо-данные',
+'BUTTON_RADIO_LICENCE_ACCEPT' => 'Я принимаю условия лицензионного соглашения.',
+'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'Я не принимаю условия лицензионного соглашения.',
+'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => '<strong>Не</strong> установить демо-данные',
+'BUTTON_START_INSTALL' => 'Снова начать установку',
 'BUTTON_WRITE_DATA' => '',
 'BUTTON_WRITE_LICENCE' => '',
 'ERROR_BAD_DEMODATA' => '',

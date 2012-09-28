@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), marco (827), pianoservis (1), unicum (35), vanilla.thunder (35)
+ * @translators: admin (1341), marco (834), Natalia I (7), pianoservis (1), unicum (35), vanilla.thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -394,7 +394,7 @@ $aLang = array(
 'DYN_AFFILINET_SITEID' => 'Affili.Net SiteID',
 'DYN_AFFILIWELT_PARTNERID' => '',
 'DYN_ECONDA_ACTIVE' => '',
-'DYN_ECONDA_ATTENTION' => '',
+'DYN_ECONDA_ATTENTION' => 'Обратите внимание:',
 'DYN_ECONDA_COPY' => '',
 'DYN_ECONDA_FILETO' => '',
 'dyn_efire' => '',
@@ -411,11 +411,11 @@ $aLang = array(
 'DYN_IPAYMENT_ERRORCODE' => '',
 'DYN_IPAYMENT_ERRORTEXT' => '',
 'DYN_IPAYMENT_EVLPAYMENT' => '',
-'DYN_IPAYMENT_FILTER' => '',
-'DYN_IPAYMENT_HERE' => '',
+'DYN_IPAYMENT_FILTER' => 'фильтр',
+'DYN_IPAYMENT_HERE' => 'здесь',
 'DYN_IPAYMENT_LOGPAYMENTACTIONS' => '',
 'DYN_IPAYMENT_METHODOFPAYMENT' => '',
-'DYN_IPAYMENT_METHODOFPAYMENTOPTIONS' => '',
+'DYN_IPAYMENT_METHODOFPAYMENTOPTIONS' => 'Выбор вариантов оплаты',
 'DYN_IPAYMENT_METHODOFPAYMENT_AVAIL' => '',
 'DYN_IPAYMENT_METHODOFPAYMENT_SELECTED' => '',
 'DYN_IPAYMENT_MOBILE' => '',
@@ -429,7 +429,7 @@ $aLang = array(
 'DYN_IPAYMENT_PASSWORD' => '',
 'DYN_IPAYMENT_PAYMASTERINFORMATION' => '',
 'DYN_IPAYMENT_PAYMENTFAILURE' => '',
-'DYN_IPAYMENT_PAYMENTHAPPEND' => '',
+'DYN_IPAYMENT_PAYMENTHAPPEND' => 'Оплата прошла успешно',
 'DYN_IPAYMENT_PAYMENTID' => '',
 'DYN_IPAYMENT_PAYMENTLOGS' => '',
 'DYN_IPAYMENT_PAYMENTONLYRESERVED' => '',
@@ -477,7 +477,7 @@ $aLang = array(
 'DYN_TRUSTED_INVALID_TS_ID' => '',
 'DYN_TRUSTED_INVOICE' => '',
 'DYN_TRUSTED_LEASING' => '',
-'DYN_TRUSTED_OTHER' => '',
+'DYN_TRUSTED_OTHER' => 'другой вариант оплаты',
 'DYN_TRUSTED_PASSWORD' => '',
 'DYN_TRUSTED_PAYBOX' => '',
 'DYN_TRUSTED_PAYPAL' => '',

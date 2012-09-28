@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), marco (827), pianoservis (1), unicum (35), vanilla.thunder (35)
+ * @translators: admin (1341), marco (834), Natalia I (7), pianoservis (1), unicum (35), vanilla.thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -30,7 +30,7 @@ $sLangName  = "Русский";
 $aLang = array(
 'charset' => 'utf-8',
 'ACCOUNT_PASSWORD_CONFIRMPASSWORD' => 'Подтвердите пароль:',
-'ACCOUNT_PASSWORD_PASSWORDMINLENGTH' => 'Минимальная длинна пароля - 6 символов.',
+'ACCOUNT_PASSWORD_PASSWORDMINLENGTH' => 'Минимальная длина пароля - 6 символов.',
 'ACCOUNT_RECOMM_LISTTITLE' => 'Заголовок',
 'ACCOUNT_RECOMM_TITLE' => 'Мой список Listmania',
 'ACCOUNT_USER_BILLINGADDRESS' => 'Адрес клиента',
