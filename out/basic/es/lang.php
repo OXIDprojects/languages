@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (2202), afimage (337), jsmaster (6), nuelgoz (156)
+ * @translators: admin (2202), afimage (479), jsmaster (6), nuelgoz (156)
  */
 
 $sLangName  = "Español";
@@ -81,11 +81,11 @@ $aLang = array(
 'DETAILS_REDUCEDTEXT' => '(Nuestro precio normal).',
 'DETAILS_SEND' => 'Enviar',
 'DETAILS_VPE_MESSAGE_1' => 'Este producto sólo puede ser ordenado en las unidades de envasado de',
-'DETAILS_VPE_MESSAGE_2' => '',
+'DETAILS_VPE_MESSAGE_2' => 'Este producto sólo puede ser ordenado en las unidades de envasado de',
 'DETAILS_ZOOM' => '[+] Zoom',
 'EMAIL_INVITE_HTML_INVITETOSHOP' => 'Una invitación de',
 'EMAIL_INVITE_HTML_INVITETOSHOP2' => 'Visitar',
-'EMAIL_INVITE_HTML_INVITETOSHOP3' => '',
+'EMAIL_INVITE_HTML_INVITETOSHOP3' => 'para visitar',
 'EMAIL_ORDER_CUST_HTML_ARTNOMBER' => 'Art. No:',
 'EMAIL_ORDER_CUST_HTML_NONE' => 'NINGUNO',
 'EMAIL_ORDER_CUST_HTML_PAYMENTCHARGEVAT1' => 'El pago del IVA de carga',

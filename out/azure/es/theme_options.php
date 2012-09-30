@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (2202), afimage (337), jsmaster (6), nuelgoz (156)
+ * @translators: admin (2202), afimage (479), jsmaster (6), nuelgoz (156)
  */
 
 $sLangName  = "Español";
@@ -39,7 +39,7 @@ $aLang = array(
 'HELP_SHOP_THEME_sManufacturerIconsize' => 'Fabricante  logotipo de la marca se muestra en la página de inicio en el control deslizante fabricante  s.',
 'HELP_SHOP_THEME_sThumbnailsize' => 'Las miniaturas son imágenes pequeñas de productos. Se utilizan: <br>.',
 'SHOP_THEME_aDetailImageSizes' => 'Del producto tamaño de la imagen (ancho * alto)',
-'SHOP_THEME_aNrofCatArticles' => '',
+'SHOP_THEME_aNrofCatArticles' => 'El número de productos que pueden incluirse en una lista de productos (las páginas de categorías, los resultados de la búsqueda) <br> Atención <br>: Un gran número de productos por página (por encima de 100) pueden causar pérdida de rendimiento!',
 'SHOP_THEME_aNrofCatArticlesInGrid' => 'Cuadrícula: El número de productos que pueden incluirse en una lista de productos (páginas de la categoría resultados de la búsqueda) <br> Atención <br>: Un gran número de productos por página (por encima de 100) pueden causar pérdida de rendimiento!',
 'SHOP_THEME_blShowBirthdayFields' => 'Mostrar campos de entrada para la fecha de nacimiento, cuando los usuarios introducen sus datos personales',
 'SHOP_THEME_blShowFinalStep' => 'Mostrar la confirmación para después de la orden se termina (Paso 5 º Pedido)',
