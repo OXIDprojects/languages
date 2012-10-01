@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (2202), afimage (479), jsmaster (6), nuelgoz (156)
+ * @translators: admin (2202), afimage (504), jsmaster (6), nuelgoz (156)
  */
 
 $sLangName  = "Español";
@@ -90,7 +90,7 @@ $aLang = array(
 'FORM_WISHLIST_SUGGEST_BUYFORME2' => '. Estupendo si pudiera comprar algo para mí.',
 'FORM_WISHLIST_SUGGEST_ERRWRONGEMAIL' => 'Ha ocurrido un error enviando el correo electrónico - por favor consulte la dirección de email.',
 'fullDateFormat' => '',
-'grid' => '',
+'grid' => 'Grid',
 'infogrid' => 'Doble rejilla',
 'line' => 'Línea',
 'NEWSLETTER_COMPLETEALLFIELEDS' => 'Por favor, complete todos los campos correctamente!',

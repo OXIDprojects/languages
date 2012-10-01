@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (355)
+ * @translators: admin (355), rostav (10)
  */
 
 $sLangName  = "Ελληνικά";
@@ -29,9 +29,9 @@ $sLangName  = "Ελληνικά";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACTIONS_LIST_MENUITEM' => '',
-'ACTIONS_LIST_MENUSUBITEM' => '',
-'ACTIONS_MAIN_ALLARTICLES' => '',
+'ACTIONS_LIST_MENUITEM' => 'Πληροφορίες Πελάτη',
+'ACTIONS_LIST_MENUSUBITEM' => 'Προώθηση',
+'ACTIONS_MAIN_ALLARTICLES' => 'Διαθέσιμα προιόντα',
 'ACTIONS_MAIN_ALLARTICLESWITHATTR' => '',
 'ACTIONS_MAIN_NOTSELECTED' => '',
 'ADMINGB_LIST_AUTHOR' => '',

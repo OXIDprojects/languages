@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (2202), afimage (479), jsmaster (6), nuelgoz (156)
+ * @translators: admin (2202), afimage (504), jsmaster (6), nuelgoz (156)
  */
 
 $sLangName  = "Español";
@@ -67,7 +67,7 @@ $aLang = array(
 'FOOTER_OXID_ESALES' => '',
 'HEADER_META_MAIN_TITLE' => '',
 'HEADER_TEXT_SETUP_NOT_RUNS_AUTOMATICLY' => '',
-'HERE' => '',
+'HERE' => 'Aquí',
 'LOAD_DYN_CONTENT_NOTICE' => '',
 'MOD_ALLOW_URL_FOPEN' => '',
 'MOD_BC_MATH' => '',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (355)
+ * @translators: admin (355), rostav (10)
  */
 
 $sLangName  = "Ελληνικά";
@@ -48,7 +48,7 @@ $aLang = array(
 'ACCOUNT_WISHLIST_SEARCH' => 'Αναζήτηση',
 'ACCOUNT_WISHLIST_SEND' => 'Στείλε',
 'ACCOUNT_WISHLIST_SENDSUCCESSFULLY1' => 'Το αρχείο δώρων σας έχει σταλθεί επιτυχώς σε:',
-'ACCOUNT_WISHLIST_SENDSUCCESSFULLY2' => '',
+'ACCOUNT_WISHLIST_SENDSUCCESSFULLY2' => 'Απεστάλη!',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'Δεν υπάρχει καμία αγαπημένη λίστα αυτή τη στιγμή. Για τη δημιουργία νέων, κάντε κλικ στο κουμπί',
 'ADD_RECOMM_ADDRECOMMLINK2' => 'Εδώ',
 'BASKET_ARTICLENOTONSTOCK' => 'Το προιόν έχει εξαντληθει και θα πρέπει να το ξαναπαραγγείλετε.',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (355)
+ * @translators: admin (355), rostav (10)
  */
 
 $sLangName  = "Ελληνικά";
@@ -29,10 +29,10 @@ $sLangName  = "Ελληνικά";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACCESSORIES' => '',
-'ACCOUNT' => '',
-'ACCOUNT_INFORMATION' => '',
-'ADD' => '',
+'ACCESSORIES' => 'Αξεσουάρ',
+'ACCOUNT' => 'Λογαριασμός',
+'ACCOUNT_INFORMATION' => 'Πληροφορίες Λογαριασμού',
+'ADD' => 'Προσθήκη',
 'ADDITIONAL_INFO' => '',
 'ADDRESS' => '',
 'ADDRESSES' => '',
@@ -47,10 +47,10 @@ $aLang = array(
 'ADD_TO_GIFT_REGISTRY' => '',
 'ADD_TO_LIST' => '',
 'ADD_TO_LISTMANIA_LIST' => '',
-'ADD_TO_WISH_LIST' => '',
+'ADD_TO_WISH_LIST' => 'Προσθήκη στην Λίστα Επιθυμιών',
 'ADD_WRAPPING' => '',
 'ADD_YOUR_COMMENTS' => '',
-'ALL' => '',
+'ALL' => 'Όλα',
 'ALL_LISTMANIA' => '',
 'ALREADY_ADDED_TAG' => '',
 'ALREADY_CUSTOMER' => '',
