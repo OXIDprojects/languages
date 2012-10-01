@@ -25,7 +25,7 @@
 $sLangName  = "العربية";
 
 // -------------------------------
-// RESOURCE IDENTITFIER = STRING
+// RESOURCE IDENTIFIER = STRING
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',

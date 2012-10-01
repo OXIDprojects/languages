@@ -25,7 +25,7 @@
 $sLangName  = "日本語";
 
 // -------------------------------
-// RESOURCE IDENTITFIER = STRING
+// RESOURCE IDENTIFIER = STRING
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
