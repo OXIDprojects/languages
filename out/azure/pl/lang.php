@@ -19,13 +19,13 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: 
+ * @translators: mart (110)
  */
 
 $sLangName  = "Polski";
 
 // -------------------------------
-// RESOURCE IDENTITFIER = STRING
+// RESOURCE IDENTIFIER = STRING
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',

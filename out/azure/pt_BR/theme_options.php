@@ -19,10 +19,10 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (188), swolou (3), tlt (204)
+ * @translators: admin (1100)
  */
 
-$sLangName  = "Lietuvių";
+$sLangName  = "Português do Brasil";
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

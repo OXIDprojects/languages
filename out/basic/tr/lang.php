@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1849), e.mersinlioglu (37)
+ * @translators: admin (1849), e.mersinlioglu (37), McDaim (101)
  */
 
 $sLangName  = "Türkçe";
@@ -82,7 +82,7 @@ $aLang = array(
 'DETAILS_SEND' => 'Gönder',
 'DETAILS_VPE_MESSAGE_1' => 'Yanlızca Koli ile satılır, Koli Fiyatı',
 'DETAILS_VPE_MESSAGE_2' => '.',
-'DETAILS_ZOOM' => '',
+'DETAILS_ZOOM' => 'Zoom',
 'EMAIL_INVITE_HTML_INVITETOSHOP' => 'Bir Davet',
 'EMAIL_INVITE_HTML_INVITETOSHOP2' => '',
 'EMAIL_INVITE_HTML_INVITETOSHOP3' => 'ziyaret etmenizi istiyor.',

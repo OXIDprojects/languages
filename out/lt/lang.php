@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (188), tlt (204)
+ * @translators: abejingas (188), swolou (3), tlt (204)
  */
 
 $sLangName  = "Lietuvių";
@@ -268,7 +268,7 @@ Patiktinkite adresus.',
 'FACEBOOK_INVITE_YOUR_FRIENDS' => '',
 'FACEBOOK_LOCALE' => '',
 'FACEBOOK_OPEN_WEBSITE' => '',
-'FAX' => '',
+'FAX' => 'Faksas',
 'FIRST_LAST_NAME' => '',
 'FIRST_NAME' => '',
 'FIRST_NAME_2' => '',

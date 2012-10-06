@@ -19,10 +19,10 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (188), swolou (3), tlt (204)
+ * @translators: admin (1100)
  */
 
-$sLangName  = "Lietuvių";
+$sLangName  = "Português do Brasil";
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
@@ -57,8 +57,8 @@ $aLang = array(
 'ERROR_NOT_AVAILABLE' => '',
 'ERROR_NOT_WRITABLE' => '',
 'ERROR_OPENING_SQL_FILE' => '',
-'ERROR_PASSWORDS_DO_NOT_MATCH' => 'klaida neatitinka slaptažodis',
-'ERROR_PASSWORD_TOO_SHORT' => 'klaida slaptažodis per trumpas',
+'ERROR_PASSWORDS_DO_NOT_MATCH' => '',
+'ERROR_PASSWORD_TOO_SHORT' => '',
 'ERROR_SETUP_CANCELLED' => '',
 'ERROR_USER_NAME_DOES_NOT_MATCH_PATTERN' => '',
 'ERROR_VIEWS_CANT_CREATE' => '',

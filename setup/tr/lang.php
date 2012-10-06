@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1849), e.mersinlioglu (37)
+ * @translators: admin (1849), e.mersinlioglu (37), McDaim (101)
  */
 
 $sLangName  = "Türkçe";
@@ -29,17 +29,17 @@ $sLangName  = "Türkçe";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ATTENTION' => '',
-'BUTTON_BEGIN_INSTALL' => '',
-'BUTTON_DB_INSTALL' => '',
+'ATTENTION' => 'Dikkat',
+'BUTTON_BEGIN_INSTALL' => 'Install',
+'BUTTON_DB_INSTALL' => 'DB Install',
 'BUTTON_LICENCE' => '',
-'BUTTON_PROCEED_INSTALL' => '',
-'BUTTON_RADIO_INSTALL_DB_DEMO' => '',
-'BUTTON_RADIO_LICENCE_ACCEPT' => '',
+'BUTTON_PROCEED_INSTALL' => 'Devam',
+'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Install DB Demo',
+'BUTTON_RADIO_LICENCE_ACCEPT' => 'Lisansi Kabul Ediyorum',
 'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => '',
-'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => '',
-'BUTTON_START_INSTALL' => '',
-'BUTTON_WRITE_DATA' => '',
+'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => 'Instal Devam Edemiyor',
+'BUTTON_START_INSTALL' => 'Kuruluma Basla',
+'BUTTON_WRITE_DATA' => 'Bilgileri Giriniz',
 'BUTTON_WRITE_LICENCE' => '',
 'ERROR_BAD_DEMODATA' => '',
 'ERROR_BAD_SERIAL_NUMBER' => '',

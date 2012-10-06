@@ -19,10 +19,10 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: mart (110)
+ * @translators: admin (1100)
  */
 
-$sLangName  = "Polski";
+$sLangName  = "Português do Brasil";
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
@@ -38,7 +38,7 @@ $aLang = array(
 'HELP_ARTICLE_EXTEND_SKIPDISCOUNTS' => '',
 'HELP_ARTICLE_EXTEND_TEMPLATE' => '',
 'HELP_ARTICLE_EXTEND_TPRICE' => '',
-'HELP_ARTICLE_EXTEND_UNITQUANTITY' => '',
+'HELP_ARTICLE_EXTEND_UNITQUANTITY' => 'With <span class="navipath_or_inputname">Quantity</span> and <span class="navipath_or_inputname">Unit</span> you can display the price per quantity unit (e. g. 1.43 EUR per liter). In <span class="navipath_or_inputname">Quantity</span>, enter the amount of the product (e. g. <span class="userinput_or_code">1.5</span>), in <span class="navipath_or_inputname">Unit</span> the according quantity unit (e. g. <span class="userinput_or_code">liter</span>). The price per quantity unit is calculated and displayed with the product.',
 'HELP_ARTICLE_EXTEND_UPDATEPRICE' => '',
 'HELP_ARTICLE_FILES_DOWNLOAD_EXPIRATION_TIME' => '',
 'HELP_ARTICLE_FILES_LINK_EXPIRATION_TIME' => '',
@@ -162,9 +162,9 @@ $aLang = array(
 'HELP_SHOP_CONFIG_POINTSFORREGISTRATION' => '',
 'HELP_SHOP_CONFIG_PSLOGIN' => '',
 'HELP_SHOP_CONFIG_SEARCHFIELDS' => '',
-'HELP_SHOP_CONFIG_SHOP_CONFIG_FACEBOOKAPPID' => '',
+'HELP_SHOP_CONFIG_SHOP_CONFIG_FACEBOOKAPPID' => 'To connect your website to facebook you need to enter Application ID. How to connect your website to Facebook, you can read in <a href="http://wiki.oxidforge.org/Tutorials/Connecting_website_to_facebook" target="_blank" target="_blank">tutorial</a>.',
 'HELP_SHOP_CONFIG_SHOP_CONFIG_FACEBOOKCONFIRM' => '',
-'HELP_SHOP_CONFIG_SHOP_CONFIG_FBSECRETKEY' => '',
+'HELP_SHOP_CONFIG_SHOP_CONFIG_FBSECRETKEY' => 'To ensure secure connection between your site and facebook, you must enter Secure Key which you get when registering your website to Facebook. Read in <a href="http://wiki.oxidforge.org/Tutorials/Connecting_website_to_facebook" target="_blank" target="_blank">tutorial</a> how to connect your website to Facebook.',
 'HELP_SHOP_CONFIG_SHOWTAGS' => '',
 'HELP_SHOP_CONFIG_SORTFIELDS' => '',
 'HELP_SHOP_CONFIG_STOCKOFFDEFAULTMESSAGE' => '',
@@ -174,11 +174,11 @@ $aLang = array(
 'HELP_SHOP_MAIN_INFOEMAIL' => '',
 'HELP_SHOP_MAIN_ORDEREMAIL' => '',
 'HELP_SHOP_MAIN_OWNEREMAIL' => '',
-'HELP_SHOP_MAIN_PRODUCTIVE' => '',
+'HELP_SHOP_MAIN_PRODUCTIVE' => 'As long as this setting is <span class="warning_or_important_hint">not</span> active, information about execution times and debug information are displayed  at the bottom of each page. These information is useful when customizing eShop.<br><span class="warning_or_important_hint">Activate this setting when the eShop is launched. Thereby only the eShop without additional information is displayed to your users.</span><br>',
 'HELP_SHOP_MAIN_SMTPSERVER' => '',
 'HELP_SHOP_MALL_MALLMODE' => '',
 'HELP_SHOP_MALL_PRICEADDITION' => '',
-'HELP_SHOP_PERF_CHECKIFTPLCOMPILE' => '',
+'HELP_SHOP_PERF_CHECKIFTPLCOMPILE' => 'If this setting is activated the eShop checks on each call if any templates were changed. If so, the output is  recalculated. Activate this setting when adapting templates, deactivate it if the eShop is live for better performance. <br>Further information can be found in the <a href="http://www.oxid-esales.com/en/resources/help-faq/eshop-manual/advices-adepting-templates" target="_blank" target="_blank">caching article in the manual</a>.',
 'HELP_SHOP_PERF_CLEARCACHEONLOGOUT' => '',
 'HELP_SHOP_PERF_DISBASKETSAVING' => '',
 'HELP_SHOP_PERF_LOADACTION' => '',
@@ -214,7 +214,7 @@ $aLang = array(
 'HELP_SHOP_RDFA_SUBMIT_URL' => '',
 'HELP_SHOP_RDFA_VAT' => '',
 'HELP_SHOP_SEO_IDSSEPARATOR' => '',
-'HELP_SHOP_SEO_REPLACECHARS' => '',
+'HELP_SHOP_SEO_REPLACECHARS' => 'Some special characters like German umlauts should be removed from URLs. They can cause problems. Here you can define how they are replaced. The syntax is <code>special character -> replacement character</code>, e.g. <code>� -> Ue</code>.<br>For German, the replacements are already entered.',
 'HELP_SHOP_SEO_RESERVEDWORDS' => '',
 'HELP_SHOP_SEO_SAFESEOPREF' => '',
 'HELP_SHOP_SEO_SKIPTAGS' => '',
