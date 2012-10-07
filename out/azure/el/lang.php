@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (355), rostav (10)
+ * @translators: admin (355), rostav (28)
  */
 
 $sLangName  = "Ελληνικά";
@@ -29,8 +29,8 @@ $sLangName  = "Ελληνικά";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ADD_RECOMM_ADDRECOMMLINK1' => '',
-'ADD_RECOMM_ADDRECOMMLINK2' => '',
+'ADD_RECOMM_ADDRECOMMLINK1' => 'Δεν υπάρχει διαθέσιμη listmania λίστα. Για να δημιουργήσετε νέα, πατήστε',
+'ADD_RECOMM_ADDRECOMMLINK2' => 'εδώ',
 'BETA_NOTE' => '',
 'BETA_NOTE_CLOSE' => '',
 'byBrand' => '',

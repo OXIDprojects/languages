@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (355), rostav (10)
+ * @translators: admin (355), rostav (28)
  */
 
 $sLangName  = "Ελληνικά";
@@ -32,9 +32,9 @@ $aLang = array(
 'ACTIONS_LIST_MENUITEM' => 'Πληροφορίες Πελάτη',
 'ACTIONS_LIST_MENUSUBITEM' => 'Προώθηση',
 'ACTIONS_MAIN_ALLARTICLES' => 'Διαθέσιμα προιόντα',
-'ACTIONS_MAIN_ALLARTICLESWITHATTR' => '',
-'ACTIONS_MAIN_NOTSELECTED' => '',
-'ADMINGB_LIST_AUTHOR' => '',
+'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Προωθούμενα προιόντα',
+'ACTIONS_MAIN_NOTSELECTED' => 'Παρακαλώ επιλέξτε κάποιο στοιχείο από την παραπάνω λίστα για να κάνετε αλλαγές',
+'ADMINGB_LIST_AUTHOR' => 'Συγγραφέας',
 'ADMINGB_LIST_ENTRY' => '',
 'ADMINGB_LIST_MENUITEM' => '',
 'ADMINGB_LIST_MENUSUBITEM' => '',
@@ -90,7 +90,7 @@ $aLang = array(
 'ARTICLE_EXTEND_TEMPLATE' => '',
 'ARTICLE_EXTEND_TPRICE' => '',
 'ARTICLE_EXTEND_UNITNAME' => '',
-'ARTICLE_EXTEND_UNITQUANTITY' => '',
+'ARTICLE_EXTEND_UNITQUANTITY' => 'Ποσότητα',
 'ARTICLE_EXTEND_UPDATEMEDIA' => '',
 'ARTICLE_EXTEND_UPDATEPRICE' => '',
 'ARTICLE_EXTEND_UPDATEPRICEA' => '',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (355), rostav (10)
+ * @translators: admin (355), rostav (28)
  */
 
 $sLangName  = "Ελληνικά";
@@ -33,23 +33,23 @@ $aLang = array(
 'ACCOUNT' => 'Λογαριασμός',
 'ACCOUNT_INFORMATION' => 'Πληροφορίες Λογαριασμού',
 'ADD' => 'Προσθήκη',
-'ADDITIONAL_INFO' => '',
-'ADDRESS' => '',
-'ADDRESSES' => '',
-'ADDRESSES_2' => '',
-'ADDRESS_2' => '',
+'ADDITIONAL_INFO' => 'Επιπρόσθετες πληροφορίες',
+'ADDRESS' => 'Διεύθυνση',
+'ADDRESSES' => 'Διευθύνσεις',
+'ADDRESSES_2' => 'Διευθύνσεις:',
+'ADDRESS_2' => 'Διεύθυνση:',
 'ADD_TAGS' => '',
-'ADD_THIS_PAGE_TO' => '',
-'ADD_THIS_PAGE_TO_WEBNEWS' => '',
-'ADD_THIS_PAGE_TO_YIEEHA' => '',
-'ADD_TO_CART' => '',
-'ADD_TO_CART_2' => '',
+'ADD_THIS_PAGE_TO' => 'Πρόσθεσε αυτήν την σελίδα σε',
+'ADD_THIS_PAGE_TO_WEBNEWS' => 'Πρόσθεσε αυτήν την σελίδα στα Webnews',
+'ADD_THIS_PAGE_TO_YIEEHA' => 'Πρόσθεσε αυτήν την σελίδα στα Yieeha',
+'ADD_TO_CART' => 'Πρόσθεσε στο καλάθι',
+'ADD_TO_CART_2' => 'Πρόσθεσε στο καλάθι',
 'ADD_TO_GIFT_REGISTRY' => '',
-'ADD_TO_LIST' => '',
+'ADD_TO_LIST' => 'Πρόσθεσε στη λίστα',
 'ADD_TO_LISTMANIA_LIST' => '',
 'ADD_TO_WISH_LIST' => 'Προσθήκη στην Λίστα Επιθυμιών',
 'ADD_WRAPPING' => '',
-'ADD_YOUR_COMMENTS' => '',
+'ADD_YOUR_COMMENTS' => 'Προσθέστε τα σχόλιά σας',
 'ALL' => 'Όλα',
 'ALL_LISTMANIA' => '',
 'ALREADY_ADDED_TAG' => '',
