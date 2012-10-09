@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: mart (110)
+ * @translators: la bete (5), mart (110)
  */
 
 $sLangName  = "Polski";
@@ -29,17 +29,17 @@ $sLangName  = "Polski";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACCOUNT_PASSWORD_CONFIRMPASSWORD' => '',
+'ACCOUNT_PASSWORD_CONFIRMPASSWORD' => 'Powtórz hasło:',
 'ACCOUNT_PASSWORD_PASSWORDMINLENGTH' => '',
 'ACCOUNT_RECOMM_LISTTITLE' => '',
 'ACCOUNT_RECOMM_TITLE' => '',
-'ACCOUNT_USER_BILLINGADDRESS' => '',
+'ACCOUNT_USER_BILLINGADDRESS' => 'Adres rachunkowy',
 'ACCOUNT_USER_COMPLETEMARKEDFIELDS' => '',
-'ACCOUNT_USER_ERRCOMLETEBILLINGADDRESS' => '',
+'ACCOUNT_USER_ERRCOMLETEBILLINGADDRESS' => 'Błąd: Proszę podać Adres rozliczeniowy!',
 'ACCOUNT_USER_ERRCOMPLETEMARKEDFIELDS' => '',
-'ACCOUNT_USER_ERREMAILALREADYTAKEN' => '',
+'ACCOUNT_USER_ERREMAILALREADYTAKEN' => 'Błąd: Adres e-mail jest już zajęty!',
 'ACCOUNT_USER_ERRINVALIDEMAIL' => '',
-'ACCOUNT_USER_ERRPASSWORDSDONTMATCH' => '',
+'ACCOUNT_USER_ERRPASSWORDSDONTMATCH' => 'Błąd: Hasła nie są identyczne!',
 'ACCOUNT_USER_ERRWRONGUSERNAMEPASSW' => '',
 'ACCOUNT_WISHLIST_BUYFORME1' => '',
 'ACCOUNT_WISHLIST_BUYFORME2' => '',

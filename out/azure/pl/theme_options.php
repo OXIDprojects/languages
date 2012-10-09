@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: mart (110)
+ * @translators: la bete (5), mart (110)
  */
 
 $sLangName  = "Polski";
