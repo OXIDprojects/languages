@@ -10,17 +10,19 @@ If you can help with translations, please register there instead of sending a pu
 ###2 - transliteration lists
 Aside the base lang files you will find a file /out/{locale}/translit_lang.php containing an array with a language based 
 list of special characters (e.g. German Umlauts) transliterating them into clean latin characters, for example: ä => ae. 
-This goes especially for languages with non-latin based characters. This is because of the URL where all non-lating based
-characters have to be transliterated into latin.
+This is valid especially for languages with non-latin based characters for clean latin based URLs. 
+Please feel free to send pull requests where the file is missing or the lists are incomplete.
 
 ###3 - map.php files
 map.php files are used to support theming and own language keys in different themes in OXID eShop and can depend on the
 basic language used for the translation.
+Please feel free to send pull requests for such files.
 
 ###4 - flag images
 You will find the flag images for the different themes in the following folders:<br>
 /out/azure/img/lang/ adjusted at 14x10 px<br>
 /out/basic/img/lang/ adjusted at 18x13 px
+Please feel free to send pull requests for such files.
 
 For more information and how to install a language, please visit
-http://wiki.oxidforge.org/Downloads/Languages
+http://wiki.oxidforge.org/Tutorial/Language_handling
