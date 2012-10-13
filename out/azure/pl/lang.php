@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: la bete (5), mart (110)
+ * @translators: la bete (5), mart (139)
  */
 
 $sLangName  = "Polski";
@@ -59,11 +59,11 @@ $aLang = array(
 'EMAIL_ORDER_OWNER_HTML_MESSAGE' => '',
 'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '',
 'EMAIL_SUGGEST_HTML_MENYGREETINGS' => '',
-'FOOTER_CATEGORIES' => '',
-'FOOTER_DISTRIBUTORS' => '',
-'FOOTER_INFORMATION' => '',
-'FOOTER_MANUFACTURERS' => '',
-'FOOTER_SERVICES' => '',
+'FOOTER_CATEGORIES' => 'Kategorie',
+'FOOTER_DISTRIBUTORS' => 'Dystrybutorzy',
+'FOOTER_INFORMATION' => 'Informacje',
+'FOOTER_MANUFACTURERS' => 'Producenci',
+'FOOTER_SERVICES' => 'Obsługa',
 'FORM_CONTACT_SEND' => '',
 'FORM_FIELDSET_USER_ACCOUNT_CONFIRMPWD' => '',
 'FORM_LOGIN_ACCOUNT_FORGOTPWD' => '',

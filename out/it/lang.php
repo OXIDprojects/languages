@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1217)
+ * @translators: admin (1217), bRanzo (4)
  */
 
 $sLangName  = "Italiano";
@@ -30,8 +30,8 @@ $sLangName  = "Italiano";
 $aLang = array(
 'charset' => 'utf-8',
 'ACCESSORIES' => 'Accessori',
-'ACCOUNT' => '',
-'ACCOUNT_INFORMATION' => 'Informazione account',
+'ACCOUNT' => 'Account Utente',
+'ACCOUNT_INFORMATION' => 'Informazioni account',
 'ADD' => 'aggiungere',
 'ADDITIONAL_INFO' => 'Informazione addizionale:',
 'ADDRESS' => 'indirizzo',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1217)
+ * @translators: admin (1217), bRanzo (4)
  */
 
 $sLangName  = "Italiano";
@@ -47,7 +47,7 @@ $aLang = array(
 'ACCOUNT_WISHLIST_ERRWRONGEMAIL' => 'Si è verificato un errore inviando il messaggio email, si prega di controllare gli indirizzi email',
 'ACCOUNT_WISHLIST_SEARCH' => 'Cerca',
 'ACCOUNT_WISHLIST_SEND' => 'Invia',
-'ACCOUNT_WISHLIST_SENDSUCCESSFULLY1' => 'La tua lista dei regali é stato mandato ai tuoi amici:',
+'ACCOUNT_WISHLIST_SENDSUCCESSFULLY1' => 'La tua lista dei regali é stata inviata ai tuoi amici:',
 'ACCOUNT_WISHLIST_SENDSUCCESSFULLY2' => '',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'Non é salvata nessuna lista. Per creare una clicca',
 'ADD_RECOMM_ADDRECOMMLINK2' => 'qua',

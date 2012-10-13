@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1217)
+ * @translators: admin (1217), bRanzo (4)
  */
 
 $sLangName  = "Italiano";
@@ -55,7 +55,7 @@ $aLang = array(
 'ARTICLE_ATTRIBUTE_SAVE' => '',
 'ARTICLE_ATTRIBUTE_SELECTONEATTR' => '',
 'ARTICLE_ATTRIBUTE_TOOMANYATTRIBUTES' => '',
-'ARTICLE_BUNDLE_ALLITEMS' => '',
+'ARTICLE_BUNDLE_ALLITEMS' => 'Tutti i nostri Prodotti',
 'ARTICLE_BUNDLE_ASSIGNARTICLE' => '',
 'ARTICLE_BUNDLE_ASSIGNEDARTICLE' => '',
 'ARTICLE_BUNDLE_UNASSIGNARTICLE' => '',
