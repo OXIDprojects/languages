@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (2202), afimage (504), jsmaster (6), nuelgoz (156)
+ * @translators: admin (2202), afimage (504), Espana (5), jsmaster (6), nuelgoz (156)
  */
 
 $sLangName  = "Español";
@@ -41,7 +41,7 @@ $aLang = array(
 'ADD_TAGS' => 'Añadir etiquetas:',
 'ADD_THIS_PAGE_TO' => 'Agregar esta página a',
 'ADD_THIS_PAGE_TO_WEBNEWS' => 'Añadir esta página a Webnews',
-'ADD_THIS_PAGE_TO_YIEEHA' => '',
+'ADD_THIS_PAGE_TO_YIEEHA' => 'AÑADA ESTA PÁGINA a YIEEHA',
 'ADD_TO_CART' => 'Añadir al Carro',
 'ADD_TO_CART_2' => 'añadir al carrito',
 'ADD_TO_GIFT_REGISTRY' => 'Agregar a registro de regalos',

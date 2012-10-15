@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (2202), afimage (504), jsmaster (6), nuelgoz (156)
+ * @translators: admin (2202), afimage (504), Espana (5), jsmaster (6), nuelgoz (156)
  */
 
 $sLangName  = "Español";
@@ -78,10 +78,10 @@ $aLang = array(
 'ARTICLE_EXTEND_FILE' => 'Archivo',
 'ARTICLE_EXTEND_FILEUPLOAD' => 'Carga de archivos:',
 'ARTICLE_EXTEND_FREESHIPPING' => 'El envío gratuito',
-'ARTICLE_EXTEND_HEIGHT' => 'H:',
+'ARTICLE_EXTEND_HEIGHT' => 'ARTÍCULO AMPLÍA ALTURA',
 'ARTICLE_EXTEND_ISCONFIGURABLE' => 'Producto pueden ser modificadas',
 'ARTICLE_EXTEND_ISSEARCH' => 'Búsqueda',
-'ARTICLE_EXTEND_LENGTH' => 'L:',
+'ARTICLE_EXTEND_LENGTH' => 'ARTÍCULO AMPLÍA LONGITUD',
 'ARTICLE_EXTEND_MASS' => 'Dimensiones',
 'ARTICLE_EXTEND_MEDIAURLS' => 'Media URL',
 'ARTICLE_EXTEND_NONMATERIAL' => 'Producto inmaterial',
@@ -103,7 +103,7 @@ $aLang = array(
 'ARTICLE_EXTEND_WEIGHT' => 'Cargo',
 'ARTICLE_EXTEND_WEIGHT_UNIT' => 'Cargo Unidad',
 'ARTICLE_EXTEND_WIDTH' => 'A:',
-'ARTICLE_FILES_ENTER_FILENAME' => '',
+'ARTICLE_FILES_ENTER_FILENAME' => 'ARCHIVOS DE ARTÍCULO ENTRAN EN NOMBRE DEL ARCHIVO',
 'ARTICLE_FILES_ISDOWNLOADABLE' => 'Permitir la descarga de archivos de este producto',
 'ARTICLE_FILES_NEW_FILE' => '',
 'ARTICLE_FILES_NEW_PURCHASEDONLY' => 'Descargar sólo está disponible después de la compra',
@@ -111,7 +111,7 @@ $aLang = array(
 'ARTICLE_FILES_NEW_UPLOAD' => 'enviar',
 'ARTICLE_FILES_OR' => '',
 'ARTICLE_FILES_OR_FILENAME' => 'introduzca el nombre o un archivo existente',
-'ARTICLE_FILES_TABLE_FILENAME' => '',
+'ARTICLE_FILES_TABLE_FILENAME' => 'NOMBRE DEL ARCHIVO',
 'ARTICLE_FILES_TABLE_PURCHASEDONLY' => '',
 'ARTICLE_FILES_TABLE_UPLOADEDFILES' => 'Archivos subidos',
 'ARTICLE_LIST_ALLPRODUCTS' => 'todos los productos',
