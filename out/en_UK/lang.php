@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: marco (3959)
+ * @translators: marco (3965)
  */
 
 $sLangName  = "British English";
@@ -352,7 +352,7 @@ $aLang = array(
 'MESSAGE_2' => 'Message:',
 'MESSAGE_ACCOUNT_REGISTRATION_CONFIRMED' => 'Your account registration is confirmed.',
 'MESSAGE_ALREADY_RATED' => 'You already rated!',
-'MESSAGE_BASKET_EXCLUDE_INFO' => 'You can proceed to checkout and finalize order.<br>Or you can continue shopping, but all basket content will be emptied.',
+'MESSAGE_BASKET_EXCLUDE_INFO' => 'You can proceed to checkout and finalise order.<br>Or you can continue shopping, but all basket content will be emptied.',
 'MESSAGE_CONFIRMATION_NOT_SUCCEED' => 'Unfortunately our order e-mail confirmation was not sent successfully.',
 'MESSAGE_CONFIRMING_REGISTRATION' => 'We sent you an e-mail confirming your registration.<br><br>Thank you.',
 'MESSAGE_COUNPON_INVALID_USER_GROUP' => 'Your User Group doesn\'t qualify for this coupon.',
@@ -789,7 +789,7 @@ $aLang = array(
 'TRUSTED_SHOP_REGISTRATION' => 'Register for Trusted Shops Buyer Protection',
 'TRUSTED_SHOP_REGISTRATION_MESSAGE' => 'As an additional service we offer you the Trusted Shops Buyer Protection. We cover all costs for this guarantee. You only have to register!',
 'TRUSTED_SHOP_SEAL_OF_APPROVAL' => 'Trusted Shops seal of approval - Click to verify.',
-'TRUSTED_SHOP_UNAVAILABLE_PROTECTION' => 'Trusted Shops Buyer protection cannot be added to your basket for technical reasons. You may however finalize your order without Buyer Protection. If you have further questions please contact service@trustedshops.co.uk.',
+'TRUSTED_SHOP_UNAVAILABLE_PROTECTION' => 'Trusted Shops Buyer protection cannot be added to your basket for technical reasons. You may however finalise your order without Buyer Protection. If you have further questions please contact service@trustedshops.co.uk.',
 'TYPE_OF_PAYMENT' => 'Type of Payment',
 'TYPE_OF_PAYMENT_2' => 'Type of Payment:',
 'UNIT_PRICE' => 'Unit Price',

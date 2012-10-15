@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: marco (3959)
+ * @translators: marco (3965)
  */
 
 $sLangName  = "British English";
@@ -79,7 +79,7 @@ $aLang = array(
 'ARTICLE_EXTEND_FILEUPLOAD' => 'File Upload:',
 'ARTICLE_EXTEND_FREESHIPPING' => 'Free delivery',
 'ARTICLE_EXTEND_HEIGHT' => 'H:',
-'ARTICLE_EXTEND_ISCONFIGURABLE' => 'Product can be customized',
+'ARTICLE_EXTEND_ISCONFIGURABLE' => 'Product can be customised',
 'ARTICLE_EXTEND_ISSEARCH' => 'Searchable',
 'ARTICLE_EXTEND_LENGTH' => 'L:',
 'ARTICLE_EXTEND_MASS' => 'Dimensions',
@@ -484,7 +484,7 @@ $aLang = array(
 'DYN_TRUSTED_PREPAYMENT' => 'Vorauskasse / Überweisung',
 'DYN_TRUSTED_RATINGS' => 'Show feedback button',
 'DYN_TRUSTED_RATINGS_COMMENT' => 'Decide where you would like to invite your customer to leave feedback.',
-'DYN_TRUSTED_RATINGS_CONFIGFILE' => '<b>NOTICE:</b> config.inc.php file contains additional configuration options. In case you need to customize Trusted Shops Customer Ratings or add additional language support (default configuration supports DE and EN) please adjust your config file.',
+'DYN_TRUSTED_RATINGS_CONFIGFILE' => '<b>NOTICE:</b> config.inc.php file contains additional configuration options. In case you need to customise Trusted Shops Customer Ratings or add additional language support (default configuration supports DE and EN) please adjust your config file.',
 'DYN_TRUSTED_RATINGS_ERR_INVALID_TSID' => 'Invalid Trusted Shops ID. Please sign up here or contact <u>service@trustedshops.co.uk</u>.',
 'DYN_TRUSTED_RATINGS_ERR_NOT_REGISTERED_FOR_TRUSTEDRATING' => 'Trusted Shops Customer Ratings are not yet activated for this Trusted Shops ID. Please sign up here or contact <u>service@trustedshops.co.uk</u>.',
 'DYN_TRUSTED_RATINGS_ERR_WRONG_WSUSERNAME_WSPASSWORD' => 'Interne Rückmeldung an Shopsystem/Entwickler, keine Rückmeldung im Frontend.',
@@ -508,7 +508,7 @@ $aLang = array(
 'EFIRE_DOWNLOADER' => 'Downloader',
 'EFIRE_DOWNLOADER_ERROR' => 'Error downloading eFire connector: %s',
 'EFIRE_DOWNLOADER_SUCCESS' => 'Connector downloaded successfully',
-'EFIRE_GETCONNECTOR' => 'If you have registered for OXID eFire you can get your personalized Shop-Connector right here.',
+'EFIRE_GETCONNECTOR' => 'If you have registered for OXID eFire you can get your personalised shop connector right here.',
 'EFIRE_PASSWORD' => 'eFire External Transaction password',
 'EFIRE_SAVECREDENTIALS' => 'Save your credentials for future use',
 'EFIRE_USERDETAILS' => 'User',
@@ -1276,7 +1276,7 @@ $aLang = array(
 'REPORT_VISITOR_ABSOLUTE' => 'Customers/Visitors',
 'ROLES_BEMAIN_ACTIVE' => 'Active',
 'ROLES_BEMAIN_TITLE' => 'Title',
-'ROLES_BEMAIN_UIINFO' => '(F)ull, (R)ead, (D)eny, (I)nsert, (X)Delete, (C)ustomized',
+'ROLES_BEMAIN_UIINFO' => '(F)ull, (R)ead, (D)eny, (I)nsert, (X)Delete, (C)ustomised',
 'ROLES_BEMAIN_UIRIGHT_CUST' => 'C',
 'ROLES_BEMAIN_UIRIGHT_D' => 'D',
 'ROLES_BEMAIN_UIRIGHT_F' => 'F',
