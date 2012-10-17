@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (188), swolou (3), tlt (204)
+ * @translators: abejingas (188), agladutis (5), swolou (3), tlt (204)
  */
 
 $sLangName  = "Lietuvių";
@@ -188,20 +188,20 @@ $aLang = array(
 'ARTICLE_REVIEW_SAVE' => 'Išsaugoti',
 'ARTICLE_REVIEW_TEXT' => 'Tekstas:',
 'ARTICLE_RIGHTS_ALLGROUPS' => 'Visos vartotojų grupės',
-'ARTICLE_RIGHTS_ASSIGNBUYABLE' => '',
-'ARTICLE_RIGHTS_ASSIGNVISIBLE' => '',
+'ARTICLE_RIGHTS_ASSIGNBUYABLE' => 'Priskirkite vartotojų grupes (tik parduodamiems)',
+'ARTICLE_RIGHTS_ASSIGNVISIBLE' => 'Priskirti vartotojų grupes (tik matomos)',
 'ARTICLE_RIGHTS_SETGROUPS_BUYABLE' => '',
 'ARTICLE_RIGHTS_SETGROUPS_VISIBLE' => '',
-'ARTICLE_STOCK_AMOUNT' => '',
+'ARTICLE_STOCK_AMOUNT' => 'Kiekis',
 'ARTICLE_STOCK_AMOUNTPRICE_ABS' => '',
 'ARTICLE_STOCK_AMOUNTPRICE_AMOUNTFROM' => '',
 'ARTICLE_STOCK_AMOUNTPRICE_AMOUNTTO' => '',
 'ARTICLE_STOCK_AMOUNTPRICE_DISCOUNT' => '',
 'ARTICLE_STOCK_AMOUNTPRICE_PRICE' => '',
 'ARTICLE_STOCK_AMOUNTPRICE_TITLE' => '',
-'ARTICLE_STOCK_DAYS' => '',
+'ARTICLE_STOCK_DAYS' => 'Dienos',
 'ARTICLE_STOCK_DELIVERY' => '',
-'ARTICLE_STOCK_DELTIME' => '',
+'ARTICLE_STOCK_DELTIME' => 'Pristatymo laikas',
 'ARTICLE_STOCK_MAXDELTIME' => '',
 'ARTICLE_STOCK_MINDELTIME' => '',
 'ARTICLE_STOCK_MONTHS' => '',
