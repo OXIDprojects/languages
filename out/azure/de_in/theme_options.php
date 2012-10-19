@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (495), dsb (1), marco (4102), simone.schuppe (4)
+ * @translators: admin (495), dsb (1), marco (4273), simone.schuppe (4)
  */
 
 $sLangName  = "Deutsch informell";
@@ -29,11 +29,11 @@ $sLangName  = "Deutsch informell";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'HELP_SHOP_THEME_blShowListDisplayType' => 'Darf der Besucher Ihres Online-Shops die Art der Listenansicht auswählen? Falls diese Option nicht aktiviert ist, werden die Listenansichten so angezeigt wie in der Dropbox "Standard für Produktlistentyp" eingestellt.',
-'HELP_SHOP_THEME_blTopNaviLayout' => 'Die Kategorien-Navigation wird normalerweise links angezeigt. Wenn Sie diese Einstellung aktivieren, wird die Kategorien-Navigation anstatt links oben angezeigt.',
+'HELP_SHOP_THEME_blShowListDisplayType' => 'Darf der Besucher Deines Online-Shops die Art der Listenansicht auswählen? Falls diese Option nicht aktiviert ist, werden die Listenansichten so angezeigt wie in der Dropbox "Standard für Produktlistentyp" eingestellt.',
+'HELP_SHOP_THEME_blTopNaviLayout' => 'Die Kategorien-Navigation wird normalerweise links angezeigt. Wenn Du diese Einstellung aktivierst, wird die Kategorien-Navigation anstatt links oben angezeigt.',
 'HELP_SHOP_THEME_iNewBasketItemMessage' => 'Wenn Konsumenten ein Produkt in den Warenkorb legen, kann der OXID eShop unterschiedliche Feedback-Aktionen durchführen.',
 'HELP_SHOP_THEME_sCatIconsize' => 'In der Kategorieübersicht werden die Kategoriebilder von Unterkategorien in der hier definierten Größe angezeigt.',
-'HELP_SHOP_THEME_sCatPromotionsize' => 'Kategorien, die auf der Startseite beworben werden, benötigen eine eigens dafür vorgesehene Größgenangabe. Stellen Sie diese hier ein.',
+'HELP_SHOP_THEME_sCatPromotionsize' => 'Kategorien, die auf der Startseite beworben werden, benötigen eine eigens dafür vorgesehene Größgenangabe. Stell diese hier ein.',
 'HELP_SHOP_THEME_sCatThumbnailsize' => 'In der Kategorieübersicht wird das Bild der ausgewählten Kategorie in der hier definierten Größe angezeigt.',
 'HELP_SHOP_THEME_sIconsize' => 'Icons sind die kleinsten Bilder eines Artikels. Sie werden z. B. <br><ul><li>im Warenkorb angezeigt</li><li>angezeigt, wenn Artikel in der Seitenleiste aufgelistet werden (z.B. bei den Aktionen <span class="filename_filepath_or_italic">Top of the Shop</span> und <span class="filename_filepath_or_italic">Schnäppchen</span>).</li></ul>Damit die Harmonie des eShops nicht durch zu große Icons gestört wird, werden zu große Icons automatisch verkleinert. Die maximale Größe kannst Du hier eingeben.<br>',
 'HELP_SHOP_THEME_sManufacturerIconsize' => 'Dieses Logo wird auf der Startseite in der Markenlogo-übersicht angezeigt.',

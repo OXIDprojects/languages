@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (495), dsb (1), marco (4102), simone.schuppe (4)
+ * @translators: admin (495), dsb (1), marco (4273), simone.schuppe (4)
  */
 
 $sLangName  = "Deutsch informell";
@@ -107,7 +107,7 @@ $aLang = array(
 'FACEBOOK_POPUP_HEADER' => 'Kundenkonto aktualisieren',
 'FACEBOOK_POPUP_UPDATEBTN' => 'Kundenkonto verknüpfen',
 'FACEBOOK_POPUP_UPDATEDONETEXT' => 'Dein Kundenkonto wurde erfolgreich aktualisiert. Zukünftig kannst Du Dich ganz einfach per Facebook Connect einloggen.',
-'FACEBOOK_POPUP_UPDATETEXT' => 'Du hast Dich im Shop über Facebook Connect angemeldet. Falls Du früher bereits ein Kundenkonto bei uns im Shop eröffnet hast, melde Dich sich bitte nochmals mit Deinen Logindaten an und verknüpfen dadurch Dein Facebook Profil mit Deinem  Kundenkonto. So wird die Anmeldung hier im Shop zukünftig noch einfacher.',
+'FACEBOOK_POPUP_UPDATETEXT' => 'Du hast Dich im Shop über Facebook Connect angemeldet. Falls Du früher bereits ein Kundenkonto bei uns im Shop eröffnet hast, melde Dich bitte nochmals mit Deinen Logindaten an und verknüpfen dadurch Dein Facebook Profil mit Deinem  Kundenkonto. So wird die Anmeldung hier im Shop zukünftig noch einfacher.',
 'FORGOTPWD_FORGOTPWD' => 'Du hast Dein Passwort vergessen?',
 'FORGOTPWD_TITLE' => 'Passwort vergessen?',
 'FORGOTPWD_UPDATEPASSWORD' => 'Neues Passwort speichern',
@@ -242,7 +242,7 @@ $aLang = array(
 'ORDER_UNITPRICE' => 'Einz.Preis',
 'ORDER_VERIFYYOURINPUT' => 'Bitte überprüfe Deine Eingaben!',
 'ORDER_WRAPPINGTAX1' => 'zzgl. MwSt.',
-'ORDER_YOURMESSAGE' => 'Ihr Text:',
+'ORDER_YOURMESSAGE' => 'Dein Text:',
 'PAYMENT_ACCOUNTNUMBER' => 'Kontonummer:',
 'PAYMENT_COMLETEALLFIELDS' => 'Bitte alle Felder richtig ausfüllen!',
 'PAYMENT_EMPTY_TEXT' => '<p>Derzeit ist keine Versandart für dieses Land definiert.</p> <p>Wir werden versuchen, Liefermöglichkeiten zu finden und Dich über die Versandkosten informieren.</p> <p>Falls Du hiermit einverstanden bist, wähle "Weiter zum nächsten Schritt".</p>',
@@ -324,7 +324,7 @@ $aLang = array(
 'TAGS_SEPARATEBY' => 'Tags mit folgenden Zeichen trennen',
 'THANKYOU_BACKTOSHOP' => 'Weiter zum',
 'THANKYOU_LOCATION' => 'Bestellung abgeschlossen',
-'THANKYOU_ORDERHISTORY' => 'Zu Ihrer Bestellhistorie',
+'THANKYOU_ORDERHISTORY' => 'Zu Deiner Bestellhistorie',
 'THANKYOU_REGISTEREDYOUORDERNO1' => 'Deine Bestellung ist unter der Nummer',
 'THANKYOU_REGISTEREDYOUORDERNO2' => 'bei uns registriert.',
 'THANKYOU_THANKYOU1' => 'Vielen Dank für Deine Bestellung',

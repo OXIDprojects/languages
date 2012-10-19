@@ -25,7 +25,7 @@
 $sLangName  = "普通话 / 普通話";
 
 // -------------------------------
-// RESOURCE IDENTITFIER = STRING
+// RESOURCE IDENTIFIER = STRING
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',

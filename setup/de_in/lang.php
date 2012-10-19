@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (495), dsb (1), marco (4102), simone.schuppe (4)
+ * @translators: admin (495), dsb (1), marco (4273), simone.schuppe (4)
  */
 
 $sLangName  = "Deutsch informell";
@@ -108,13 +108,13 @@ $aLang = array(
 'SELECT_SETUP_LANG_HINT' => '. Aktiviere weitere Sprachen im Admin, falls gewünscht.',
 'SELECT_SETUP_LANG_SUBMIT' => 'Auswählen',
 'SELECT_SHOP_LANG' => 'Sprache für Shop',
-'SELECT_SHOP_LANG_HINT' => 'Aktivieren Sie weitere Sprachen im Administrationsbereich, falls gewünscht.',
-'SELECT_SHOP_LOCATION' => 'Ihre Region',
-'SELECT_SHOP_LOCATION_HINT' => 'Bitte wählen Sie eine Region, auf die der Shop ausgerichtet ist. Abhängig davon werden zusätzliche eCommerce Services vom OXID Server nachgeladen, wenn Sie das erlauben.',
+'SELECT_SHOP_LANG_HINT' => 'Aktiviere weitere Sprachen im Administrationsbereich, falls gewünscht.',
+'SELECT_SHOP_LOCATION' => 'Deine Region',
+'SELECT_SHOP_LOCATION_HINT' => 'Bitte wähle eine Region, auf die der Shop ausgerichtet ist. Abhängig davon werden zusätzliche eCommerce Services vom OXID Server nachgeladen, wenn Sie das erlauben.',
 'SETUP_CONFIG_PERMISSIONS' => 'WICHTIG: Aus Sicherheitsgründen setz die Datei config.inc.php auf read-only-Modus!',
 'SETUP_DIR_DELETE_NOTICE' => 'WICHTIG: Bitte lösch das Setup-Verzeichnis falls dieses nicht bereits automatisch entfernt wurde!',
-'STEP_0_DESC' => 'In diesem Schritt wird überprüft, ob Ihr System die Voraussetzungen erfüllt:',
-'STEP_0_ERROR_TEXT' => 'Ihr System erfüllt nicht alle nötigen Systemvoraussetzungen',
+'STEP_0_DESC' => 'In diesem Schritt wird überprüft, ob Dein System die Voraussetzungen erfüllt:',
+'STEP_0_ERROR_TEXT' => 'Dein System erfüllt nicht alle nötigen Systemvoraussetzungen',
 'STEP_0_ERROR_URL' => 'http://www.oxid-esales.com/de/produkte/community-edition/systemvoraussetzungen',
 'STEP_0_TEXT' => '<ul class="req"><li class="pass"> - Die Voraussetzung ist erfüllt.</li><li class="pmin"> - Die Voraussetzung ist nicht oder nur teilweise erfüllt. Der OXID eShop funktioniert trotzdem und kann installiert werden.</li><li class="fail"> - Die Voraussetzung ist nicht erfüllt. Der OXID eShop funktioniert nicht ohne diese Voraussetzung und kann nicht installiert werden.</li><li class="null"> - Die Voraussetzung konnte nicht überprüft werden.</ul>',
 'STEP_0_TITLE' => 'Systemvoraussetzungen überprüfen',
@@ -141,7 +141,7 @@ $aLang = array(
 'STEP_3_DB_PASSWORD' => 'Datenbank Passwort',
 'STEP_3_DB_PASSWORD_SHOW' => 'Passwort anzeigen',
 'STEP_3_DB_USER_NAME' => 'Datenbank Benutzername',
-'STEP_3_DESC' => 'Nun wird die Datenbank erstellt und mit den notwendigen Tabellen befüllt. Dazu benötigen wir einige Angaben von Ihnen:',
+'STEP_3_DESC' => 'Nun wird die Datenbank erstellt und mit den notwendigen Tabellen befüllt. Dazu benötigen wir einige Angaben von Dir:',
 'STEP_3_TITLE' => 'Datenbank',
 'STEP_3_UTFINFO' => 'Die UTF-8 Zeichenkodierung kann besser mit Sonderzeichen umgehen als andere Zeichenkodierungen. Dies ist insbesondere für vielsprachige eShops wichtig. Allerdings ist der eShop mit UTF-8 geringfügig langsamer als mit der Standard-Zeichenkodierung (ISO 8859-15). <br /> Wenn Du vor hast, viele verschiedene Sprachen im eShop zu benutzen, solltest Du UTF-8 verwenden. Wenn Du nur Sprachen mit ähnlichen Zeichensätzen (z. B. Deutsch, Englisch, Französisch) im eShop benutzen möchten, benötigst Du UTF-8 nicht.',
 'STEP_3_UTFMODE' => 'UTF-8 Zeichenkodierung benutzen',
@@ -172,7 +172,7 @@ $aLang = array(
 'STEP_6_TITLE' => 'OXID eShop Einrichtung erfolgreich',
 'STEP_6_TO_SHOP' => 'Zum Shop',
 'STEP_6_TO_SHOP_ADMIN' => 'Zur Shop Administration',
-'TAB_0_DESC' => 'Überprüfen, ob Ihr System die Voraussetzungen erfüllt',
+'TAB_0_DESC' => 'Überprüfen, ob Dein System die Voraussetzungen erfüllt',
 'TAB_0_TITLE' => 'Voraussetzungen',
 'TAB_1_DESC' => 'Herzlich willkommen<br>zur Installation von OXID eShop',
 'TAB_1_TITLE' => 'Willkommen',

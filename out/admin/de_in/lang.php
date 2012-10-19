@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (495), dsb (1), marco (4102), simone.schuppe (4)
+ * @translators: admin (495), dsb (1), marco (4273), simone.schuppe (4)
  */
 
 $sLangName  = "Deutsch informell";
@@ -489,7 +489,7 @@ $aLang = array(
 'DYN_TRUSTED_RATINGS_ERR_NOT_REGISTERED_FOR_TRUSTEDRATING' => 'Für diese Trusted Shops ID sind die Kundenbewertungen noch nicht aktiviert. Bitte melde Dich hier an oder kontaktiere <u>service@trustedshops.de</u>.',
 'DYN_TRUSTED_RATINGS_ERR_WRONG_WSUSERNAME_WSPASSWORD' => 'Interne Rückmeldung an Shopsystem/Entwickler, keine Rückmeldung im Frontend.',
 'DYN_TRUSTED_RATINGS_ID' => 'Trusted Shops ID für Sprache',
-'DYN_TRUSTED_RATINGS_ID_COMMENT' => 'Fügen hier die Trusted Shops ID ein, um die Kundenbewertungen in Ihrem Shop zu aktivieren. Du erhälst die ID von Trusted Shops per E-Mail.',
+'DYN_TRUSTED_RATINGS_ID_COMMENT' => 'Füge hier die Trusted Shops ID ein, um die Kundenbewertungen in Deinem Shop zu aktivieren. Du erhälst die ID von Trusted Shops per E-Mail.',
 'DYN_TRUSTED_RATINGS_ORDEREMAIL' => 'In der Bestellbestätigung per E-Mail',
 'DYN_TRUSTED_RATINGS_ORDERSENDEMAIL' => 'In E-Mail Bestellung versandt',
 'DYN_TRUSTED_RATINGS_THANKYOU' => 'Auf der Bestätigungsseite nach der Bestellung',
@@ -928,7 +928,7 @@ $aLang = array(
 'LOGIN_DEMOMODE_NOTIFY' => 'Funktionalität ist im Demoshop-Modus eingeschränkt',
 'LOGIN_ERROR' => 'Fehler! Falscher Benutzername und/oder Passwort.',
 'LOGIN_LANGUAGE' => 'Sprache',
-'LOGIN_NO_COOKIE_SUPPORT' => 'Fehler! Ihr Browser unterstützt keine Cookies.',
+'LOGIN_NO_COOKIE_SUPPORT' => 'Fehler! Dein Browser unterstützt keine Cookies.',
 'LOGIN_PROFILE' => 'Profil',
 'LOGIN_STAGINGMODE_NOTIFY' => 'Funktionalität ist im Staging-Modus eingeschränkt',
 'LOGIN_START' => 'OXID eShop Admin starten',
@@ -1022,7 +1022,7 @@ $aLang = array(
 'NAVIGATION_SYSREQ_MESSAGE2' => 'Systemgesundheitsprüfung.',
 'NAVIGATION_TITLE' => 'Navigation',
 'NEWSLETTER_DONE_GOTONEWSLETTER' => 'gehe zu Newsletter',
-'NEWSLETTER_DONE_NEWSSEND' => 'Ihr Newsletter wurde versendet.',
+'NEWSLETTER_DONE_NEWSSEND' => 'Dein Newsletter wurde versendet.',
 'NEWSLETTER_DONE_TITLE' => 'oxid Newsletter',
 'NEWSLETTER_LIST_MENUITEM' => 'Kundeninformation',
 'NEWSLETTER_LIST_MENUSUBITEM' => 'Newsletter',
@@ -1130,13 +1130,13 @@ $aLang = array(
 'ORDER_OVERVIEW_PDF_GREETINGS' => 'Herzlichen Dank für Deine Bestellung! Bitte empfiel uns weiter.',
 'ORDER_OVERVIEW_PDF_NETTO' => '(netto)',
 'ORDER_OVERVIEW_PDF_ORDERSAT' => 'bei',
-'ORDER_OVERVIEW_PDF_ORDERSFROM' => 'Ihre Bestellung vom',
+'ORDER_OVERVIEW_PDF_ORDERSFROM' => 'Deine Bestellung vom',
 'ORDER_OVERVIEW_PDF_PAYMENTIMPACT' => 'Aufschlag Zahlungsart',
 'ORDER_OVERVIEW_PDF_PAYUPTO' => 'Zahlbar bis zum',
 'ORDER_OVERVIEW_PDF_PERCENTSUM' => '% Betrag',
 'ORDER_OVERVIEW_PDF_PHONE' => 'fon :',
 'ORDER_OVERVIEW_PDF_PURCHASENR' => 'Bestellnr.',
-'ORDER_OVERVIEW_PDF_SELPAYMENT' => 'Ihre gewählte Zahlungsweise :',
+'ORDER_OVERVIEW_PDF_SELPAYMENT' => 'Deine gewählte Zahlungsweise :',
 'ORDER_OVERVIEW_PDF_SHIPCOST' => 'Versandkosten',
 'ORDER_OVERVIEW_PDF_STANDART' => 'Rechnung',
 'ORDER_OVERVIEW_PDF_STORNO' => 'STORNO',
@@ -1261,7 +1261,7 @@ $aLang = array(
 'PROMOTION_USERS_SETGROUPS' => 'Zugeordnete Benutzergruppen',
 'REPORT_CANCELED_ORDERS' => 'Bestellabbrueche',
 'REPORT_CONVERSION_RATE' => 'Conversion Rate',
-'REPORT_PAGEHEAD_REPORTSFROM' => 'IHRE REPORTS VOM',
+'REPORT_PAGEHEAD_REPORTSFROM' => 'DEINE REPORTS VOM',
 'REPORT_PAGEHEAD_REPORTSTILL' => 'BIS ZUM',
 'REPORT_PAGEHEAD_SHOPREPORT' => 'SHOP AUSWERTUNG',
 'REPORT_PAGEHEAD_TITLE' => 'OXID Report',
@@ -1571,7 +1571,7 @@ $aLang = array(
 'SHOP_RDFA_CONTENT_DELIVERY' => 'In welche Content-Seite sollen die RDF-Daten von nicht zugewiesenen <b>Versandarten</b> eingebettet werden?',
 'SHOP_RDFA_CONTENT_OFFERER' => 'In welche Content-Seite sollen die RDF-Daten des <b>eShop</b> eingebettet werden?',
 'SHOP_RDFA_CONTENT_PAYMENT' => 'In welche Content-Seite sollen die RDF-Daten von nicht zugewiesenen <b>Zahlungsarten</b> eingebettet werden?',
-'SHOP_RDFA_COSTUMER' => 'Welche <b>Kundengruppen</b> werden mit Ihren Angeboten angesprochen?',
+'SHOP_RDFA_COSTUMER' => 'Welche <b>Kundengruppen</b> werden mit Deinen Angeboten angesprochen?',
 'SHOP_RDFA_COSTUMER_BUSINESS' => 'Unternehmen/Gewerbetreibende',
 'SHOP_RDFA_COSTUMER_ENDUSER' => 'Endverbraucher',
 'SHOP_RDFA_COSTUMER_PUBLIC' => 'Öffentliche Einrichtungen',
@@ -1580,8 +1580,8 @@ $aLang = array(
 'SHOP_RDFA_DATA_MASTER' => 'Stammdaten',
 'SHOP_RDFA_DATA_OFFERER' => 'Shop-Informationen',
 'SHOP_RDFA_DUNS' => 'D-U-N-S',
-'SHOP_RDFA_DURATION_OFFERINGS' => 'Wähle den Gültigkeitszeitraum Ihrer Artikel.',
-'SHOP_RDFA_DURATION_PRICES' => 'Wähle den Gültigkeitszeitraum Ihrer Preise und Kosten.',
+'SHOP_RDFA_DURATION_OFFERINGS' => 'Wähle den Gültigkeitszeitraum Deiner Artikel.',
+'SHOP_RDFA_DURATION_PRICES' => 'Wähle den Gültigkeitszeitraum Deiner Preise und Kosten.',
 'SHOP_RDFA_EMAIL' => 'Kontakt (E-Mail)',
 'SHOP_RDFA_EMBEDDING' => 'Aktiviere die automatische Einbettung der Daten',
 'SHOP_RDFA_FNC' => 'Welche <b>Funktion</b> erfüllen Deine Angebote?',
