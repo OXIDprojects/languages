@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), marco (868), Natalia I (7), pianoservis (1), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), marco (902), Natalia I (7), pianoservis (1), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -53,27 +53,27 @@ $aLang = array(
 'SHOP_THEME_blLoadFullTree' => '',
 'SHOP_THEME_blShowBirthdayFields' => '',
 'SHOP_THEME_blShowFinalStep' => '',
-'SHOP_THEME_blTopNaviLayout' => '',
-'SHOP_THEME_bl_perfLoadCatTree' => '',
-'SHOP_THEME_bl_perfLoadTreeForSearch' => '',
+'SHOP_THEME_blTopNaviLayout' => 'Покожить навигацию вверху',
+'SHOP_THEME_bl_perfLoadCatTree' => 'Загрузить категории и покажить навигацию',
+'SHOP_THEME_bl_perfLoadTreeForSearch' => 'Нагрузить дерево категории для поиска',
 'SHOP_THEME_bl_perfShowLeftBasket' => 'Показывать корзину слева',
 'SHOP_THEME_bl_perfShowRightBasket' => 'Показывать корзину справа',
 'SHOP_THEME_bl_perfShowTopBasket' => 'Показывать корзину сверху',
 'SHOP_THEME_bl_showCompareList' => 'Отображать список сравнения',
-'SHOP_THEME_bl_showGiftWrapping' => '',
+'SHOP_THEME_bl_showGiftWrapping' => 'Активировать подарочной упаковки',
 'SHOP_THEME_bl_showListmania' => 'отображать список фаворитов',
-'SHOP_THEME_bl_showOpenId' => '',
-'SHOP_THEME_bl_showVouchers' => '',
-'SHOP_THEME_bl_showWishlist' => '',
-'SHOP_THEME_GROUP_display' => '',
-'SHOP_THEME_GROUP_features' => '',
-'SHOP_THEME_GROUP_images' => '',
-'SHOP_THEME_GROUP_navigation' => '',
+'SHOP_THEME_bl_showOpenId' => 'Активировать Open ID',
+'SHOP_THEME_bl_showVouchers' => 'Активировать ваучеры',
+'SHOP_THEME_bl_showWishlist' => 'Активировать хотелку',
+'SHOP_THEME_GROUP_display' => 'Показание',
+'SHOP_THEME_GROUP_features' => 'Функции',
+'SHOP_THEME_GROUP_images' => 'Картинки',
+'SHOP_THEME_GROUP_navigation' => 'Навигация',
 'SHOP_THEME_iNewBasketItemMessage' => '',
-'SHOP_THEME_iNewBasketItemMessage_0' => '',
-'SHOP_THEME_iNewBasketItemMessage_1' => '',
-'SHOP_THEME_iNewBasketItemMessage_2' => '',
-'SHOP_THEME_iNewBasketItemMessage_3' => '',
+'SHOP_THEME_iNewBasketItemMessage_0' => 'Ничего',
+'SHOP_THEME_iNewBasketItemMessage_1' => 'Выходить сообщение',
+'SHOP_THEME_iNewBasketItemMessage_2' => 'Открыть окно',
+'SHOP_THEME_iNewBasketItemMessage_3' => 'Открыть корзину',
 'SHOP_THEME_iTopNaviCatCount' => '',
 'SHOP_THEME_sCatThumbnailsize' => '',
 'SHOP_THEME_sIconsize' => 'Размер иконки (ширина*высота)',
