@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), marco (834), Natalia I (7), pianoservis (1), unicum (35), vanilla.thunder (35)
+ * @translators: admin (1341), marco (868), Natalia I (7), pianoservis (1), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -678,7 +678,7 @@ $aLang = array(
 'GENERAL_ARTICLE_OXSHOPEXCL1' => '',
 'GENERAL_ARTICLE_OXSHOPID' => 'Идентификатор магазина',
 'GENERAL_ARTICLE_OXSHOPINCL' => 'Включен в магазин',
-'GENERAL_ARTICLE_OXSHOPINCL1' => '',
+'GENERAL_ARTICLE_OXSHOPINCL1' => 'Включен в магазин',
 'GENERAL_ARTICLE_OXSHORTDESC' => 'Краткое описание',
 'GENERAL_ARTICLE_OXSKIPDISCOUNTS' => 'Пропустить скидки',
 'GENERAL_ARTICLE_OXSOLDAMOUNT' => 'Кол-во продаж',

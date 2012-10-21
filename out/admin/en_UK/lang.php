@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: marco (3965)
+ * @translators: marco (3968)
  */
 
 $sLangName  = "British English";
@@ -1147,7 +1147,7 @@ $aLang = array(
 'ORDER_OVERVIEW_PDF_VAT' => 'VAT %',
 'ORDER_OVERVIEW_PDF_VOUCHER' => 'Coupon',
 'ORDER_OVERVIEW_PDF_WRAPPING' => 'Gift Wrapping/Greeting Card',
-'ORDER_OVERVIEW_PDF_ZZGLVAT' => 'plus sales VAT',
+'ORDER_OVERVIEW_PDF_ZZGLVAT' => 'plus VAT',
 'ORDER_OVERVIEW_PROTECTION' => 'Trusted Shops buyer protection',
 'ORDER_OVERVIEW_STORNO' => 'Order is canceled',
 'ORDER_OVERVIEW_TILLORDERNUM' => 'to Order No.',

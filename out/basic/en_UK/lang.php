@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: marco (3965)
+ * @translators: marco (3968)
  */
 
 $sLangName  = "British English";
@@ -60,8 +60,8 @@ $aLang = array(
 'BASKET_POPUP_ADDEDARTICLETOBASKET' => 'You just added a product to the basket.',
 'BASKET_POPUP_FULL_ADDEDARTICLETOBASKET' => 'You just added a product to the basket.',
 'BASKET_SHIPPINGNET' => 'Delivery costs (w/o VAT)',
-'BASKET_TAX1' => 'incl. VAT',
-'BASKET_TSPROTECTIONCHARGETAX1' => 'incl. VAT',
+'BASKET_TAX1' => 'plus VAT',
+'BASKET_TSPROTECTIONCHARGETAX1' => 'plus VAT',
 'BASKET_WRONGAMOUNT1' => 'Please enter valid quantity for product',
 'BASKET_WRONGAMOUNT2' => '.',
 'byBrand' => 'By Brand/Manufacturer',
