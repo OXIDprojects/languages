@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), marco (902), Natalia I (7), pianoservis (1), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), marco (902), Natalia I (37), pianoservis (1), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -107,7 +107,7 @@ $aLang = array(
 'FACEBOOK_POPUP_HEADER' => 'Обновление счёта',
 'FACEBOOK_POPUP_UPDATEBTN' => 'Связывать счёт',
 'FACEBOOK_POPUP_UPDATEDONETEXT' => 'Ваш аккаунт был успешно обновлена. В будущем, вы можете просто войти в систему с Facebook Connect.',
-'FACEBOOK_POPUP_UPDATETEXT' => '',
+'FACEBOOK_POPUP_UPDATETEXT' => 'Вы вошли через Facebook Connect. Если у Вас уже есть аккаунт в нашем онлайн-магазине, введите пожалуйста Ваши данные, чтобы создать единый аккаунт.',
 'FORGOTPWD_FORGOTPWD' => 'Вы забыли свой пароль доступа?',
 'FORGOTPWD_TITLE' => 'Забыли пароль?',
 'FORGOTPWD_UPDATEPASSWORD' => 'Изменить пароль',
@@ -354,7 +354,7 @@ $aLang = array(
 'USER_ERRUNKNOWNADDRESS2' => 'Ошибка: Неизвестный адрес!',
 'USER_ERRWRONGUSERORPWD' => '<b>Ошибка:</b> Неверный E-mail или пароль.',
 'USER_ERRWRONGUSERORPWD2' => 'Ошибка: неверный E-mail или пароль.',
-'USER_FB_UPDATEACCOUNTMSG' => '',
+'USER_FB_UPDATEACCOUNTMSG' => 'Вы уже заходили в наш онлайн-магазин через Facebook Connect. Если у Вас уже есть аккаунт на нашем сайте, Вы можете актуализировать свои данные и создать единый аккаунт.',
 'USER_FORGOTPWD' => 'Забыли пароль?',
 'USER_LOGIN2' => 'Войти',
 'USER_MOBIL' => 'Мобильный телефон:',

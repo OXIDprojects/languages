@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), marco (902), Natalia I (7), pianoservis (1), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), marco (902), Natalia I (37), pianoservis (1), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -29,12 +29,12 @@ $sLangName  = "Русский";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'HELP_SHOP_THEME_blDisableNavBars' => '',
-'HELP_SHOP_THEME_blLoadFullTree' => '',
-'HELP_SHOP_THEME_blTopNaviLayout' => '',
-'HELP_SHOP_THEME_bl_perfLoadCatTree' => '',
-'HELP_SHOP_THEME_bl_perfLoadTreeForSearch' => '',
-'HELP_SHOP_THEME_iNewBasketItemMessage' => '',
+'HELP_SHOP_THEME_blDisableNavBars' => 'Если эта опция активирована, большинство элементов навигации не будут отображаться в процессе осуществления заказа. Таким образом, пользователя ничто не будет отвлекать от совершения покупки.',
+'HELP_SHOP_THEME_blLoadFullTree' => 'Если эта опция активирована, то дерево каталогов показывается полностью (все папки в структуре "открыты"). Эта возможность доступна только в том случае, если навигация не отображается сверху.',
+'HELP_SHOP_THEME_blTopNaviLayout' => 'Если эта опция активирована, выбираемые категории отображаются сверху, а не слева.',
+'HELP_SHOP_THEME_bl_perfLoadCatTree' => 'Эта опция должна быть активирована для того чтобы отображалась навигация. Категории выбираются посредством навигации.',
+'HELP_SHOP_THEME_bl_perfLoadTreeForSearch' => 'При выборе этой опции поиск может быть ограничен в зависимости от выбранной категории. Выпадающий список с перечнем категорий отображается под полем поиска.',
+'HELP_SHOP_THEME_iNewBasketItemMessage' => 'OXID eShop предлагает различные варианты действий при добавлении товара в корзину. Выберите из них подходящий.',
 'HELP_SHOP_THEME_sIconsize' => 'Иконки это самые маленькие картинки продуктов. Они используются:
 <ul>
 <li>в корзине</li>
@@ -48,11 +48,11 @@ $aLang = array(
 <li>в списке новых товаров</li>
 </ul> Чтобы избежать проблем с отображением, миниатюры будут уменьшены, введите здесь максимальные размеры для миниатюр.',
 'SHOP_THEME_aDetailImageSizes' => 'Размер картинки товара (ширина*высота)',
-'SHOP_THEME_aNrofCatArticles' => '',
-'SHOP_THEME_blDisableNavBars' => '',
-'SHOP_THEME_blLoadFullTree' => '',
-'SHOP_THEME_blShowBirthdayFields' => '',
-'SHOP_THEME_blShowFinalStep' => '',
+'SHOP_THEME_aNrofCatArticles' => 'Какое количество товаров может быть показано на одной странице<br>Внимание: при показе более 100 наименований на странице могут возникнуть проблемы с отображением',
+'SHOP_THEME_blDisableNavBars' => 'Скрыть некоторые элементы навигации в процессе заказа',
+'SHOP_THEME_blLoadFullTree' => 'Загрузить всю структуру категорий навигации (при большом количестве элементов могут возникнуть проблемы с отображением)',
+'SHOP_THEME_blShowBirthdayFields' => 'Отобразить поле ввода даты рождения когда пользователь вводит свои данные',
+'SHOP_THEME_blShowFinalStep' => 'Показывать подтверждение после того как пользователь осуществил заказ (5й шаг в процессе покупки)',
 'SHOP_THEME_blTopNaviLayout' => 'Покожить навигацию вверху',
 'SHOP_THEME_bl_perfLoadCatTree' => 'Загрузить категории и покажить навигацию',
 'SHOP_THEME_bl_perfLoadTreeForSearch' => 'Нагрузить дерево категории для поиска',
@@ -69,14 +69,14 @@ $aLang = array(
 'SHOP_THEME_GROUP_features' => 'Функции',
 'SHOP_THEME_GROUP_images' => 'Картинки',
 'SHOP_THEME_GROUP_navigation' => 'Навигация',
-'SHOP_THEME_iNewBasketItemMessage' => '',
+'SHOP_THEME_iNewBasketItemMessage' => 'Показывать уведомление при добавлении товара в корзину',
 'SHOP_THEME_iNewBasketItemMessage_0' => 'Ничего',
 'SHOP_THEME_iNewBasketItemMessage_1' => 'Выходить сообщение',
 'SHOP_THEME_iNewBasketItemMessage_2' => 'Открыть окно',
 'SHOP_THEME_iNewBasketItemMessage_3' => 'Открыть корзину',
-'SHOP_THEME_iTopNaviCatCount' => '',
-'SHOP_THEME_sCatThumbnailsize' => '',
+'SHOP_THEME_iTopNaviCatCount' => 'Количество категорий, отображаемых сверху',
+'SHOP_THEME_sCatThumbnailsize' => 'Размер картинки для категории в пикселях (ширина*высота)',
 'SHOP_THEME_sIconsize' => 'Размер иконки (ширина*высота)',
 'SHOP_THEME_sThumbnailsize' => 'Размер миниатюры (ширина*высота)',
-'SHOP_THEME_sZoomImageSize' => '',
+'SHOP_THEME_sZoomImageSize' => 'Размер картинки при увеличении в пикселях (ширина*высота)',
 );
