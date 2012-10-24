@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3431), Phenix (201), vikapera (376)
+ * @translators: admin (3431), Phenix (202), vikapera (376)
  */
 
 $sLangName  = "Français";
@@ -743,7 +743,7 @@ Si vous commandez avec votre compte client, Les liens de téléchargement appara
 'STARS' => 'Etoiles',
 'START_DOWNLOADING_UNTIL' => 'Téléchargement accessible jusqu\'au',
 'STATUS' => 'Etat:',
-'STAY_INFORMED' => 'Estez informez!',
+'STAY_INFORMED' => 'Restez informés!',
 'STEPS_BASKET' => '1. Panier',
 'STEPS_ORDER' => '4. Commande',
 'STEPS_PAY' => '3. Paiement',
