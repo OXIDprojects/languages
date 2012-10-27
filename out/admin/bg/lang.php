@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: crashover (329)
+ * @translators: crashover (330)
  */
 
 $sLangName  = "Български";
@@ -49,7 +49,7 @@ $aLang = array(
 'ARTICLE_ATTRIBUTE_ITEMSATTRIBUTE' => '',
 'ARTICLE_ATTRIBUTE_ITEMSSELLIST' => 'Каталог на списъците по избор',
 'ARTICLE_ATTRIBUTE_NOATTRIBUTE' => '',
-'ARTICLE_ATTRIBUTE_NOATTRIBUTES' => '',
+'ARTICLE_ATTRIBUTE_NOATTRIBUTES' => 'Моля изберете един атрибут',
 'ARTICLE_ATTRIBUTE_NOSELLIST' => 'Наличните списъци за отбора',
 'ARTICLE_ATTRIBUTE_OPENINNEWWINDOW' => '',
 'ARTICLE_ATTRIBUTE_SAVE' => 'Запази',
