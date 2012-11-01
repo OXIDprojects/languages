@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1082)
+ * @translators: admin (1082), monteiro (2)
  */
 
 $sLangName  = "Português";
@@ -48,7 +48,7 @@ $aLang = array(
 'ACCOUNT_WISHLIST_SEARCH' => 'Procurar',
 'ACCOUNT_WISHLIST_SEND' => 'Enviar',
 'ACCOUNT_WISHLIST_SENDSUCCESSFULLY1' => 'O seu registo-presente foi enviado com sucesso para:',
-'ACCOUNT_WISHLIST_SENDSUCCESSFULLY2' => '',
+'ACCOUNT_WISHLIST_SENDSUCCESSFULLY2' => 'enviado!',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'Não existem, de momento, listas na Listmania. Para criar uma nova, clique',
 'ADD_RECOMM_ADDRECOMMLINK2' => 'aqui',
 'BASKET_ARTICLENOTONSTOCK' => 'Este produto não se encontra em stock e tem de ser reordenado.',

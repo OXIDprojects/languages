@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1082)
+ * @translators: admin (1082), monteiro (2)
  */
 
 $sLangName  = "Português";
@@ -30,7 +30,7 @@ $sLangName  = "Português";
 $aLang = array(
 'charset' => 'utf-8',
 'ACTIONS_LIST_MENUITEM' => '',
-'ACTIONS_LIST_MENUSUBITEM' => '',
+'ACTIONS_LIST_MENUSUBITEM' => 'Promoções',
 'ACTIONS_MAIN_ALLARTICLES' => '',
 'ACTIONS_MAIN_ALLARTICLESWITHATTR' => '',
 'ACTIONS_MAIN_NOTSELECTED' => '',
