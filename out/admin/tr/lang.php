@@ -2021,6 +2021,8 @@ $aLang = array(
 'WRAPPING_LIST_PICTURE' => 'Resim',
 'WRAPPING_LIST_PRESENTPACKUNG' => 'Hediye Paketi',
 'WRAPPING_LIST_TITLE' => '[OXID Hediye Yönetimi]',
-'WRAPPING_MAIN_PICTURE' => 'Resim    This file is partUPLOADOXID eShop  yükle    This file is paRESENTPACKUNGOXID eHed<?phPaketi    This file is pTITL OXID e[OXID n redisp
-/**
- *   );
+'WRAPPING_MAIN_PICTURE' => 'Resim',
+'WRAPPING_MAIN_PICUPLOAD' => 'Resim yükle',
+'WRAPPING_MAIN_PRESENTPACKUNG' => 'Hediye Paketi',
+'WRAPPING_MAIN_TITLE' => '[OXID Hediye Yönetimi]',
+);

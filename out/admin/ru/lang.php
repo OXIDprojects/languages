@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), marco (948), Natalia I (37), pianoservis (1), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), marco (949), Natalia I (37), pianoservis (1), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -1910,7 +1910,7 @@ $aLang = array(
 'TOOLTIPS_NEWMANUFACTURER' => '',
 'TOOLTIPS_NEWMWST' => '',
 'TOOLTIPS_NEWNEWS' => '',
-'TOOLTIPS_NEWNEWSLETTER' => 'Neue Newsletter Sample',
+'TOOLTIPS_NEWNEWSLETTER' => '',
 'TOOLTIPS_NEWPAYMENT' => '',
 'TOOLTIPS_NEWPROMOTION' => '',
 'TOOLTIPS_NEWREMARK' => '',
