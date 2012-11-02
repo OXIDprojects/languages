@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), marco (902), Natalia I (37), pianoservis (1), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), marco (948), Natalia I (37), pianoservis (1), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -316,9 +316,9 @@ $aLang = array(
 'KEEP_LOGGED_IN' => 'Остаются авторизованными:',
 'KG' => 'кг',
 'LABEL' => 'Лэйбл:',
-'LAST_NAME' => 'Имя:',
-'LAST_NAME_2' => 'Имя:',
-'LAST_NAME_3' => 'Имя',
+'LAST_NAME' => 'Фамилия:',
+'LAST_NAME_2' => 'Фамилия:',
+'LAST_NAME_3' => 'Фамилия',
 'LAST_SEEN_PRODUCTS' => 'Последние просмотренные товары',
 'LATEST_NEWS_AND_UPDATES' => 'Наши новинки',
 'LATEST_NEWS_AND_UPDATES_AT' => 'Наши новинки',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), marco (902), Natalia I (37), pianoservis (1), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), marco (948), Natalia I (37), pianoservis (1), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -204,7 +204,7 @@ $aLang = array(
 'NEWSLETTER_COMPLETEALLFIELEDS' => 'Пожалуйста, заполните все поля правильно!',
 'NEWSLETTER_COMPLETEMARKEDFIELEDS' => 'Пожалуйста, заполните все поля отмеченные <span class="req">*</span>',
 'NEWSLETTER_EMAIL_NOT_EXIST' => 'Введенный адрес электронной почты не является рассылку абонента.',
-'NEWSLETTER_FIRSTNAME' => 'Имя:',
+'NEWSLETTER_FIRSTNAME' => 'Имя',
 'NEWSLETTER_INVALIDEMAIL' => 'Неверный E-mail!',
 'NEWSLETTER_STAYINFORMED' => 'Будьте в курсе!',
 'NEWS_LATESTNEWSBY' => 'Свежие новости и информация магазина',
