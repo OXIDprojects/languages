@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (495), dsb (1), marco (4273), simone.schuppe (4)
+ * @translators: admin (495), dsb (1), marco (4273), simone.schuppe (4), Thielo (1)
  */
 
 $sLangName  = "Deutsch informell";
@@ -1585,7 +1585,7 @@ $aLang = array(
 'SHOP_SYSTEM_SMARTYPHPHANDLING_PASSTHRU' => 'Code mit PHP-Tags anzeigen',
 'SHOP_SYSTEM_SMARTYPHPHANDLING_QUOTE' => 'Code ohne PHP-Tags anzeigen',
 'SHOP_SYSTEM_SMARTYPHPHANDLING_REMOVE' => 'Code in HTML-Quelltext ausgeben (wird nicht angezeigt)',
-'SHOP_SYSTEM_STOREIPS' => 'IP-Adressen speichern. Die ist u.U. ein Verstoß gegen den Datenschutz.',
+'SHOP_SYSTEM_STOREIPS' => 'IP-Adressen speichern. Dies ist u.U. ein Verstoß gegen den Datenschutz.',
 'SHOP_SYSTEM_USEMULTIDIMENSIONVARIANTS' => 'Multidimensionale Varianten einschalten',
 'SHOP_SYSTEM_UTILMODULE' => 'Zusätzliches Util-Modul',
 'SHOP_SYSTEM_VARIANTINHERITAMOUNTPRICE' => 'Varianten erben Staffelpreise vom "Vater"',
