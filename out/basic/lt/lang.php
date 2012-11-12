@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (5), NFQ Lithuania (2756), swolou (3), tlt (204)
+ * @translators: abejingas (188), agladutis (19), NFQ Lithuania (2756), swolou (3), tlt (204)
  */
 
 $sLangName  = "Lietuvių";
@@ -48,7 +48,7 @@ $aLang = array(
 'ACCOUNT_WISHLIST_SEARCH' => 'Ieškoti',
 'ACCOUNT_WISHLIST_SEND' => 'Siųsti',
 'ACCOUNT_WISHLIST_SENDSUCCESSFULLY1' => 'Jūsų pageidavimų sąrašas buvo išsiųstas sėkmingai:',
-'ACCOUNT_WISHLIST_SENDSUCCESSFULLY2' => '',
+'ACCOUNT_WISHLIST_SENDSUCCESSFULLY2' => 'išsiųsta!',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'Nėra sukurta mėgstramiausių prekių sąrašų. Jei norite sukurti naują, spauskite',
 'ADD_RECOMM_ADDRECOMMLINK2' => 'čia',
 'BASKET_ARTICLENOTONSTOCK' => 'Šios prekės sandėlyje nėra ir negali būti užsakoma.',

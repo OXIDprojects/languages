@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (5), NFQ Lithuania (2756), swolou (3), tlt (204)
+ * @translators: abejingas (188), agladutis (19), NFQ Lithuania (2756), swolou (3), tlt (204)
  */
 
 $sLangName  = "Lietuvių";
@@ -31,7 +31,7 @@ $aLang = array(
 'charset' => 'utf-8',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'Mėgstamiausių prekių sąrašų sukurta nėra. Norėdami sukurti naują, spauskite',
 'ADD_RECOMM_ADDRECOMMLINK2' => 'čia',
-'BETA_NOTE' => '',
+'BETA_NOTE' => 'Sveiki atvykę į beta 3 OXID eShop 4.6.0 versiją. Jei turite klausimų, prašome peržiūrėti <a href=\\'http://wiki.oxidforge.org/Development/Beta\\' class="external">DUK</a>.',
 'BETA_NOTE_CLOSE' => '',
 'byBrand' => 'Pagal gamintoją',
 'byManufacturer' => 'Pagal gamintoją',
