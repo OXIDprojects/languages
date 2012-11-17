@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), marco (981), Natalia I (37), pianoservis (1), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), marco (981), Natalia I (37), pianoservis (1), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -42,7 +42,7 @@ $aLang = array(
 'ADMINLINKS_LIST_MENUITEM' => 'Информация для клиентов',
 'ADMINLINKS_LIST_MENUSUBITEM' => 'Ссылки',
 'ADMINLINKS_LIST_TITLE' => '[Администрирование ссылок OXID]',
-'ALTERNATIVE_IMAGE_SERVER_NOTE' => '',
+'ALTERNATIVE_IMAGE_SERVER_NOTE' => 'Магазин настроен для загрузки изображений из статьи внешний сервер. Файлы не загружены на этом месте. Установите ручной синхронизации уверен.',
 'amount' => 'Кол-во',
 'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => 'Присвоить атрибуты',
 'ARTICLE_ATTRIBUTE_ASSIGNSELECTLIST' => 'Присвоить списки избранного',
@@ -173,7 +173,7 @@ $aLang = array(
 'ARTICLE_PICTURES_SAVE' => 'Сохранить',
 'ARTICLE_PICTURES_THUMB' => 'Миниатюра',
 'ARTICLE_PICTURES_THUMBUPLOAD' => 'Загрузить миниатюру:',
-'ARTICLE_PICTURES_UPLOADISDISABLED' => '',
+'ARTICLE_PICTURES_UPLOADISDISABLED' => 'Это демонстрационный магазин. Загрузка / удаление изображения было закрыто в целях безопасности.',
 'ARTICLE_PICTURES_ZOOM1' => 'Большая 1',
 'ARTICLE_PICTURES_ZOOM1UPLOAD' => 'Загрузить большую 1:',
 'ARTICLE_PICTURES_ZOOM2' => 'Большая 2',
@@ -271,20 +271,20 @@ $aLang = array(
 'CATEGORY_MAIN_THUMBUPLOAD' => 'Загрузить картинку',
 'CATEGORY_MAIN_TITLE' => 'Название',
 'CATEGORY_MAIN_VAT' => 'Спец. НДС',
-'CATEGORY_MALL_ASSIGNONLYPARENTWARNING' => '',
-'CATEGORY_MALL_CLICKHEREFORPARENT' => '',
+'CATEGORY_MALL_ASSIGNONLYPARENTWARNING' => 'Вы можете назначить только целое дерево категорий один Subshop',
+'CATEGORY_MALL_CLICKHEREFORPARENT' => 'Нажмите здесь, чтобы изменить основной контекстном папку',
 'CATEGORY_ORDER_ACTSORT' => 'Текущая сортировка',
 'CATEGORY_ORDER_DELETESORT' => 'Удалить сортировку',
 'CATEGORY_ORDER_NEWSORT' => 'Новая сортировка',
 'CATEGORY_ORDER_NEWSORTSAVE' => 'Сохранить сортировку',
 'CATEGORY_ORDER_SORTCATEGORIES' => 'Сортировать категории',
-'CATEGORY_PICTURES_UPLOADISDISABLED' => '',
+'CATEGORY_PICTURES_UPLOADISDISABLED' => 'Это демонстрационный магазин. Загрузка / удаление изображения было закрыто в целях безопасности.',
 'CATEGORY_RIGHTS_ALLGROUPS' => 'Все группы пользователей',
 'CATEGORY_RIGHTS_ALLGROUPS2' => 'Все группы пользователей',
-'CATEGORY_RIGHTS_APPLYLEVEL' => '',
-'CATEGORY_RIGHTS_APPLYLEVEL2' => '',
-'CATEGORY_RIGHTS_APPLYLEVEL3' => '',
-'CATEGORY_RIGHTS_APPLYLEVEL4' => '',
+'CATEGORY_RIGHTS_APPLYLEVEL' => 'Изменения только добавить к этой категории и ее элементы',
+'CATEGORY_RIGHTS_APPLYLEVEL2' => 'Изменения к категории, подкатегории и добавлять элементы',
+'CATEGORY_RIGHTS_APPLYLEVEL3' => 'Изменения только добавить к этой категории и ее элементы',
+'CATEGORY_RIGHTS_APPLYLEVEL4' => 'Изменения к категории, подкатегории и добавлять элементы',
 'CATEGORY_RIGHTS_ASSIGNBUYABLE' => '',
 'CATEGORY_RIGHTS_ASSIGNVISIBLE' => '',
 'CATEGORY_RIGHTS_SETGROUPS_BUYABLE' => '',
