@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1849), e.mersinlioglu (37), marco (2), McDaim (101)
+ * @translators: admin (1849), e.mersinlioglu (37), enginistemi (4), marco (2), McDaim (101)
  */
 
 $sLangName  = "Türkçe";
@@ -314,10 +314,10 @@ $aLang = array(
 'ITEMS_IN_BASKET' => '',
 'JUST_ARRIVED' => '',
 'KEEP_LOGGED_IN' => '',
-'KG' => '',
-'LABEL' => '',
-'LAST_NAME' => '',
-'LAST_NAME_2' => '',
+'KG' => 'KG',
+'LABEL' => 'etiket',
+'LAST_NAME' => 'soyadı',
+'LAST_NAME_2' => 'soyadı 2',
 'LAST_NAME_3' => '',
 'LAST_SEEN_PRODUCTS' => '',
 'LATEST_NEWS_AND_UPDATES' => '',
