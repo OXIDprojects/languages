@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: dsb (5), marco (3904)
+ * @translators: dsb (5), marco (3976)
  */
 
 $sLangName  = "Deutsch";
@@ -66,7 +66,6 @@ $aLang = array(
 'EMAIL_SENDEDNOW_HTML_ORDERSHIPPEDTO' => 'Die Sendung geht an:',
 'EMAIL_SENDEDNOW_HTML_PRODUCT' => 'Artikel',
 'EMAIL_SENDEDNOW_HTML_PRODUCTRATING' => 'Artikel bewerten',
-'EMAIL_SENDEDNOW_HTML_QUANTITY' => 'Anzahl',
 'EMAIL_SENDEDNOW_HTML_REVIEW' => 'bewerten',
 'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKING' => 'Ihr Link zur Sendungsverfolgung:',
 'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKINGURL' => 'hier klicken',
