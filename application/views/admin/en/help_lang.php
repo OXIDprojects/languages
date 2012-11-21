@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: marco (3897)
+ * @translators: marco (3909)
  */
 
 $sLangName  = "English";
@@ -66,6 +66,7 @@ $aLang = array(
 'HELP_ARTICLE_STOCK_STOCKFLAG' => 'At <span class="navipath_or_inputname">Delivery status</span> you can select from 4 settings:<ul><li><span class="userinput_or_code">Standard</span>: The product can then also be ordered if it is sold out.</li><li><span class="userinput_or_code">External storehouse</span>: The product can always be purchased and is always displayed as <span class="filename_filepath_or_italic">in stock</span>. (The stock level cannot be given for external storehouse. Therefore, the product is always shown as <span class="filename_filepath_or_italic">in stock</span>).</li><li><span class="userinput_or_code">If out of stock, offline</span>: The product is not displayed if it is sold out.</li><li><span class="userinput_or_code">If out of stock, not orderable</span>: The product is displayed if it is sold out but it cannot be ordered.</li></ul>',
 'HELP_ARTICLE_STOCK_STOCKTEXT' => 'Here you can enter a message which is shown if the product is in stock. Further information about stock messages can be found in the <a href="http://www.oxid-esales.com/en/resources/help-faq/eshop-manual/setting-messages-stock-levels" target="_blank">article about stock messages in the manual</a>.',
 'HELP_ARTICLE_VARIANT_VARNAME' => '<span class="navipath_or_inputname">Name of Selection</span> defines how the selection of the variants is labeled , e.g. <span class="userinput_or_code">Color</span> or <span class="userinput_or_code">Size</span>.<br> Further Information can be found in the <a href="http://www.oxid-esales.com/en/resources/help-faq/eshop-manual/setting-variants-a-product" target="_blank">variants article in the manual</a>.',
+'HELP_ATTRIBUTE_MAIN_DISPLAYINBASKET' => 'If checked, this attribute\'s value will be shown in cart and order overview below the product title.',
 'HELP_CATEGORY_MAIN_DEFSORT' => 'With <span class="navipath_or_inputname">Fast Sorting</span> you specify the manner in which the products in the category will be sorted. To learn about the available options, refer to <a href="http://www.oxid-esales.com/en/resources/help-faq/eshop-manual/sorting-products" target="_blank">the eShop manual</a> an the OXID eSales website.',
 'HELP_CATEGORY_MAIN_EXTLINK' => 'With <span class="navipath_or_inputname">External Link</span>, you can enter a link that opens when users click on the category. <span class="warning_or_important_hint">Use this function only if you want to display a link in the category navigation. It causes the category to lose its normal function!</span>',
 'HELP_CATEGORY_MAIN_HIDDEN' => 'With <span class="navipath_or_inputname">Hidden</span> <ou can define if this category is shown to users. If a category is hidden it is not shown to the users, even if it is active.',
@@ -94,7 +95,9 @@ $aLang = array(
 'HELP_DELIVERY_MAIN_PRICE' => 'You can use <span class="navipath_or_inputname">Price Surcharge/Discount</span> to specify the magnitude of the shipping costs. The price can be calculated in two different ways:<ul><li>With <span class="userinput_or_code">abs</span>, the price is specified absolutely (e.g.: with <span class="userinput_or_code">6.90</span>, a price of EUR 6.90 is calculated).</li><li>With <span class="userinput_or_code">%</span>, the price is specified relative to the purchase price (e.g.: With <span class="userinput_or_code">10</span>, a price of 10% of the purchase price is calculated).</li></ul>',
 'HELP_DISCOUNT_MAIN_AMOUNT' => 'You can use <span class="navipath_or_inputname">Quantity</span> to specify that the discount is only valid for certain purchase quantities. If you want the discount to be valid for all purchase quantities, enter <span class="userinput_or_code">0</span> in <span class="navipath_or_inputname">From</span> and <span class="userinput_or_code">0</span> in <span class="navipath_or_inputname">To</span>.',
 'HELP_DISCOUNT_MAIN_PRICE' => 'You can use <span class="navipath_or_inputname">Purchase Price</span> to specify that the discount is only valid for certain purchase prices. If the discount is to be valid for all purchase prices, enter <span class="userinput_or_code">0</span> in <span class="navipath_or_inputname">From</span> and <span class="userinput_or_code">0</span> in <span class="navipath_or_inputname">To</span>.',
-'HELP_DISCOUNT_MAIN_REBATE' => 'In <span class="navipath_or_inputname">Discount</span>, you specify the magnitude of the discount. You can use the selection list after the entry field to specify whether the discount is to be applied as an absolute discount or as a percentage discount:<ul><li><span class="userinput_or_code">abs</span>: The discount is an absolute discount, e.g. EUR 5.</li><li><span class="userinput_or_code">%</span>: The discount is a percentage discount, e.g. 10 percent of the purchase price.</li></ul>',
+'HELP_DISCOUNT_MAIN_REBATE' => 'In <span class="navipath_or_inputname">Discount</span>, you specify the magnitude of the discount. You can use the selection list after the entry field to specify whether the discount is to be applied as an absolute discount or as a percentage discount:<ul><li><span class="userinput_or_code">abs</span>: The discount is an absolute discount, e.g. EUR 5.</li><li><span class="userinput_or_code">%</span>: The discount is a percentage discount, e.g. 10 percent of the purchase price.</li>
+<li><span class="userinput_or_code">itm</span>: Discount in the form of a free product. Set the amount of this product. Choose "Multiply" if the amount of discounted product in shopping cart should be multiplied with the amount of the free product.</li>
+</ul>',
 'HELP_DYN_TRUSTED_ACTIVE' => 'Check this option to display the Trusted Shops Seal on shop.',
 'HELP_DYN_TRUSTED_PASSWORD' => 'A password (wsPassword) for the Trusted Shops webservice is required if you offer the Trusted Shops Buyer Protection Excellence to your customers. Buyer Protection Classic does not require a password.',
 'HELP_DYN_TRUSTED_RATINGS_ID' => 'You will receive your Trusted Shops ID for Customer Ratings in the order conformation e-mail. If you are already a member of Trusted Shops, please use your known Trusted Shops ID. The green light indicates that the Customer Ratings have been verified and enabled after saving your settings.',
@@ -127,11 +130,17 @@ $aLang = array(
 'HELP_PAYMENT_MAIN_SELECTED' => 'You can use <span class="navipath_or_inputname">Selected</span> to define which payment method is be selected as the default method if the user can choose between several payment methods.',
 'HELP_PAYMENT_MAIN_SORT' => 'In <span class="navipath_or_inputname">Sorting</span> you can specify the order in which the payment methods are to be displayed to users: The payment method with the lowest sort number is displayed on top.',
 'HELP_PROMOTIONS_BANNER_PICTUREANDLINK' => 'Upload banner image and enter banner URL which will be used when clicking on banner. If product is assigned to banner and URL is not entered, link to assigned product will be used when clicking on banner.',
+'HELP_REVERSE_PROXY_GET_BACKEND' => 'Admin area is displayed without Reverse Proxy. Varnish header could not be received.',
+'HELP_REVERSE_PROXY_GET_FRONTEND' => 'Checks if Reverse Proxy is available for the frontend. Header of the shop\\'s start page is veryfied.',
 'HELP_SELECTLIST_MAIN_FIELDS' => 'All available options are displayed in the <span class="navipath_or_inputname">Fields</span> list. You can use the entry fields to the right to set up new options. Further information is available in the <a href="http://www.oxid-esales.com/en/resources/help-faq/eshop-manual/implementing-simple-variants-selection-lists" target="_blank">eShop manual</a> on the OXID eSales website.',
 'HELP_SELECTLIST_MAIN_TITLEIDENT' => 'In <span class="navipath_or_inputname">Working Title</span>, you can enter an additional name that is not displayed to users of your eShop. You can use the working title to differentiate between similar selection lists (e.g., Sizes for trousers and Sizes for shirts).',
 'HELP_SHOP_CACHE_CLASSES' => 'Here you set which view classes are cached.<br> Only change this setting if you are familiar with the caching mechanisms!',
 'HELP_SHOP_CACHE_ENABLED' => 'If Dynamic content caching is active, additional contents are cached for increasing performance. Deactivate this setting as long as you adapt the Shop (writing modules, adapting templates and so on).',
+'HELP_SHOP_CACHE_LAYOUT_CACHE_AGE' => 'Sets lifetime of page layout in seconds. This will be send via HTTP headers, specifying header value "Age".',
 'HELP_SHOP_CACHE_LIFETIME' => 'Here you set how many seconds cached contents are saved at most before they are recreated. The default setting is 36000 seconds.',
+'HELP_SHOP_CACHE_REVERSE_PROXY_ENABLED' => 'Activates a caching HTTP Reverse Proxy. Note: Do not use "Dynamic Content Caching" at the same time, as it could slow down the performance.',
+'HELP_SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_BIGGEST_NET' => 'The VAT rate of the products, which have the biggest net value in shopping cart, is used for calculating.',
+'HELP_SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_PROPORTIONAL' => 'The percentage of products in cart with the same VAT rate is used for calculating.',
 'HELP_SHOP_CONFIG_ALTVATIDCHECKINTERFACEWSDL' => 'Here you can enter an alternative URL for the online VAT ID check.',
 'HELP_SHOP_CONFIG_ATTENTION' => 'Caution: Even if encryption is used, Credit Card contracts usually prohibit this strictly!',
 'HELP_SHOP_CONFIG_BASKETEXCLUDE' => 'Allows to insert products only from one (root) category, if category change is detected user is asked to finalize order (go to checkout) or continue shopping (cart is cleaned in this case). Using this feature in conjunction with  properly organized category structure you can implement split carts for different suppliers.',
@@ -143,6 +152,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_DOWNLOADS' => 'Shop with downloadable products. Activate here, that products can be ordered and downloaded.',
 'HELP_SHOP_CONFIG_DOWNLOADS_PATH' => 'Path where files of downloadable products are stored.',
 'HELP_SHOP_CONFIG_DOWNLOAD_EXPIRATION_TIME' => 'Specify the time in hours, the download link is valid after the first download. This is the default setting for all products.You can change this value for every file of product in Administer Products -> Products -> Downloads.',
+'HELP_SHOP_CONFIG_ENTERNETPRICE' => 'In admin area product prices must be entered as net prices.',
 'HELP_SHOP_CONFIG_FACEBOOKCONNECT' => 'Show Facebook Connect box which allows users to log in into eShop using theirs Facebook accunt data.',
 'HELP_SHOP_CONFIG_FBCOMMENTS' => 'Comments box easily enables shop visitors to comment on your shop\'s content.',
 'HELP_SHOP_CONFIG_FBFACEPILE' => 'Facepile shows profile pictures of shops\'s visitor\'s friends who have already signed up in Facebook for your site.',
@@ -170,6 +180,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_STOCKOFFDEFAULTMESSAGE' => 'For each product you can set up a message if the product is not in stock.<br>If this setting is active, a message is shown if no specific message for for a product is entered. The default message <span class="filename_filepath_or_italic">This item is not in stock and must be back-ordered</span> is shown.',
 'HELP_SHOP_CONFIG_STOCKONDEFAULTMESSAGE' => 'For each product you can set up a message if the product is on stock.<br>If this setting is active, a message is shown if no specific message for for a product is entered. The default message <span class="filename_filepath_or_italic">Ready for shipping</span> is shown.',
 'HELP_SHOP_CONFIG_USENEGATIVESTOCK' => 'With <span class="navipath_or_inputname">Allow negative Stock Values</span> you can define how stock levels are calculated of products are out of stock:<br><ul><li>If the setting is checked, negative stock values are calculated if further units are bought.</li><li>If the setting is unchecked, the stock value never falls below 0, even if further units are bought.</li></ul>',
+'HELP_SHOP_CONFIG_VIEWNETPRICE' => 'In frontend product prices are shown as net prices.',
 'HELP_SHOP_MAIN_ACTIVE' => 'With <span class="navipath_or_inputname">Active</span> you can enable/disable the complete eShop. If the eShop is disabled, a message saying the eShop is temporary offline is displayed to the users. This can be useful for maintenance.',
 'HELP_SHOP_MAIN_INFOEMAIL' => 'All e-mails sent via the contact page are sent to this e-mail address.',
 'HELP_SHOP_MAIN_ORDEREMAIL' => 'When users order they receive an e-mail with a summary of the order. Answers to this e-mail are sent to <span class="navipath_or_inputname">Order e-mail reply</span>.',
@@ -237,7 +248,15 @@ $aLang = array(
 'HELP_USER_EXTEND_DISABLEAUTOGROUP' => 'Users are automatically assigned to certain user groups. This setting prevents this: If checked, the users isn\'t automatically added to any user groups.',
 'HELP_USER_EXTEND_EMAILFAILED' => 'If no e-mails can be sent to the e-mail address of this user, check this setting. Then no newsletters are sent to this user any more. Other e-mails are still sent.',
 'HELP_USER_EXTEND_NEWSLETTER' => 'This setting shows if the user subscribed to the newsletter.',
-'HELP_USER_MAIN_HASPASSWORD' => 'Here you can distinguish if users registered when ordering:<ul><li>If a password is set, the user registered.</li><li>If no password is set, the user ordered without registering.</li></ul>',
+'HELP_USER_MAIN_HASPASSWORD' => 'On this tab you can:
+<ul>
+   <li>Browse and manage existing user payment methods.</li>
+<li>Create new payment methods and set default values, for example direct debit.</li></ul>',
+'HELP_USER_PAYMENT_METHODS' => 'On this tab you can:
+<ul>
+   <li>Browse and manage existing user payment methods.</li>
+   <li>Create new payment methods and set default values, for example direct debit.</li>
+</ul>',
 'HELP_VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Here you can set if users are allowed to use coupons together with coupons of other coupon series in a single order.',
 'HELP_VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Here you can set whether users are allowed to use several coupons of this coupon series in a single order.',
 'HELP_VOUCHERSERIE_MAIN_CALCULATEONCE' => 'If you assign products or categories to your coupon, deactivate this option to calculate this coupon to each product per cart position. Activate if the coupon shall be valid only once per cart position.',
