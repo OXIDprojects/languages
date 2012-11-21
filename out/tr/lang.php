@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1849), e.mersinlioglu (37), enginistemi (4), marco (2), McDaim (101), scaly (1)
+ * @translators: admin (1849), e.mersinlioglu (37), enginistemi (4), marco (2), McDaim (101), scaly (10)
  */
 
 $sLangName  = "Türkçe";
@@ -58,19 +58,19 @@ $aLang = array(
 'ARTNUM' => 'Ürün kodu',
 'ART_NUMBER' => 'No:',
 'ATENTION_GREETING_CARD' => 'DİKKAT tebrik kartı:',
-'AUTHOR' => '',
+'AUTHOR' => 'Yazar',
 'AVAILABLE_ON' => 'Bulunan',
 'A_LIST_BY' => 'i',
 'BACK_TO_OVERVIEW' => 'Gürünüme Geri Dön',
-'BACK_TO_SHOP' => '',
+'BACK_TO_SHOP' => 'Geriye Dön',
 'BACK_TO_START_PAGE' => 'Ana Sayfaya Geri Dön',
 'BANK' => 'Banka',
 'BANK_2' => 'Bank 2',
-'BANK_ACCOUNT_HOLDER' => '',
+'BANK_ACCOUNT_HOLDER' => 'Hesap Numarası',
 'BANK_ACCOUNT_HOLDER_2' => 'Banka Hesabi 2',
 'BANK_ACCOUNT_NUMBER' => 'Hesap No',
 'BANK_ACCOUNT_NUMBER_2' => 'Hesap No',
-'BANK_CODE' => '',
+'BANK_CODE' => 'Banka Kodu',
 'BANK_CODE_2' => 'Banka Kodu',
 'BANK_CODE_3' => 'Banka Kodu',
 'BANK_DETAILS' => 'Banka Detay',
@@ -78,7 +78,7 @@ $aLang = array(
 'BARGAIN_PRODUCTS' => 'Ürün Pazarligi',
 'BASKET' => 'Sepet',
 'BASKET_2' => 'Sepet',
-'BASKET_EMPTY' => '',
+'BASKET_EMPTY' => 'Sepet Boş',
 'BIC' => 'BIC',
 'BILLING_ADDRESS' => '',
 'BILLING_ADDRESS_2' => 'Fatura Adresi',
@@ -86,17 +86,17 @@ $aLang = array(
 'BIRTHDATE' => 'Dogum Tarihi',
 'BLOCK_PRICE' => '',
 'BRAND' => 'Marka',
-'CANCEL' => '',
+'CANCEL' => 'İptal',
 'CAPTION' => 'Baslik',
 'CARD_MASTERCARD' => 'Mastercart',
 'CARD_SECURITY_CODE' => 'Güvenlik Kodu',
 'CARD_SECURITY_CODE_DESCRIPTION' => '',
 'CARD_TO' => 'Sepete',
-'CARD_VISA' => '',
+'CARD_VISA' => 'Visa Kartı',
 'CART' => 'Sepet',
 'CART_2' => '',
 'CATEGORIES' => 'Kategori',
-'CATEGORY' => '',
+'CATEGORY' => 'Kategori',
 'CATEGORY_2' => 'Kategory2',
 'CATEGORY_OVERVIEW' => '',
 'CATEGORY_PRODUCTS_S' => '',
