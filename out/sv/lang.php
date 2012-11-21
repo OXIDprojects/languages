@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (406), HolgerGremminger (38), marco (934)
+ * @translators: admin (406), HolgerGremminger (38), marco (934), rhinosmedia (4)
  */
 
 $sLangName  = "Svenska";
@@ -39,9 +39,9 @@ $aLang = array(
 'ADDRESSES_2' => 'Adresser:',
 'ADDRESS_2' => 'Adress:',
 'ADD_TAGS' => 'Lägga till tags:',
-'ADD_THIS_PAGE_TO' => '',
-'ADD_THIS_PAGE_TO_WEBNEWS' => '',
-'ADD_THIS_PAGE_TO_YIEEHA' => '',
+'ADD_THIS_PAGE_TO' => 'Registrera hos',
+'ADD_THIS_PAGE_TO_WEBNEWS' => 'Länkar det här inlägget på webnews',
+'ADD_THIS_PAGE_TO_YIEEHA' => 'önskar på yieeha',
 'ADD_TO_CART' => 'i varukorgen',
 'ADD_TO_CART_2' => 'i varukorgen',
 'ADD_TO_GIFT_REGISTRY' => 'På önskelistan',

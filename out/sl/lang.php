@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (320), dsb (1)
+ * @translators: admin (320), dsb (1), FlashLight (3)
  */
 
 $sLangName  = "Slovenščina";
@@ -29,10 +29,10 @@ $sLangName  = "Slovenščina";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACCESSORIES' => '',
-'ACCOUNT' => '',
+'ACCESSORIES' => 'DODATKI',
+'ACCOUNT' => 'RAČUN',
 'ACCOUNT_INFORMATION' => '',
-'ADD' => '',
+'ADD' => 'DODAJ',
 'ADDITIONAL_INFO' => '',
 'ADDRESS' => '',
 'ADDRESSES' => '',

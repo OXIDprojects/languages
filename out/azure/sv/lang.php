@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (406), HolgerGremminger (38), marco (934)
+ * @translators: admin (406), HolgerGremminger (38), marco (934), rhinosmedia (4)
  */
 
 $sLangName  = "Svenska";
@@ -44,7 +44,7 @@ $aLang = array(
 'DETAILS_VPE_MESSAGE_1' => 'Denna artikel kan endast köpas i förpackningsenheter om',
 'DETAILS_VPE_MESSAGE_2' => '.',
 'EMAIL_INVITE_HTML_INVITETOSHOP' => 'En inbjudan från',
-'EMAIL_INVITE_HTML_INVITETOSHOP2' => '',
+'EMAIL_INVITE_HTML_INVITETOSHOP2' => ',',
 'EMAIL_INVITE_HTML_INVITETOSHOP3' => 'att besöka.',
 'EMAIL_ORDER_CUST_HTML_ARTNOMBER' => 'Artnr.:',
 'EMAIL_ORDER_CUST_HTML_NONE' => 'INGA',
