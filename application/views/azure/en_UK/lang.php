@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: marco (3970)
+ * @translators: marco (4009)
  */
 
 $sLangName  = "British English";
@@ -31,10 +31,9 @@ $aLang = array(
 'charset' => 'utf-8',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'There is no Listmania lists at the moment. To create new, click',
 'ADD_RECOMM_ADDRECOMMLINK2' => 'here',
-'BETA_NOTE' => 'Welcome to beta version 3 for OXID eShop 4.6.0. Please refer to our <a href=\'http://wiki.oxidforge.org/Development/Beta\' class="external">FAQ</a> if you have any questions.',
-'BETA_NOTE_CLOSE' => 'Dismiss message',
+'allBrands' => 'All brands',
 'byBrand' => 'By Brand',
-'byManufacturer' => 'By Brand',
+'byManufacturer' => 'By manufacturer',
 'byVendor' => 'By Distributor',
 'DETAILS_ARTNUMBER' => 'Product Nr.:',
 'DETAILS_CHOOSEVARIANT' => 'Please select a variant',
@@ -58,6 +57,23 @@ $aLang = array(
 'EMAIL_ORDER_CUST_HTML_TSPROTECTIONCHARGETAX1' => 'plus VAT',
 'EMAIL_ORDER_OWNER_HTML_MESSAGE' => 'Message:',
 'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>PAYMENT INFORMATION SWITCHED OFF</b> - To switch them on, please change email_order_owner_html.tpl.',
+'EMAIL_SENDDOWNLOADS_DOWNLOADS_DESC' => 'Download the files your ordered here.',
+'EMAIL_SENDDOWNLOADS_GREETING' => 'Hello',
+'EMAIL_SENDDOWNLOADS_PAYMENT_PENDING' => 'The payment of the order is not complete yet.',
+'EMAIL_SENDDOWNLOADS_SUBJECT' => 'Download links',
+'EMAIL_SENDEDNOW_HTML_ARTNOMBER' => 'Prod.#:',
+'EMAIL_SENDEDNOW_HTML_ORDERNOMBER' => 'Order #:',
+'EMAIL_SENDEDNOW_HTML_ORDERSHIPPEDTO' => 'The order has been shipped to:',
+'EMAIL_SENDEDNOW_HTML_PRODUCT' => 'Product',
+'EMAIL_SENDEDNOW_HTML_PRODUCTRATING' => 'Product Rating',
+'EMAIL_SENDEDNOW_HTML_QUANTITY' => 'Quantity',
+'EMAIL_SENDEDNOW_HTML_REVIEW' => 'review',
+'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKING' => 'Your shipment tracking URL:',
+'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKINGURL' => 'click here',
+'EMAIL_SENDEDNOW_HTML_TS_RATINGS_RATEUS' => 'Please take a minute to rate our shop.',
+'EMAIL_SENDEDNOW_HTML_YUORTEAM1' => 'Your',
+'EMAIL_SENDEDNOW_HTML_YUORTEAM2' => 'team',
+'EMAIL_STOCKREMINDER_SUBJECT' => 'Stock low',
 'EMAIL_SUGGEST_HTML_MENYGREETINGS' => 'Kind regards,',
 'FOOTER_CATEGORIES' => 'CATEGORIES',
 'FOOTER_DISTRIBUTORS' => 'DISTRIBUTORS',
@@ -144,12 +160,13 @@ $aLang = array(
 'PAGE_DETAILS_THANKYOUMESSAGE2' => 'appreciates your comments.',
 'PAGE_DETAILS_THANKYOUMESSAGE3' => 'We will inform you as soon as the price falls below',
 'PAGE_DETAILS_THANKYOUMESSAGE4' => '.',
+'PAGE_INFO_CLEARCOOKIE_CONTENT' => 'You have decided to not accept cookies from our online shop. The cookies have been removed. You can deactivate the usage of cookies in the settings of your browser and visit the online shop with some functional limitations. You can also return to the shop without changing the browser settings and enjoy the full functionality.<br/><br/>Information about cookies at Wikipedia: <a href="http://en.wikipedia.org/wiki/HTTP_cookie"><strong>http://en.wikipedia.org/wiki/HTTP_cookie</strong></a>',
+'PAGE_INFO_CLEARCOOKIE_TITLE' => 'Information about cookies',
 'PAGE_INFO_CONTACT_THANKYOU1' => 'Thank you.',
 'PAGE_INFO_CONTACT_THANKYOU2' => 'appreciates your comments.',
 'PAGE_INFO_NEWS_LATESTNEWSBY' => 'News from',
 'PAGE_WISHLIST_PRODUCTS_PRODUCTS1' => 'These products are on the wish list of',
 'PAGE_WISHLIST_PRODUCTS_PRODUCTS2' => '. If you want to please him/her, purchase one or multiple of these products.',
-'priceFrom' => '<span class="pricefrom">from</span>',
 'searchResult' => 'Search result for "%s"',
 'simpleDateFormat' => 'Y-m-d',
 'usrRegistered' => 'User will be registered after he provided his password',

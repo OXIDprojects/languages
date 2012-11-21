@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: dsb (5), marco (3854)
+ * @translators: dsb (5), marco (3893)
  */
 
 $sLangName  = "Deutsch";
@@ -30,7 +30,6 @@ $sLangName  = "Deutsch";
 $aLang = array(
 'charset' => 'utf-8',
 'HELP_SHOP_THEME_blShowListDisplayType' => 'Darf der Besucher Ihres Online-Shops die Art der Listenansicht auswählen? Falls diese Option nicht aktiviert ist, werden die Listenansichten so angezeigt wie in der Dropbox "Standard für Produktlistentyp" eingestellt.',
-'HELP_SHOP_THEME_blTopNaviLayout' => 'Die Kategorien-Navigation wird normalerweise links angezeigt. Wenn Sie diese Einstellung aktivieren, wird die Kategorien-Navigation anstatt links oben angezeigt.',
 'HELP_SHOP_THEME_iNewBasketItemMessage' => 'Wenn Konsumenten ein Produkt in den Warenkorb legen, kann der OXID eShop unterschiedliche Feedback-Aktionen durchführen.',
 'HELP_SHOP_THEME_sCatIconsize' => 'In der Kategorieübersicht werden die Kategoriebilder von Unterkategorien in der hier definierten Größe angezeigt.',
 'HELP_SHOP_THEME_sCatPromotionsize' => 'Kategorien, die auf der Startseite beworben werden, benötigen eine eigens dafür vorgesehene Größgenangabe. Stellen Sie diese hier ein.',
@@ -44,10 +43,6 @@ $aLang = array(
 'SHOP_THEME_blShowBirthdayFields' => 'Eingabefeld für das Geburtsdatum anzeigen, wenn Benutzer ihre Daten eingeben',
 'SHOP_THEME_blShowFinalStep' => 'Bestellbestätigung anzeigen, wenn die Bestellung abgeschlossen ist (fünfter Bestellschritt)',
 'SHOP_THEME_blShowListDisplayType' => 'Produktlistentyp in Produktlisten anzeigen',
-'SHOP_THEME_blTopNaviLayout' => 'Kategorien-Navigation oben anzeigen',
-'SHOP_THEME_bl_perfShowLeftBasket' => 'Warenkorb links anzeigen',
-'SHOP_THEME_bl_perfShowRightBasket' => 'Warenkorb rechts anzeigen',
-'SHOP_THEME_bl_perfShowTopBasket' => 'Warenkorb oben anzeigen',
 'SHOP_THEME_bl_showCompareList' => 'Artikelvergleich aktivieren',
 'SHOP_THEME_bl_showGiftWrapping' => 'Geschenkverpackungen aktivieren',
 'SHOP_THEME_bl_showListmania' => 'Lieblingslisten aktivieren',

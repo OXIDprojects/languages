@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), marco (981), Natalia I (37), pianoservis (1), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), marco (992), Natalia I (37), pianoservis (1), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -79,6 +79,12 @@ $aLang = array(
 'BASKET' => 'Корзина',
 'BASKET_2' => 'Корзина',
 'BASKET_EMPTY' => 'Корзина пуста.',
+'BASKET_TOTAL_GIFTCARD_COSTS' => 'Поздравительная открытка',
+'BASKET_TOTAL_GIFTCARD_COSTS_NET' => '',
+'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => '',
+'BASKET_TOTAL_PLUS_VAT' => '',
+'BASKET_TOTAL_WRAPPING_COSTS' => 'Подарочная упаковка',
+'BASKET_TOTAL_WRAPPING_COSTS_NET' => '',
 'BIC' => 'БИК',
 'BILLING_ADDRESS' => 'Расчётные реквизиты',
 'BILLING_ADDRESS_2' => 'Расчётные реквизиты:',
@@ -126,6 +132,9 @@ $aLang = array(
 'CONTACTS' => 'Контакты',
 'CONTINUE_SHOPPING' => 'Продолжить совершать покупки',
 'CONTINUE_TO_NEXT_STEP' => 'Перейти к следующему шагу',
+'COOKIE_NOTE' => '',
+'COOKIE_NOTE_CLOSE' => 'Закрыть',
+'COOKIE_NOTE_DISAGREE' => '',
 'COUNTRY' => 'Страна:',
 'COUPON' => 'Талон',
 'COUPON_2' => 'Талон:',
@@ -275,7 +284,7 @@ $aLang = array(
 'FROM' => 'От',
 'FROM_2' => 'От:',
 'FROM_3' => 'От',
-'fullDateFormat' => 'дд.мм.гг чч:мм:сс',
+'fullDateFormat' => 'd M Y H:i:s',
 'GIFTWRAPPER' => 'Упаковка подарка',
 'GIFT_OPTION' => 'Выбор подарка',
 'GIFT_REGISTRY' => 'Список желаний',
@@ -306,7 +315,7 @@ $aLang = array(
 'HOME' => 'Стартовая страница',
 'IBAN' => 'IBAN (международный номер банковского счёта):',
 'IF_DEFERENT_FROM_BILLING_ADDRESS' => 'Если отличается от расчётных реквизитов.',
-'IMPRESUSUM' => 'Выходные данные',
+'IMPRESSUM' => 'Выходные данные',
 'INCL_TAX_AND_PLUS_SHIPPING' => '* Все цены с НДС, доставка не включена',
 'INFORMATION' => 'Информация',
 'INTRODUCTION' => 'Введение',
@@ -467,6 +476,7 @@ $aLang = array(
 'NEWLIST' => 'Новый список избранного',
 'NEWS' => 'Новости',
 'NEWSLETTER' => 'Рассылка',
+'NEWSLETTER_EMAIL_NOT_EXIST' => 'Неизвестный адрес электронной почты!',
 'NEWSLETTER_SETTINGS' => 'Настройки рассылки',
 'NEWSLETTER_SUBSCRIBE_CANCEL' => 'Активировать/отменить рассылку',
 'NEWSLETTER_SUBSCRIPTION' => 'Подписаться на рассылку',
@@ -646,6 +656,7 @@ $aLang = array(
 'PRICE_ALERT' => 'Уведомить о скидке',
 'PRICE_ALERT_AT' => 'Уведомить о скидке в',
 'PRICE_ALERT_FOR_PRODUCT' => 'Уведомить о скидке на товар',
+'PRICE_FROM' => 'от',
 'PRINT' => 'Распечатать страницу',
 'PROCEED_TO_SCHECKOUT' => 'На кассу',
 'PRODUCT' => 'Товар',
@@ -659,6 +670,7 @@ $aLang = array(
 'PRODUCT_NO' => 'Арт. номер:',
 'PRODUCT_POST_CARD_FROM' => 'Открытка с товаром от',
 'PRODUCT_REVIEW' => 'Оценить продукцию',
+'PROPORTIONALLY_CALCULATED' => '',
 'PUBLIC_GIFT_REGISTRIES' => 'Публичный список желаний',
 'PUBLISH' => 'Опубликовать',
 'PURCHASE_WITHOUT_REGISTRATION' => 'Заказать без регистрации',
@@ -815,7 +827,7 @@ $aLang = array(
 'WEEK_2' => 'Неделя',
 'WEEK_SPECIAL' => 'Предложение недели',
 'WEIGHT' => 'Вес:',
-'WHAT_I_WANTED_TO_SAY' => 'Ваше сообщение для нас:',
+'WHAT_I_WANTED_TO_SAY' => 'Ваше сообщение для нас',
 'WHAT_I_WANT_TO_SAY' => 'Ваше сообщение для нас:',
 'WHO_BOUGHT_ALSO_BOUGHT' => 'Покупатели, которых заинтересовал этот товар, купили также:',
 'WISHLIST_BY' => 'Список желаний от',

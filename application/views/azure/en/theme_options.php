@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: marco (3858)
+ * @translators: marco (3897)
  */
 
 $sLangName  = "English";
@@ -30,7 +30,6 @@ $sLangName  = "English";
 $aLang = array(
 'charset' => 'utf-8',
 'HELP_SHOP_THEME_blShowListDisplayType' => 'Decide if the visitor of your store can select the type of the product list in store front. If this options is not activated, your visitors will see the lists displayed like you adjusted in the drop box "Default product list type".',
-'HELP_SHOP_THEME_blTopNaviLayout' => 'Usually, the category navigation is shown on the left. If this setting is checked, the category navigation is shown at top instead.',
 'HELP_SHOP_THEME_iNewBasketItemMessage' => 'When customer adds products to cart, OXID eShop can behave differently. Set up what shall happen to give proper feedback to customer.',
 'HELP_SHOP_THEME_sCatIconsize' => 'In category view, the category pictures of subcategories are displayed in the defined size.',
 'HELP_SHOP_THEME_sCatPromotionsize' => 'Category promotion on start page needs special size for category pictures. Define size of those pictures here.',
@@ -44,10 +43,6 @@ $aLang = array(
 'SHOP_THEME_blShowBirthdayFields' => 'Display input fields for date of birth when users enter their personal data',
 'SHOP_THEME_blShowFinalStep' => 'Show order confirmation after order is finished (5th Step in Checkout)',
 'SHOP_THEME_blShowListDisplayType' => 'Display product list type selector',
-'SHOP_THEME_blTopNaviLayout' => 'Display category navigation at top',
-'SHOP_THEME_bl_perfShowLeftBasket' => 'Display cart on left side',
-'SHOP_THEME_bl_perfShowRightBasket' => 'Display cart on right side',
-'SHOP_THEME_bl_perfShowTopBasket' => 'Display cart at top',
 'SHOP_THEME_bl_showCompareList' => 'Use compare list',
 'SHOP_THEME_bl_showGiftWrapping' => 'Use gift wrapping',
 'SHOP_THEME_bl_showListmania' => 'Use listmania',

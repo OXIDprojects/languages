@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: marco (3970)
+ * @translators: marco (4009)
  */
 
 $sLangName  = "British English";

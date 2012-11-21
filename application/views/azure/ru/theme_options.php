@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), marco (981), Natalia I (37), pianoservis (1), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), marco (992), Natalia I (37), pianoservis (1), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -30,7 +30,6 @@ $sLangName  = "Русский";
 $aLang = array(
 'charset' => 'utf-8',
 'HELP_SHOP_THEME_blShowListDisplayType' => 'Можно ли посетителю Вашего он-лайн магазина изменять способ просмотре списка? Если эта опция не будет активирована, списки будут показаны так же, как в настройках Dropbox "Стандартный список".',
-'HELP_SHOP_THEME_blTopNaviLayout' => 'Обычно параметры просмотра категорий расположены слева. При активации этой настройки они будут показаны сверху.',
 'HELP_SHOP_THEME_iNewBasketItemMessage' => 'Если покупатель кладёт товар в корзину, OXID eShop может осуществлять обратную связь (отправлять вопросы, запрашивать подтверждения и т.д.).',
 'HELP_SHOP_THEME_sCatIconsize' => 'Размер картинок подкатегорий.',
 'HELP_SHOP_THEME_sCatPromotionsize' => 'Размер картинок категорий на стартовой странице.',
@@ -44,10 +43,6 @@ $aLang = array(
 'SHOP_THEME_blShowBirthdayFields' => 'Показывать поле, куда пользователь введёт дату рождения.',
 'SHOP_THEME_blShowFinalStep' => 'Показывать окошко подтверждения заказа, когда пройдены все шаги.',
 'SHOP_THEME_blShowListDisplayType' => 'Показывать вид списка товаров в списке',
-'SHOP_THEME_blTopNaviLayout' => 'Показывать сверху перемещение по категориям',
-'SHOP_THEME_bl_perfShowLeftBasket' => 'Показывать корзину слева',
-'SHOP_THEME_bl_perfShowRightBasket' => 'Показывать корзину справа',
-'SHOP_THEME_bl_perfShowTopBasket' => 'Показывать корзину сверху',
 'SHOP_THEME_bl_showCompareList' => 'Активировать опцию сравнения товаров',
 'SHOP_THEME_bl_showGiftWrapping' => 'Активировать подарки',
 'SHOP_THEME_bl_showListmania' => 'Активировать списки понравившихся товаров',
