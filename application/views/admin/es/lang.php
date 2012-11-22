@@ -837,7 +837,7 @@ $aLang = array(
 'LANGUAGE_LANGUAGEID' => 'Lengua de identificación',
 'LANGUAGE_LIST_MENUITEM' => 'Maestro Configuración',
 'LANGUAGE_LIST_MENUSUBITEM' => 'Idiomas',
-'LANGUAGE_NOTRANSLATIONS_WARNING' => 'Atención: No hay archivos traducciones se encuentran en las plantillas de directorio para el idioma seleccionado!',
+'LANGUAGE_NOTRANSLATIONS_WARNING' => '',
 'LOGIN_DEMOMODE_NOTIFY' => '',
 'LOGIN_ERROR' => '¡Error! Incorrecto nombre de usuario y / o la contraseña!',
 'LOGIN_LANGUAGE' => 'Idioma',
@@ -1939,9 +1939,9 @@ $aLang = array(
 'VOUCHERSERIE_LIST_MENUITEM' => 'Configuración de Tienda',
 'VOUCHERSERIE_LIST_MENUSUBITEM' => 'Promocional de la serie',
 'VOUCHERSERIE_LIST_MINVALUE' => 'Min. Orden Suma',
-'VOUCHERSERIE_LIST_SERIALNUn.
- *Nombr,
- *    but WITHOMAIN_ALLOWOT   This Srt of Válido con diferentesseful, your option) any PARTICULARSAMEOSE.  See the
+'VOUCHERSERIE_LIST_SERIALNUM' => 'Nombre',
+'VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Válido con diferentes series',
+'VOUCHERSERIE_MAIN_ALLARSAMEOSE.  See the
  * a  GNUla mismuseful,
  *    but WITHOPARTICVAILABLit and/n 3 of thef the GNU General PublCALCULATEONCit and/Calcular una sola vez (v
  *   sólo Licenlos bonor

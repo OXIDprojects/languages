@@ -837,7 +837,7 @@ $aLang = array(
 'LANGUAGE_LANGUAGEID' => 'ID Langue',
 'LANGUAGE_LIST_MENUITEM' => 'Système',
 'LANGUAGE_LIST_MENUSUBITEM' => 'Langues',
-'LANGUAGE_NOTRANSLATIONS_WARNING' => 'Attention: Aucun fichier de traduction n\'a été trouvé dans le dossier des templates pour cette langue!',
+'LANGUAGE_NOTRANSLATIONS_WARNING' => '',
 'LOGIN_DEMOMODE_NOTIFY' => 'Fonctionnalités limitées en mode démonstration',
 'LOGIN_ERROR' => 'Erreur! Nom d\'utilisateur ou mot de passe incorrect!',
 'LOGIN_LANGUAGE' => 'Langue',
@@ -1761,10 +1761,10 @@ $aLang = array(
 'tbclselectlist_mall' => 'Galerie marchande',
 'tbclshop_cache' => 'Gestion de Cache',
 'tbclshop_config' => 'Paramètres',
-'tbclshoNTlicXID  is paLic LcARTICULAR PURPbut WITHOUT ANY WARRANTY; wi
- *
-he implied warraMty of
- *    MERCHANTperformaore  is fr
+'tbclshop_license' => 'Licence',
+'tbclshop_main' => 'Principal',
+'tbclshop_mall' => 'Galerie Marchande',
+'tbclshopTperformaore  is fr
  *    alo    MERCHANT    it under the termseivedseoong wiSEOot, see <http:ystemwww.gnuystèmhop Communtatistic*
  *    You should have receww.oxid-ess fialong wiMainten.op Communysreq*
  *    You should have recthemePOSE.  See the

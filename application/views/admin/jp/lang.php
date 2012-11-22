@@ -837,7 +837,7 @@ $aLang = array(
 'LANGUAGE_LANGUAGEID' => '言語 ID',
 'LANGUAGE_LIST_MENUITEM' => 'マスター設定',
 'LANGUAGE_LIST_MENUSUBITEM' => '言語',
-'LANGUAGE_NOTRANSLATIONS_WARNING' => '注意: 選択した言語のテンプレートフォルダに翻訳フォルダがありません。',
+'LANGUAGE_NOTRANSLATIONS_WARNING' => '',
 'LOGIN_DEMOMODE_NOTIFY' => '',
 'LOGIN_ERROR' => 'エラー 不正なユーザー名およびパスワード',
 'LOGIN_LANGUAGE' => '言語',
@@ -1855,10 +1855,9 @@ $aLang = array(
 'TOOLTIPS_NEWREMARK' => 'ノートを追加',
 'TOOLTIPS_NEWSELECTLIST' => '新規セレクションリストの作成',
 'TOOLTIPS_NEWSHOP' => '新規ショップを作成',
-'TOOLTIPS_NEWSTATISTIC' => '新しい総�the ftware: you can redistUS  This file is p�of OX�p Commll be useful,
- *    but WGROUsion.
- *
- * RRANTY; with��ル*    �hout even the implied warrantID eShop Community Edition is free software: you can redistVAR1This file isore details.
+'TOOLTIPS_NEWSTATISTIC' => '新しい総計を作成',
+'TOOLTIPS_NEWUSER' => '新規ユーザーの作成',
+'TOOLTIPS_NEWUSERGROUP' => '新規�RRANTY; with��ル*    �hout even the implied warrantID eShop Community Edition is free software: you can redistVAR1This file isore details.
  *
  2This f以下ore details.
  *
