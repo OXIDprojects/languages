@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (320), dsb (1), FlashLight (3)
+ * @translators: admin (320), dsb (1), FlashLight (13)
  */
 
 $sLangName  = "Slovenščina";
@@ -31,8 +31,8 @@ $aLang = array(
 'charset' => 'utf-8',
 'ADD_RECOMM_ADDRECOMMLINK1' => '',
 'ADD_RECOMM_ADDRECOMMLINK2' => '',
-'allBrands' => '',
-'byBrand' => '',
+'allBrands' => 'Vse znamke',
+'byBrand' => 'Po znamki',
 'byManufacturer' => '',
 'byVendor' => '',
 'DETAILS_ARTNUMBER' => '',

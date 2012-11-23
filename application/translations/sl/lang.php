@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (320), dsb (1), FlashLight (3)
+ * @translators: admin (320), dsb (1), FlashLight (13)
  */
 
 $sLangName  = "Slovenščina";
@@ -31,19 +31,19 @@ $aLang = array(
 'charset' => 'utf-8',
 'ACCESSORIES' => 'DODATKI',
 'ACCOUNT' => 'RAČUN',
-'ACCOUNT_INFORMATION' => '',
+'ACCOUNT_INFORMATION' => 'Podatki o računu',
 'ADD' => 'DODAJ',
 'ADDITIONAL_INFO' => '',
-'ADDRESS' => '',
-'ADDRESSES' => '',
+'ADDRESS' => 'Naslov',
+'ADDRESSES' => 'Naslovi',
 'ADDRESSES_2' => '',
-'ADDRESS_2' => '',
-'ADD_TAGS' => '',
-'ADD_THIS_PAGE_TO' => '',
+'ADDRESS_2' => 'Naslov 2',
+'ADD_TAGS' => 'Dodaj oznake',
+'ADD_THIS_PAGE_TO' => 'Dodaj stran v',
 'ADD_THIS_PAGE_TO_WEBNEWS' => '',
 'ADD_THIS_PAGE_TO_YIEEHA' => '',
-'ADD_TO_CART' => '',
-'ADD_TO_CART_2' => '',
+'ADD_TO_CART' => 'Dodaj v košarico',
+'ADD_TO_CART_2' => 'Dodaj v košarico 2',
 'ADD_TO_GIFT_REGISTRY' => '',
 'ADD_TO_LIST' => '',
 'ADD_TO_LISTMANIA_LIST' => '',
