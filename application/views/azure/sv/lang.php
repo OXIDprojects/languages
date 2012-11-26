@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (406), HolgerGremminger (38), marco (934), rhinosmedia (4)
+ * @translators: admin (406), HolgerGremminger (69), marco (934), rhinosmedia (4)
  */
 
 $sLangName  = "Svenska";
@@ -31,7 +31,7 @@ $aLang = array(
 'charset' => 'utf-8',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'Det finns för närvarande inga favoritlistor. Om du vill skapa en ny favoritlista, klicka',
 'ADD_RECOMM_ADDRECOMMLINK2' => 'här',
-'allBrands' => '',
+'allBrands' => 'Alla märken',
 'byBrand' => 'Efter varumärke',
 'byManufacturer' => 'Efter varumärke',
 'byVendor' => 'Efter leverantör',

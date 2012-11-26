@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3431), Phenix (202), vikapera (376)
+ * @translators: admin (3431), alexraimondo (1), Phenix (202), vikapera (376)
  */
 
 $sLangName  = "Français";
@@ -248,7 +248,7 @@ $aLang = array(
 'AUCTMASTER_DO_TITLE' => 'Import/Export',
 'AUCTMASTER_DO_UNKNOWNERROR' => 'Erreur inconnue!',
 'BOTTOMNAVIITEM_ATTENTION' => 'ATTENTION: Cette fonction peut supprimer des catégories - faites une sauvegarde avant exécution!',
-'BUTTON_DOWNLOAD' => '',
+'BUTTON_DOWNLOAD' => 'Télécharger',
 'CATEGORY_LIST_MENUSUBITEM' => 'Catégories',
 'CATEGORY_MAIN_ACTIVE' => 'Actif',
 'CATEGORY_MAIN_ALLITEMS' => 'Tous les produits disponibles',
