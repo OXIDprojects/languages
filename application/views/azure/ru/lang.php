@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), marco (992), Natalia I (37), pianoservis (3), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), marco (992), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -164,7 +164,7 @@ $aLang = array(
 'PAGE_INFO_CONTACT_THANKYOU1' => 'Спасибо за Ваше сообщение',
 'PAGE_INFO_CONTACT_THANKYOU2' => '.',
 'PAGE_INFO_NEWS_LATESTNEWSBY' => 'Новое',
-'PAGE_WISHLIST_PRODUCTS_PRODUCTS1' => 'Этот товар находится в спике желаний у',
+'PAGE_WISHLIST_PRODUCTS_PRODUCTS1' => 'Этот товар находится в списке желаний у',
 'PAGE_WISHLIST_PRODUCTS_PRODUCTS2' => '. Если Вы хотите доставить ему (ей) радость, купите этот товвар.',
 'searchResult' => 'Результат поиска для "%s"',
 'simpleDateFormat' => 'd.m.Y',
