@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (28), pianoservis (340)
+ * @translators: admin (28), pianoservis (907)
  */
 
 $sLangName  = "Українська";
@@ -30,7 +30,7 @@ $sLangName  = "Українська";
 $aLang = array(
 'charset' => 'utf-8',
 'ACCESSORIES' => 'Аксесуари',
-'ACCOUNT' => '',
+'ACCOUNT' => 'Обліковий запис',
 'ACCOUNT_INFORMATION' => 'Особиста інформація',
 'ADD' => 'Додати',
 'ADDITIONAL_INFO' => 'Додаткова інформація',
@@ -50,11 +50,11 @@ $aLang = array(
 'ADD_TO_WISH_LIST' => 'Взяти на замітку',
 'ADD_WRAPPING' => 'Додати подарункову упаковку',
 'ADD_YOUR_COMMENTS' => 'Додати свій коментар',
-'ALL' => '',
-'ALL_LISTMANIA' => '',
-'ALREADY_ADDED_TAG' => '',
-'ALREADY_CUSTOMER' => '',
-'APPLAY' => '',
+'ALL' => 'Всі',
+'ALL_LISTMANIA' => 'Всі списки',
+'ALREADY_ADDED_TAG' => 'Тег успішно призначений',
+'ALREADY_CUSTOMER' => 'Я вже покупець',
+'APPLAY' => 'Взяти',
 'ARTNUM' => '',
 'ART_NUMBER' => '',
 'ATENTION_GREETING_CARD' => '',

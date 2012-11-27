@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), marco (992), Natalia I (37), pianoservis (1), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), marco (992), Natalia I (37), pianoservis (3), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -102,7 +102,7 @@ $aLang = array(
 'FORM_USER_PASSWORD_CONFIRMPASSWORD' => 'Подтвердить пароль:',
 'FORM_WISHLIST_SEARCH_SEARCH' => 'Искать',
 'FORM_WISHLIST_SUGGEST_BUYFORME1' => 'Привет, я составил себе здесь',
-'FORM_WISHLIST_SUGGEST_BUYFORME2' => 'спсиок желаний. Было бы здорово получить от тебя что-нибудь из этого списка.',
+'FORM_WISHLIST_SUGGEST_BUYFORME2' => 'список желаний. Было бы здорово получить от тебя что-нибудь из этого списка.',
 'FORM_WISHLIST_SUGGEST_ERRWRONGEMAIL' => 'Ошибка отправки. Пожалуйста, перепроверьте Ваш E-Mail',
 'fullDateFormat' => 'd M Y H:i:s',
 'grid' => 'Галерея',

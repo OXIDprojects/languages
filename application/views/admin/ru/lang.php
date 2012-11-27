@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), marco (992), Natalia I (37), pianoservis (1), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), marco (992), Natalia I (37), pianoservis (3), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -812,7 +812,7 @@ $aLang = array(
 'GENIMPORT_STEP_2_TITLE' => '',
 'GENIMPORT_STEP_3_TITLE' => '',
 'GENIMPORT_TABLE' => 'Таблица',
-'GENIMPORT_TOTALROWS' => 'Всего строк импортироано',
+'GENIMPORT_TOTALROWS' => 'Всего строк импортировано',
 'GENIMPORT_UPLOADFILE' => 'Загрузить файл',
 'GIFTCARD_COSTS' => '',
 'HELP_ARTICLE_MAIN_PRICE' => '',
