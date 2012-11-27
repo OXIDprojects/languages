@@ -23,8 +23,8 @@ You will find the flag images for azure theme in the following folder:<br>
 /out/azure/img/lang/ adjusted at 14x10 px<br>
 Please feel free to send pull requests for such files.
 
-You'll find the translated language files for former OXID eShop versions in the 'tags' section:
+You'll find the translated language files for former OXID eShop versions in the 'tags' section:<br>
 https://github.com/OXIDprojects/languages/tags
 
-For more information and how to install a language, please visit
-http://wiki.oxidforge.org/Tutorial/Language_handling
+For more information and how to install a language, please visit<br>
+http://wiki.oxidforge.org/Tutorials/Language_handling
