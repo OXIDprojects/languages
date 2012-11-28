@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: dsb (5), marco (3977)
+ * @translators: dsb (5), marco (3981)
  */
 
 $sLangName  = "Deutsch";
@@ -203,6 +203,7 @@ $aLang = array(
 'ARTICLE_STOCK_DAYS' => 'Tage',
 'ARTICLE_STOCK_DELIVERY' => 'Wieder lieferbar am',
 'ARTICLE_STOCK_DELTIME' => 'Lieferzeit',
+'ARTICLE_STOCK_ERRORSCALEPRICE' => 'Achtung: Staffelpreis muss niedriger als Normalpreis sein.',
 'ARTICLE_STOCK_MAXDELTIME' => 'und',
 'ARTICLE_STOCK_MINDELTIME' => 'Zwischen',
 'ARTICLE_STOCK_MONTHS' => 'Monate',
@@ -320,6 +321,7 @@ $aLang = array(
 'COUNTRY_MAIN_OXVATSTATUS' => 'MwSt. Behandlung',
 'COUNTRY_MAIN_OXVATSTATUS_0' => 'Mehrwertsteuerfrei',
 'COUNTRY_MAIN_OXVATSTATUS_1' => 'Mehrwertsteuerfrei falls Umsatzsteuer-Identnummer bekannt',
+'CUSTOMERNUM' => 'Kundennummer',
 'CUSTOM_TEMPLATE_EXIST_FOR_DELETED_SHOP' => 'Der gelöschte Shop verwendet eigene Templates. Löschen Sie diese manuell, falls gewünscht.',
 'DELIVERYSET_LIST_MENUITEM' => 'Shopeinstellungen',
 'DELIVERYSET_LIST_MENUSUBITEM' => 'Versandarten',
@@ -964,7 +966,6 @@ $aLang = array(
 'none' => 'keine',
 'nonstackable_serial_detected' => 'Ein nicht erweiterbarer Lizenzschlüssel kann nicht hinzugefügt werden. Bitte fügen Sie diesen Schlüssel als ersten ein.',
 'NO_PICTURES_CHANGES' => 'Keine Änderungen bei den Bildern',
-'NO_REVERSE_PROXY_BETWEEN' => 'Kein Reverse Proxy vor dem Administrationsbereich',
 'order' => 'Bestellung',
 'ORDERFOLDER_FINISHED' => 'Bearbeitet',
 'ORDERFOLDER_NEW' => 'Neu',
@@ -1107,6 +1108,7 @@ $aLang = array(
 'PAYMENT_MAIN_LONGDESC' => 'Beschreibung der Zahlungsart',
 'PAYMENT_MAIN_NAME' => 'Name',
 'PAYMENT_MAIN_NOTAVAILIBLEINGROUP' => 'Alle Benutzergruppen',
+'PAYMENT_MAIN_NOTICEDEFAULTVALUESSELECTED' => 'Standardwerte ausgewählt',
 'PAYMENT_MAIN_SELECTED' => 'Ausgewählt',
 'PAYMENT_MAIN_TILL' => 'bis',
 'PAYMENT_OVERVIEW_HOWMANYPAYMENTS' => 'Wieviel Einkäufe wurden mit dieser Zahlungsart gemacht',
@@ -1807,6 +1809,7 @@ $aLang = array(
 'TOOLS_LIST_SECCESS' => 'Backup data erfolgreich gemailt.',
 'TOOLS_LIST_SQLQUERY' => 'SQL query',
 'TOOLS_LIST_TITLE' => '[OXID Tools]',
+'TOOLS_LIST_UPDATEVIEWSFAILED' => 'Update der DB-Views fehlgeschlagen.',
 'TOOLS_LIST_UPDATEVIEWSSECCESS' => 'Datenbank-Views wurden erfolgreich aktualisiert.',
 'TOOLS_MAIN_CHECKPICS' => 'Unbenutzte Bilder suchen und löschen',
 'TOOLS_MAIN_SQLDUMB' => 'SQL Datei importieren',

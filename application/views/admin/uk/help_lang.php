@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (28), pianoservis (968)
+ * @translators: admin (28), pianoservis (1013)
  */
 
 $sLangName  = "Українська";
@@ -223,7 +223,6 @@ $aLang = array(
 'HELP_SHOP_RDFA_SUBMIT_URL' => '',
 'HELP_SHOP_RDFA_VAT' => '',
 'HELP_SHOP_SEO_IDSSEPARATOR' => '',
-'HELP_SHOP_SEO_REPLACECHARS' => '',
 'HELP_SHOP_SEO_RESERVEDWORDS' => '',
 'HELP_SHOP_SEO_SAFESEOPREF' => '',
 'HELP_SHOP_SEO_SKIPTAGS' => '',

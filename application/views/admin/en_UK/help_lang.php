@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: marco (4098)
+ * @translators: marco (4103)
  */
 
 $sLangName  = "British English";
@@ -224,7 +224,6 @@ $aLang = array(
 'HELP_SHOP_RDFA_SUBMIT_URL' => 'Submits your shop URL to GR-Notify page. There the URL is saved and forwarded to Linked Open Commerce & Semantic Web search engines and endpoints.',
 'HELP_SHOP_RDFA_VAT' => 'This option specifies whether the VAT is included in the price and delivery/payment costs or not.',
 'HELP_SHOP_SEO_IDSSEPARATOR' => 'The separator is used if category names and product names consist of several words. The separator is used instead of spaces, e.g. www.youreshop.com/category-name-of-several-words<br>If no separator is entered, - is used.',
-'HELP_SHOP_SEO_REPLACECHARS' => 'Some special characters like German umlauts should be removed from URLs. They can cause problems. Here you can define how they are replaced. The syntax is <code>special character -> replacement character</code>, e.g. <code>Ü -> Ue</code>.<br>For German, the replacements are already entered.',
 'HELP_SHOP_SEO_RESERVEDWORDS' => 'Some URLs are defined in OXID eShop, like www.youreshop.com/admin for accessing eShop admin. If a category was named <span class="filename_filepath_or_italic">admin</span> the SEO URL would be www.youreshop.com/admin too - the category couldn\'t be accessed. Therefore the SEO suffix is attached to these URLs. You can define here which URLs are suffixed automatically.',
 'HELP_SHOP_SEO_SAFESEOPREF' => 'If several products have the same name and are in the same category, they would get the same SEO URL. For avoiding this, the SEO Suffix is attached. If no SEO Suffix is defined, <span class="filename_filepath_or_italic">oxid</span> is used.',
 'HELP_SHOP_SEO_SKIPTAGS' => 'If no META tags are defined for products and categories, the META tags are created automatically. thereby very common words can be omitted. All words entered here are omitted when creating the META tags.',

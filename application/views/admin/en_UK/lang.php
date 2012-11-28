@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: marco (4098)
+ * @translators: marco (4103)
  */
 
 $sLangName  = "British English";
@@ -203,6 +203,7 @@ $aLang = array(
 'ARTICLE_STOCK_DAYS' => 'Days',
 'ARTICLE_STOCK_DELIVERY' => 'Available on',
 'ARTICLE_STOCK_DELTIME' => 'Delivery time',
+'ARTICLE_STOCK_ERRORSCALEPRICE' => 'Attention: Scale price must be lower than regular price.',
 'ARTICLE_STOCK_MAXDELTIME' => 'to',
 'ARTICLE_STOCK_MINDELTIME' => 'From',
 'ARTICLE_STOCK_MONTHS' => 'Months',
@@ -320,6 +321,7 @@ $aLang = array(
 'COUNTRY_MAIN_OXVATSTATUS' => 'VAT handling',
 'COUNTRY_MAIN_OXVATSTATUS_0' => 'Do not bill VAT',
 'COUNTRY_MAIN_OXVATSTATUS_1' => 'Do not bill VAT only if provided valid VAT ID',
+'CUSTOMERNUM' => 'Cust No.',
 'CUSTOM_TEMPLATE_EXIST_FOR_DELETED_SHOP' => 'Custom templates exist for deleted shop. Delete it manually if needed.',
 'DELIVERYSET_LIST_MENUITEM' => 'Shop Settings',
 'DELIVERYSET_LIST_MENUSUBITEM' => 'Delivery Methods',
@@ -964,7 +966,6 @@ $aLang = array(
 'none' => 'none',
 'nonstackable_serial_detected' => 'Can\'t add non stackable license key. Please insert stackable license key first.',
 'NO_PICTURES_CHANGES' => 'No pictures changes',
-'NO_REVERSE_PROXY_BETWEEN' => 'No Reverse Proxy in front of admin area',
 'order' => 'Order',
 'ORDERFOLDER_FINISHED' => 'Finished',
 'ORDERFOLDER_NEW' => 'New',
@@ -1107,6 +1108,7 @@ $aLang = array(
 'PAYMENT_MAIN_LONGDESC' => 'Payment Description',
 'PAYMENT_MAIN_NAME' => 'Name',
 'PAYMENT_MAIN_NOTAVAILIBLEINGROUP' => 'Not available in User Groups',
+'PAYMENT_MAIN_NOTICEDEFAULTVALUESSELECTED' => 'Default values have been selected',
 'PAYMENT_MAIN_SELECTED' => 'Selected',
 'PAYMENT_MAIN_TILL' => 'to',
 'PAYMENT_OVERVIEW_HOWMANYPAYMENTS' => 'How many purchases were paid with this payment method',
@@ -1807,6 +1809,7 @@ $aLang = array(
 'TOOLS_LIST_SECCESS' => 'Backup data mailed successfully.',
 'TOOLS_LIST_SQLQUERY' => 'SQL query',
 'TOOLS_LIST_TITLE' => '[OXID Tools]',
+'TOOLS_LIST_UPDATEVIEWSFAILED' => 'DB Views update failed.',
 'TOOLS_LIST_UPDATEVIEWSSECCESS' => 'DB Views updated successfully.',
 'TOOLS_MAIN_CHECKPICS' => 'Search and delete unused Pictures',
 'TOOLS_MAIN_SQLDUMB' => 'Import SQL File<br>(large files should be uploaded via ftp)',

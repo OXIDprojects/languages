@@ -223,7 +223,6 @@ $aLang = array(
 'HELP_SHOP_RDFA_SUBMIT_URL' => '',
 'HELP_SHOP_RDFA_VAT' => '',
 'HELP_SHOP_SEO_IDSSEPARATOR' => 'Oddelovač sa používa v prípade viacslovných názvov namiesto medzier, napr. www.vášobchod.cz/kategória-s-viacslovným-názvom<br />Ako základný oddelovač je použitý znak -.',
-'HELP_SHOP_SEO_REPLACECHARS' => 'Niektoré špeciálne znaky (typicky prehlásky) by nemali byť v URL, lebo môžu spôsobiť problémy. Tu môžete zadefinovať, ako majú byť nahradené. Definície musia byť v tvare <code>špeciálny znak => náhradny znak</code>, nap. <code>Ü => Ue</code>.<br />Pre nemčinu sú náhradné znaky už nadefinované.',
 'HELP_SHOP_SEO_RESERVEDWORDS' => 'Niektoré URL sú potrebné na prevádzku eShopu, napr. www.youreshop.com/admin pre prístup do administrácie. Pokiaľ pomenujete kategóriu <i>admin</i>, SEO URL bude taktiež www.youreshop.com/admin, do kategórie se teda nebudete vedieť dostať. Preto bude použitá SEO URL prípona. Tu môžete nadefinovať, ku ktorým URL má byť prípona pridaná automaticky.',
 'HELP_SHOP_SEO_SAFESEOPREF' => 'Pokiaľ je v kategórii viac výrobkov s rovnakým názvom, majú rovnaké SEO URL. Preto majú aj SEO príponu. Pokým žiadnu príponu nedefinujete, bude použité slovo <i>oxid</i>.',
 'HELP_SHOP_SEO_SKIPTAGS' => 'Pokiaľ pre kategóriu nevytvoríte META tagy, budú vytvorené automaticky. Preto by mali byť vynechané niektoré, príliš často sa vyskytujúce slová. Slová v tomto zozname budú vynechané META tagmi.',

@@ -223,7 +223,6 @@ $aLang = array(
 'HELP_SHOP_RDFA_SUBMIT_URL' => '',
 'HELP_SHOP_RDFA_VAT' => '',
 'HELP_SHOP_SEO_IDSSEPARATOR' => 'Skyriklis yra naudojamas jei kategorijos ir prekės pavadinimai susideda iš kelių žodžių. Skyriklis yra naudojamas vietoj erdvės, pvz. www.youreshop.com/category-name-of-several-words<br />Jei nėra įvesto skyriklio, bus naudojamas "-" .',
-'HELP_SHOP_SEO_REPLACECHARS' => 'Keletas lietuviškos(kitų kalbų spec.) raidės/simboliai turi būti ištrinti iš URL. Jie gali sukelti problemų. Čia galite nurodyti kaip juos pakeisti. Sintaksė yra <code>spec. simbolis => pakeitimo simbolis</code>, pvz. <code>ܠ=> Ue</code>.<br />',
 'HELP_SHOP_SEO_RESERVEDWORDS' => 'Keletas URL yra fiksuoti, tokie kaip www.youreshop.com/admin - prieiga prie parduotuvės administravimo. Jei kategorija buvo pervadinta, <i>admin</i> SEO URL turi būti www.youreshop.com/admin taip pat - kategorija negali būti prieinama. Todėl SEO priešdėlis yra pridedamas prie šių URL. Jūs galite nustatyti, kurie URL yra pridedami automatiškai.',
 'HELP_SHOP_SEO_SAFESEOPREF' => 'Jei kelios prekės turi tokį patį pavadinimą, ir jos yra toje pačioje kategorijoje, joms bus suteiktas toks pat SEO URL. Norėdami to išvengti, SEO priešdėlis yra pridedamas. Jei nėra SEO priešdėlio yra naudojamas standartinis <i>oxid</i> skyriklis.',
 'HELP_SHOP_SEO_SKIPTAGS' => 'Jei nėra META kortelių yra apibrėžtos prekių ir kategorijų, META kortelės yra sukurtos automatiškai. Taip žodžiai labai dažnai gali būti praleidžiami. Visi žodžiai įvedami čia kai sukuriama META kortelė.',

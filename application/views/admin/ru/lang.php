@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), marco (992), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), marco (996), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -203,6 +203,7 @@ $aLang = array(
 'ARTICLE_STOCK_DAYS' => 'Дня',
 'ARTICLE_STOCK_DELIVERY' => 'Доступен с',
 'ARTICLE_STOCK_DELTIME' => 'Время доставки',
+'ARTICLE_STOCK_ERRORSCALEPRICE' => 'Внимание: Сезонная цена должна быть ниже обычной цены.',
 'ARTICLE_STOCK_MAXDELTIME' => 'и',
 'ARTICLE_STOCK_MINDELTIME' => 'Между',
 'ARTICLE_STOCK_MONTHS' => 'Месять',
@@ -320,6 +321,7 @@ $aLang = array(
 'COUNTRY_MAIN_OXVATSTATUS' => 'Статус для НДС',
 'COUNTRY_MAIN_OXVATSTATUS_0' => 'Не начислять НДС',
 'COUNTRY_MAIN_OXVATSTATUS_1' => 'Не начислять НДС, если указан верный ID для НДС',
+'CUSTOMERNUM' => 'Клиентский номер:',
 'CUSTOM_TEMPLATE_EXIST_FOR_DELETED_SHOP' => '',
 'DELIVERYSET_LIST_MENUITEM' => 'Настройки магазина',
 'DELIVERYSET_LIST_MENUSUBITEM' => 'Настройки доставки',
@@ -961,7 +963,6 @@ $aLang = array(
 'none' => 'нет',
 'nonstackable_serial_detected' => '',
 'NO_PICTURES_CHANGES' => '',
-'NO_REVERSE_PROXY_BETWEEN' => '',
 'order' => 'Заказ',
 'ORDERFOLDER_FINISHED' => 'Завершенные',
 'ORDERFOLDER_NEW' => 'Новые',
@@ -1104,6 +1105,7 @@ $aLang = array(
 'PAYMENT_MAIN_LONGDESC' => '',
 'PAYMENT_MAIN_NAME' => 'Название',
 'PAYMENT_MAIN_NOTAVAILIBLEINGROUP' => '',
+'PAYMENT_MAIN_NOTICEDEFAULTVALUESSELECTED' => 'Стандартные значения выбраны',
 'PAYMENT_MAIN_SELECTED' => '',
 'PAYMENT_MAIN_TILL' => 'до',
 'PAYMENT_OVERVIEW_HOWMANYPAYMENTS' => '',
@@ -1804,6 +1806,7 @@ $aLang = array(
 'TOOLS_LIST_SECCESS' => '',
 'TOOLS_LIST_SQLQUERY' => '',
 'TOOLS_LIST_TITLE' => '',
+'TOOLS_LIST_UPDATEVIEWSFAILED' => '',
 'TOOLS_LIST_UPDATEVIEWSSECCESS' => '',
 'TOOLS_MAIN_CHECKPICS' => '',
 'TOOLS_MAIN_SQLDUMB' => '',
@@ -1893,7 +1896,7 @@ $aLang = array(
 'USER_EXTEND_MOBILFON' => 'Моб. телефон',
 'USER_EXTEND_NEWSLETTER' => '',
 'USER_EXTEND_PRIVATFON' => 'Дом. телефон',
-'USER_LIST_CUSTOMERNUM' => '',
+'USER_LIST_CUSTOMERNUM' => 'Клиентский номер:',
 'USER_LIST_MENNUITEM' => '',
 'USER_LIST_MENNUSUBITEM' => '',
 'USER_LIST_PLACE' => 'Город',

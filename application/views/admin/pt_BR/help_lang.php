@@ -223,7 +223,6 @@ $aLang = array(
 'HELP_SHOP_RDFA_SUBMIT_URL' => '',
 'HELP_SHOP_RDFA_VAT' => '',
 'HELP_SHOP_SEO_IDSSEPARATOR' => '',
-'HELP_SHOP_SEO_REPLACECHARS' => 'Some special characters like German umlauts should be removed from URLs. They can cause problems. Here you can define how they are replaced. The syntax is <code>special character -> replacement character</code>, e.g. <code>� -> Ue</code>.<br>For German, the replacements are already entered.',
 'HELP_SHOP_SEO_RESERVEDWORDS' => '',
 'HELP_SHOP_SEO_SAFESEOPREF' => '',
 'HELP_SHOP_SEO_SKIPTAGS' => '',

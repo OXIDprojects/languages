@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (28), pianoservis (968)
+ * @translators: admin (28), pianoservis (1013)
  */
 
 $sLangName  = "Українська";
@@ -203,6 +203,7 @@ $aLang = array(
 'ARTICLE_STOCK_DAYS' => 'Дня',
 'ARTICLE_STOCK_DELIVERY' => 'Доступний з',
 'ARTICLE_STOCK_DELTIME' => 'Час доставки',
+'ARTICLE_STOCK_ERRORSCALEPRICE' => '',
 'ARTICLE_STOCK_MAXDELTIME' => 'і',
 'ARTICLE_STOCK_MINDELTIME' => 'Між',
 'ARTICLE_STOCK_MONTHS' => 'Місяць',
@@ -320,6 +321,7 @@ $aLang = array(
 'COUNTRY_MAIN_OXVATSTATUS' => 'Статус для ПДВ',
 'COUNTRY_MAIN_OXVATSTATUS_0' => 'Не нараховувати ПДВ',
 'COUNTRY_MAIN_OXVATSTATUS_1' => 'Не нараховувати ПДВ, якщо зазначений вірний ID для ПДВ',
+'CUSTOMERNUM' => '',
 'CUSTOM_TEMPLATE_EXIST_FOR_DELETED_SHOP' => '',
 'DELIVERYSET_LIST_MENUITEM' => 'Налаштування магазину',
 'DELIVERYSET_LIST_MENUSUBITEM' => 'Налаштування доставки',
@@ -961,7 +963,6 @@ $aLang = array(
 'none' => '',
 'nonstackable_serial_detected' => '',
 'NO_PICTURES_CHANGES' => '',
-'NO_REVERSE_PROXY_BETWEEN' => '',
 'order' => '',
 'ORDERFOLDER_FINISHED' => '',
 'ORDERFOLDER_NEW' => '',
@@ -1104,6 +1105,7 @@ $aLang = array(
 'PAYMENT_MAIN_LONGDESC' => '',
 'PAYMENT_MAIN_NAME' => '',
 'PAYMENT_MAIN_NOTAVAILIBLEINGROUP' => '',
+'PAYMENT_MAIN_NOTICEDEFAULTVALUESSELECTED' => '',
 'PAYMENT_MAIN_SELECTED' => '',
 'PAYMENT_MAIN_TILL' => '',
 'PAYMENT_OVERVIEW_HOWMANYPAYMENTS' => '',
@@ -1804,6 +1806,7 @@ $aLang = array(
 'TOOLS_LIST_SECCESS' => '',
 'TOOLS_LIST_SQLQUERY' => '',
 'TOOLS_LIST_TITLE' => '',
+'TOOLS_LIST_UPDATEVIEWSFAILED' => '',
 'TOOLS_LIST_UPDATEVIEWSSECCESS' => '',
 'TOOLS_MAIN_CHECKPICS' => '',
 'TOOLS_MAIN_SQLDUMB' => '',
