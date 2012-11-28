@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (28), pianoservis (1013)
+ * @translators: admin (28), pianoservis (1033)
  */
 
 $sLangName  = "Українська";

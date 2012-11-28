@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (28), pianoservis (1013)
+ * @translators: admin (28), pianoservis (1033)
  */
 
 $sLangName  = "Українська";
@@ -203,7 +203,7 @@ $aLang = array(
 'ARTICLE_STOCK_DAYS' => 'Дня',
 'ARTICLE_STOCK_DELIVERY' => 'Доступний з',
 'ARTICLE_STOCK_DELTIME' => 'Час доставки',
-'ARTICLE_STOCK_ERRORSCALEPRICE' => '',
+'ARTICLE_STOCK_ERRORSCALEPRICE' => 'Увага: Сезонна ціна повинна бути нижче звичайної ціни.',
 'ARTICLE_STOCK_MAXDELTIME' => 'і',
 'ARTICLE_STOCK_MINDELTIME' => 'Між',
 'ARTICLE_STOCK_MONTHS' => 'Місяць',
@@ -733,7 +733,7 @@ $aLang = array(
 'GENERAL_OXIDESHOP' => '',
 'GENERAL_PASSWORD' => '',
 'GENERAL_PAYCOST' => '',
-'GENERAL_PRICE' => '',
+'GENERAL_PRICE' => 'Ціна',
 'GENERAL_REMARK' => '',
 'GENERAL_REQUIRED_MISS' => '',
 'GENERAL_RETURN' => '',
@@ -1059,7 +1059,7 @@ $aLang = array(
 'ORDER_OVERVIEW_PDF_TAXIDNR' => '',
 'ORDER_OVERVIEW_PDF_TSPROTECTION' => '',
 'ORDER_OVERVIEW_PDF_TYPE' => '',
-'ORDER_OVERVIEW_PDF_UNITPRICE' => '',
+'ORDER_OVERVIEW_PDF_UNITPRICE' => 'Ціна за од.',
 'ORDER_OVERVIEW_PDF_VAT' => '',
 'ORDER_OVERVIEW_PDF_VOUCHER' => '',
 'ORDER_OVERVIEW_PDF_ZZGLVAT' => '',
@@ -1129,7 +1129,7 @@ $aLang = array(
 'PAYMENT_RDFA_PAYPAL' => '',
 'PAYMENT_RDFA_PAYSWARM' => '',
 'PAYMENT_RDFA_VISA' => '',
-'price' => '',
+'price' => 'Ціна',
 'PRICEALARM_DONE_GOTOPRICEALARM' => '',
 'PRICEALARM_DONE_SENDEMAIL' => '',
 'PRICEALARM_LIST_CONFIRMDATE' => '',
@@ -1274,12 +1274,12 @@ $aLang = array(
 'SHOP_CONFIG_BASKETRESERVATION' => '',
 'SHOP_CONFIG_BASKETRESERVATIONTIMEOUT' => '',
 'SHOP_CONFIG_BIDIRECTCROSS' => '',
-'SHOP_CONFIG_CALCDELVATONTOP' => '',
+'SHOP_CONFIG_CALCDELVATONTOP' => 'Рахувати вартість доставки, як чиста ціна (включаючи ПДВ)',
 'SHOP_CONFIG_CALCPAYVATONTOP' => '',
 'SHOP_CONFIG_CALCULATEVATFORDELIVERY' => '',
 'SHOP_CONFIG_CALCULATEVATFORWRAPPING' => '',
 'SHOP_CONFIG_CALCULATEVATOFORPAYCHARGE' => '',
-'SHOP_CONFIG_CALCWRAPVATONTOP' => '',
+'SHOP_CONFIG_CALCWRAPVATONTOP' => 'Рахувати вартість подарункової упаковки, як чиста ціна (включаючи ПДВ)',
 'SHOP_CONFIG_CHECK_UPDATES' => '',
 'SHOP_CONFIG_CMSFOLDER' => '',
 'SHOP_CONFIG_CNTOFNEWS' => '',
