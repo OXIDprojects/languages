@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (367), gvlimpt (97), marco (932)
+ * @translators: admin (367), gvlimpt (97), hoekie (27), marco (932)
  */
 
 $sLangName  = "Nederlands";
@@ -33,15 +33,15 @@ $aLang = array(
 'ACTIONS_LIST_MENUSUBITEM' => 'Aanbiedingen',
 'ACTIONS_MAIN_ALLARTICLES' => 'Alle producten',
 'ACTIONS_MAIN_ALLARTICLESWITHATTR' => '',
-'ACTIONS_MAIN_NOTSELECTED' => '',
+'ACTIONS_MAIN_NOTSELECTED' => 'Selecteer één van bovenstaande acties voor bewerking',
 'ADMINGB_LIST_AUTHOR' => '',
 'ADMINGB_LIST_ENTRY' => '',
-'ADMINGB_LIST_MENUITEM' => '',
+'ADMINGB_LIST_MENUITEM' => 'Klanteninformatie',
 'ADMINGB_LIST_MENUSUBITEM' => 'Gastenboek',
 'ADMINGB_TITLE' => '[OXID Gastenboek]',
 'ADMINLINKS_LIST_MENUITEM' => '',
 'ADMINLINKS_LIST_MENUSUBITEM' => 'Links',
-'ADMINLINKS_LIST_TITLE' => '',
+'ADMINLINKS_LIST_TITLE' => '[OXID Links beheer]',
 'ALTERNATIVE_IMAGE_SERVER_NOTE' => '',
 'amount' => 'Aantal',
 'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => '',
@@ -731,7 +731,7 @@ $aLang = array(
 'GENERAL_ORDERNUM' => '',
 'GENERAL_OUTOFBOUNDS' => '',
 'GENERAL_OXIDESHOP' => '',
-'GENERAL_PASSWORD' => '',
+'GENERAL_PASSWORD' => 'Wachtwoord',
 'GENERAL_PAYCOST' => '',
 'GENERAL_PRICE' => '',
 'GENERAL_REMARK' => '',
@@ -778,7 +778,7 @@ $aLang = array(
 'GENERAL_TITLEIDENT' => '',
 'GENERAL_TYPE' => '',
 'GENERAL_URL' => '',
-'GENERAL_USER' => '',
+'GENERAL_USER' => 'Gebruikersnaam',
 'GENERAL_USTID' => '',
 'GENERAL_VARIANTE' => '',
 'GENERAL_VENDOR' => '',
@@ -840,14 +840,14 @@ $aLang = array(
 'LANGUAGE_LIST_MENUITEM' => '',
 'LANGUAGE_LIST_MENUSUBITEM' => '',
 'LANGUAGE_NOTRANSLATIONS_WARNING' => '',
-'LOGIN_DEMOMODE_NOTIFY' => '',
-'LOGIN_ERROR' => '',
-'LOGIN_LANGUAGE' => '',
-'LOGIN_NO_COOKIE_SUPPORT' => '',
-'LOGIN_PROFILE' => '',
-'LOGIN_STAGINGMODE_NOTIFY' => '',
-'LOGIN_START' => '',
-'LOGIN_TITLE' => '',
+'LOGIN_DEMOMODE_NOTIFY' => 'Beperkte funktionaliteit in demoshop mode',
+'LOGIN_ERROR' => 'Fout! Verkeerde gebruikersnaam en/of wachtwoord',
+'LOGIN_LANGUAGE' => 'Taal',
+'LOGIN_NO_COOKIE_SUPPORT' => 'Fout! Gebruikte browser ondersteunt geen cookies!',
+'LOGIN_PROFILE' => 'Profiel',
+'LOGIN_STAGINGMODE_NOTIFY' => 'Beperkte funktionaliteit in staging mode',
+'LOGIN_START' => 'OXID eShop Admin starten',
+'LOGIN_TITLE' => 'OXID eShop Login',
 'mainCategory' => '',
 'MAIN_INFO' => '',
 'MAIN_TITLE' => '',

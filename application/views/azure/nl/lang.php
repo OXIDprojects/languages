@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (367), gvlimpt (97), marco (932)
+ * @translators: admin (367), gvlimpt (97), hoekie (27), marco (932)
  */
 
 $sLangName  = "Nederlands";
@@ -31,7 +31,7 @@ $aLang = array(
 'charset' => 'utf-8',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'U heeft op dit moment geen favorieten. Om een lijst met favorieten aan te maken, klik',
 'ADD_RECOMM_ADDRECOMMLINK2' => 'hier',
-'allBrands' => '',
+'allBrands' => 'Alle merken',
 'byBrand' => 'Op merk',
 'byManufacturer' => 'Op fabrikant',
 'byVendor' => 'Op leverancier',
@@ -173,7 +173,7 @@ $aLang = array(
 'WIDGET_FOOTER_MANUFACTURERS_MORE' => 'Meer...',
 'WIDGET_LOGINBOX_LOGIN' => '',
 'WIDGET_PRODUCT_PRODUCT_DETAILS' => 'Productdetails',
-'WIDGET_SERVICES_GUESTBOOK' => 'Gasteboek',
+'WIDGET_SERVICES_GUESTBOOK' => 'Gastenboek',
 'WIDGET_SERVICES_HOME' => 'Startpagina',
 'WIDGET_TRUSTEDSHOPS_ITEM_ALTTEXT' => 'Meer informatie',
 );

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (367), gvlimpt (97), marco (932)
+ * @translators: admin (367), gvlimpt (97), hoekie (27), marco (932)
  */
 
 $sLangName  = "Nederlands";
@@ -70,7 +70,7 @@ $aLang = array(
 'BANK_ACCOUNT_HOLDER_2' => 'Rekeninghouder:',
 'BANK_ACCOUNT_NUMBER' => 'Rekeningnummer',
 'BANK_ACCOUNT_NUMBER_2' => 'Rekeningnummer:',
-'BANK_CODE' => '',
+'BANK_CODE' => 'Banknummer',
 'BANK_CODE_2' => ':',
 'BANK_CODE_3' => ':',
 'BANK_DETAILS' => 'Bankgegevens',
@@ -79,12 +79,12 @@ $aLang = array(
 'BASKET' => 'Winkelmandje',
 'BASKET_2' => 'Winkelmandje',
 'BASKET_EMPTY' => 'Uw winkelmandje is leeg.',
-'BASKET_TOTAL_GIFTCARD_COSTS' => '',
-'BASKET_TOTAL_GIFTCARD_COSTS_NET' => '',
+'BASKET_TOTAL_GIFTCARD_COSTS' => 'Wenskaartje',
+'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Wenskaartje (netto)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => '',
 'BASKET_TOTAL_PLUS_VAT' => '',
-'BASKET_TOTAL_WRAPPING_COSTS' => '',
-'BASKET_TOTAL_WRAPPING_COSTS_NET' => '',
+'BASKET_TOTAL_WRAPPING_COSTS' => 'Geschenkpapier',
+'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Geschenkpapier (netto)',
 'BIC' => 'BIC:',
 'BILLING_ADDRESS' => 'Factuuradres',
 'BILLING_ADDRESS_2' => 'Factuuradres:',
@@ -133,8 +133,8 @@ $aLang = array(
 'CONTINUE_SHOPPING' => 'verder winkelen',
 'CONTINUE_TO_NEXT_STEP' => 'verder naar volgende stap',
 'COOKIE_NOTE' => '',
-'COOKIE_NOTE_CLOSE' => '',
-'COOKIE_NOTE_DISAGREE' => '',
+'COOKIE_NOTE_CLOSE' => 'Sluiten',
+'COOKIE_NOTE_DISAGREE' => 'Gaat u hiermee niet akkoord, klik dan hier.',
 'COUNTRY' => 'Land:',
 'COUPON' => 'Tegoedbon',
 'COUPON_2' => 'Tegoedbon:',
@@ -476,7 +476,7 @@ $aLang = array(
 'NEWLIST' => 'Nieuwe favorieten',
 'NEWS' => 'Nieuws',
 'NEWSLETTER' => 'Nieuwsbrief',
-'NEWSLETTER_EMAIL_NOT_EXIST' => '',
+'NEWSLETTER_EMAIL_NOT_EXIST' => 'Onbekend e-mail adres',
 'NEWSLETTER_SETTINGS' => 'Nieuwsbrief instellingen',
 'NEWSLETTER_SUBSCRIBE_CANCEL' => 'Nieuwsbrief aanmelden / afmelden',
 'NEWSLETTER_SUBSCRIPTION' => 'Nieuwsbrief aanmelden',
@@ -651,12 +651,12 @@ $aLang = array(
 'PREVIOUS' => 'vorige',
 'PREVIOUS_PRODUCT' => 'vorig artikel',
 'PREVIOUS_STEP' => 'terug',
-'PREVIUOS_PRODUCT' => '',
+'PREVIUOS_PRODUCT' => 'Vorig product',
 'PRICE' => 'Prijs',
 'PRICE_ALERT' => 'Prijsalarm',
 'PRICE_ALERT_AT' => 'Prijsalarm bij',
 'PRICE_ALERT_FOR_PRODUCT' => 'Prijsalarm voor artikel',
-'PRICE_FROM' => '',
+'PRICE_FROM' => 'vanaf',
 'PRINT' => 'Deze pagina printen',
 'PROCEED_TO_SCHECKOUT' => 'Naar kassa',
 'PRODUCT' => 'Artikel',
@@ -670,7 +670,7 @@ $aLang = array(
 'PRODUCT_NO' => 'Art.No.:',
 'PRODUCT_POST_CARD_FROM' => 'Artikel-wenskaart van',
 'PRODUCT_REVIEW' => 'Prod. beoordelen',
-'PROPORTIONALLY_CALCULATED' => '',
+'PROPORTIONALLY_CALCULATED' => 'deels berekend',
 'PUBLIC_GIFT_REGISTRIES' => 'Openbaar verlanglijstje',
 'PUBLISH' => 'Publiceren',
 'PURCHASE_WITHOUT_REGISTRATION' => 'Bestellen zonder registrering',

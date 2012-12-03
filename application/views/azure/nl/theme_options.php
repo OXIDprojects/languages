@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (367), gvlimpt (97), marco (932)
+ * @translators: admin (367), gvlimpt (97), hoekie (27), marco (932)
  */
 
 $sLangName  = "Nederlands";
