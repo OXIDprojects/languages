@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: la bete (5), mart (139)
+ * @translators: la bete (5), mart (139), pawelch (1659)
  */
 
 $sLangName  = "Polski";
@@ -29,12 +29,12 @@ $sLangName  = "Polski";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ATTENTION' => '',
-'BUTTON_BEGIN_INSTALL' => '',
-'BUTTON_DB_INSTALL' => '',
-'BUTTON_LICENCE' => '',
-'BUTTON_PROCEED_INSTALL' => '',
-'BUTTON_RADIO_INSTALL_DB_DEMO' => '',
+'ATTENTION' => 'Uwaga',
+'BUTTON_BEGIN_INSTALL' => 'Rozpocznij instalację',
+'BUTTON_DB_INSTALL' => 'Stwórz bazę',
+'BUTTON_LICENCE' => 'Licencja',
+'BUTTON_PROCEED_INSTALL' => 'Kontynuuj instalację',
+'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Zainstaluje dane demo',
 'BUTTON_RADIO_LICENCE_ACCEPT' => '',
 'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => '',
 'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => '',

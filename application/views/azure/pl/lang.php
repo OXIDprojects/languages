@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: la bete (5), mart (139)
+ * @translators: la bete (5), mart (139), pawelch (1659)
  */
 
 $sLangName  = "Polski";
@@ -29,8 +29,8 @@ $sLangName  = "Polski";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ADD_RECOMM_ADDRECOMMLINK1' => '',
-'ADD_RECOMM_ADDRECOMMLINK2' => '',
+'ADD_RECOMM_ADDRECOMMLINK1' => 'W tej chwili nie ma Listmanii. Aby ją stworzyć kliknij.',
+'ADD_RECOMM_ADDRECOMMLINK2' => 'tu',
 'allBrands' => '',
 'byBrand' => '',
 'byManufacturer' => '',
