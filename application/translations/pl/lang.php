@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: la bete (5), mart (139), pawelch (1659)
+ * @translators: la bete (5), mart (139), pawelch (1660)
  */
 
 $sLangName  = "Polski";
@@ -33,7 +33,7 @@ $aLang = array(
 'ACCOUNT' => 'Konto',
 'ACCOUNT_INFORMATION' => 'Informacje o koncie',
 'ADD' => 'dodać',
-'ADDITIONAL_INFO' => 'dodatkowe informacje:',
+'ADDITIONAL_INFO' => 'Dodatkowe informacje:',
 'ADDRESS' => 'Adres',
 'ADDRESSES' => 'Adresy',
 'ADDRESSES_2' => 'Adresy:',
