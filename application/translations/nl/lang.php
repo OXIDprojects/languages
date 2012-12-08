@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (367), gvlimpt (97), hoekie (27), marco (932)
+ * @translators: admin (367), gvlimpt (97), hoekie (28), marco (932)
  */
 
 $sLangName  = "Nederlands";
@@ -811,7 +811,7 @@ $aLang = array(
 'UPDATE_YOUR_BILLING_SHIPPING_SETTINGS' => 'Factuur- en Afleveradressen wijzigen',
 'USED_COUPONS' => 'Deze tegoedbon wordt gebruikt',
 'USED_COUPONS_2' => 'Gebruikte tegoedbon,',
-'USE_BILLINGADDRESS_FOR_SHIPPINGADDRESS' => 'Factuuradres is hetzlede als het afleveradres',
+'USE_BILLINGADDRESS_FOR_SHIPPINGADDRESS' => 'Factuuradres is hetzelfde als het afleveradres',
 'VALID_UNTIL' => 'Geldig tot:',
 'VAT' => 'btw',
 'VAT_ID_NUMBER' => 'Btw-nummer:',

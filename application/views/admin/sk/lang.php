@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3114), DominikS (19)
+ * @translators: admin (3114), DominikS (35)
  */
 
 $sLangName  = "Slovenčina";
@@ -29,10 +29,10 @@ $sLangName  = "Slovenčina";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACTIONS_LIST_MENUITEM' => 'Zákaznické informácie',
+'ACTIONS_LIST_MENUITEM' => 'Zákaznícke informácie',
 'ACTIONS_LIST_MENUSUBITEM' => 'Spravovať akcie',
 'ACTIONS_MAIN_ALLARTICLES' => 'Všetky dostupné produkty',
-'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Produkty s parameterami',
+'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Produkty s parametrami',
 'ACTIONS_MAIN_NOTSELECTED' => 'Prosím vyberte jednu možnosť',
 'ADMINGB_LIST_AUTHOR' => 'Autor',
 'ADMINGB_LIST_ENTRY' => 'Záznam',
