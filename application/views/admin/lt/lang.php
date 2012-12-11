@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (19), NFQ Lithuania (2756), swolou (3), tlt (204)
+ * @translators: abejingas (188), agladutis (19), muslimukas (2), NFQ Lithuania (2756), swolou (3), tlt (204)
  */
 
 $sLangName  = "Lietuvių";
@@ -236,7 +236,7 @@ $aLang = array(
 'ATTRIBUTE_CATEGORY_ATRLIST' => 'Kategorijų atributų sąrašas',
 'ATTRIBUTE_LIST_MENUSUBITEM' => 'Atributai',
 'ATTRIBUTE_MAIN_ALLITEMS' => 'Visos turimos prekės',
-'ATTRIBUTE_MAIN_DISPLAYINBASKET' => '',
+'ATTRIBUTE_MAIN_DISPLAYINBASKET' => 'Rodyti prekės atributus krepšelyje',
 'ATTRIBUTE_MAIN_ITEMSWITHATTR' => 'Prekės su šiuo atributu',
 'ATTRIBUTE_MAIN_SORTING' => 'Rikiavimas',
 'AUCTMASTER_DO_EXPORTEND' => 'Eksportas baigtas.',
@@ -249,7 +249,7 @@ $aLang = array(
 'AUCTMASTER_DO_TITLE' => 'Importas/Eksportas',
 'AUCTMASTER_DO_UNKNOWNERROR' => 'Nežinoma klaida!',
 'BOTTOMNAVIITEM_ATTENTION' => 'DĖMESIO: Ši funkcija gali ištrinti kategorijas - backup prieš įvykdymą!',
-'BUTTON_DOWNLOAD' => '',
+'BUTTON_DOWNLOAD' => 'Siųstis',
 'CATEGORY_LIST_MENUSUBITEM' => 'Kategorijos',
 'CATEGORY_MAIN_ACTIVE' => 'Aktyvus',
 'CATEGORY_MAIN_ALLITEMS' => 'Visos prekės',

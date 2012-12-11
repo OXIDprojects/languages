@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), marco (996), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), marco (1020), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -80,11 +80,11 @@ $aLang = array(
 'BASKET_2' => 'Корзина',
 'BASKET_EMPTY' => 'Корзина пуста.',
 'BASKET_TOTAL_GIFTCARD_COSTS' => 'Поздравительная открытка',
-'BASKET_TOTAL_GIFTCARD_COSTS_NET' => '',
-'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => '',
-'BASKET_TOTAL_PLUS_VAT' => '',
+'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Поздравительная открытка (без НДС)',
+'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'плюс НДС (пропорционально расчетный)',
+'BASKET_TOTAL_PLUS_VAT' => 'Плюс НДС',
 'BASKET_TOTAL_WRAPPING_COSTS' => 'Подарочная упаковка',
-'BASKET_TOTAL_WRAPPING_COSTS_NET' => '',
+'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Подарочная упаковка (без НДС)',
 'BIC' => 'БИК',
 'BILLING_ADDRESS' => 'Расчётные реквизиты',
 'BILLING_ADDRESS_2' => 'Расчётные реквизиты:',
@@ -134,7 +134,7 @@ $aLang = array(
 'CONTINUE_TO_NEXT_STEP' => 'Перейти к следующему шагу',
 'COOKIE_NOTE' => '',
 'COOKIE_NOTE_CLOSE' => 'Закрыть',
-'COOKIE_NOTE_DISAGREE' => '',
+'COOKIE_NOTE_DISAGREE' => 'Если вы не согласны, пожалуйста, нажмите здесь.',
 'COUNTRY' => 'Страна:',
 'COUPON' => 'Талон',
 'COUPON_2' => 'Талон:',
@@ -670,7 +670,7 @@ $aLang = array(
 'PRODUCT_NO' => 'Арт. номер:',
 'PRODUCT_POST_CARD_FROM' => 'Открытка с товаром от',
 'PRODUCT_REVIEW' => 'Оценить продукцию',
-'PROPORTIONALLY_CALCULATED' => '',
+'PROPORTIONALLY_CALCULATED' => 'Пропорционально рассчитан',
 'PUBLIC_GIFT_REGISTRIES' => 'Публичный список желаний',
 'PUBLISH' => 'Опубликовать',
 'PURCHASE_WITHOUT_REGISTRATION' => 'Заказать без регистрации',
