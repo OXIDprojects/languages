@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (19), muslimukas (2), NFQ Lithuania (2756), swolou (3), tlt (204)
+ * @translators: abejingas (188), agladutis (19), muslimukas (5), NFQ Lithuania (2756), swolou (3), tlt (204)
  */
 
 $sLangName  = "Lietuvių";
@@ -132,7 +132,7 @@ $aLang = array(
 'CONTACTS' => 'Kontaktai',
 'CONTINUE_SHOPPING' => 'Tęsti pirkimą',
 'CONTINUE_TO_NEXT_STEP' => 'Kitas žingsnis',
-'COOKIE_NOTE' => '',
+'COOKIE_NOTE' => 'Ši elektroninė parduotuvė naudoja slapukus (ang. cookie). Pasirinkta kalba arba sesijos duomenys saugomi juose. Be slapukų el. parduotuvės funkcionalumas yra ribotas.',
 'COOKIE_NOTE_CLOSE' => '',
 'COOKIE_NOTE_DISAGREE' => '',
 'COUNTRY' => 'Šalis:',

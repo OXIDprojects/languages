@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), marco (1020), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), marco (1020), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -249,7 +249,7 @@ $aLang = array(
 'AUCTMASTER_DO_TITLE' => 'Импорт/Экспорт',
 'AUCTMASTER_DO_UNKNOWNERROR' => 'Неизвестная ошибка!',
 'BOTTOMNAVIITEM_ATTENTION' => 'ВНИМАНИЕ: Это действие может удалить все категории; создайте резервную копию перед исполнением!',
-'BUTTON_DOWNLOAD' => '',
+'BUTTON_DOWNLOAD' => 'Скачать',
 'CATEGORY_LIST_MENUSUBITEM' => 'Категории',
 'CATEGORY_MAIN_ACTIVE' => 'Активно',
 'CATEGORY_MAIN_ALLITEMS' => 'Все товары',

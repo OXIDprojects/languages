@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), marco (1020), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), marco (1020), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -132,7 +132,7 @@ $aLang = array(
 'CONTACTS' => 'Контакты',
 'CONTINUE_SHOPPING' => 'Продолжить совершать покупки',
 'CONTINUE_TO_NEXT_STEP' => 'Перейти к следующему шагу',
-'COOKIE_NOTE' => '',
+'COOKIE_NOTE' => 'Этот интернет-магазин использует куки. Таким образом информация о сессии или языковые настройки хранятся на вашем компьютере. Без куки диапазон функциональных возможностей интернет-магазина ограничена.',
 'COOKIE_NOTE_CLOSE' => 'Закрыть',
 'COOKIE_NOTE_DISAGREE' => 'Если вы не согласны, пожалуйста, нажмите здесь.',
 'COUNTRY' => 'Страна:',

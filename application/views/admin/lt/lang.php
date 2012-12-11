@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (19), muslimukas (2), NFQ Lithuania (2756), swolou (3), tlt (204)
+ * @translators: abejingas (188), agladutis (19), muslimukas (5), NFQ Lithuania (2756), swolou (3), tlt (204)
  */
 
 $sLangName  = "Lietuvių";

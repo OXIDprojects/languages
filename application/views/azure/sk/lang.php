@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3114), DominikS (35)
+ * @translators: admin (3114), DominikS (107)
  */
 
 $sLangName  = "Slovenčina";
@@ -61,7 +61,7 @@ $aLang = array(
 'EMAIL_SENDDOWNLOADS_GREETING' => 'Dobrý deň',
 'EMAIL_SENDDOWNLOADS_PAYMENT_PENDING' => '',
 'EMAIL_SENDDOWNLOADS_SUBJECT' => '',
-'EMAIL_SENDEDNOW_HTML_ARTNOMBER' => '',
+'EMAIL_SENDEDNOW_HTML_ARTNOMBER' => 'Kód tovaru:',
 'EMAIL_SENDEDNOW_HTML_ORDERNOMBER' => 'Číslo objednávky:',
 'EMAIL_SENDEDNOW_HTML_ORDERSHIPPEDTO' => '',
 'EMAIL_SENDEDNOW_HTML_PRODUCT' => 'Tovar',
@@ -70,8 +70,8 @@ $aLang = array(
 'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKING' => '',
 'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKINGURL' => 'kliknite sem',
 'EMAIL_SENDEDNOW_HTML_TS_RATINGS_RATEUS' => '',
-'EMAIL_SENDEDNOW_HTML_YUORTEAM1' => '',
-'EMAIL_SENDEDNOW_HTML_YUORTEAM2' => '',
+'EMAIL_SENDEDNOW_HTML_YUORTEAM1' => 'Váš',
+'EMAIL_SENDEDNOW_HTML_YUORTEAM2' => 'tím',
 'EMAIL_STOCKREMINDER_SUBJECT' => '',
 'EMAIL_SUGGEST_HTML_MENYGREETINGS' => 'S pozdravom,',
 'FOOTER_CATEGORIES' => 'Kategórie',
@@ -167,21 +167,21 @@ $aLang = array(
 'PAGE_DETAILS_THANKYOUMESSAGE1' => 'Ďakujeme Vám.',
 'PAGE_DETAILS_THANKYOUMESSAGE2' => 'vážime si vaše komentáre.',
 'PAGE_DETAILS_THANKYOUMESSAGE3' => 'Budeme vás informovať hneď ako cena produktu klesne pod',
-'PAGE_DETAILS_THANKYOUMESSAGE4' => '',
+'PAGE_DETAILS_THANKYOUMESSAGE4' => '.',
 'PAGE_INFO_CLEARCOOKIE_CONTENT' => '',
-'PAGE_INFO_CLEARCOOKIE_TITLE' => '',
+'PAGE_INFO_CLEARCOOKIE_TITLE' => 'Informácie o Cookies',
 'PAGE_INFO_CONTACT_THANKYOU1' => 'Ďakujeme.',
 'PAGE_INFO_CONTACT_THANKYOU2' => 'ďakujeme za vaše komentáre.',
 'PAGE_INFO_NEWS_LATESTNEWSBY' => 'Novinky a aktuality od',
 'PAGE_WISHLIST_PRODUCTS_PRODUCTS1' => 'Tovar je na zozname želaní od',
 'PAGE_WISHLIST_PRODUCTS_PRODUCTS2' => '. Ak mu/jej chcete urobiť radosť, kúpte mu/jej niečo z toho.',
 'searchResult' => 'Výsledky vyhľadávania pre "%s"',
-'simpleDateFormat' => '',
+'simpleDateFormat' => 'Y-m-d',
 'usrRegistered' => 'Užívateľ bude zaregistrovaný po vyplnení hesla',
 'view' => 'Zobrazenie',
-'WIDGET_FOOTER_MANUFACTURERS_MORE' => '',
+'WIDGET_FOOTER_MANUFACTURERS_MORE' => 'Viac...',
 'WIDGET_LOGINBOX_LOGIN' => 'Prihlásenie',
-'WIDGET_PRODUCT_PRODUCT_DETAILS' => '',
+'WIDGET_PRODUCT_PRODUCT_DETAILS' => 'Detaily tovaru',
 'WIDGET_SERVICES_GUESTBOOK' => 'Kniha návštev',
 'WIDGET_SERVICES_HOME' => 'Úvod',
 'WIDGET_TRUSTEDSHOPS_ITEM_ALTTEXT' => 'Viac ...',

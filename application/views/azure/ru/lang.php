@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), marco (1020), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), marco (1020), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -67,7 +67,7 @@ $aLang = array(
 'EMAIL_SENDEDNOW_HTML_PRODUCT' => 'продукт',
 'EMAIL_SENDEDNOW_HTML_PRODUCTRATING' => 'Рейтинг товара',
 'EMAIL_SENDEDNOW_HTML_REVIEW' => 'обзор',
-'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKING' => '',
+'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKING' => 'Ссылка для отслеживание товaрa:',
 'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKINGURL' => 'нажмите здесь',
 'EMAIL_SENDEDNOW_HTML_TS_RATINGS_RATEUS' => 'Пожалуйста, найдите минутку, чтобы оценить наш магазин.',
 'EMAIL_SENDEDNOW_HTML_YUORTEAM1' => 'вашa',
@@ -159,7 +159,7 @@ $aLang = array(
 'PAGE_DETAILS_THANKYOUMESSAGE2' => '.',
 'PAGE_DETAILS_THANKYOUMESSAGE3' => 'Вы получите наше уведомление, как только цена снизится до',
 'PAGE_DETAILS_THANKYOUMESSAGE4' => '.',
-'PAGE_INFO_CLEARCOOKIE_CONTENT' => '',
+'PAGE_INFO_CLEARCOOKIE_CONTENT' => 'Вы решили не принимать куки с нашего интернет-магазина. куки были удалены. Вы можете отключить использование куки в настройках вашего браузера и посетить интернет-магазин с некоторыми функциональными ограничениями. Вы также можете вернуться в магазин без изменения настроек браузера и полной функциональности.<br/><br/> Информация о печенье в Википедии: <a href="https://ru.wikipedia.org/wiki/HTTP_cookie"><strong>https://ru.wikipedia.org/wiki/HTTP_cookie</strong></a>',
 'PAGE_INFO_CLEARCOOKIE_TITLE' => 'Информация о куки-файла',
 'PAGE_INFO_CONTACT_THANKYOU1' => 'Спасибо за Ваше сообщение',
 'PAGE_INFO_CONTACT_THANKYOU2' => '.',

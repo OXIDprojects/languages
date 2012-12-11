@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (19), muslimukas (2), NFQ Lithuania (2756), swolou (3), tlt (204)
+ * @translators: abejingas (188), agladutis (19), muslimukas (5), NFQ Lithuania (2756), swolou (3), tlt (204)
  */
 
 $sLangName  = "Lietuvių";
@@ -67,8 +67,8 @@ $aLang = array(
 'EMAIL_SENDEDNOW_HTML_PRODUCT' => '',
 'EMAIL_SENDEDNOW_HTML_PRODUCTRATING' => '',
 'EMAIL_SENDEDNOW_HTML_REVIEW' => '',
-'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKING' => '',
-'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKINGURL' => '',
+'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKING' => 'Nuoroda pirkinio gabenimo sekimui:',
+'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKINGURL' => 'čia',
 'EMAIL_SENDEDNOW_HTML_TS_RATINGS_RATEUS' => '',
 'EMAIL_SENDEDNOW_HTML_YUORTEAM1' => '',
 'EMAIL_SENDEDNOW_HTML_YUORTEAM2' => '',

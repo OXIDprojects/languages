@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3114), DominikS (35)
+ * @translators: admin (3114), DominikS (107)
  */
 
 $sLangName  = "Slovenčina";
@@ -82,9 +82,9 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS' => '',
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => '',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => '',
-'BASKET_TOTAL_PLUS_VAT' => '',
-'BASKET_TOTAL_WRAPPING_COSTS' => '',
-'BASKET_TOTAL_WRAPPING_COSTS_NET' => '',
+'BASKET_TOTAL_PLUS_VAT' => 's DPH',
+'BASKET_TOTAL_WRAPPING_COSTS' => 'Darčekové balenie',
+'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Darčekové balenie (net)',
 'BIC' => '',
 'BILLING_ADDRESS' => 'Fakturačná adresa',
 'BILLING_ADDRESS_2' => 'Fakturačná adresa:',
@@ -117,7 +117,7 @@ $aLang = array(
 'CHECKOUT' => '',
 'CHECK_YOUR_ORDER_HISTORY' => 'skontrolujte vašu históriu objednávok',
 'CHOOSE' => 'Vyberte',
-'CHOOSE_VARIANT' => '',
+'CHOOSE_VARIANT' => 'Zvoľte variant',
 'CLICK_HERE' => 'kliknite sem.',
 'CLICK_HERE_TO_WRITE_ENTRY' => 'Kliknite sem pre pridanie príspevku',
 'CLOSE' => 'Zavrieť',
@@ -133,8 +133,8 @@ $aLang = array(
 'CONTINUE_SHOPPING' => 'Pokračovať v nákupe',
 'CONTINUE_TO_NEXT_STEP' => 'Pokračovať na ďalší krok',
 'COOKIE_NOTE' => '',
-'COOKIE_NOTE_CLOSE' => '',
-'COOKIE_NOTE_DISAGREE' => '',
+'COOKIE_NOTE_CLOSE' => 'Zavrieť',
+'COOKIE_NOTE_DISAGREE' => 'Ak nesúhlasíte, kliknite sem.',
 'COUNTRY' => 'Krajina:',
 'COUPON' => 'Poukážka',
 'COUPON_2' => 'Poukážka:',
@@ -224,7 +224,7 @@ $aLang = array(
 'ERROR_MESSAGE_INVITE_ERRORWHILESENDINGMAIL' => 'Pri odosielaní e-mailu došlo k chybe - skontrolujte prosím e-mailovú adresu.',
 'ERROR_MESSAGE_INVITE_INCORRECTEMAILADDRESS' => 'Nesprávna e-mailová adresa. Skontrolujte prosím zadanú e-mailovú adresu.',
 'ERROR_MESSAGE_MANDATES_EXCEEDED1' => 'Počet dostupných licencií prekročil povolený limit tejto verzie, kontaktujte prosím',
-'ERROR_MESSAGE_MANDATES_EXCEEDED2' => '',
+'ERROR_MESSAGE_MANDATES_EXCEEDED2' => 'OXID eSales',
 'ERROR_MESSAGE_MANDATES_EXCEEDED3' => 'pre viac informácií.',
 'ERROR_MESSAGE_NOFILE' => 'Žiadny nahraný súbor',
 'ERROR_MESSAGE_NOTALLOWEDTYPE' => 'Nepovolený typ súboru (prosím upravte config.inc.php pre povolenie toho typu súboru)',
@@ -242,7 +242,7 @@ $aLang = array(
 'ERROR_MESSAGE_SYSTEMCOMPONENT_TEMPLATENOTFOUND' => 'Šablóna "%s" nebola nájdená',
 'ERROR_MESSAGE_UNKNOWN_ERROR' => 'Neznáma chyba',
 'ERROR_MESSAGE_UNLICENSED1' => 'E-shop nie je licencovaný, kontaktujte',
-'ERROR_MESSAGE_UNLICENSED2' => '',
+'ERROR_MESSAGE_UNLICENSED2' => 'OXID eSales',
 'ERROR_MESSAGE_UNLICENSED3' => 'pre viac informácií.',
 'ERROR_MESSAGE_USER_NOVALIDLOGIN' => 'Nesprávny e-mail alebo heslo.',
 'ERROR_MESSAGE_USER_NOVALUES' => 'E-mail a heslo musia byť vyplnené.',
@@ -250,7 +250,7 @@ $aLang = array(
 'ERROR_MESSAGE_USER_USERCREATIONFAILED' => 'Pri vytváraní užívateľského účtu došlo k chybe.',
 'ERROR_MESSAGE_USER_USEREXISTS' => 'Nemožno zaregistrovať %s. Je možné, že ste sa už registrovali predtým?',
 'ERROR_MESSAGE_VERSION_EXPIRED1' => 'Vaša verzia OXID eShop je zastaralá, kontaktujte prosím',
-'ERROR_MESSAGE_VERSION_EXPIRED2' => '',
+'ERROR_MESSAGE_VERSION_EXPIRED2' => 'OXID eSales',
 'ERROR_MESSAGE_VERSION_EXPIRED3' => 'pre viac informácií.',
 'ERROR_MESSAGE_VOUCHER_INCORRECTPRICE' => 'Cena je príliš nízka pre použitie tejto poukážky.',
 'ERROR_MESSAGE_VOUCHER_ISNOTVALIDDATE' => 'Vypršala platnosť poukážky.',
@@ -266,7 +266,7 @@ $aLang = array(
 'EXPIRES_IN' => 'Vyprší do:',
 'FACEBOOK_COMMENTS' => 'Facebook komentáre',
 'FACEBOOK_ENABLEINFOLINK' => '',
-'FACEBOOK_ENABLELINK' => '',
+'FACEBOOK_ENABLELINK' => 'Zobraziť obsah z Facebook-u',
 'FACEBOOK_ENABLETEXT' => '',
 'FACEBOOK_ENABLE_INFOTEXT' => '',
 'FACEBOOK_ENABLE_INFOTEXTHEADER' => '',

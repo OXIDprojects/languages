@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3114), DominikS (35)
+ * @translators: admin (3114), DominikS (107)
  */
 
 $sLangName  = "Slovenčina";
@@ -30,19 +30,19 @@ $sLangName  = "Slovenčina";
 $aLang = array(
 'charset' => 'utf-8',
 'ATTENTION' => '',
-'BUTTON_BEGIN_INSTALL' => '',
-'BUTTON_DB_INSTALL' => '',
+'BUTTON_BEGIN_INSTALL' => 'Spustiť inštaláciu',
+'BUTTON_DB_INSTALL' => 'Vytvoriť databázu',
 'BUTTON_LICENCE' => '',
 'BUTTON_PROCEED_INSTALL' => '',
 'BUTTON_RADIO_INSTALL_DB_DEMO' => '',
 'BUTTON_RADIO_LICENCE_ACCEPT' => '',
-'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => '',
-'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => '',
-'BUTTON_START_INSTALL' => '',
-'BUTTON_WRITE_DATA' => '',
-'BUTTON_WRITE_LICENCE' => '',
+'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'Nesúhlasím s licenčnými podmienkami.',
+'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => '<strong>Neinštalovať</strong> demo dáta',
+'BUTTON_START_INSTALL' => 'Reštarovať inštaláciu',
+'BUTTON_WRITE_DATA' => 'Uložiť a pokračovať',
+'BUTTON_WRITE_LICENCE' => 'Uložiť licenčný kľúč',
 'ERROR_BAD_DEMODATA' => '',
-'ERROR_BAD_SERIAL_NUMBER' => '',
+'ERROR_BAD_SERIAL_NUMBER' => 'CHYBA: Nesprávny licenčný kľúč!',
 'ERROR_BAD_SQL' => '',
 'ERROR_CONFIG_FILE_IS_NOT_WRITABLE' => '',
 'ERROR_COULD_NOT_CREATE_DB' => '',
@@ -58,9 +58,9 @@ $aLang = array(
 'ERROR_NOT_WRITABLE' => '',
 'ERROR_OPENING_SQL_FILE' => '',
 'ERROR_PASSWORDS_DO_NOT_MATCH' => '',
-'ERROR_PASSWORD_TOO_SHORT' => '',
-'ERROR_SETUP_CANCELLED' => '',
-'ERROR_USER_NAME_DOES_NOT_MATCH_PATTERN' => '',
+'ERROR_PASSWORD_TOO_SHORT' => 'Heslo je príliš krátke!',
+'ERROR_SETUP_CANCELLED' => 'Inštalácia bola zrušená, pretože ste nesúhlasili s licenčnými podmienkami.',
+'ERROR_USER_NAME_DOES_NOT_MATCH_PATTERN' => 'Zadajte prosím platnú e-mailovú adresu!',
 'ERROR_VIEWS_CANT_CREATE' => '',
 'ERROR_VIEWS_CANT_DROP' => '',
 'ERROR_VIEWS_CANT_SELECT' => '',
