@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3114), DominikS (107)
+ * @translators: admin (3114), DominikS (188)
  */
 
 $sLangName  = "Slovenčina";
@@ -69,22 +69,22 @@ $aLang = array(
 'HEADER_TEXT_SETUP_NOT_RUNS_AUTOMATICLY' => '',
 'HERE' => '',
 'LOAD_DYN_CONTENT_NOTICE' => '',
-'MOD_ALLOW_URL_FOPEN' => '',
+'MOD_ALLOW_URL_FOPEN' => 'allow_url_fopen or fsockopen to port 80',
 'MOD_BC_MATH' => '',
 'MOD_BUG53632' => '',
 'MOD_CURL' => '',
 'MOD_FILE_UPLOADS' => '',
 'MOD_GD_INFO' => '',
-'MOD_INI_SET' => '',
-'MOD_I_CONV' => '',
-'MOD_J_SON' => '',
-'MOD_LIB_XML2' => '',
-'MOD_MB_STRING' => '',
-'MOD_MEMORY_LIMIT' => '',
-'MOD_MOD_REWRITE' => '',
-'MOD_MYSQL_CONNECT' => '',
-'MOD_OPEN_SSL' => '',
-'MOD_PHP4_COMPAT' => '',
+'MOD_INI_SET' => 'ini_set povolené',
+'MOD_I_CONV' => 'ICONV',
+'MOD_J_SON' => 'JSON',
+'MOD_LIB_XML2' => 'LIB XML2',
+'MOD_MB_STRING' => 'mbstring',
+'MOD_MEMORY_LIMIT' => 'PHP Memory limit (odporúčané min. 14MB, 30MB)',
+'MOD_MOD_REWRITE' => 'Apache mod_rewrite module',
+'MOD_MYSQL_CONNECT' => 'MySQL client connector for MySQL 5',
+'MOD_OPEN_SSL' => 'OpenSSL',
+'MOD_PHP4_COMPAT' => 'Zend compatibility mode musí byť vypnutý',
 'MOD_PHP_CONFIG' => '',
 'MOD_PHP_EXTENNSIONS' => '',
 'MOD_PHP_VERSION' => '',
@@ -95,10 +95,10 @@ $aLang = array(
 'MOD_SERVER_PERMISSIONS' => '',
 'MOD_SESSION_AUTOSTART' => '',
 'MOD_SOAP' => '',
-'MOD_TOKENIZER' => '',
-'MOD_UNICODE_SUPPORT' => '',
-'MOD_ZEND_OPTIMIZER' => '',
-'MOD_ZEND_PLATFORM_OR_SERVER' => '',
+'MOD_TOKENIZER' => 'Tokenizer',
+'MOD_UNICODE_SUPPORT' => 'Podpora UTF-8',
+'MOD_ZEND_OPTIMIZER' => 'Zend Optimizer alebo Zend Guard Loader nainštalovaný',
+'MOD_ZEND_PLATFORM_OR_SERVER' => 'Zend Platform alebo Zend Server nainštalovaný',
 'PRIVACY_POLICY' => '',
 'SELECT_COUNTRY_LANG' => '',
 'SELECT_DELIVERY_COUNTRY' => '',
