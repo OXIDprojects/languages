@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: dsb (5), marco (3981)
+ * @translators: dsb (5), marco (3988)
  */
 
 $sLangName  = "Deutsch";
@@ -56,7 +56,7 @@ $aLang = array(
 'EMAIL_ORDER_CUST_HTML_TAX1' => 'zzgl. MwSt.',
 'EMAIL_ORDER_CUST_HTML_TSPROTECTIONCHARGETAX1' => 'zzgl. MwSt.',
 'EMAIL_ORDER_OWNER_HTML_MESSAGE' => 'Mitteilung:',
-'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>BEZAHLINFORMATIONEN AUSGESCHALTET</b> - um diese einzuschalten bitte email_order_owner_html.tpl aendern.',
+'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>BEZAHLINFORMATIONEN AUSGESCHALTET</b> - um diese einzuschalten bitte email/html/order_owner.tpl aendern.',
 'EMAIL_SENDDOWNLOADS_DOWNLOADS_DESC' => 'Laden Sie Ihre bestellten Dateien hier herunter.',
 'EMAIL_SENDDOWNLOADS_GREETING' => 'Guten Tag',
 'EMAIL_SENDDOWNLOADS_PAYMENT_PENDING' => 'Die Bezahlung der Bestellung ist noch nicht abgeschlossen.',
@@ -138,7 +138,7 @@ $aLang = array(
 'PAGE_CHECKOUT_ORDER_SHIPPINGADDRESS' => 'Lieferadresse',
 'PAGE_CHECKOUT_PAYMENT_ACCOUNTNUMBER' => 'Kontonummer:',
 'PAGE_CHECKOUT_PAYMENT_COMLETEALLFIELDS' => 'Bitte alle Felder richtig ausfüllen!',
-'PAGE_CHECKOUT_PAYMENT_EMPTY_TEXT' => '<p>Derzeit ist keine Versandart für dieses Land definiert.</p> <p>Wir werden versuchen, Liefermöglichkeiten zu finden und Sie über die Versandkosten informieren.</p> <p>Falls Sie hiermit einverstanden sind, wählen Sie "Weiter zum nächsten Schritt".</p>',
+'PAGE_CHECKOUT_PAYMENT_EMPTY_TEXT' => '<p>Derzeit ist keine Versandart für dieses Land definiert.</p> <p>Wir werden versuchen, Liefermöglichkeiten zu finden und Sie über die Versandkosten informieren.</p>',
 'PAGE_CHECKOUT_PAYMENT_INCLUDEVAT' => 'inkl. MwSt.',
 'PAGE_CHECKOUT_PAYMENT_PLUSCODCHARGE1' => 'zuzüglich',
 'PAGE_CHECKOUT_PAYMENT_PLUSCODCHARGE2' => 'Nachnahmegebühr',

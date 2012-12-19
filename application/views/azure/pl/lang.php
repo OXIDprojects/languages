@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: la bete (5), mart (139), pawelch (1660)
+ * @translators: la bete (5), marco (1), mart (139), pawelch (1660)
  */
 
 $sLangName  = "Polski";
@@ -138,7 +138,7 @@ $aLang = array(
 'PAGE_CHECKOUT_ORDER_SHIPPINGADDRESS' => 'Shipping address',
 'PAGE_CHECKOUT_PAYMENT_ACCOUNTNUMBER' => 'Bank account number:',
 'PAGE_CHECKOUT_PAYMENT_COMLETEALLFIELDS' => 'Please fill all fields properly!',
-'PAGE_CHECKOUT_PAYMENT_EMPTY_TEXT' => '<p>Currently we have no delivery method set up for this country.</p> <p>We are aiming to find a possible delivery method and we will inform you as soon as possible via e-mail about the result, including further information about delivery costs.</p> <p>If you agree to this procedure, please select "move on to next step"</p>',
+'PAGE_CHECKOUT_PAYMENT_EMPTY_TEXT' => '<p>Currently we have no shipping method set up for this country.</p> <p>We are aiming to find a possible delivery method and we will inform you as soon as possible via e-mail about the result, including further information about delivery costs.</p>',
 'PAGE_CHECKOUT_PAYMENT_INCLUDEVAT' => 'incl. VAT',
 'PAGE_CHECKOUT_PAYMENT_PLUSCODCHARGE1' => 'plus',
 'PAGE_CHECKOUT_PAYMENT_PLUSCODCHARGE2' => 'COD Charge',

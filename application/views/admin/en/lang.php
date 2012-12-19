@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: marco (3988)
+ * @translators: marco (3991)
  */
 
 $sLangName  = "English";
@@ -67,7 +67,7 @@ $aLang = array(
 'ARTICLE_EXTEND_ALLCATS' => 'All available Categories',
 'ARTICLE_EXTEND_ARTEXTRA' => 'Bundled Product',
 'ARTICLE_EXTEND_ARTINCATS' => 'Product is in these Categories',
-'ARTICLE_EXTEND_BLFIXEDPRICE' => 'No Promotions<br>(Price Alert)',
+'ARTICLE_EXTEND_BLFIXEDPRICE' => 'Deactivate Price Alert',
 'ARTICLE_EXTEND_BPRICE' => 'Purchase Price',
 'ARTICLE_EXTEND_DEFAULT' => 'Set as Main Category',
 'ARTICLE_EXTEND_DESCRIPTION' => 'Description',

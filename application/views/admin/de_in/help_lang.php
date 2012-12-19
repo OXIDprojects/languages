@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (495), dsb (1), marco (4400), simoneschuppe (4), Thielo (1)
+ * @translators: admin (495), dsb (1), marco (4407), simoneschuppe (4), Thielo (1)
  */
 
 $sLangName  = "Deutsch informell";
@@ -30,6 +30,7 @@ $sLangName  = "Deutsch informell";
 $aLang = array(
 'charset' => 'utf-8',
 'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => 'In der Konfigurationsdatei config.inc.php kann mit den Parametern <i>sAltImageUrl</i> und <i>sSSLAltImageUrl</i> eine URL zu einem externen Bilder-Server gesetzt werden. Dadurch werden alle Artikelbilder von diesem alternativen Server geladen. Alle hochgeladenen Dateien werden jedoch lokal gespeichert, so dass sie manuell oder per Script mit dem externen Server synchronisiert werden müssen.',
+'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => 'Der Preisalarm kann für diesen Artikel ausgeschaltet werden.',
 'HELP_ARTICLE_EXTEND_EXTURL' => 'Bei <span class="navipath_or_inputname">Externe URL</span> kannst Du einen Link eingeben, wo weitere Informationen zu dem Artikel erhältlich sind (z. B. auf der Hersteller-Website). Bei <span class="navipath_or_inputname">Text für ext. URL</span> kannst Du den Text eingeben, der verlinkt wird (z. B. <span class="userinput_or_code">weitere Informationen vom Hersteller</span>).',
 'HELP_ARTICLE_EXTEND_FREESHIPPING' => 'Einstellung wird vom Vater-Artikel an die Varianten vererbt und gilt für den gesamten Artikel.',
 'HELP_ARTICLE_EXTEND_ISCONFIGURABLE' => 'Wenn der Artikel individualisierbar ist, wird den Kunden ein zusätzliches Eingabefeld auf der Detailseite des Artikels und im Warenkorb angezeigt. In dieses Eingabefeld können Kunden Text eingeben, um den Artikel zu individualisieren.<br><br>Ein typisches Beispiel sind T-Shirts, die bedruckt werden können. In das Eingabefeld können Kunden den Text eingeben, mit dem ein T-Shirt bedruckt werden soll.',

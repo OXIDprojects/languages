@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: la bete (5), mart (139), pawelch (1660)
+ * @translators: la bete (5), marco (1), mart (139), pawelch (1660)
  */
 
 $sLangName  = "Polski";
@@ -30,6 +30,7 @@ $sLangName  = "Polski";
 $aLang = array(
 'charset' => 'utf-8',
 'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => 'Alternative URL to remote image server can be specified in configuration file config.inc.php by setting <i>sAltImageUrl</i> and <i>sSSLAltImageUrl</i>.<br> Thus all product pictures will be loaded from this alternative server instead of the local one. However, uploaded files will be stored locally. In this case synchronization to external server has to be done manually or with custom scripts.',
+'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => 'Price Alert can be turned off for this product.',
 'HELP_ARTICLE_EXTEND_EXTURL' => 'In <span class="navipath_or_inputname">External URL</span> you can enter a link where further information about the product is available (e. g. on the manufacturer\'s website). In <span class="navipath_or_inputname">Text for external URL</span> you can enter the text which is linked, e .g. <span class="userinput_or_code">Further information on the manufacturer\'s website</span>.',
 'HELP_ARTICLE_EXTEND_FREESHIPPING' => 'Setting is inherited from Parent product to Variants and applies to the entire product.',
 'HELP_ARTICLE_EXTEND_ISCONFIGURABLE' => 'If the product is customizable, an additional input field is displayed on the products detail page and in the shopping cart. Here customers can enter text for customizing the product.<br><br>A typical example are t-shirts which can be imprinted with custom text. In the input field customers can enter the text to be printed on the t-shirt.',

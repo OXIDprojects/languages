@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: la bete (5), mart (139), pawelch (1660)
+ * @translators: la bete (5), marco (1), mart (139), pawelch (1660)
  */
 
 $sLangName  = "Polski";
@@ -67,7 +67,7 @@ $aLang = array(
 'ARTICLE_EXTEND_ALLCATS' => 'All available Categories',
 'ARTICLE_EXTEND_ARTEXTRA' => 'Bundled Product',
 'ARTICLE_EXTEND_ARTINCATS' => 'Product is in these Categories',
-'ARTICLE_EXTEND_BLFIXEDPRICE' => 'No Promotions<br>(Price Alert)',
+'ARTICLE_EXTEND_BLFIXEDPRICE' => 'Deactivate Price Alert',
 'ARTICLE_EXTEND_BPRICE' => 'Cena',
 'ARTICLE_EXTEND_DEFAULT' => 'Set as Main Category',
 'ARTICLE_EXTEND_DESCRIPTION' => 'Description',

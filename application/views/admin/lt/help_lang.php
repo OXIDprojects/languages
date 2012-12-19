@@ -30,6 +30,7 @@ $sLangName  = "Lietuvių";
 $aLang = array(
 'charset' => 'utf-8',
 'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => 'Alternative URL to remote image server can be specified in configuration file config.inc.php by setting <i>sAltImageUrl</i> and <i>sSSLAltImageUrl</i>.<br> Thus all product pictures will be loaded from this alternative server instead of the local one. However, uploaded files will be stored locally. In this case synchronization to external server has to be done manually or with custom scripts.',
+'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => 'Price Alert can be turned off for this product.',
 'HELP_ARTICLE_EXTEND_EXTURL' => 'Išorinio URL laukelyje</var> galite įvesti nuorodą, kurioje pateikiama papildoma informacija apie prekę (pvz. gamintojo puslapyje). <var>Išoriniam URL teksto laukelyje</var> galite įvesti tekstą, kuris turi nuorodą, pvz. <kbd>Kita informacija gamintojo svetainėje</kbd>.',
 'HELP_ARTICLE_EXTEND_FREESHIPPING' => 'Nustatymas yra paveldėtas iš pagrindinės prekės variantams ir taikomas visai prekei.',
 'HELP_ARTICLE_EXTEND_ISCONFIGURABLE' => 'Jei prekė yra pritaikoma, papildomi įvedimo laukai yra rodomi prekės detaliame puslapyje ir prekių krepšelyje. Čia vartotojai gali įvesti tekstą pritaikomai prekei.<br /><br />Tipinis pavyzdys yra marškinėliai, kurie gali būti atspausdinti kaip tekstas. Įvedimo laukeliuose klientai gali įvesti tekstą, kuris bus atspausdintas ant marškinėlių.',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), marco (1020), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), marco (1021), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -138,7 +138,7 @@ $aLang = array(
 'PAGE_CHECKOUT_ORDER_SHIPPINGADDRESS' => 'Адрес доставки',
 'PAGE_CHECKOUT_PAYMENT_ACCOUNTNUMBER' => 'Номер аккаунта',
 'PAGE_CHECKOUT_PAYMENT_COMLETEALLFIELDS' => 'Пожалуйста, заполните все поля!',
-'PAGE_CHECKOUT_PAYMENT_EMPTY_TEXT' => '<p>На данный момент мы не смогли определить способ доставки до указанного места.</p> <p>Мы постараемся найти вариант доставки и сообщим Вам о её стоимости.</p> <p>Если Вы согласны, нажмите "Перейти к следующему шагу".</p>',
+'PAGE_CHECKOUT_PAYMENT_EMPTY_TEXT' => '<p>На данный момент мы не смогли определить способ доставки до указанного места.</p> <p>Мы постараемся найти вариант доставки и сообщим Вам о её стоимости.</p>',
 'PAGE_CHECKOUT_PAYMENT_INCLUDEVAT' => 'с НДС',
 'PAGE_CHECKOUT_PAYMENT_PLUSCODCHARGE1' => 'включительно',
 'PAGE_CHECKOUT_PAYMENT_PLUSCODCHARGE2' => 'тариф оплаты наложенным платежом',

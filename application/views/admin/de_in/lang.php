@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (495), dsb (1), marco (4400), simoneschuppe (4), Thielo (1)
+ * @translators: admin (495), dsb (1), marco (4407), simoneschuppe (4), Thielo (1)
  */
 
 $sLangName  = "Deutsch informell";
@@ -67,7 +67,7 @@ $aLang = array(
 'ARTICLE_EXTEND_ALLCATS' => 'Alle Kategorien',
 'ARTICLE_EXTEND_ARTEXTRA' => 'Artikel dazu',
 'ARTICLE_EXTEND_ARTINCATS' => 'Zugeordnete Kategorien',
-'ARTICLE_EXTEND_BLFIXEDPRICE' => 'Sonderaktionen nicht erlaubt (Preisalarm)',
+'ARTICLE_EXTEND_BLFIXEDPRICE' => 'Preisalarm deaktivieren',
 'ARTICLE_EXTEND_BPRICE' => 'Einkaufspreis',
 'ARTICLE_EXTEND_DEFAULT' => 'Als Hauptkat. setzen.',
 'ARTICLE_EXTEND_DESCRIPTION' => 'Beschreibung',
@@ -203,7 +203,7 @@ $aLang = array(
 'ARTICLE_STOCK_DAYS' => 'Tage',
 'ARTICLE_STOCK_DELIVERY' => 'Wieder lieferbar am',
 'ARTICLE_STOCK_DELTIME' => 'Lieferzeit',
-'ARTICLE_STOCK_ERRORSCALEPRICE' => 'Achtung: Staffelpreis muss niedriger als Normalpreis sein.',
+'ARTICLE_STOCK_ERRORSCALEPRICE' => 'Achtung: Staffelpreis muss kleiner als der reguläre Preis sein.',
 'ARTICLE_STOCK_MAXDELTIME' => 'und',
 'ARTICLE_STOCK_MINDELTIME' => 'Zwischen',
 'ARTICLE_STOCK_MONTHS' => 'Monate',
@@ -1108,7 +1108,7 @@ $aLang = array(
 'PAYMENT_MAIN_LONGDESC' => 'Beschreibung der Zahlungsart',
 'PAYMENT_MAIN_NAME' => 'Name',
 'PAYMENT_MAIN_NOTAVAILIBLEINGROUP' => 'Alle Benutzergruppen',
-'PAYMENT_MAIN_NOTICEDEFAULTVALUESSELECTED' => 'Standardwerte ausgewählt',
+'PAYMENT_MAIN_NOTICEDEFAULTVALUESSELECTED' => 'Standardwerte wurden ausgewählt',
 'PAYMENT_MAIN_SELECTED' => 'Ausgewählt',
 'PAYMENT_MAIN_TILL' => 'bis',
 'PAYMENT_OVERVIEW_HOWMANYPAYMENTS' => 'Wieviel Einkäufe wurden mit dieser Zahlungsart gemacht',
@@ -1809,7 +1809,7 @@ $aLang = array(
 'TOOLS_LIST_SECCESS' => 'Backup data erfolgreich gemailt.',
 'TOOLS_LIST_SQLQUERY' => 'SQL query',
 'TOOLS_LIST_TITLE' => '[OXID Tools]',
-'TOOLS_LIST_UPDATEVIEWSFAILED' => 'Update der DB-Views fehlgeschlagen.',
+'TOOLS_LIST_UPDATEVIEWSFAILED' => 'Fehler beim Aktualisieren der Datenbank-Views',
 'TOOLS_LIST_UPDATEVIEWSSECCESS' => 'Datenbank-Views wurden erfolgreich aktualisiert.',
 'TOOLS_MAIN_CHECKPICS' => 'Unbenutzte Bilder suchen und löschen',
 'TOOLS_MAIN_SQLDUMB' => 'SQL Datei importieren',

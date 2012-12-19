@@ -30,6 +30,7 @@ $sLangName  = "Slovenčina";
 $aLang = array(
 'charset' => 'utf-8',
 'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => 'Alternative URL to remote image server can be specified in configuration file config.inc.php by setting <i>sAltImageUrl</i> and <i>sSSLAltImageUrl</i>.<br> Thus all product pictures will be loaded from this alternative server instead of the local one. However, uploaded files will be stored locally. In this case synchronization to external server has to be done manually or with custom scripts.',
+'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => 'Price Alert can be turned off for this product.',
 'HELP_ARTICLE_EXTEND_EXTURL' => 'Do poľa <var>Externý odkaz</var> môžete zadať odkaz týkajúci sa výrobku (napr. web výrobcu). Do poľa <var>text externého odkazu</var> zadajte text, ktorý bude slúžiť ako popis odkazu, napr. <kbd>Viac informácií</kbd>.',
 'HELP_ARTICLE_EXTEND_FREESHIPPING' => 'Setting is inherited from Parent product to Variants and applies to the entire product.',
 'HELP_ARTICLE_EXTEND_ISCONFIGURABLE' => 'Ak je voľba zaškrtnutá, zobrazuje sa v detaile produktu a nákupnom košíku pole s poznámkou. Tam môžu zákazníci zadať text s doplňujúcu informácií.<br />Typickým príkladom môžu byť tričká, na ktoré môže byť dotisknut vlastný text. Do poľa zadá zákazník text, ktorý bude vytlačený na tričku.',
