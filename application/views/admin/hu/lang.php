@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: koikaam (203)
+ * @translators: koikaam (226)
  */
 
 $sLangName  = "Magyar";
@@ -29,12 +29,12 @@ $sLangName  = "Magyar";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACTIONS_LIST_MENUITEM' => 'Vevőinformációk',
-'ACTIONS_LIST_MENUSUBITEM' => 'Akciók kezelése',
-'ACTIONS_MAIN_ALLARTICLES' => 'Az összes elérhető cikk',
-'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Hozzárendelt cikkek',
-'ACTIONS_MAIN_NOTSELECTED' => 'Kérem válasszon a listából felül, a tevékenységeknél.',
-'ADMINGB_LIST_AUTHOR' => 'Szerző',
+'ACTIONS_LIST_MENUITEM' => 'Vevoinformaciok',
+'ACTIONS_LIST_MENUSUBITEM' => 'Akciok_kezelese',
+'ACTIONS_MAIN_ALLARTICLES' => 'Osszes_elerheto_cikk',
+'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Hozzarendelt_arucikkek',
+'ACTIONS_MAIN_NOTSELECTED' => 'Kerem_velasszon_a_listabol_felul_a_tevekenysegeknel',
+'ADMINGB_LIST_AUTHOR' => 'Szerzo',
 'ADMINGB_LIST_ENTRY' => 'Belépés',
 'ADMINGB_LIST_MENUITEM' => 'Vevőinformáció',
 'ADMINGB_LIST_MENUSUBITEM' => 'Vendégkönyv',
@@ -76,7 +76,7 @@ $aLang = array(
 'ARTICLE_EXTEND_ERRORSAVINGTPRICE' => 'HIBA: Az Áfá-s árnak nagyobbnak kell lennie, mint a nettó ár!',
 'ARTICLE_EXTEND_EXTURL' => 'Külső url',
 'ARTICLE_EXTEND_FILE' => 'File',
-'ARTICLE_EXTEND_FILEUPLOAD' => 'File Upload: ',
+'ARTICLE_EXTEND_FILEUPLOAD' => 'arucikk_bovitese_fajlfeltoltes',
 'ARTICLE_EXTEND_FREESHIPPING' => 'Free Shipping',
 'ARTICLE_EXTEND_HEIGHT' => 'H:',
 'ARTICLE_EXTEND_ISCONFIGURABLE' => 'Product can be customized',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: koikaam (203)
+ * @translators: koikaam (226)
  */
 
 $sLangName  = "Magyar";
@@ -29,32 +29,32 @@ $sLangName  = "Magyar";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACCESSORIES' => 'Accessories',
+'ACCESSORIES' => 'KIEGESZITOK',
 'ACCOUNT' => 'Account',
-'ACCOUNT_INFORMATION' => 'Account information',
+'ACCOUNT_INFORMATION' => 'Szamlazasi_informacio',
 'ADD' => 'add',
-'ADDITIONAL_INFO' => 'Additional Info:',
+'ADDITIONAL_INFO' => 'Tovabbi_informacio',
 'ADDRESS' => 'Address',
-'ADDRESSES' => 'Addresses',
+'ADDRESSES' => 'Cimek',
 'ADDRESSES_2' => 'Addresses:',
-'ADDRESS_2' => 'Address:',
+'ADDRESS_2' => 'Cimek_2',
 'ADD_TAGS' => 'Add tags:',
-'ADD_THIS_PAGE_TO' => 'Add this page to',
+'ADD_THIS_PAGE_TO' => 'Oldal_hozzaadasa_a',
 'ADD_THIS_PAGE_TO_WEBNEWS' => 'Add this page to Webnews',
-'ADD_THIS_PAGE_TO_YIEEHA' => 'Add this page to Yieeha',
+'ADD_THIS_PAGE_TO_YIEEHA' => 'Oldal_hozzaadasa_a_YIEEHAhoz',
 'ADD_TO_CART' => 'add to Cart',
-'ADD_TO_CART_2' => 'add to cart',
+'ADD_TO_CART_2' => 'Kosarba_dob2',
 'ADD_TO_GIFT_REGISTRY' => 'Add to Gift Registry',
-'ADD_TO_LIST' => 'Add to List',
+'ADD_TO_LIST' => 'Add_a_listahoz',
 'ADD_TO_LISTMANIA_LIST' => 'Add to Listmania List',
-'ADD_TO_WISH_LIST' => 'Add to Wish List',
+'ADD_TO_WISH_LIST' => 'Add_a_kivansag_listahoz',
 'ADD_WRAPPING' => 'Add gift wrap',
-'ADD_YOUR_COMMENTS' => 'Add your comments',
+'ADD_YOUR_COMMENTS' => 'Hozzaszolas_hozzaadasa',
 'ALL' => 'All',
 'ALL_LISTMANIA' => 'all Listmania',
-'ALREADY_ADDED_TAG' => 'You already tagged this text',
+'ALREADY_ADDED_TAG' => 'mar_letrehozott_elem',
 'ALREADY_CUSTOMER' => 'I am already customer',
-'APPLAY' => 'Apply',
+'APPLAY' => 'auto_play',
 'ARTNUM' => 'Product number',
 'ART_NUMBER' => 'Art. No.:',
 'ATENTION_GREETING_CARD' => 'Attention Greeting Card:',

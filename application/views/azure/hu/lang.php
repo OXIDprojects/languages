@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: koikaam (203)
+ * @translators: koikaam (226)
  */
 
 $sLangName  = "Magyar";
@@ -30,8 +30,8 @@ $sLangName  = "Magyar";
 $aLang = array(
 'charset' => 'utf-8',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'There is no Listmania lists at the moment. To create new, click',
-'ADD_RECOMM_ADDRECOMMLINK2' => 'here',
-'allBrands' => 'All Brands',
+'ADD_RECOMM_ADDRECOMMLINK2' => 'Link_hozzaadasa_linkhozzaadas2',
+'allBrands' => 'osszes_marka',
 'byBrand' => 'By Brand',
 'byManufacturer' => 'By Manufacturer',
 'byVendor' => 'By Distributor',
