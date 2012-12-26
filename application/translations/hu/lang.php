@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: koikaam (226)
+ * @translators: koikaam (227)
  */
 
 $sLangName  = "Magyar";
@@ -29,7 +29,7 @@ $sLangName  = "Magyar";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACCESSORIES' => 'KIEGESZITOK',
+'ACCESSORIES' => 'Kiegészítők',
 'ACCOUNT' => 'Account',
 'ACCOUNT_INFORMATION' => 'Szamlazasi_informacio',
 'ADD' => 'add',
