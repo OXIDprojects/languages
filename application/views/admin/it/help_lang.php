@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1217), bRanzo (4)
+ * @translators: admin (1217), bRanzo (210)
  */
 
 $sLangName  = "Italiano";
