@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (19), muslimukas (5), NFQ Lithuania (2756), swolou (3), tlt (204)
+ * @translators: abejingas (188), agladutis (19), muslimukas (5), NFQ Lithuania (2756), swolou (3), tlt (204), vaidasif (67)
  */
 
 $sLangName  = "Lietuvių";
@@ -80,8 +80,8 @@ $aLang = array(
 'FOOTER_MANUFACTURERS' => 'GAMINTOJAI',
 'FOOTER_SERVICES' => 'PASLAUGOS',
 'FORM_CONTACT_SEND' => 'Send password',
-'FORM_FIELDSET_USER_ACCOUNT_CONFIRMPWD' => 'Repeat password:',
-'FORM_LOGIN_ACCOUNT_FORGOTPWD' => 'Forgot password?',
+'FORM_FIELDSET_USER_ACCOUNT_CONFIRMPWD' => 'Pakartokite slaptažodį:',
+'FORM_LOGIN_ACCOUNT_FORGOTPWD' => 'Pamiršote slaptažodį?',
 'FORM_NEWSLETTER_FIRSTNAME' => 'First name',
 'FORM_PRICEALARM_SEND' => 'Send',
 'FORM_PRIVATESALES_INVITE_FROM' => 'From: ',
@@ -99,8 +99,8 @@ $aLang = array(
 'FORM_SUGGEST_MESSAGE1' => 'Sveiki, pažiūrėkite',
 'FORM_SUGGEST_MESSAGE2' => 'šiandien as radau įdomių prekių, gal sudomins ir tave. Paspauskite ant nuorodos ir būsite nukreiptas tiesiai į el. parduotuvę.',
 'FORM_USER_BILLINGADDRESS' => 'Billing address',
-'FORM_USER_PASSWORD_CONFIRMPASSWORD' => 'Repeat password:',
-'FORM_WISHLIST_SEARCH_SEARCH' => 'Search now',
+'FORM_USER_PASSWORD_CONFIRMPASSWORD' => 'Pakartokite slaptažodį:',
+'FORM_WISHLIST_SEARCH_SEARCH' => 'Ieškoti',
 'FORM_WISHLIST_SUGGEST_BUYFORME1' => 'Sveiki, aš susikūriau pageidavimų sąrašą',
 'FORM_WISHLIST_SUGGEST_BUYFORME2' => '. Būtų smagu jei man ką nors nupirktumėt.',
 'FORM_WISHLIST_SUGGEST_ERRWRONGEMAIL' => 'Error while sending - please check your email address.',
@@ -110,7 +110,7 @@ $aLang = array(
 'line' => 'Eilute',
 'NEWSLETTER_COMPLETEALLFIELEDS' => 'Please fill all fields with a "*"!',
 'PAGE_ACCOUNT_DASHBOARD_LOGOUT' => 'ATSIJUNGTI',
-'PAGE_ACCOUNT_FORGOTPWD_UPDATEPASSWORD' => 'Save new password',
+'PAGE_ACCOUNT_FORGOTPWD_UPDATEPASSWORD' => 'Išsaugoti naują slaptažodį',
 'PAGE_ACCOUNT_REGISTER_OPENACCOUNT' => 'Open new account',
 'PAGE_ACCOUNT_USER_USERTITLE' => 'Registracijos ir pristatymo adresų informacija',
 'PAGE_ACCOUNT_WISHLIST_SENDSUCCESSFULLY1' => 'Jūsų pageidavimų sąrašas buvo išsiųstas sėkmingai:',
