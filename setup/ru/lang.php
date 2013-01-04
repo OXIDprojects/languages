@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), marco (1021), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), marco (1025), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = "Русский";
@@ -182,9 +182,9 @@ $aLang = array(
 'TAB_3_TITLE' => 'Database',
 'TAB_4_DESC' => 'Configuring directories and selecting admin login',
 'TAB_4_TITLE' => 'Directory & login',
-'TAB_5_DESC' => 'Apply license key',
-'TAB_5_TITLE' => 'License',
-'TAB_6_DESC' => 'Installation succeeded',
-'TAB_6_TITLE' => 'Finish',
+'TAB_5_DESC' => 'Примените лицензионный ключ',
+'TAB_5_TITLE' => 'лицензия',
+'TAB_6_DESC' => 'установка прошла успешно',
+'TAB_6_TITLE' => 'финиш',
 'USE_DYNAMIC_PAGES' => 'To increase your business success get additional information from OXID\'s server. You find more information in our ',
 );
