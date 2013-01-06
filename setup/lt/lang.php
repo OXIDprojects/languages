@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (19), muslimukas (5), NFQ Lithuania (2756), swolou (3), tlt (204), vaidasif (67)
+ * @translators: abejingas (188), agladutis (19), linasg (3), muslimukas (5), NFQ Lithuania (2756), swolou (3), tlt (204), vaidasif (67)
  */
 
 $sLangName  = "Lietuvių";
@@ -29,10 +29,10 @@ $sLangName  = "Lietuvių";
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ATTENTION' => 'Attention, important',
-'BUTTON_BEGIN_INSTALL' => 'Start installation',
+'ATTENTION' => 'Dėmesio',
+'BUTTON_BEGIN_INSTALL' => 'Pradėti diegimą',
 'BUTTON_DB_INSTALL' => 'Create database now',
-'BUTTON_LICENCE' => 'Continue',
+'BUTTON_LICENCE' => 'Tęsti',
 'BUTTON_PROCEED_INSTALL' => 'Proceed with setup',
 'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Įdiegti demonstracinius duomenis',
 'BUTTON_RADIO_LICENCE_ACCEPT' => 'Su licencijos sąlygomis sutinku.',
