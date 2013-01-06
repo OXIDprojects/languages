@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (19), linasg (3), muslimukas (5), NFQ Lithuania (2756), swolou (3), tlt (204), vaidasif (67)
+ * @translators: abejingas (188), agladutis (19), linasg (3), muslimukas (5), NFQ Lithuania (2756), swolou (3), tlt (204), vaidasif (75)
  */
 
 $sLangName  = "Lietuvių";
@@ -82,7 +82,7 @@ $aLang = array(
 'FORM_CONTACT_SEND' => 'Send password',
 'FORM_FIELDSET_USER_ACCOUNT_CONFIRMPWD' => 'Pakartokite slaptažodį:',
 'FORM_LOGIN_ACCOUNT_FORGOTPWD' => 'Pamiršote slaptažodį?',
-'FORM_NEWSLETTER_FIRSTNAME' => 'First name',
+'FORM_NEWSLETTER_FIRSTNAME' => 'Vardas',
 'FORM_PRICEALARM_SEND' => 'Send',
 'FORM_PRIVATESALES_INVITE_FROM' => 'From: ',
 'FORM_PRIVATESALES_INVITE_MESSAGE1' => 'Sveiki, pažiūrėkite',

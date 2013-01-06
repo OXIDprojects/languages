@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (19), linasg (3), muslimukas (5), NFQ Lithuania (2756), swolou (3), tlt (204), vaidasif (67)
+ * @translators: abejingas (188), agladutis (19), linasg (3), muslimukas (5), NFQ Lithuania (2756), swolou (3), tlt (204), vaidasif (75)
  */
 
 $sLangName  = "Lietuvių";
@@ -611,10 +611,10 @@ $aLang = array(
 'GENERAL_ARTICLE_OXTPRICE' => 'Sena kaina',
 'GENERAL_ARTICLE_OXUNITNAME' => 'Vienetas',
 'GENERAL_ARTICLE_OXUNITQUANTITY' => 'Kiekio vienetas',
-'GENERAL_ARTICLE_OXUPDATEPRICE' => 'Update price',
-'GENERAL_ARTICLE_OXUPDATEPRICEA' => 'Update price A',
-'GENERAL_ARTICLE_OXUPDATEPRICEB' => 'Update price B',
-'GENERAL_ARTICLE_OXUPDATEPRICEC' => 'Update price C',
+'GENERAL_ARTICLE_OXUPDATEPRICE' => 'Atnaujinti kainą',
+'GENERAL_ARTICLE_OXUPDATEPRICEA' => 'Atnaujinti kainą A',
+'GENERAL_ARTICLE_OXUPDATEPRICEB' => 'Atnaujinti kainą B',
+'GENERAL_ARTICLE_OXUPDATEPRICEC' => 'Atnaujinti kainą C',
 'GENERAL_ARTICLE_OXUPDATEPRICETIME' => 'Update price time',
 'GENERAL_ARTICLE_OXURLDESC' => 'URL aprašymas',
 'GENERAL_ARTICLE_OXURLIMG' => 'Išorinio URL paveikslėlis',
@@ -653,7 +653,7 @@ $aLang = array(
 'GENERAL_CHANGEPRODUCT' => 'Pasirinkite prekę',
 'GENERAL_CLICKFORDETAILS' => '(plačiau)',
 'GENERAL_COMPANY' => 'Įmonė',
-'GENERAL_COPY' => 'Copy',
+'GENERAL_COPY' => 'Kopijuoti',
 'GENERAL_COPYTOSUBSHOPS' => 'Copy to subshops',
 'GENERAL_COUNTRY' => 'Šalis',
 'GENERAL_DATE' => 'Data',
@@ -703,7 +703,7 @@ $aLang = array(
 'GENERAL_LANGUAGE_NAME' => 'Kalba',
 'GENERAL_LINK' => 'Nuorodos',
 'GENERAL_LINK_EXPIRATION_TIME' => 'Expiration time of download link',
-'GENERAL_LINK_EXPIRATION_TIME_UNREGISTERED' => 'Maximum count of downloads for not registered users',
+'GENERAL_LINK_EXPIRATION_TIME_UNREGISTERED' => 'Maksimalus atsisiuntimų skaičius neregistruotiems vartotojams',
 'GENERAL_LIST_FIRST' => 'pirmas',
 'GENERAL_LIST_LAST' => 'paskutinis',
 'GENERAL_LIST_NEXT' => 'sekantis',
@@ -711,7 +711,7 @@ $aLang = array(
 'GENERAL_MANUEL' => 'Neautomat.',
 'GENERAL_MANUELL' => 'neautomat.',
 'GENERAL_MANUFACTURER' => 'Gamintojas',
-'GENERAL_MAX_DOWNLOADS_COUNT' => 'Maximum count of downloads',
+'GENERAL_MAX_DOWNLOADS_COUNT' => 'Maksimalus atsisiuntimų skaičius',
 'GENERAL_MAX_FILE_UPLOAD' => 'maks.',
 'GENERAL_MAX_PICTURE_DIMENSIONS' => 'maks. 1500*1500 px',
 'GENERAL_MENUITEM' => 'Prekių valdymas',
