@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: marco (3991)
+ * @translators: marco (3992)
  */
 
 $sLangName  = "English";
@@ -132,7 +132,7 @@ $aLang = array(
 'HELP_PAYMENT_MAIN_SORT' => 'In <span class="navipath_or_inputname">Sorting</span> you can specify the order in which the payment methods are to be displayed to users: The payment method with the lowest sort number is displayed on top.',
 'HELP_PROMOTIONS_BANNER_PICTUREANDLINK' => 'Upload banner image and enter banner URL which will be used when clicking on banner. If product is assigned to banner and URL is not entered, link to assigned product will be used when clicking on banner.',
 'HELP_REVERSE_PROXY_GET_BACKEND' => 'Admin area is displayed without Reverse Proxy. Varnish header could not be received.',
-'HELP_REVERSE_PROXY_GET_FRONTEND' => 'Checks if Reverse Proxy is available for the frontend. Header of the shop\\'s start page is veryfied.',
+'HELP_REVERSE_PROXY_GET_FRONTEND' => 'Checks if Reverse Proxy is available for the frontend. Header of the shop\'s start page is veryfied.',
 'HELP_SELECTLIST_MAIN_FIELDS' => 'All available options are displayed in the <span class="navipath_or_inputname">Fields</span> list. You can use the entry fields to the right to set up new options. Further information is available in the <a href="http://www.oxid-esales.com/en/resources/help-faq/eshop-manual/implementing-simple-variants-selection-lists" target="_blank">eShop manual</a> on the OXID eSales website.',
 'HELP_SELECTLIST_MAIN_TITLEIDENT' => 'In <span class="navipath_or_inputname">Working Title</span>, you can enter an additional name that is not displayed to users of your eShop. You can use the working title to differentiate between similar selection lists (e.g., Sizes for trousers and Sizes for shirts).',
 'HELP_SHOP_CACHE_CLASSES' => 'Here you set which view classes are cached.<br> Only change this setting if you are familiar with the caching mechanisms!',

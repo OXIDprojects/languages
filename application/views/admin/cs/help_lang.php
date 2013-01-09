@@ -130,7 +130,7 @@ $aLang = array(
 'HELP_PAYMENT_MAIN_SORT' => 'V <span class="navipath_or_inputname">Třízení</span> můžete zvolit pořadí platebních metod zobrazených uživateli; metoda s nejnižším číslem je první.',
 'HELP_PROMOTIONS_BANNER_PICTUREANDLINK' => 'Nahrejte obrázek banneru a zadejte jeho URL, na které povede po kliknutí na banner. Pokud je k banneru přiřazen produkt a URL není zadáno, po kliknutí na benner se zobrazí detail produktu.',
 'HELP_REVERSE_PROXY_GET_BACKEND' => 'Admin area is displayed without Reverse Proxy. Varnish header could not be received.',
-'HELP_REVERSE_PROXY_GET_FRONTEND' => 'Checks if Reverse Proxy is available for the frontend. Header of the shop\\'s start page is veryfied.',
+'HELP_REVERSE_PROXY_GET_FRONTEND' => 'Checks if Reverse Proxy is available for the frontend. Header of the shop\'s start page is veryfied.',
 'HELP_SELECTLIST_MAIN_FIELDS' => 'Všechny dostupné možnosti jsou zobrazeny v seznamu <span class="navipath_or_inputname">Polí</span>. Můžete přidat nové pole pro přidání nových možností. Více informací v <a href="http://www.oxid-esales.com/en/resources/help-faq/eshop-manual/implementing-simple-variants-selection-lists">návodu</a> na webu OXID eSales.',
 'HELP_SELECTLIST_MAIN_TITLEIDENT' => 'In <span class="navipath_or_inputname">Working Title</span>, you can enter an additional name that is not displayed to users of your eShop. You can use the working title to differentiate between similar selection lists (e.g., Sizes for trousers and Sizes for shirts).',
 'HELP_SHOP_CACHE_CLASSES' => 'Zde nastavíte, které třídy adresáře view jsou cachovány.<br> Měňte toto nastavvení, pokud jste obeznámeni s mechanizmem cachování a víte, co děláte!',
