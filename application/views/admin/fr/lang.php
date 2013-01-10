@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3431), alexraimondo (1), Phenix (202), vikapera (376)
+ * @translators: admin (3431), alexraimondo (1), chatard (9), Phenix (202), vikapera (376)
  */
 
 $sLangName  = "Français";
@@ -321,7 +321,7 @@ $aLang = array(
 'COUNTRY_MAIN_OXVATSTATUS' => 'Gestion de la TVA',
 'COUNTRY_MAIN_OXVATSTATUS_0' => 'Ne pas facturer la TVA',
 'COUNTRY_MAIN_OXVATSTATUS_1' => 'Ne pas facturer la TVA seulement si un n° de TVA valide à été fourni',
-'CUSTOMERNUM' => 'Cust No.',
+'CUSTOMERNUM' => 'Numero de client',
 'CUSTOM_TEMPLATE_EXIST_FOR_DELETED_SHOP' => 'Custom templates exist for deleted shop. Delete it manually if needed.',
 'DELIVERYSET_LIST_MENUITEM' => 'Paramètres de la boutique',
 'DELIVERYSET_LIST_MENUSUBITEM' => 'Modes de livraison',
@@ -452,7 +452,7 @@ $aLang = array(
 'EFIRE_USERDETAILS' => 'Utilisateur',
 'EFIRE_USERNAME' => 'Utilisateur transaction externe eFire',
 'EFIRE_USERPASSHASH' => 'Hash mot de passe',
-'EMAIL_PRICEALARM_CUSTOMER_CLICKHERE1' => 'To get directly to the product please click',
+'EMAIL_PRICEALARM_CUSTOMER_CLICKHERE1' => 'Cliquer ici pour recevoir les alertes sur le prix',
 'EMAIL_PRICEALARM_CUSTOMER_CLICKHERE2' => 'here',
 'EMAIL_PRICEALARM_CUSTOMER_HAVEPRICEALARM' => 'we habe a Price Alert in',
 'EMAIL_PRICEALARM_CUSTOMER_HY' => 'Hallo',

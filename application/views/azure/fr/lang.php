@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3431), alexraimondo (1), Phenix (202), vikapera (376)
+ * @translators: admin (3431), alexraimondo (1), chatard (9), Phenix (202), vikapera (376)
  */
 
 $sLangName  = "Français";
@@ -31,7 +31,7 @@ $aLang = array(
 'charset' => 'utf-8',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'Il n\'existe aucune liste pour le moment. Pour en créer une nouvelle, cliquez',
 'ADD_RECOMM_ADDRECOMMLINK2' => 'ici',
-'allBrands' => 'All Brands',
+'allBrands' => 'Toutes les marques',
 'byBrand' => 'Par marque',
 'byManufacturer' => 'Par marque',
 'byVendor' => 'Par distributeur',
@@ -57,9 +57,9 @@ $aLang = array(
 'EMAIL_ORDER_CUST_HTML_TSPROTECTIONCHARGETAX1' => 'taxes en sus',
 'EMAIL_ORDER_OWNER_HTML_MESSAGE' => 'Message:',
 'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>INFORMATIONS DE PAIEMENT DESACTIVEES</b> - Pour les réactiver, merci de changer email_order_owner_html.tpl.',
-'EMAIL_SENDDOWNLOADS_DOWNLOADS_DESC' => 'Download your ordered files here.',
+'EMAIL_SENDDOWNLOADS_DOWNLOADS_DESC' => 'Tri descendant des courriels',
 'EMAIL_SENDDOWNLOADS_GREETING' => 'Hello',
-'EMAIL_SENDDOWNLOADS_PAYMENT_PENDING' => 'Payment of the order is not yet complete.',
+'EMAIL_SENDDOWNLOADS_PAYMENT_PENDING' => 'Envoyer télécharger courriel pour paiement en attente',
 'EMAIL_SENDDOWNLOADS_SUBJECT' => 'Download links',
 'EMAIL_SENDEDNOW_HTML_ARTNOMBER' => 'Art.No.:',
 'EMAIL_SENDEDNOW_HTML_ORDERNOMBER' => 'Order No.:',
