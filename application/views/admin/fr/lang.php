@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3431), alexraimondo (1), chatard (9), Phenix (202), vikapera (376)
+ * @translators: admin (3431), alexraimondo (1), chatard (10), Phenix (202), vikapera (376)
  */
 
 $sLangName  = "Français";
@@ -99,7 +99,7 @@ $aLang = array(
 'ARTICLE_EXTEND_UPDATEPRICES' => 'Mettre à jour les prix sur la période définie',
 'ARTICLE_EXTEND_UPDATEPRICETIME' => 'Date de début',
 'ARTICLE_EXTEND_UPLOADFILE' => 'Ou bien envoyez le fichier (Les fichiers volumineux doivent être envoyés par FTP)<br>(le nom des fichiers doit contenir uniquement des lettres, nombres, underscore (_) et points (.))',
-'ARTICLE_EXTEND_UPLOADISDISABLED' => 'This is a demoshop. Uploading files has been switched off due to security reasons.',
+'ARTICLE_EXTEND_UPLOADISDISABLED' => 'Sur une boutique d\'essai le transfert de fichiers est désactivé pour des raisons de sécurité.',
 'ARTICLE_EXTEND_URLDESC' => 'Texte pour URL externe',
 'ARTICLE_EXTEND_WEIGHT' => 'Poids',
 'ARTICLE_EXTEND_WEIGHT_UNIT' => 'kg',
