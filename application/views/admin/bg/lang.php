@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: crashover (330), val (16)
+ * @translators: crashover (330), val (17)
  */
 
 $sLangName  = 'Български';
@@ -30,7 +30,7 @@ $sLangName  = 'Български';
 $aLang = array(
 'charset' => 'utf-8',
 'ACTIONS_LIST_MENUITEM' => 'Информация за клиента',
-'ACTIONS_LIST_MENUSUBITEM' => 'Промоций',
+'ACTIONS_LIST_MENUSUBITEM' => 'ПромоциИ',
 'ACTIONS_MAIN_ALLARTICLES' => 'Всички налични продукти',
 'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Продукти в промоция',
 'ACTIONS_MAIN_NOTSELECTED' => 'Моля, изберете една от списъка по-горе, за да направите промени',

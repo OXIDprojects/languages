@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3431), alexraimondo (1), chatard (10), Phenix (202), vikapera (376)
+ * @translators: admin (3431), alexraimondo (1), chatard (47), Phenix (202), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -80,9 +80,9 @@ $aLang = array(
 'BASKET_2' => 'Voir le panier',
 'BASKET_EMPTY' => 'Votre panier est vide.',
 'BASKET_TOTAL_GIFTCARD_COSTS' => 'Total des bons-cadeaux à déduire du panier',
-'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Greeting Card (net)',
+'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Cartes-cadeaux (total)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'Total du panier tva incluse',
-'BASKET_TOTAL_PLUS_VAT' => 'plus VAT',
+'BASKET_TOTAL_PLUS_VAT' => 'Panier total ttc.',
 'BASKET_TOTAL_WRAPPING_COSTS' => 'Frais d\'emballage sur le panier',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Gift Wrapping (net)',
 'BIC' => 'BIC:',
