@@ -22,7 +22,7 @@
  * @translators: tarazi (33)
  */
 
-$sLangName  = "العربية";
+$sLangName  = 'العربية';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

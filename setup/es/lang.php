@@ -22,7 +22,7 @@
  * @translators: admin (2202), afimage (504), Espana (5), jsmaster (6), nuelgoz (156)
  */
 
-$sLangName  = "Español";
+$sLangName  = 'Español';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

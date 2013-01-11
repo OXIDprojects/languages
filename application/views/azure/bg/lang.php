@@ -19,10 +19,10 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: crashover (330)
+ * @translators: crashover (330), val (16)
  */
 
-$sLangName  = "Български";
+$sLangName  = 'Български';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
@@ -31,7 +31,7 @@ $aLang = array(
 'charset' => 'utf-8',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'Няма Listmania списъци. За да създадете нов, кликнете',
 'ADD_RECOMM_ADDRECOMMLINK2' => 'Тук',
-'allBrands' => 'All Brands',
+'allBrands' => 'Всички марки',
 'byBrand' => 'By Brand',
 'byManufacturer' => 'By Manufacturer',
 'byVendor' => 'By Distributor',

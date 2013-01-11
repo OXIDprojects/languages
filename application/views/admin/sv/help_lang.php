@@ -22,7 +22,7 @@
  * @translators: admin (406), HolgerGremminger (69), marco (934), rhinosmedia (4)
  */
 
-$sLangName  = "Svenska";
+$sLangName  = 'Svenska';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

@@ -22,7 +22,7 @@
  * @translators: admin (3114), DominikS (403)
  */
 
-$sLangName  = "Slovenčina";
+$sLangName  = 'Slovenčina';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

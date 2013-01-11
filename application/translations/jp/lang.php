@@ -22,7 +22,7 @@
  * @translators: admin (2364), hodota (32)
  */
 
-$sLangName  = "日本語";
+$sLangName  = '日本語';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

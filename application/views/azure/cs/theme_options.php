@@ -22,7 +22,7 @@
  * @translators: admin (3161)
  */
 
-$sLangName  = "Česky";
+$sLangName  = 'Česky';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

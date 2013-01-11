@@ -22,7 +22,7 @@
  * @translators: jsmaster (11)
  */
 
-$sLangName  = "Español de México";
+$sLangName  = 'Español de México';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

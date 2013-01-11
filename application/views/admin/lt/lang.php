@@ -22,7 +22,7 @@
  * @translators: abejingas (188), agladutis (19), linasg (3), muslimukas (5), NFQ Lithuania (2756), swolou (3), tlt (204), vaidasif (75)
  */
 
-$sLangName  = "Lietuvių";
+$sLangName  = 'Lietuvių';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

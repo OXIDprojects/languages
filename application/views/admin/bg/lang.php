@@ -19,10 +19,10 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: crashover (330)
+ * @translators: crashover (330), val (16)
  */
 
-$sLangName  = "Български";
+$sLangName  = 'Български';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
@@ -42,7 +42,7 @@ $aLang = array(
 'ADMINLINKS_LIST_MENUITEM' => 'Информация за клиента',
 'ADMINLINKS_LIST_MENUSUBITEM' => 'Връзки',
 'ADMINLINKS_LIST_TITLE' => '[OXID Връзка към администрацията]',
-'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b>Note:</b> Alternative image server configuration detected, files will not be uploaded to remote location. Please take care about synchronization manually.',
+'ALTERNATIVE_IMAGE_SERVER_NOTE' => 'Алтернативен сървър',
 'amount' => 'Размер',
 'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => 'Assign Attributes',
 'ARTICLE_ATTRIBUTE_ASSIGNSELECTLIST' => 'Присвояване на списъците по избор',
@@ -86,7 +86,7 @@ $aLang = array(
 'ARTICLE_EXTEND_MEDIAURLS' => 'Медийни URL-та',
 'ARTICLE_EXTEND_NONMATERIAL' => 'Intangible Product',
 'ARTICLE_EXTEND_QUESTIONEMAIL' => 'Alt. Contact',
-'ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Skip all negative Discounts<br>(Discounts, Vouchers, Delivery ...)',
+'ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Прескочи разпродажби',
 'ARTICLE_EXTEND_TEMPLATE' => 'Alt. Template',
 'ARTICLE_EXTEND_TPRICE' => 'RRP',
 'ARTICLE_EXTEND_UNITNAME' => 'Част',
@@ -98,7 +98,7 @@ $aLang = array(
 'ARTICLE_EXTEND_UPDATEPRICEC' => 'C:',
 'ARTICLE_EXTEND_UPDATEPRICES' => 'Актуализация на цените през определено време',
 'ARTICLE_EXTEND_UPDATEPRICETIME' => 'Начален час:',
-'ARTICLE_EXTEND_UPLOADFILE' => 'Or upload the file (large files should be uploaded via ftp)<br>(file name may only contain letters, numbers, underscore (_) and dot (.))',
+'ARTICLE_EXTEND_UPLOADFILE' => 'Свали файла',
 'ARTICLE_EXTEND_UPLOADISDISABLED' => 'This is a demoshop. Uploading files has been switched off due to security reasons.',
 'ARTICLE_EXTEND_URLDESC' => 'Text for external URL',
 'ARTICLE_EXTEND_WEIGHT' => 'тегло',
@@ -163,18 +163,18 @@ $aLang = array(
 'ARTICLE_PICTURES_PIC3' => 'Изображение 3',
 'ARTICLE_PICTURES_PIC3UPLOAD' => 'Изображение 3 качено:',
 'ARTICLE_PICTURES_PIC4' => 'Изображение 4',
-'ARTICLE_PICTURES_PIC4UPLOAD' => 'Picture 4 upload: ',
+'ARTICLE_PICTURES_PIC4UPLOAD' => 'качи снимка',
 'ARTICLE_PICTURES_PIC5' => 'Изображение 5',
-'ARTICLE_PICTURES_PIC5UPLOAD' => 'Picture 5 upload: ',
+'ARTICLE_PICTURES_PIC5UPLOAD' => 'качи снимка 5',
 'ARTICLE_PICTURES_PIC6' => 'Изображение 6',
 'ARTICLE_PICTURES_PIC6UPLOAD' => 'Picture 6 upload: ',
 'ARTICLE_PICTURES_PIC7' => 'Изображение 7',
-'ARTICLE_PICTURES_PIC7UPLOAD' => 'Picture 7 upload: ',
+'ARTICLE_PICTURES_PIC7UPLOAD' => 'качи снимка 7',
 'ARTICLE_PICTURES_PREVIEW' => 'предварителен преглед',
 'ARTICLE_PICTURES_SAVE' => 'Запази',
 'ARTICLE_PICTURES_THUMB' => 'Thumbnail',
 'ARTICLE_PICTURES_THUMBUPLOAD' => 'Thumbn. upload: ',
-'ARTICLE_PICTURES_UPLOADISDISABLED' => 'This is a demoshop. Uploading or deleting images has been switched off due to security reasons.',
+'ARTICLE_PICTURES_UPLOADISDISABLED' => 'качването е забранено',
 'ARTICLE_PICTURES_ZOOM1' => 'Увеличи 1',
 'ARTICLE_PICTURES_ZOOM1UPLOAD' => 'Zoom 1 upload: ',
 'ARTICLE_PICTURES_ZOOM2' => 'Увеличи 2',
@@ -188,28 +188,28 @@ $aLang = array(
 'ARTICLE_REVIEW_POSTEDFROM' => 'Постнато от:',
 'ARTICLE_REVIEW_SAVE' => 'Запази',
 'ARTICLE_REVIEW_TEXT' => 'Текст:',
-'ARTICLE_RIGHTS_ALLGROUPS' => 'All User Groups',
+'ARTICLE_RIGHTS_ALLGROUPS' => 'всички групи',
 'ARTICLE_RIGHTS_ASSIGNBUYABLE' => 'Assign User Groups (Exclusively buyable)',
 'ARTICLE_RIGHTS_ASSIGNVISIBLE' => 'Assign User Groups (Exclusively visible)',
 'ARTICLE_RIGHTS_SETGROUPS_BUYABLE' => 'Exclusively buyable by User Group',
-'ARTICLE_RIGHTS_SETGROUPS_VISIBLE' => 'Exclusively visible to User Group',
+'ARTICLE_RIGHTS_SETGROUPS_VISIBLE' => 'видими',
 'ARTICLE_STOCK_AMOUNT' => 'Amount',
 'ARTICLE_STOCK_AMOUNTPRICE_ABS' => 'abs',
 'ARTICLE_STOCK_AMOUNTPRICE_AMOUNTFROM' => 'Quantity From:',
 'ARTICLE_STOCK_AMOUNTPRICE_AMOUNTTO' => 'До:',
 'ARTICLE_STOCK_AMOUNTPRICE_DISCOUNT' => '% Отстъпка',
 'ARTICLE_STOCK_AMOUNTPRICE_PRICE' => 'Price',
-'ARTICLE_STOCK_AMOUNTPRICE_TITLE' => 'Scale Prices',
+'ARTICLE_STOCK_AMOUNTPRICE_TITLE' => 'заглавие',
 'ARTICLE_STOCK_DAYS' => 'Days',
-'ARTICLE_STOCK_DELIVERY' => 'Available on',
+'ARTICLE_STOCK_DELIVERY' => 'доставка',
 'ARTICLE_STOCK_DELTIME' => 'Delivery time',
 'ARTICLE_STOCK_ERRORSCALEPRICE' => 'Attention: Scale price must be lower than normal price.',
 'ARTICLE_STOCK_MAXDELTIME' => 'до',
 'ARTICLE_STOCK_MINDELTIME' => 'От',
 'ARTICLE_STOCK_MONTHS' => 'Месеци',
-'ARTICLE_STOCK_NOSTOCKTEXT' => 'Out Of Stock Message',
+'ARTICLE_STOCK_NOSTOCKTEXT' => 'не е в наличност',
 'ARTICLE_STOCK_ORDERINFO' => 'Add. info in order confirmation mail.',
-'ARTICLE_STOCK_PRICE' => 'Price',
+'ARTICLE_STOCK_PRICE' => 'цена',
 'ARTICLE_STOCK_REMINDACTIV' => 'Send e-mail if stock falls below value',
 'ARTICLE_STOCK_SAVE' => 'Запази',
 'ARTICLE_STOCK_STOCK' => 'наличност',
@@ -236,7 +236,7 @@ $aLang = array(
 'ATTRIBUTE_CATEGORY_ATRLIST' => 'All Attributes of this Category',
 'ATTRIBUTE_LIST_MENUSUBITEM' => 'Attributes',
 'ATTRIBUTE_MAIN_ALLITEMS' => 'All available Products',
-'ATTRIBUTE_MAIN_DISPLAYINBASKET' => 'Display attribute\'s value for products in checkout',
+'ATTRIBUTE_MAIN_DISPLAYINBASKET' => 'покажи в кошницата',
 'ATTRIBUTE_MAIN_ITEMSWITHATTR' => 'Products with this Attribute',
 'ATTRIBUTE_MAIN_SORTING' => 'Sorting',
 'AUCTMASTER_DO_EXPORTEND' => 'Export completed.',
@@ -1854,19 +1854,12 @@ $aLang = array(
 'TOOLTIPS_NEWMALLCAT' => 'Create New Mall Cateogry',
 'TOOLTIPS_NEWMANUFACTURER' => 'Create new Manufacturer',
 'TOOLTIPS_NEWMWST' => 'Create new VAT',
-'TOOLTIPS_NEWNEWSphp
-/**
- *    TMessage file is part of OXILETTERphp
-/New Newsletter Samplon.
- *
- *    OXPAYMEN?php
-/**
- *    TPayment Methodftware: you can rROMOTIONommunity EAction/PromoPubliBanner file is part ofREMARKphp
-/Add Noton.
- *
- *    OXSELECTLI<?php
-/**
- *    TSele Publ Listoundation, eitherHOPphp
+'TOOLTIPS_NEWNEWS' => 'Create new Message',
+'TOOLTIPS_NEWNEWSLETTER' => 'New Newsletter Sample',
+'TOOLTIPS_NEWPAYMENT' => 'Create new Payment Method',
+'TOOLTIPS_NEWPROMOTION' => 'New Action/Promotion/Banner',
+'TOOLTIPS_NEWREMARK' => 'Add Note',
+'TOOLTIPS_NEWSELECTLIST' => 'Creat*    TSele Publ Listoundation, eitherHOPphp
 /**
  * ty EShopoundation, eitherTATISTIC3 of the License, tatistics file is part ofUS Communi**
  *    TUsublished by

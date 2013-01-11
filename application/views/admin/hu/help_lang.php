@@ -22,7 +22,7 @@
  * @translators: koikaam (227)
  */
 
-$sLangName  = "Magyar";
+$sLangName  = 'Magyar';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

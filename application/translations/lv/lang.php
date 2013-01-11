@@ -22,7 +22,7 @@
  * @translators: admin (377), karlis.kavacis (143)
  */
 
-$sLangName  = "Latviešu";
+$sLangName  = 'Latviešu';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

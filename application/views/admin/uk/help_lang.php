@@ -22,7 +22,7 @@
  * @translators: admin (28), pianoservis (1033)
  */
 
-$sLangName  = "Українська";
+$sLangName  = 'Українська';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

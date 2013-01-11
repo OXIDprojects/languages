@@ -22,7 +22,7 @@
  * @translators: 
  */
 
-$sLangName  = "普通话 / 普通話";
+$sLangName  = '普通话 / 普通話';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

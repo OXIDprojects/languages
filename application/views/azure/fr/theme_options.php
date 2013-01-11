@@ -22,7 +22,7 @@
  * @translators: admin (3431), alexraimondo (1), chatard (10), Phenix (202), vikapera (376)
  */
 
-$sLangName  = "Français";
+$sLangName  = 'Français';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

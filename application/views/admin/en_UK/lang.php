@@ -22,7 +22,7 @@
  * @translators: marco (4107)
  */
 
-$sLangName  = "British English";
+$sLangName  = 'British English';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

@@ -22,7 +22,7 @@
  * @translators: admin (1849), e.mersinlioglu (37), enginistemi (4), marco (2), McDaim (101), scaly (10)
  */
 
-$sLangName  = "Türkçe";
+$sLangName  = 'Türkçe';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

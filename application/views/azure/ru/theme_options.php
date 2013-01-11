@@ -22,7 +22,7 @@
  * @translators: admin (1341), compisat (26), marco (1025), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
 
-$sLangName  = "Русский";
+$sLangName  = 'Русский';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

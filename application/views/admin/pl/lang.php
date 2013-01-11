@@ -22,7 +22,7 @@
  * @translators: la bete (5), marco (1), mart (139), pawelch (1660)
  */
 
-$sLangName  = "Polski";
+$sLangName  = 'Polski';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

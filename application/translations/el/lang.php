@@ -22,7 +22,7 @@
  * @translators: admin (355), rostav (28)
  */
 
-$sLangName  = "Ελληνικά";
+$sLangName  = 'Ελληνικά';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

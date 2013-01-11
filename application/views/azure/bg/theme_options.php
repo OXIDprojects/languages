@@ -19,10 +19,10 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: crashover (330)
+ * @translators: crashover (330), val (16)
  */
 
-$sLangName  = "Български";
+$sLangName  = 'Български';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

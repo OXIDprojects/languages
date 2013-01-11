@@ -22,7 +22,7 @@
  * @translators: admin (1082), monteiro (2)
  */
 
-$sLangName  = "Português";
+$sLangName  = 'Português';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

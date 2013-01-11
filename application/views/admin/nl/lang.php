@@ -22,7 +22,7 @@
  * @translators: admin (367), gvlimpt (97), hoekie (28), marco (932)
  */
 
-$sLangName  = "Nederlands";
+$sLangName  = 'Nederlands';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
