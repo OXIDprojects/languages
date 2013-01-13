@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3431), alexraimondo (1), chatard (47), Phenix (202), vikapera (376)
+ * @translators: admin (3431), alexraimondo (1), chatard (115), Phenix (202), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -30,7 +30,7 @@ $sLangName  = 'Français';
 $aLang = array(
 'charset' => 'utf-8',
 'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => 'Il est possible de spécifier une url alternative d\'un serveur d\'images distant dans le fichier de configuration config.inc.php avec les paramètres <i>sAltImageUrl</i> et <i>sSSLAltImageUrl</i>.<br>Ainsi, toutes les photos de produits seront chargés depuis ce serveur alternatif plutôt que depuis le serveur local. Cependant, les fichiers uploadés sont stockés en local. Dans ce cas, une synchronisation avec le serveur externe doit être mis en place manuellement ou avec un script personnalisé.',
-'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => 'Price Alert can be turned off for this product.',
+'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => 'L\'alerte de prix peut être désactivé sur ce produit.',
 'HELP_ARTICLE_EXTEND_EXTURL' => 'Dans <span class="navipath_or_inputname">URL Externe</span> vous pouvez renseigner un lien vers des informations complémentaires (ex: Vers le site de la marque). Dans <span class="navipath_or_inputname">Texte de l\'URL externe</span> saisissez le texte qui sera affiché pour le lien (ex: <span class="userinput_or_code">Plus d\'information sur le site de la marque</span>.',
 'HELP_ARTICLE_EXTEND_FREESHIPPING' => 'Le paramètre est hérité du produit parent aux variantes et s\'applique sur l\'ensemble du produit.',
 'HELP_ARTICLE_EXTEND_ISCONFIGURABLE' => 'Si le produit est customizable, un champ de saisie additionel est affiché sur la fiche produit et dans le panier d\'achats. Les clients pourront alors saisir un texte pour customiser le produit.<br><br>Un exemple typique de l\'utilité de cette fonction pour la vente de tee-shirts qui peuvent être imprimés avec un message personnalisé.',
@@ -67,7 +67,7 @@ $aLang = array(
 'HELP_ARTICLE_STOCK_STOCKFLAG' => 'Dans <span class="navipath_or_inputname">Type de stock</span> vous pouvez choisir parmi 4 possibilités:<ul><li><span class="userinput_or_code">Standard</span>: Le produit peut être commandé même si pas de stock disponible.</li><li><span class="userinput_or_code">Entrepôt Externe</span>: Le produit peut toujours être commandé et sera toujours affiché <span class="filename_filepath_or_italic">En stock</span>.</li><li><span class="userinput_or_code">Si hors stock, ne pas afficher</span>: Le produit n\'est pas affiché aux clients lorsque pas de stock disponible.</li><li><span class="userinput_or_code">Si hors stock, pas de commande possible</span>: Le produit est affiché aux clients mais la commande n\'est pas possible.</li></ul>',
 'HELP_ARTICLE_STOCK_STOCKTEXT' => 'Saisissez ici un message qui sera affiché si le produit est "En stock".',
 'HELP_ARTICLE_VARIANT_VARNAME' => '<span class="navipath_or_inputname">Nom de la sélection</span> permet de nommer une sélection de variantes. Ex: <span class="userinput_or_code">Couleur</span> ou <span class="userinput_or_code">Taille</span>.<br>',
-'HELP_ATTRIBUTE_MAIN_DISPLAYINBASKET' => 'If checked, this attribute\'s value will be shown in cart and order overview below the product title.',
+'HELP_ATTRIBUTE_MAIN_DISPLAYINBASKET' => 'Si coché, cette caractéristique sera affichée dans le panier et dans l\'aperçu de la commande au dessous du libellé du produit.',
 'HELP_CATEGORY_MAIN_DEFSORT' => 'Avec <span class="navipath_or_inputname">Tri rapide</span> vous permet de définir l\'ordre d\'affichage des produits dans la catégorie.',
 'HELP_CATEGORY_MAIN_EXTLINK' => 'Avec <span class="navipath_or_inputname">Lien externe</span>, vous pouvez renseigner un lien qui s\'ouvrira lorsque l\'utilisateur cliquera sur la catégorie. <span class="warning_or_important_hint">Utilisez cette fonction seulement si vous souhaitez afficher un lien dans le menu catégories!</span>',
 'HELP_CATEGORY_MAIN_HIDDEN' => 'Avec <span class="navipath_or_inputname">Masquée</span> Définissez si cette catégorie est affichée ou non aux utilisateurs de la boutique.',
@@ -129,17 +129,17 @@ $aLang = array(
 'HELP_PAYMENT_MAIN_SELECTED' => 'Utilisez le paramètre <span class="navipath_or_inputname">Selectionné</span> pour définir un moyen de paiement par défaut.',
 'HELP_PAYMENT_MAIN_SORT' => 'Le paramètre <span class="navipath_or_inputname">Position</span> vous permet de spécifier l\'ordre d\'affichage des moyens de paiement à vos utilisateurs.',
 'HELP_PROMOTIONS_BANNER_PICTUREANDLINK' => 'Envoyer une image bannière et saisissez une adresse URL qui sera affecté à l\'image lors d\'un clic. Si la bannière est associée à un article et qu\'aucune URL n\'est définie, l\'adresse de l\'article sera utilisée.',
-'HELP_REVERSE_PROXY_GET_BACKEND' => 'Admin area is displayed without Reverse Proxy. Varnish header could not be received.',
-'HELP_REVERSE_PROXY_GET_FRONTEND' => 'Checks if Reverse Proxy is available for the frontend. Header of the shop\'s start page is veryfied.',
+'HELP_REVERSE_PROXY_GET_BACKEND' => 'La zone d\'administration s\'affiche sans Proxy inversé. Les entêtes de fichiers ne pourraient être reçu.',
+'HELP_REVERSE_PROXY_GET_FRONTEND' => 'Vérifie la disponibilité du Proxy inversé pour le frontend. L\'entête de la page de démarrage de la boutique est vérifiée.',
 'HELP_SELECTLIST_MAIN_FIELDS' => 'Toutes les options/variantes disponibles sont affichées dans la liste des <span class="navipath_or_inputname">Champs</span>. Vous pouvez définir de nouvelles options dans la partie droite. Pour plus d\' informations :<a href="http://www.oxid-esales.com/en/resources/help-faq/eshop-manual/implementing-simple-variants-selection-lists" target="_blank">Manuel OXID eShop</a>.',
 'HELP_SELECTLIST_MAIN_TITLEIDENT' => 'Dans <span class="navipath_or_inputname">Titre interne</span>, vous pouvez définir un autre nom qui ne sera pas affiché à vos clients sur la boutique. Les titres personnalisés sont utilisés pour différencier des listes de sélection similaires (ex: Taille pour pantalons, taille pour Tee Shirts).',
 'HELP_SHOP_CACHE_CLASSES' => 'Vous pouvez définir ici quelles classes de vues sont mises en cache.<br> Ne changez ces paramètres que si vous êtes familier avec les mecanismes de mise en cache!',
 'HELP_SHOP_CACHE_ENABLED' => 'Lorsque la gestion de cache dynamique est activée, des contenus additionnels sont mis en cache pour augmenter les performances. Désactivez ce paramètre pendant le paramétrage de la solution (Création de modules/ templates...).',
-'HELP_SHOP_CACHE_LAYOUT_CACHE_AGE' => 'Sets lifetime of page layout in seconds. This will be send via HTTP headers, specifying header value "Age".',
+'HELP_SHOP_CACHE_LAYOUT_CACHE_AGE' => 'Fixe la durée de vie de la page en secondes. Cette valeur sera transmise dans les entêtes http qui spécifieront la valeur "Age".',
 'HELP_SHOP_CACHE_LIFETIME' => 'Saisissez ici le temps de mise en cache (en secondes) des contenus avant leur mise à jour. La valeur par défaut est 36000 secondes.',
-'HELP_SHOP_CACHE_REVERSE_PROXY_ENABLED' => 'Activates a caching HTTP Reverse Proxy. Note: Do not use "Dynamic Content Caching" at the same time, as it could slow down the performance.',
-'HELP_SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_BIGGEST_NET' => 'The VAT rate of the products, which have the biggest net value in shopping cart, is used for calculating.',
-'HELP_SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_PROPORTIONAL' => 'The percentage of products in cart with the same VAT rate is used for calculating.',
+'HELP_SHOP_CACHE_REVERSE_PROXY_ENABLED' => 'Active la mise en cache http d\'un Proxy inversé. Noter: qu\'il ne faut pas utiliser de mise en cache du contenu dynamique en même temps, car elle pourrait dégrader les performances.',
+'HELP_SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_BIGGEST_NET' => 'Le taux de TVA des produits représentant le montant le plus élevé du panier, est utilisé pour le calcul.',
+'HELP_SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_PROPORTIONAL' => 'Le pourcentage de produits du panier avec le même taux de TVA est utilisé pour le calcul.',
 'HELP_SHOP_CONFIG_ALTVATIDCHECKINTERFACEWSDL' => 'Vous pouvez renseigner ici une URL alternative pour la validation des numéros de TVA.',
 'HELP_SHOP_CONFIG_ATTENTION' => 'Attention: Même si du cryptage est utilisé, cette pratique est dangereuse et non recommandée!',
 'HELP_SHOP_CONFIG_BASKETEXCLUDE' => 'Autorise la mise au panier de produits d\'une seule catégorie (Principale). Si un changement de catégorie est détecté, l\'utilisateur se vera demandé de finaliser sa commande ou bien de continuer son shopping (dans le seuxième cas, le panier sera vidé). Cette fonctionnalité est à utiliser conjointement avec  une structure de catégories proprement organisée.',
@@ -151,7 +151,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_DOWNLOADS' => 'Boutique avec produits téléchargeables. Activez ici le fait que les produits peuvent être commandés et téléchargés.',
 'HELP_SHOP_CONFIG_DOWNLOADS_PATH' => 'Chemin vers le répertoire de stockage des fichiers des produits téléchargeables',
 'HELP_SHOP_CONFIG_DOWNLOAD_EXPIRATION_TIME' => 'Définissez une durée en heures, pendant laquelle le lien de téléchargement sera valide après un premier téléchargement. Ce paramètre par défaut s\'appliquera à tous les produits. Si vous souhaitez modifier cette valeur pour un produit particulier, rendez-vous dans : Gestion des produits -> Produits -> Téléchargement',
-'HELP_SHOP_CONFIG_ENTERNETPRICE' => 'In admin area product prices must be entered as net prices.',
+'HELP_SHOP_CONFIG_ENTERNETPRICE' => 'Dans la partie administrative, les prix des produits doivent être saisis en prix nets.',
 'HELP_SHOP_CONFIG_FACEBOOKCONNECT' => 'Affiche la boîte de connexion "Facebook Connect" permettant aux utilisateurs de se connecter à la boutique avec leur compte Facebook.',
 'HELP_SHOP_CONFIG_FBCOMMENTS' => 'La boîte de commentaires permet à vos visiteurs de facilement commenter les contenus de votre boutique.',
 'HELP_SHOP_CONFIG_FBFACEPILE' => 'Facepile affiche les images du profil des visiteurs qui suivent votre site sur Facebook.',
@@ -179,7 +179,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_STOCKOFFDEFAULTMESSAGE' => 'Pour chaque produit, vous pouvez définir un message si le produit n\'est pas en stock.<br>Lorsque ce paramètre est activé, un message générique est affiché si aucun message spécifique n\'a été défini. Le message générique <span class="filename_filepath_or_italic">Produit en rupture de stock. En cours de réapprovisionnement</span> est affiché.',
 'HELP_SHOP_CONFIG_STOCKONDEFAULTMESSAGE' => 'Pour chaque produit, vous pouvez définir un message si le produit est en stock.<br>Lorsque ce paramètre est activé, un message générique est affiché si aucun message spécifique n\'a été défini. Le message générique <span class="filename_filepath_or_italic">Produit en stock</span> est affiché.',
 'HELP_SHOP_CONFIG_USENEGATIVESTOCK' => 'Le paramètre <span class="navipath_or_inputname">Autoriser les valeurs de stock négatives</span> vous permet de définir comment gérer vos stocks:<br><ul><li>Lorsque ce paramètre est activé, des niveaux de stocks négatifs sont calculés.</li><li>Lorsque ce paramètre est désactivé, la valeur du stock ne descend jamais en dessous de 0.</li></ul>',
-'HELP_SHOP_CONFIG_VIEWNETPRICE' => 'In frontend product prices are shown as net prices.',
+'HELP_SHOP_CONFIG_VIEWNETPRICE' => 'Dans le frontend le prix des produits est affiché en prix nets.',
 'HELP_SHOP_MAIN_ACTIVE' => 'Avec <span class="navipath_or_inputname">Actif</span> vous pouvez activer/désactiver complètement la boutique. Si la boutique est désactivée, un message informant que la boutique est en maintenance est affiché à vos visiteurs.',
 'HELP_SHOP_MAIN_INFOEMAIL' => 'Tous les e-mails envoyés par le biais du formulaire de contact sont envoyés à cette adresse e-mail.',
 'HELP_SHOP_MAIN_ORDEREMAIL' => 'Lorsque les utilisateurs reçoivent un e-mail avec un résumé de leur commande, les réponses à cet e-mail sont envoyés à <span class="navipath_or_inputname">Réponse mail de commande</span>.',
@@ -215,13 +215,13 @@ $aLang = array(
 'HELP_SHOP_RDFA_GEO_LATITUDE' => 'La latitude du magasin pour la position géographique. Merci de ne saisir que des nombres.',
 'HELP_SHOP_RDFA_GEO_LONGITUDE' => 'La longitude du magasin pour la position géographique. Merci de ne saisir que des nombres.',
 'HELP_SHOP_RDFA_GLN' => 'Le code lieu-fonction (ou GLN) de l\'entreprise. Le code lieu-fonction est un nombre à 13 chiffres utilisé pour identifier des emplacements physiques.',
-'HELP_SHOP_RDFA_ISIC' => 'The International Standard of Industrial Classification of All Economic Activities (ISIC) code for your company. See http://unstats.un.org/unsd/cr/registry/isic-4.asp.',
+'HELP_SHOP_RDFA_ISIC' => 'La standard international de classification des industries de toutes les branches d\'activités économiques (ISIC) attribut un code à votre entreprise. Voir http://unstats.un.org/unsd/cr/registry/isic-4.asp.',
 'HELP_SHOP_RDFA_LOGO_URL' => 'L\'adresse web (url) d\'un logo ou une image.',
-'HELP_SHOP_RDFA_NAICS' => 'North American Industry Classification System (NAICS) code for your company. See http://www.census.gov/eos/www/naics/.',
+'HELP_SHOP_RDFA_NAICS' => 'Le système de classification des industries d\'Amérique du nord (NAICS) attribue un code à votre société. Voir: http://www.census.gov/eos/www/naics/.',
 'HELP_SHOP_RDFA_RATING_MAX' => 'Valeur maximum possible par rapport à l\'échelle utilisée pour les notations dans votre boutique. Cette valeur n\'est pas la plus haute note actuelle d\'un produit.',
 'HELP_SHOP_RDFA_RATING_MIN' => 'Valeur minimum possible par rapport à l\'échelle utilisée pour les notations dans votre boutique. Cette valeur n\'est pas la plus haute note actuelle d\'un produit.',
 'HELP_SHOP_RDFA_SHOW_PRODUCTSTOCK' => 'Si cette option est activée cela signifie que le stock réel du produit est affiché.',
-'HELP_SHOP_RDFA_SUBMIT_URL' => 'Submits your shop URL to GR-Notify page. There the URL is saved and forwarded to Linked Open Commerce & Semantic Web search engines and endpoints.',
+'HELP_SHOP_RDFA_SUBMIT_URL' => 'Soumet l\'URL de votre boutique à "GR-Notify". A partir de là, l\'URL est sauvegardée et transmise au LOC "Linked Open Commerce" ainsi qu\'aux moteurs de recherches sémantiques pour évaluation.',
 'HELP_SHOP_RDFA_VAT' => 'Cette option spécifie si la taxe (TVA) est incluse dans le prix et les coûts de paiement/livraison ou non.',
 'HELP_SHOP_SEO_IDSSEPARATOR' => 'Le séparateur est utilisé lorsque le nom des catégories et des produits est composé de plusieurs mots Le séparateur sera utilisé à la place des espaces. ex: www.youreshop.com/category-name-of-several-words<br>Si aucun séparateur n\'est défini, - sera utilisé.',
 'HELP_SHOP_SEO_RESERVEDWORDS' => 'Quelques URLs sont réservées dans OXID eShop, comme www.youreshop.com/admin pour accéder au back-office. Si une catégorie est nommée <span class="filename_filepath_or_italic">admin</span> son URL SEO devrait logiquement être www.youreshop.com/admin également - dans ce cas, la catégorie ne pourraît être accessible. Voici donc la raison d\'être du suffixe SEO, qui est rajouté à ces URLs. Vous pouvez définir ici quelles URLs seront automatiquement suffixées.',
@@ -236,7 +236,7 @@ $aLang = array(
 'HELP_SHOP_SYSTEM_INLINEIMGEMAIL' => 'Lorsque ce paramètre est activé, les images sont envoyées dans l\'email. Lorsque désactivé, les images sont téléchargées par le client de messagerie à l\'ouverture du message.',
 'HELP_SHOP_SYSTEM_ISERVERTIMESHIFT' => 'Le serveur hébergeant la solution peut utiliser un fuseau horaire différent. Ce paramètre vous permet de définir un décalage horaire: Saisissez le nombre d\'heures à ajouter/retrancher de l\'heure du serveur. ex: <kdb>+2</kdb> ou <kdb>-2</kdb>',
 'HELP_SHOP_SYSTEM_OTHERCOUNTRYORDER' => 'Définissez ici si des commandes peuvent être passées dans des pays pour lesquels aucun mode de livraison n\'a été défini:<ul><li>Si cette fonction est activée, les utilisateurs peuvent commander: Les utilisateurs seront notifiés manuellement des coûts de transport pour leur commande.</li><li>Si cette fonction est désactivée, les utilisateurs de pays pour lesquels aucun mode de livraison n\'a été défini ne pourront pas commander.</li></ul>',
-'HELP_SHOP_SYSTEM_SHOP_LOCATION' => 'Please choose the market to which shop is focused. According to it, additional eCommerce Services will be loaded from OXID server. Do not forget to enable option "Load additional Information from OXID server" in Master Settings -> Core Settings -> Settings -> Administration',
+'HELP_SHOP_SYSTEM_SHOP_LOCATION' => 'S\'il vous plaît choisissez le marché autour duquel votre boutique se concentre. En fonction de cela, d\'autres services de commerce électronique seront chargés à partir du serveur OXID. N\'oubliez pas de cocher l\'option "Afficher les information des serveurs OXID " dans Configuration Générale->Système->Paramètres->Administration.',
 'HELP_SHOP_SYSTEM_SHOWVARIANTREVIEWS' => 'Ce paramètre défini le mode de gestion des commentaires client avec les variantes produit: Si activé, les commentaires des variantes sont affichées également sur le produit principal.',
 'HELP_SHOP_SYSTEM_UTILMODULE' => 'Veuillez renseigner votre fichier PHP ici. Il remplacera les fonctions eShop lancées au démarrage.',
 'HELP_SHOP_SYSTEM_VARIANTINHERITAMOUNTPRICE' => 'Ici, vous pouvez définir si les échelles de prix sont héritées du produit parent: Si activé, les échelles de prix sont disponibles pour les variantes du produit.',
@@ -247,11 +247,11 @@ $aLang = array(
 'HELP_USER_EXTEND_EMAILFAILED' => 'Si vous ne parvenez pas à envoyer des eMails à cet utilisateur, activez ce paramètre. Aisin, les newsletters ne seront plus envoyées à cet utilisateurs. Cepandant, tous les autres eMails seront toujours envoyés.',
 'HELP_USER_EXTEND_NEWSLETTER' => 'Ce paramètre indique si l\'utilisateur est abonné à la newsletter.',
 'HELP_USER_MAIN_HASPASSWORD' => 'Vous pouvez ici identifier si les utilisateurs se sont enregistrés pour passer commande:<ul><li>Si un mot de passe a été défini, l\'utilisateur s\'est enregistré.</li><li>Sinon, il a passé commande sans créer de compte client.</li></ul>',
-'HELP_USER_PAYMENT_METHODS' => 'On this tab you can:
+'HELP_USER_PAYMENT_METHODS' => 'A partir de cet onglet, vous pouvez:
 <ul>
-   <li>Browse and manage existing user payment methods.</li>
-   <li>Create new payment methods and set default values, for example direct debit.</li>
-</ul>',
+    <li> Parcourir et gérer les moyens de paiement existants pour les utilisateurs. </ li>
+    <li>Créer de nouvelles méthodes de paiement et définir les valeurs par défaut, par exemple débit direct. </ li>
+</ ul>',
 'HELP_VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Vous pouvez définir ici si les clients peuvent utiliser des bons de réduction des séries différentes dans une même commande.',
 'HELP_VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Vous pouvez définir ici si les clients peuvent utiliser plusieurs bons de réduction d\'une même série dans une même commande.',
 'HELP_VOUCHERSERIE_MAIN_CALCULATEONCE' => 'Si vous affectez des produits ou des catégories à un coupon, désactivez cette option pour calculer le coupon pour chaque produit dans le panier. Activez cette option si votre coupon ne doit être valable qu\'une seule fois par commande.',

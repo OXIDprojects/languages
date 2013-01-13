@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3431), alexraimondo (1), chatard (47), Phenix (202), vikapera (376)
+ * @translators: admin (3431), alexraimondo (1), chatard (115), Phenix (202), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -84,7 +84,7 @@ $aLang = array(
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'Total du panier tva incluse',
 'BASKET_TOTAL_PLUS_VAT' => 'Panier total ttc.',
 'BASKET_TOTAL_WRAPPING_COSTS' => 'Frais d\'emballage sur le panier',
-'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Gift Wrapping (net)',
+'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Emballage cadeau (net).',
 'BIC' => 'BIC:',
 'BILLING_ADDRESS' => 'Adresse de facturation',
 'BILLING_ADDRESS_2' => 'Adresse de facturation:',
@@ -133,8 +133,8 @@ $aLang = array(
 'CONTINUE_SHOPPING' => 'Continuer le shopping',
 'CONTINUE_TO_NEXT_STEP' => 'Passer à l\'étape suivante',
 'COOKIE_NOTE' => 'Annotation du cookie',
-'COOKIE_NOTE_CLOSE' => 'Close',
-'COOKIE_NOTE_DISAGREE' => 'If you do not agree, please click here.',
+'COOKIE_NOTE_CLOSE' => 'fermer.',
+'COOKIE_NOTE_DISAGREE' => 'SVP. cliquer ici si vous ne les acceptez pas.',
 'COUNTRY' => 'Pays:',
 'COUPON' => 'Bon de réduction',
 'COUPON_2' => 'Bon de réduction:',
@@ -480,7 +480,7 @@ Si vous commandez avec votre compte client, Les liens de téléchargement appara
 'NEWLIST' => 'Nouvelle liste de recommandation',
 'NEWS' => 'Actualités',
 'NEWSLETTER' => 'Newsletter',
-'NEWSLETTER_EMAIL_NOT_EXIST' => 'Unknown e-mail address!',
+'NEWSLETTER_EMAIL_NOT_EXIST' => 'Adresse e-mail inconnue.',
 'NEWSLETTER_SETTINGS' => 'Préférences Newsletter',
 'NEWSLETTER_SUBSCRIBE_CANCEL' => 'Inscription/ Désinscription Newsletter',
 'NEWSLETTER_SUBSCRIPTION' => 'Inscription Newsletter',
@@ -660,7 +660,7 @@ Si vous commandez avec votre compte client, Les liens de téléchargement appara
 'PRICE_ALERT' => '[!] Alerte prix',
 'PRICE_ALERT_AT' => 'Alerte prix sur',
 'PRICE_ALERT_FOR_PRODUCT' => 'Alerte prix pour le produit',
-'PRICE_FROM' => 'from',
+'PRICE_FROM' => 'à partir de:',
 'PRINT' => 'Imprimer',
 'PROCEED_TO_SCHECKOUT' => 'Commander',
 'PRODUCT' => 'Produit',
@@ -674,7 +674,7 @@ Si vous commandez avec votre compte client, Les liens de téléchargement appara
 'PRODUCT_NO' => 'N° produit:',
 'PRODUCT_POST_CARD_FROM' => 'Produit envoyé par',
 'PRODUCT_REVIEW' => 'Evaluations produit',
-'PROPORTIONALLY_CALCULATED' => 'Proportionally calculated',
+'PROPORTIONALLY_CALCULATED' => 'Calculé au prorata.',
 'PUBLIC_GIFT_REGISTRIES' => 'Listes de cadeaux publiques',
 'PUBLISH' => 'Publier',
 'PURCHASE_WITHOUT_REGISTRATION' => 'Achat direct (pas de création de compte)',

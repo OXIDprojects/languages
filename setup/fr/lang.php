@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3431), alexraimondo (1), chatard (47), Phenix (202), vikapera (376)
+ * @translators: admin (3431), alexraimondo (1), chatard (115), Phenix (202), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -110,7 +110,7 @@ $aLang = array(
 'SELECT_SHOP_LANG' => 'Langue de la boutique',
 'SELECT_SHOP_LANG_HINT' => 'Si besoin, activez facilement plus de langues dans l\'administration.',
 'SELECT_SHOP_LOCATION' => 'Votre magasin',
-'SELECT_SHOP_LOCATION_HINT' => 'Please choose the market to which shop is focused. According to it, additional eCommerce Services will be loaded from OXID server, if you allow that.',
+'SELECT_SHOP_LOCATION_HINT' => 'S\'il vous plaît, choisissez l\'activité autour de laquelle la boutique se concentre. En fonction de cela des services complémentaires seront chargés à partir du serveur OXID si vous êtes d\'accord.',
 'SETUP_CONFIG_PERMISSIONS' => 'Pour des raisons de sécurité, veuillez modifier les propriétés du fichier config.inc.php en lecture seule!',
 'SETUP_DIR_DELETE_NOTICE' => 'Pour des raisons de sécurité, veuillez supprimer le répertoire \'setup\' s\'il n\'avait pas été supprimé durant le processus d\'installation.',
 'STEP_0_DESC' => 'Cette étape permet de vérifier si votre système est conforme aux conditions requises:',
