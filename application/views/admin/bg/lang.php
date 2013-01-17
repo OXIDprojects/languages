@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: crashover (330), val (17)
+ * @translators: crashover (330), val (25)
  */
 
 $sLangName  = 'Български';
@@ -874,8 +874,8 @@ $aLang = array(
 'MODULE_EXTENSIONISDELETED' => 'There are modules which are registered in eShop, but module directory is missing.',
 'MODULE_STANDALONEFILE' => 'This module is a standalone php file. The module should be saved inside a directory!',
 'MODULE_VERSION' => 'Version',
-'MR' => 'Mr',
-'MRS' => 'Mrs',
+'MR' => 'Г-н',
+'MRS' => 'Г-жа',
 'mxactions' => 'Promotions',
 'mxarticles' => 'Products',
 'mxattributes' => 'Attributes',
@@ -1132,7 +1132,7 @@ $aLang = array(
 'PAYMENT_RDFA_PAYPAL' => 'PayPal',
 'PAYMENT_RDFA_PAYSWARM' => 'PaySwarm',
 'PAYMENT_RDFA_VISA' => 'VISA',
-'price' => 'Price',
+'price' => 'Цена',
 'PRICEALARM_DONE_GOTOPRICEALARM' => 'go to Price Alert ',
 'PRICEALARM_DONE_SENDEMAIL' => 'Sent Price Alert e-mails.',
 'PRICEALARM_LIST_CONFIRMDATE' => 'Confirmation Date',
@@ -1945,7 +1945,7 @@ ULATEON'Ката
 'ARTICLE_EXTEND_EXTURARTICL�о из�CH' => 'lator,
 'ARTICLE_EXTEND_EXTUR 'Въ�ям�EATTR' => 'RL адрес',
 'ARTIC,�та це�elect:',
-'ARTICLE_EXTEND_ISUS manuallUseFIXEDPRICE' => 'НTEM' рилпо избion.  ARTICLOUNTS' => 'Skip all negative mmunity EID eShop_EXTEND_MEweIBUTADMINGB 'Alt.,
+'ARTICLE_EXTEND_ISUS manuallUseFIXEDPRICE' => 'НTEM' рилпо избion.  ARTICLOUNTS' => 'Skip all negative mmunity EID eShop_EXTEND_MEweIBUTADMINGB 'Alt:.,
 'ww.gnu.o_COSive imagGift *
  * @link TICLE_EXT URL адрес за тези web пLE_EXTEND_UNITNAME� гости] => 'RRP',
 'ARTICLE_EXTEND_UNITPICTUR�а б�PiOURCE',
