@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: crashover (330), val (25)
+ * @translators: crashover (330), val (110)
  */
 
 $sLangName  = 'Български';
@@ -37,10 +37,10 @@ $aLang = array(
 'byVendor' => 'By Distributor',
 'DETAILS_ARTNUMBER' => 'Product Nr.:',
 'DETAILS_CHOOSEVARIANT' => 'Please select a variant',
-'DETAILS_LOCATOR_PRODUCT' => 'PRODUCT',
+'DETAILS_LOCATOR_PRODUCT' => 'Продукт',
 'DETAILS_PLUSSHIPPING2' => 'shipping costs.',
 'DETAILS_PRICEALARM' => '<b>[!]</b> Price Alert',
-'DETAILS_VPE_MESSAGE_1' => 'This product can only be ordered in packaging units of ',
+'DETAILS_VPE_MESSAGE_1' => 'Този продукт може да бъде поръчан в опаковка от',
 'DETAILS_VPE_MESSAGE_2' => 'purchased.',
 'EMAIL_INVITE_HTML_INVITETOSHOP' => 'An invitation from',
 'EMAIL_INVITE_HTML_INVITETOSHOP2' => 'да посетите',
