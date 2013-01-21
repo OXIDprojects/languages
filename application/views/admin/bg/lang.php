@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: crashover (330), val (110)
+ * @translators: crashover (330), val (117)
  */
 
 $sLangName  = 'Български';
@@ -44,16 +44,16 @@ $aLang = array(
 'ADMINLINKS_LIST_TITLE' => '[OXID Връзка към администрацията]',
 'ALTERNATIVE_IMAGE_SERVER_NOTE' => 'Алтернативен сървър',
 'amount' => 'Размер',
-'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => 'Assign Attributes',
+'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => 'Добави атрибути',
 'ARTICLE_ATTRIBUTE_ASSIGNSELECTLIST' => 'Присвояване на списъците по избор',
 'ARTICLE_ATTRIBUTE_ITEMSATTRIBUTE' => 'Product\'s Attributes',
 'ARTICLE_ATTRIBUTE_ITEMSSELLIST' => 'Каталог на списъците по избор',
-'ARTICLE_ATTRIBUTE_NOATTRIBUTE' => 'Available Attributes',
+'ARTICLE_ATTRIBUTE_NOATTRIBUTE' => 'Налични атрибути',
 'ARTICLE_ATTRIBUTE_NOATTRIBUTES' => 'Моля изберете един атрибут',
 'ARTICLE_ATTRIBUTE_NOSELLIST' => 'Наличните списъци за отбора',
 'ARTICLE_ATTRIBUTE_OPENINNEWWINDOW' => 'Create Attribute in new window',
 'ARTICLE_ATTRIBUTE_SAVE' => 'Запази',
-'ARTICLE_ATTRIBUTE_SELECTONEATTR' => 'Please select an Attribute:',
+'ARTICLE_ATTRIBUTE_SELECTONEATTR' => 'Моля изберете атрибут',
 'ARTICLE_ATTRIBUTE_TOOMANYATTRIBUTES' => 'Please select only one Attribute!',
 'ARTICLE_BUNDLE_ALLITEMS' => 'Всички налични продукти',
 'ARTICLE_BUNDLE_ASSIGNARTICLE' => 'Assign на продукта',
@@ -144,12 +144,12 @@ $aLang = array(
 'ARTICLE_MAIN_TITLE' => 'Заглавие',
 'ARTICLE_MAIN_VARIANTE' => 'Вариант от',
 'ARTICLE_MAIN_VAT' => 'Посочи %ДДС',
-'ARTICLE_MAIN_VENDORID' => 'Distributor',
+'ARTICLE_MAIN_VENDORID' => 'Продавач',
 'ARTICLE_OTHER_OPTIONS' => 'Други опции',
 'ARTICLE_OVERVIEW_ARTMADEON' => 'Product created on',
 'ARTICLE_OVERVIEW_CANCELEDCNT' => 'Брой на отказаните поръчки',
 'ARTICLE_OVERVIEW_LASTCHANGE' => 'Последна промяна на',
-'ARTICLE_OVERVIEW_LEFTORDERCNT' => 'Number of pending Orders',
+'ARTICLE_OVERVIEW_LEFTORDERCNT' => 'Брой на чакащите поръчки',
 'ARTICLE_OVERVIEW_SALEPOSITION' => 'Position Sales Rating ',
 'ARTICLE_OVERVIEW_SOLDCNT' => 'Брой на продадените единици',
 'ARTICLE_OVERVIEW_TOTALORDERCNT' => 'Брой на поръчаните стоки',
@@ -195,7 +195,7 @@ $aLang = array(
 'ARTICLE_RIGHTS_SETGROUPS_VISIBLE' => 'видими',
 'ARTICLE_STOCK_AMOUNT' => 'Amount',
 'ARTICLE_STOCK_AMOUNTPRICE_ABS' => 'абс.',
-'ARTICLE_STOCK_AMOUNTPRICE_AMOUNTFROM' => 'Quantity From:',
+'ARTICLE_STOCK_AMOUNTPRICE_AMOUNTFROM' => 'Количество От:',
 'ARTICLE_STOCK_AMOUNTPRICE_AMOUNTTO' => 'До:',
 'ARTICLE_STOCK_AMOUNTPRICE_DISCOUNT' => '% Отстъпка',
 'ARTICLE_STOCK_AMOUNTPRICE_PRICE' => 'Цена',
@@ -203,7 +203,7 @@ $aLang = array(
 'ARTICLE_STOCK_DAYS' => 'Days',
 'ARTICLE_STOCK_DELIVERY' => 'доставка',
 'ARTICLE_STOCK_DELTIME' => 'Време за доставка',
-'ARTICLE_STOCK_ERRORSCALEPRICE' => 'Attention: Scale price must be lower than normal price.',
+'ARTICLE_STOCK_ERRORSCALEPRICE' => 'Внимание: Намалената цена трябва да бъде по-ниска от нормалната',
 'ARTICLE_STOCK_MAXDELTIME' => 'до',
 'ARTICLE_STOCK_MINDELTIME' => 'От',
 'ARTICLE_STOCK_MONTHS' => 'Месеци',
