@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: crashover (330), val (117)
+ * @translators: crashover (330), val (120)
  */
 
 $sLangName  = 'Български';
@@ -219,7 +219,7 @@ $aLang = array(
 'ARTICLE_STOCK_WEEKS' => 'седмици',
 'ARTICLE_USERDEF_USERDEFRANGE' => 'User-defined Area - here you can add your own fields.',
 'ARTICLE_VARIANT_ACTIVE' => 'Активен',
-'ARTICLE_VARIANT_ARTNUM' => 'Prod.No.',
+'ARTICLE_VARIANT_ARTNUM' => 'Прод.№.',
 'ARTICLE_VARIANT_ARTSAVE' => 'Съхрани избрания',
 'ARTICLE_VARIANT_CHOICE' => 'избор',
 'ARTICLE_VARIANT_EDIT' => 'Редактиране',
@@ -232,13 +232,13 @@ $aLang = array(
 'ARTICLE_VARIANT_VARSAVE' => 'Запиши варианти',
 'ARTICLE_VARIANT_YOUWANTTODELETE' => 'Наистина ли искате да изтриете този вариант?',
 'ATTRIBUTE_CATEGORY_ALLCATEGORY' => 'Всички възможни категории',
-'ATTRIBUTE_CATEGORY_ATRCATEGORY' => 'Categories using this Attribute',
+'ATTRIBUTE_CATEGORY_ATRCATEGORY' => 'Категории, използващи този атрибут',
 'ATTRIBUTE_CATEGORY_ATRLIST' => 'All Attributes of this Category',
 'ATTRIBUTE_LIST_MENUSUBITEM' => 'Attributes',
 'ATTRIBUTE_MAIN_ALLITEMS' => 'Всички налични продукти',
 'ATTRIBUTE_MAIN_DISPLAYINBASKET' => 'покажи в кошницата',
 'ATTRIBUTE_MAIN_ITEMSWITHATTR' => 'Products with this Attribute',
-'ATTRIBUTE_MAIN_SORTING' => 'Sorting',
+'ATTRIBUTE_MAIN_SORTING' => 'Сортиране',
 'AUCTMASTER_DO_EXPORTEND' => 'Експортирането е приключено',
 'AUCTMASTER_DO_EXPORTFILE1' => 'Not able to write to export file ',
 'AUCTMASTER_DO_EXPORTFILE2' => 'не пиши!',
