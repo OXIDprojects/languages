@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), marco (1025), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), marco (1026), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = 'Русский';
@@ -130,9 +130,11 @@ $aLang = array(
 'ARTICLE_MAIN_ERRORSAVINGARTICLE' => 'ВНИМАНИЕ: Товар уже существует!',
 'ARTICLE_MAIN_GOTO' => 'Перейти к',
 'ARTICLE_MAIN_INCATEGORY' => 'В категории:',
+'ARTICLE_MAIN_INVALIDTAGSFOUND' => 'Attention: Invalid tags removed',
 'ARTICLE_MAIN_MANUFACTURERID' => 'Производитель',
 'ARTICLE_MAIN_MPN' => 'Арт. номер производителя',
 'ARTICLE_MAIN_NONE' => '-- нет --',
+'ARTICLE_MAIN_PARENTNOTBUYABLE' => 'Attention: Parent Product can not be purchased.',
 'ARTICLE_MAIN_PRICE' => 'Цена',
 'ARTICLE_MAIN_PRICEA' => 'А:',
 'ARTICLE_MAIN_PRICEB' => 'Б:',
@@ -479,7 +481,7 @@ $aLang = array(
 'EXCEPTION_FILEUPLOADERROR_6' => 'Missing a temporary folder',
 'EXCEPTION_FILEUPLOADERROR_7' => 'Failed to write file to disk',
 'EXCEPTION_FILEUPLOADERROR_8' => 'File upload stopped by extension',
-'EXCEPTION_MODULE_NOT_LOADED' => 'Module could not be loaded',
+'EXCEPTION_MODULE_NOT_LOADED' => 'Не можно было загружить модуль',
 'EXCEPTION_NODESCRIPTIONADDED' => 'Please enter description',
 'EXCEPTION_NOFILE' => 'No uploaded file',
 'EXCEPTION_NOMEDIAADDED' => 'Please enter existing media URL or upload the file',
@@ -1678,7 +1680,7 @@ $aLang = aы a demoshop. UdБесп�' => 'Бесплатнhop. Uая розни�
 'ARTICLE_MAIN_DISTEAN' ,
 'ARTICLE_ешняя ссыликул',
 ' это�THEME_ACTIV�ененActivadmiМАНИЕUTHORTICLE_AuthoE_EXT�НИ�ul,
- _�НИ�Edition.  Ibuted RIBUу п�MAIN_GOTO' =>ть аyou canComa�осle
+ _�НИ�Edition.  Ibuted RIBUу п�MAIN_GOTO' =>ть аyou canCom�осle
 'AR,
 'ARTICL�ары''ARTI�НИ�ть аксеV�ры'�ущOOLSSELECT�: �ONEND�ар ужon крNKS_RIPTIитель',FFECTEDROWние',ffNGB_TIrowANUFAC�тель'ERRORMESSAG�пе',Error messagсущMAIN_NONE' => 'Nth OXID ,
 'ARTn�иеIN_PRICE' => '�на медиа<br>(фа�' => 'А:',

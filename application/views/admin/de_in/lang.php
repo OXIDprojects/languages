@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (495), dsb (1), marco (4407), simoneschuppe (4), Thielo (1)
+ * @translators: admin (495), dsb (1), marco (4409), simoneschuppe (4), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';
@@ -130,9 +130,11 @@ $aLang = array(
 'ARTICLE_MAIN_ERRORSAVINGARTICLE' => 'Warnung: Artikelnummer bereits vorhanden!',
 'ARTICLE_MAIN_GOTO' => 'Gehe zu',
 'ARTICLE_MAIN_INCATEGORY' => 'In Kategorie',
+'ARTICLE_MAIN_INVALIDTAGSFOUND' => 'Achtung: Unzulässige Tags wurden entfernt.',
 'ARTICLE_MAIN_MANUFACTURERID' => 'Hersteller',
 'ARTICLE_MAIN_MPN' => 'Hersteller-Artikelnummer (MPN)',
 'ARTICLE_MAIN_NONE' => '-- keine --',
+'ARTICLE_MAIN_PARENTNOTBUYABLE' => 'Achtung: Vaterartikel kann nicht gekauft werden.',
 'ARTICLE_MAIN_PRICE' => 'Preis',
 'ARTICLE_MAIN_PRICEA' => 'A:',
 'ARTICLE_MAIN_PRICEB' => 'B:',

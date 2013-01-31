@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (495), dsb (1), marco (4407), simoneschuppe (4), Thielo (1)
+ * @translators: admin (495), dsb (1), marco (4409), simoneschuppe (4), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';

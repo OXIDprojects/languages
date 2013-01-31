@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: marco (4107)
+ * @translators: marco (4110)
  */
 
 $sLangName  = 'British English';
@@ -130,9 +130,11 @@ $aLang = array(
 'ARTICLE_MAIN_ERRORSAVINGARTICLE' => 'Attention: Product already exists!',
 'ARTICLE_MAIN_GOTO' => 'Go to',
 'ARTICLE_MAIN_INCATEGORY' => 'In Category:',
+'ARTICLE_MAIN_INVALIDTAGSFOUND' => 'Attention: invalid tags removed',
 'ARTICLE_MAIN_MANUFACTURERID' => 'Manufacturer',
 'ARTICLE_MAIN_MPN' => 'MPN',
 'ARTICLE_MAIN_NONE' => '-- none --',
+'ARTICLE_MAIN_PARENTNOTBUYABLE' => 'Attention: Parent Product can not be purchased.',
 'ARTICLE_MAIN_PRICE' => 'Price',
 'ARTICLE_MAIN_PRICEA' => 'A:',
 'ARTICLE_MAIN_PRICEB' => 'B:',
@@ -1798,7 +1800,7 @@ $aLang = array(
 'THEME_ACTIVATE' => 'Activate',
 'THEME_AUTHOR' => 'Author',
 'THEME_PARENT_THEME_TITLE' => 'Parent theme',
-'THEME_PARENT_VERSIONS' => 'Comapatible parent theme versions',
+'THEME_PARENT_VERSIONS' => 'Compatible parent theme versions',
 'THEME_VERSION' => 'Version',
 'TOOLS_LIST_ACTIONEND' => 'Action completed',
 'TOOLS_LIST_AFFECTEDROWS' => 'Affected rows',
