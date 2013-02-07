@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1849), e.mersinlioglu (37), enginistemi (4), marco (2), McDaim (101), scaly (10)
+ * @translators: admin (1849), e.mersinlioglu (42), enginistemi (4), marco (2), McDaim (101), scaly (10)
  */
 
 $sLangName  = 'Türkçe';
@@ -110,7 +110,7 @@ $aLang = array(
 'ARTICLE_FILES_NEW_PURCHASEDONLY' => 'Ürün sadece ödemeden sonra indirilebilir',
 'ARTICLE_FILES_NEW_TITLE' => 'Yeni Baslik',
 'ARTICLE_FILES_NEW_UPLOAD' => 'Gönder',
-'ARTICLE_FILES_OR' => 'or upload file',
+'ARTICLE_FILES_OR' => 'Ürün dosyaları ya da',
 'ARTICLE_FILES_OR_FILENAME' => 'veya mevcut bir dosya adı girin',
 'ARTICLE_FILES_TABLE_FILENAME' => 'Dosya Adi Tablosu',
 'ARTICLE_FILES_TABLE_PURCHASEDONLY' => 'Sadace satın alınmış',
@@ -134,7 +134,7 @@ $aLang = array(
 'ARTICLE_MAIN_MANUFACTURERID' => 'Üretici',
 'ARTICLE_MAIN_MPN' => 'Üretici-Ürün Numarası',
 'ARTICLE_MAIN_NONE' => '-- yok --',
-'ARTICLE_MAIN_PARENTNOTBUYABLE' => 'Attention: Parent Product can not be purchased.',
+'ARTICLE_MAIN_PARENTNOTBUYABLE' => 'Anaürün satılamaz',
 'ARTICLE_MAIN_PRICE' => 'Fiyat',
 'ARTICLE_MAIN_PRICEA' => 'A:',
 'ARTICLE_MAIN_PRICEB' => 'B: ',

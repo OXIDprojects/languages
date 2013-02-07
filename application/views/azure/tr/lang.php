@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1849), e.mersinlioglu (37), enginistemi (4), marco (2), McDaim (101), scaly (10)
+ * @translators: admin (1849), e.mersinlioglu (42), enginistemi (4), marco (2), McDaim (101), scaly (10)
  */
 
 $sLangName  = 'Türkçe';
@@ -31,7 +31,7 @@ $aLang = array(
 'charset' => 'utf-8',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'Mevcut bir beğenilenler listeniz bulunmuyor. Oluşturmak için tıklayınız',
 'ADD_RECOMM_ADDRECOMMLINK2' => 'Adres 2',
-'allBrands' => 'All Brands',
+'allBrands' => 'Tüm markalar',
 'byBrand' => 'Markadan',
 'byManufacturer' => 'Üretici',
 'byVendor' => 'Saticidan',

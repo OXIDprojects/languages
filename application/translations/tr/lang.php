@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1849), e.mersinlioglu (37), enginistemi (4), marco (2), McDaim (101), scaly (10)
+ * @translators: admin (1849), e.mersinlioglu (42), enginistemi (4), marco (2), McDaim (101), scaly (10)
  */
 
 $sLangName  = 'Türkçe';
@@ -35,7 +35,7 @@ $aLang = array(
 'ADD' => 'Ekle',
 'ADDITIONAL_INFO' => 'Extra',
 'ADDRESS' => 'Adres',
-'ADDRESSES' => 'Adres',
+'ADDRESSES' => 'Adresler',
 'ADDRESSES_2' => 'Adresler:',
 'ADDRESS_2' => 'Adres',
 'ADD_TAGS' => 'Etiket ekle:',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1849), e.mersinlioglu (37), enginistemi (4), marco (2), McDaim (101), scaly (10)
+ * @translators: admin (1849), e.mersinlioglu (42), enginistemi (4), marco (2), McDaim (101), scaly (10)
  */
 
 $sLangName  = 'Türkçe';
@@ -34,7 +34,7 @@ $aLang = array(
 'HELP_SHOP_THEME_sCatIconsize' => 'In category view, the category pictures of subcategories are displayed in the defined size.',
 'HELP_SHOP_THEME_sCatPromotionsize' => 'Category promotion on start page needs special size for category pictures. Define size of those pictures here.',
 'HELP_SHOP_THEME_sCatThumbnailsize' => 'In category view, the picture of the selected category is displayed in the defined size.',
-'HELP_SHOP_THEME_sIconsize' => 'Icons are the smallest pictures of a product. They are used: <br><ul><li>in the shopping cart.</li><li>if products are shown in the right menu (e.g. in <span class="filename_filepath_or_italic">TOP of the Shop</span> and <span class="filename_filepath_or_italic">Bargain</span>).</li></ul>For avoiding design issues caused by too big icons the icons are resized. Enter the maximum size for icons here.',
+'HELP_SHOP_THEME_sIconsize' => 'Ikon büyüklüğü (Pixel: Genişlik x Yükseklik)',
 'HELP_SHOP_THEME_sManufacturerIconsize' => 'Manufacturer\'s/brand logo is shown on start page in manufacturer\'s slider.',
 'HELP_SHOP_THEME_sThumbnailsize' => 'Thumbnails are small product pictures. They are used:<br><ul><li>in product lists.</li><li>in promotions displayed in the middle of the front page, e. g. <span class="filename_filepath_or_italic">Just arrived!</span>.</li></ul>For avoiding design issues caused by too big thumbnails the thumbnails are resized. Enter the maximum size for thumbnails here.',
 'SHOP_THEME_aDetailImageSizes' => 'Product picture size (width*height)',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3431), alexraimondo (1), chatard (115), Phenix (202), vikapera (376)
+ * @translators: admin (3431), alexraimondo (1), chatard (115), Phenix (202), Rainbow40 (2), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -130,11 +130,11 @@ $aLang = array(
 'ARTICLE_MAIN_ERRORSAVINGARTICLE' => 'Attention: Le produit existe déjà!',
 'ARTICLE_MAIN_GOTO' => 'Aller à',
 'ARTICLE_MAIN_INCATEGORY' => 'Dans la catégorie:',
-'ARTICLE_MAIN_INVALIDTAGSFOUND' => 'Attention: Invalid tags removed',
+'ARTICLE_MAIN_INVALIDTAGSFOUND' => 'L\'article principal des tags non valide trouvé',
 'ARTICLE_MAIN_MANUFACTURERID' => 'Fabricant',
 'ARTICLE_MAIN_MPN' => 'MPN',
 'ARTICLE_MAIN_NONE' => '-- aucun --',
-'ARTICLE_MAIN_PARENTNOTBUYABLE' => 'Attention: Parent Product can not be purchased.',
+'ARTICLE_MAIN_PARENTNOTBUYABLE' => 'L\'article principal parent n\'est pas achetable',
 'ARTICLE_MAIN_PRICE' => 'Prix',
 'ARTICLE_MAIN_PRICEA' => 'A:',
 'ARTICLE_MAIN_PRICEB' => 'B:',
