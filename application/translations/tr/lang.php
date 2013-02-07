@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1849), e.mersinlioglu (42), enginistemi (4), marco (2), McDaim (101), scaly (10)
+ * @translators: admin (1849), e.mersinlioglu (45), enginistemi (4), marco (2), McDaim (101), scaly (10)
  */
 
 $sLangName  = 'Türkçe';
@@ -82,15 +82,15 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS' => 'Greeting Card',
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Greeting Card (net)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
-'BASKET_TOTAL_PLUS_VAT' => 'plus VAT',
+'BASKET_TOTAL_PLUS_VAT' => '+ KDV',
 'BASKET_TOTAL_WRAPPING_COSTS' => 'Gift Wrapping',
-'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Gift Wrapping (net)',
+'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Hediye paketi (net)',
 'BIC' => 'BIC',
 'BILLING_ADDRESS' => 'Billing Address',
 'BILLING_ADDRESS_2' => 'Fatura Adresi',
 'BILLING_SHIPPING_SETTINGS' => 'Posta Ayarlari',
 'BIRTHDATE' => 'Dogum Tarihi',
-'BLOCK_PRICE' => 'Block price',
+'BLOCK_PRICE' => 'Toptan fiyat',
 'BRAND' => 'Marka',
 'CANCEL' => 'İptal',
 'CAPTION' => 'Baslik',
