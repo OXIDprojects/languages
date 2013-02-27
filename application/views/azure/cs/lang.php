@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3161)
+ * @translators: admin (3161), inquisitor8 (27)
  */
 
 $sLangName  = 'Česky';
@@ -31,7 +31,7 @@ $aLang = array(
 'charset' => 'utf-8',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'Nemáte vytvořen žádný Listmania seznam. Pro vytvoření nového klikněte',
 'ADD_RECOMM_ADDRECOMMLINK2' => 'sem',
-'allBrands' => 'All Brands',
+'allBrands' => 'Všechny znaky',
 'byBrand' => 'Podle značky',
 'byManufacturer' => 'Podle výrobce',
 'byVendor' => 'Podle dodavatele',
@@ -58,21 +58,21 @@ $aLang = array(
 'EMAIL_ORDER_OWNER_HTML_MESSAGE' => 'Zpráva:',
 'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>PAYMENT INFORMATION SWITCHED OFF</b> - To switch them on, please change email_order_owner_html.tpl.',
 'EMAIL_SENDDOWNLOADS_DOWNLOADS_DESC' => 'Download your ordered files here.',
-'EMAIL_SENDDOWNLOADS_GREETING' => 'Hello',
+'EMAIL_SENDDOWNLOADS_GREETING' => 'Dobrý den',
 'EMAIL_SENDDOWNLOADS_PAYMENT_PENDING' => 'Payment of the order is not yet complete.',
-'EMAIL_SENDDOWNLOADS_SUBJECT' => 'Download links',
+'EMAIL_SENDDOWNLOADS_SUBJECT' => 'Odkaz ke stažení',
 'EMAIL_SENDEDNOW_HTML_ARTNOMBER' => 'Art.No.:',
-'EMAIL_SENDEDNOW_HTML_ORDERNOMBER' => 'Order No.:',
+'EMAIL_SENDEDNOW_HTML_ORDERNOMBER' => 'Číslo objednávky:',
 'EMAIL_SENDEDNOW_HTML_ORDERSHIPPEDTO' => 'The order is shipped to:',
 'EMAIL_SENDEDNOW_HTML_PRODUCT' => 'Product',
 'EMAIL_SENDEDNOW_HTML_PRODUCTRATING' => 'Product Rating',
 'EMAIL_SENDEDNOW_HTML_REVIEW' => 'review',
 'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKING' => 'Your shipment tracking URL:',
-'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKINGURL' => 'click here',
+'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKINGURL' => 'klikněte sem',
 'EMAIL_SENDEDNOW_HTML_TS_RATINGS_RATEUS' => 'Please take a minute to rate our shop.',
 'EMAIL_SENDEDNOW_HTML_YUORTEAM1' => 'Your',
 'EMAIL_SENDEDNOW_HTML_YUORTEAM2' => 'Team',
-'EMAIL_STOCKREMINDER_SUBJECT' => 'Stock low',
+'EMAIL_STOCKREMINDER_SUBJECT' => 'Nízké skladové zásoby',
 'EMAIL_SUGGEST_HTML_MENYGREETINGS' => 'S pozdravem,',
 'FOOTER_CATEGORIES' => 'Kategorie',
 'FOOTER_DISTRIBUTORS' => 'Dodavatelé',

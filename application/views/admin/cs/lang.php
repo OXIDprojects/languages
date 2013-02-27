@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3161)
+ * @translators: admin (3161), inquisitor8 (27)
  */
 
 $sLangName  = 'Česky';
@@ -108,7 +108,7 @@ $aLang = array(
 'ARTICLE_FILES_ISDOWNLOADABLE' => 'Enable download of files for this product',
 'ARTICLE_FILES_NEW_FILE' => 'Select a file for upload',
 'ARTICLE_FILES_NEW_PURCHASEDONLY' => 'Download is available only after purchase',
-'ARTICLE_FILES_NEW_TITLE' => 'New file',
+'ARTICLE_FILES_NEW_TITLE' => 'Nový soubor',
 'ARTICLE_FILES_NEW_UPLOAD' => 'Submit',
 'ARTICLE_FILES_OR' => 'or upload file',
 'ARTICLE_FILES_OR_FILENAME' => 'or specify a file name of existing file',
@@ -147,7 +147,7 @@ $aLang = array(
 'ARTICLE_MAIN_VARIANTE' => 'Varianta',
 'ARTICLE_MAIN_VAT' => 'Specifické DPH',
 'ARTICLE_MAIN_VENDORID' => 'Dodavatel',
-'ARTICLE_OTHER_OPTIONS' => 'Other options',
+'ARTICLE_OTHER_OPTIONS' => 'Další možnosti',
 'ARTICLE_OVERVIEW_ARTMADEON' => 'Výrobek vytvořen',
 'ARTICLE_OVERVIEW_CANCELEDCNT' => 'Počet zrušených objednávek',
 'ARTICLE_OVERVIEW_LASTCHANGE' => 'Poslední úprava',
@@ -402,9 +402,9 @@ $aLang = array(
 'dyn_technics' => 'Technologie',
 'DYN_TRUSTED_ACTIVE' => 'Zobrazit Trusted Shops seal',
 'DYN_TRUSTED_CANCELLED' => 'Platnost certifikátu vypršela',
-'DYN_TRUSTED_CASH_ON_DELIVERY' => 'Nachnahme',
-'DYN_TRUSTED_CASH_ON_PICKUP' => 'Zahlung bei Abholung',
-'DYN_TRUSTED_CHEQUE' => 'Verrechnungsscheck',
+'DYN_TRUSTED_CASH_ON_DELIVERY' => 'Dobírka',
+'DYN_TRUSTED_CASH_ON_PICKUP' => 'Platba při převzetí',
+'DYN_TRUSTED_CHEQUE' => 'Šekem',
 'DYN_TRUSTED_CLICKANDBUY' => 'Click&Buy (Firstgate)',
 'DYN_TRUSTED_CREDIT_CARD' => 'Kreditní karta',
 'DYN_TRUSTED_DIRECT_DEBIT' => 'Lastschrift/Bankeinzug',
@@ -655,7 +655,7 @@ $aLang = array(
 'GENERAL_CHANGEPRODUCT' => 'Vybrat produkt',
 'GENERAL_CLICKFORDETAILS' => '(Klikněte pro podrobnosti)',
 'GENERAL_COMPANY' => 'Společnost',
-'GENERAL_COPY' => 'Copy',
+'GENERAL_COPY' => 'Kopírovat',
 'GENERAL_COPYTOSUBSHOPS' => 'Copy to subshops',
 'GENERAL_COUNTRY' => 'Země',
 'GENERAL_DATE' => 'Datum',

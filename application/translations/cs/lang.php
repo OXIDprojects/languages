@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3161)
+ * @translators: admin (3161), inquisitor8 (27)
  */
 
 $sLangName  = 'Česky';
@@ -82,7 +82,7 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS' => 'Greeting Card',
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Greeting Card (net)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
-'BASKET_TOTAL_PLUS_VAT' => 'plus VAT',
+'BASKET_TOTAL_PLUS_VAT' => 's DPH',
 'BASKET_TOTAL_WRAPPING_COSTS' => 'Gift Wrapping',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Gift Wrapping (net)',
 'BIC' => 'BIC:',
@@ -117,7 +117,7 @@ $aLang = array(
 'CHECKOUT' => 'Zkontroluj',
 'CHECK_YOUR_ORDER_HISTORY' => 'zkontrojujte vaši historii objednávek',
 'CHOOSE' => 'Vyberte',
-'CHOOSE_VARIANT' => 'Choose variant',
+'CHOOSE_VARIANT' => 'Zvolte variantu',
 'CLICK_HERE' => 'klikněte zde.',
 'CLICK_HERE_TO_WRITE_ENTRY' => 'Klikněte zde pro přidání příspěvku',
 'CLOSE' => 'Zavřít',
@@ -134,7 +134,7 @@ $aLang = array(
 'CONTINUE_TO_NEXT_STEP' => 'Pokračovat na další krok',
 'COOKIE_NOTE' => 'This online shop is using cookies to give you the best shopping expierience. Thereby for example the session information or language setting are stored on your computer. Without cookies the range of the online shop\'s functionality is limited.',
 'COOKIE_NOTE_CLOSE' => 'Close',
-'COOKIE_NOTE_DISAGREE' => 'If you do not agree, please click here.',
+'COOKIE_NOTE_DISAGREE' => 'Pokud nesouhlasíte, klikněte sem.',
 'COUNTRY' => 'Země:',
 'COUPON' => 'Poukázka',
 'COUPON_2' => 'Pokázka:',
@@ -213,7 +213,7 @@ $aLang = array(
 'ERROR_MESSAGE_GUESTBOOKENTRY_ERRMAXIMUMNOMBEREXCEEDED' => 'Chyba: Dosáhl(a) jste limitu maximálního počtu hodnocení v jednom dni.',
 'ERROR_MESSAGE_GUESTBOOKENTRY_ERRREVIEWCONTAINSNOTEXT' => 'Chyba: Vaše hodnocení neobsahuje text.',
 'ERROR_MESSAGE_GUESTBOOKENTRY_ERRUNDEFINEDSHOP' => 'Chyba: Nedefinovaný e-shop',
-'ERROR_MESSAGE_INCORRECT_DATE' => 'Incorrect date',
+'ERROR_MESSAGE_INCORRECT_DATE' => 'Nesprávný datum',
 'ERROR_MESSAGE_INPUT_EMPTYPASS' => 'Zadejte prosím heslo.',
 'ERROR_MESSAGE_INPUT_INVALIDAMOUNT' => 'Zadejte prosím pro toto zboží správné množství!',
 'ERROR_MESSAGE_INPUT_NOTALLFIELDS' => 'Zadejte prosím hodnotu tohoto požadovaného políčka.',
@@ -261,7 +261,7 @@ $aLang = array(
 'ERROR_MESSAGE_VOUCHER_NOTVALIDUSERGROUP' => 'Poukázku nelze použít v rámci Vaší uživatelské skupiny!',
 'ERROR_MESSAGE_VOUCHER_NOVOUCHER' => 'Neplatná poukázka!',
 'ERROR_MESSAGE_VOUCHER_TOTALBELOWZERO' => 'Cena nákupu nesmí být menší než 0,-!',
-'ERROR_MESSAGE_WRONG_DOWNLOAD_LINK' => 'Download link is not correct.',
+'ERROR_MESSAGE_WRONG_DOWNLOAD_LINK' => 'Odkaz ke stažení není správný.',
 'ERRROR_MESSAGE_COMLETE_FIELDS_CORRECTLY' => 'Prosím vyplňte správně všechna políčka!',
 'EXPIRES_IN' => 'Vyprší do:',
 'FACEBOOK_COMMENTS' => 'Facebook Komentáře',
