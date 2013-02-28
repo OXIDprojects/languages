@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), marco (1026), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), marco (1037), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = 'Русский';
@@ -463,8 +463,8 @@ $aLang = array(
 'EMAIL_PRICEALARM_CUSTOMER_ITEM3' => 'is now available for',
 'EMAIL_PRICEALARM_CUSTOMER_ITEM4' => '!',
 'EMAIL_PRICEALARM_CUSTOMER_PRICEALARMIN' => 'Price Alert in',
-'EMAIL_PRICEALARM_CUSTOMER_TEAM1' => 'Your',
-'EMAIL_PRICEALARM_CUSTOMER_TEAM2' => 'Team',
+'EMAIL_PRICEALARM_CUSTOMER_TEAM1' => 'Ваша',
+'EMAIL_PRICEALARM_CUSTOMER_TEAM2' => 'команда',
 'ERROR_MESSAGE_SYSTEMCOMPONENT_CLASSNOTFOUND' => 'Class "%s" not found',
 'ERROR_MESSAGE_SYSTEMCOMPONENT_FUNCTIONNOTFOUND' => 'Function "%s" not found',
 'EXCEPTION_ACCESSRIGHT_ACCESSDENIED' => 'Отказано в доступе, не достаточно прав!',
@@ -729,7 +729,7 @@ $aLang = array(
 'GENERAL_NOWSEND' => 'Доставить сейчас',
 'GENERAL_OFF' => 'Неактивно',
 'GENERAL_OFFLINE' => 'Не показывать в магазине, если нет в наличии',
-'GENERAL_OR' => 'Or',
+'GENERAL_OR' => 'Или',
 'GENERAL_ORDERNUM' => 'Номер заказа',
 'GENERAL_OUTOFBOUNDS' => 'Не в допустимых пределах',
 'GENERAL_OXIDESHOP' => 'OXID eShop',
@@ -753,7 +753,7 @@ $aLang = array(
 'GENERAL_SEO_ACTCAT' => 'Активная категория/Продавец (вендор)',
 'GENERAL_SEO_CAT' => '-- Категория --',
 'GENERAL_SEO_FIXED' => 'Фиксированная ссылка',
-'GENERAL_SEO_MAINCAT' => '(main category)',
+'GENERAL_SEO_MAINCAT' => '(Главная категория)',
 'GENERAL_SEO_MANUFACTURER' => '-- Производитель --',
 'GENERAL_SEO_NOCAT' => '(no category assigned)',
 'GENERAL_SEO_OXDESCRIPTION' => 'META Описание',
@@ -792,7 +792,7 @@ $aLang = array(
 'GENERAL_ZIPCITY' => 'Индекс, Город',
 'GENEXPORT_EXPORTEDITEMS' => 'Products exported:',
 'GENEXPORT_EXPRUNNING' => 'Export running.',
-'GENEXPORT_MENUITEM' => 'Service',
+'GENEXPORT_MENUITEM' => 'Сервис',
 'GENEXPORT_MENUSUBITEM' => 'Product Export',
 'GENIMPORT_ASSIGNFIELDS' => 'Assigning CSV file fields to table',
 'GENIMPORT_BEGINIMPORT' => 'Начать импорт',
@@ -863,7 +863,7 @@ $aLang = array(
 'MANUFACTURER_MAIN_ALLITEMS' => 'All Products',
 'MANUFACTURER_MAIN_ICONUPLOAD' => 'Upload Icon',
 'MANUFACTURER_MAIN_ITEMSWITHMANUFACTURER' => 'Products from this Manufacturer',
-'MODULE_ACTIVATE' => 'Activate',
+'MODULE_ACTIVATE' => 'Активировать',
 'MODULE_AUTHOR' => 'Author',
 'MODULE_DEACTIVATE' => 'Deactivate',
 'MODULE_DELETEEXTENSION' => 'Do you want to remove all module information including config options and block information for templates?',
@@ -875,7 +875,7 @@ $aLang = array(
 'MODULE_ENTERMODULENAME' => 'Module name',
 'MODULE_EXTENSIONISDELETED' => 'There are modules which are registered in eShop, but module directory is missing.',
 'MODULE_STANDALONEFILE' => 'This module is a standalone php file. The module should be saved inside a directory!',
-'MODULE_VERSION' => 'Version',
+'MODULE_VERSION' => 'Версия',
 'MR' => 'Г-н',
 'MRS' => 'Г-жа',
 'mxactions' => 'Акции (промоушен)',
@@ -901,7 +901,7 @@ $aLang = array(
 'mxmainmenu' => 'Основные настройки',
 'mxmanageprod' => 'Управление товарами',
 'mxmanufacturer' => 'Производители',
-'mxmodule' => 'Modules',
+'mxmodule' => 'Модулы',
 'mxnews' => 'Новости',
 'mxnewsletter' => 'Рассылка новостей',
 'mxorderovw' => 'Список заказов',
@@ -933,7 +933,7 @@ $aLang = array(
 'NAVIGATION_ESHOPADMIN' => 'eShop Admin',
 'NAVIGATION_FAVORITES' => 'Favorites',
 'NAVIGATION_FAVORITES_EDIT' => '[ редактировать ]',
-'NAVIGATION_HISTORY' => 'History',
+'NAVIGATION_HISTORY' => 'История',
 'NAVIGATION_HOME' => 'Главная',
 'NAVIGATION_LOGOUT' => 'Выйти',
 'NAVIGATION_NEWVERSIONAVAILABLE' => 'Доступна %s версия.',
