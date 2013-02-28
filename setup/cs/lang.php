@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3161), inquisitor8 (27)
+ * @translators: admin (3161), inquisitor8 (298)
  */
 
 $sLangName  = 'Česky';
@@ -73,14 +73,14 @@ $aLang = array(
 'MOD_BC_MATH' => 'BCMath',
 'MOD_BUG53632' => 'Možné problémy na serveru z důvodu chyb PHP',
 'MOD_CURL' => 'cURL',
-'MOD_FILE_UPLOADS' => 'File uploads are enabled (file_uploads)',
+'MOD_FILE_UPLOADS' => 'Nahrávání souborů je povoleno (file_uploads)',
 'MOD_GD_INFO' => 'GDlib v2 [v1] včetně podpory JPEG',
 'MOD_INI_SET' => 'ini_set povoleno',
 'MOD_I_CONV' => 'ICONV',
 'MOD_J_SON' => 'JSON',
 'MOD_LIB_XML2' => 'LIB XML2',
 'MOD_MB_STRING' => 'mbstring',
-'MOD_MEMORY_LIMIT' => 'PHP Memory limit (min. 14MB, 30MB recommended)',
+'MOD_MEMORY_LIMIT' => 'PHP Memory limit (odporúčané min. 14MB, 30MB)',
 'MOD_MOD_REWRITE' => 'Apache mod_rewrite modul',
 'MOD_MYSQL_CONNECT' => 'MySQL modul for MySQL 5',
 'MOD_OPEN_SSL' => 'OpenSSL',
@@ -90,7 +90,7 @@ $aLang = array(
 'MOD_PHP_VERSION' => 'PHP verze alespoň 5.2.0',
 'MOD_PHP_XML' => 'DOM',
 'MOD_REGISTER_GLOBALS' => 'register_globals musí být vypnuté',
-'MOD_REQUEST_URI' => 'REQUEST_URI set',
+'MOD_REQUEST_URI' => 'REQUEST_URI nastavené',
 'MOD_SERVER_CONFIG' => 'Konfigurace serveru',
 'MOD_SERVER_PERMISSIONS' => 'Přístupová práva souborů/adresářů',
 'MOD_SESSION_AUTOSTART' => 'session.auto_start must be off',

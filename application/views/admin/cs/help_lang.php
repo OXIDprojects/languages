@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3161), inquisitor8 (27)
+ * @translators: admin (3161), inquisitor8 (298)
  */
 
 $sLangName  = 'Česky';
@@ -97,7 +97,7 @@ $aLang = array(
 'HELP_DISCOUNT_MAIN_AMOUNT' => 'Můžete použít <var>Množství</var> pro specifikování množství, pro které sleva platí. Pokud sleva platí pro libovolné množství, zadejte <kbd>0</kbd> do <var>Od</var> a <kbd>0</kbd> do <var>Do</var>.',
 'HELP_DISCOUNT_MAIN_PRICE' => 'Můžete použít <var>Kupní ceny</var> pro specifikováni pro které kupní ceny platí sleva. Pokud sleva platí pro všechny ceny, zadejte <kbd>0</kbd> do <var>Od</var> a <kbd>0</kbd> do <var>Do</var>.',
 'HELP_DISCOUNT_MAIN_REBATE' => 'Záložka <var>Slevy</var> slouží k nastavení parametrů slev. Můžete volit mezi dvěma typy slev:<ul><li><kbd>abs</kbd>: uvedená částka je velikostí slevy, např. 50 Kč.</li><li><kbd>%</kbd>: sleva je rovna části ceny objednávky, např. sleva 10%.</li>',
-'HELP_DYN_TRUSTED_ACTIVE' => 'Check this option to display the Trusted Shops Seal on shop.',
+'HELP_DYN_TRUSTED_ACTIVE' => 'Zaškrtněte tuto volbu pro zobrazení Trusted Shops Seal na shopu.',
 'HELP_DYN_TRUSTED_PASSWORD' => 'A password (wsPassword) for the Trusted Shops webservice is required if you offer the Trusted Shops Buyer Protection Excellence to your customers. Buyer Protection Classic does not require a password.',
 'HELP_DYN_TRUSTED_RATINGS_ID' => 'You will receive your Trusted Shops ID for Customer Ratings in the order conformation email. If you are already a member of Trusted Shops, please use your known Trusted Shops ID. The green light indicates that the Customer Ratings have been verified and enabled after saving your settings.',
 'HELP_DYN_TRUSTED_RATINGS_ORDEREMAIL' => 'Enable the button "Write a review!" in "Order confirmation" email subsequent to an order by switching this option on.',
