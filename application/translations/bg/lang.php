@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: crashover (330), val (933)
+ * @translators: crashover (330), fifo (9), val (933)
  */
 
 $sLangName  = 'Български';
@@ -440,13 +440,13 @@ $aLang = array(
 'MONTHS' => 'месеца',
 'MONTHS_2' => 'Months',
 'MONTH_2' => 'Month',
-'MONTH_NAME_1' => 'January',
-'MONTH_NAME_10' => 'October',
-'MONTH_NAME_11' => 'November',
-'MONTH_NAME_12' => 'December',
-'MONTH_NAME_2' => 'February',
-'MONTH_NAME_3' => 'March',
-'MONTH_NAME_4' => 'April',
+'MONTH_NAME_1' => 'Януари',
+'MONTH_NAME_10' => 'Октомври',
+'MONTH_NAME_11' => 'Ноември',
+'MONTH_NAME_12' => 'Декември',
+'MONTH_NAME_2' => 'Февруари',
+'MONTH_NAME_3' => 'Март',
+'MONTH_NAME_4' => 'Април',
 'MONTH_NAME_5' => 'Май',
 'MONTH_NAME_6' => 'Юни',
 'MONTH_NAME_7' => 'Юли',
@@ -533,7 +533,7 @@ $aLang = array(
 'OXBLFIXEDPRICE' => 'oxblfixedprice',
 'OXBPRICE' => 'Gross Price',
 'OXBUNDLEID' => 'Bundle Identno',
-'OXDELIVERY' => 'Shipped on',
+'OXDELIVERY' => 'Доставка изпратена на',
 'OXDELTIMEUNIT' => 'Delivery time unit',
 'OXDISTEAN' => 'Баркод на продавача',
 'OXEAN' => 'Баркод',
@@ -648,7 +648,7 @@ $aLang = array(
 'POSTAL_CODE' => 'Postal Code',
 'POSTAL_CODE_AND_CITY' => 'Postal Code, City:',
 'POST_CARD_FROM' => 'A Postcard from',
-'PREVIOUS' => 'Previous',
+'PREVIOUS' => 'Предишен',
 'PREVIOUS_PRODUCT' => 'Previous Product',
 'PREVIOUS_STEP' => 'Previous Step',
 'PREVIUOS_PRODUCT' => 'Previous Product',
