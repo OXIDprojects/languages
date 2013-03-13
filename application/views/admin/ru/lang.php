@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), marco (1037), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), mantgomery (2), marco (1037), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = 'Русский';
@@ -99,7 +99,7 @@ $aLang = array(
 'ARTICLE_EXTEND_UPDATEPRICES' => 'Актуализировать цену на определенную дату',
 'ARTICLE_EXTEND_UPDATEPRICETIME' => 'Время старта:',
 'ARTICLE_EXTEND_UPLOADFILE' => 'Или загрузите файл (большие файлы должны быть загружены через FTP)<br>(имя файла может содержать только латинские буквы, цифры, подчеркивание (_) и точки (.))',
-'ARTICLE_EXTEND_UPLOADISDISABLED' => 'This is a demoshop. Uploading files has been switched off due to security reasons.',
+'ARTICLE_EXTEND_UPLOADISDISABLED' => 'Это demo версия. Загрузка файлов была отключена по соображениям безопасности.',
 'ARTICLE_EXTEND_URLDESC' => 'Текст для внеш. ссылки',
 'ARTICLE_EXTEND_WEIGHT' => 'Вес',
 'ARTICLE_EXTEND_WEIGHT_UNIT' => 'кг',
@@ -134,7 +134,7 @@ $aLang = array(
 'ARTICLE_MAIN_MANUFACTURERID' => 'Производитель',
 'ARTICLE_MAIN_MPN' => 'Арт. номер производителя',
 'ARTICLE_MAIN_NONE' => '-- нет --',
-'ARTICLE_MAIN_PARENTNOTBUYABLE' => 'Attention: Parent Product can not be purchased.',
+'ARTICLE_MAIN_PARENTNOTBUYABLE' => 'Внимание: Продукт не модет быть куплен',
 'ARTICLE_MAIN_PRICE' => 'Цена',
 'ARTICLE_MAIN_PRICEA' => 'А:',
 'ARTICLE_MAIN_PRICEB' => 'Б:',
