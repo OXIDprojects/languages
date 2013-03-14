@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), mantgomery (2), marco (1037), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), mantgomery (2), marco (1156), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = 'Русский';
@@ -91,7 +91,7 @@ $aLang = array(
 'MOD_PHP_XML' => 'DOM',
 'MOD_REGISTER_GLOBALS' => 'register_globals must be off',
 'MOD_REQUEST_URI' => 'REQUEST_URI set',
-'MOD_SERVER_CONFIG' => 'Server configuration',
+'MOD_SERVER_CONFIG' => 'Конфигурация сервера',
 'MOD_SERVER_PERMISSIONS' => 'Files/folders access rights',
 'MOD_SESSION_AUTOSTART' => 'session.auto_start must be off',
 'MOD_SOAP' => 'SOAP',

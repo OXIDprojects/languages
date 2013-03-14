@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), mantgomery (2), marco (1037), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), mantgomery (2), marco (1156), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = 'Русский';
@@ -46,7 +46,7 @@ $aLang = array(
 'HELP_ARTICLE_FILES_LINK_EXPIRATION_TIME_UNREGISTERED' => 'Here you can define how many times user can download from the same link, if user ordered without registration. For this file you can overwrite the default setting, which was defined in Master Settings -> Core Setting -> Settings -> Downloads for all products.',
 'HELP_ARTICLE_FILES_MAX_DOWNLOADS_COUNT' => 'Here you can define how many times user can download from the same link after order. For this file you can overwrite the default setting, which was defined in Master Settings -> Core Setting -> Settings -> Downloads for all products.',
 'HELP_ARTICLE_FILES_NEW' => 'Enter the name of a via FTP transferred file or upload a new file here. Note that large files should be uploaded via FTP. File size limitation is valid only when file is uploaded via admin. This limitation depends on the PHP settings of the server and might be edited only there.',
-'HELP_ARTICLE_IS_DOWNLOADABLE' => 'Files of this product can be downloaded.',
+'HELP_ARTICLE_IS_DOWNLOADABLE' => 'Файлы этого продукта могут быть загружены.',
 'HELP_ARTICLE_MAIN_ALDPRICE' => 'With <span class="navipath_or_inputname">Alt. Prices</span> you can set up special prices for certain users. More information is available in the <a href="http://www.oxid-esales.com/de/resources/help-faq/eshop-manual/set-alternative-prices-special-users" target="_blank">eShop Manual</a> on the OXID eSales website.',
 'HELP_ARTICLE_MAIN_TAGS' => 'Here you can enter tags for the product. From these tags the tag cloud on the front page is generated. The tags are separated by a comma.',
 'HELP_ARTICLE_MAIN_VAT' => 'Here you can enter a special VAT for this product. This VAT is used for this product in all later calculations (cart, order, invoice)',
@@ -107,7 +107,7 @@ $aLang = array(
 'HELP_DYN_TRUSTED_RATINGS_THANKYOU' => 'Enable the button "Write a review!" on "Order completed" page subsequent to an order by switching this option on.',
 'HELP_DYN_TRUSTED_RATINGS_WIDGET' => 'Enable the Customer Ratings Widget by switching this option on.',
 'HELP_DYN_TRUSTED_TESTMODUS' => 'Test environment ("Sandbox") on. After completion of the certification Trusted Shops will send you login details by e-mail.',
-'HELP_DYN_TRUSTED_TSID' => 'Trusted Shops ID of the online shop (for language).',
+'HELP_DYN_TRUSTED_TSID' => 'Trusted Shops идентификатор интернет-магазина (для языка).',
 'HELP_DYN_TRUSTED_TSPAYMENT' => 'Assign the shop offered payment types at the appropriate payment to Trusted Store.',
 'HELP_DYN_TRUSTED_USER' => 'A user name (wsUser) for the Trusted Shops webservice is required if you offer the Trusted Shops Buyer Protection Excellence to your customers. Buyer Protection Classic does not require a user name.',
 'HELP_GENERAL_SEO_ACTCAT' => 'You can define several SEO URLs for products: For certain categories and manufacturer pages. With <span class="navipath_or_inputname">Active Category/Vendor</span> you can select the SEO URL you want to edit.',
@@ -151,7 +151,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_DELETERATINGLOGS' => 'If users rate a product, they cannot rate the product again. Here you can set after how many days users are allowed to rate a product again. Leave empty to disable - products can be rated only once per user.',
 'HELP_SHOP_CONFIG_DISABLEONLINEVATIDCHECK' => 'The online VAT ID check is executed if a customer from a foreign country inside the EU enters a VAT ID when ordering. If the VAT ID is valid, no VAT is calculated for this order.<br>If the check is disabled, the normal VAT for the according country is always calculated.',
 'HELP_SHOP_CONFIG_DOWNLOADS' => 'Shop with downloadable products. Activate here, that products can be ordered and downloaded.',
-'HELP_SHOP_CONFIG_DOWNLOADS_PATH' => 'Path where files of downloadable products are stored.',
+'HELP_SHOP_CONFIG_DOWNLOADS_PATH' => 'Путь, где хранятся файлы загружаемых продуктов.',
 'HELP_SHOP_CONFIG_DOWNLOAD_EXPIRATION_TIME' => 'Specify the time in hours, the download link is valid after the first download. This is the default setting for all products.You can change this value for every file of product in Administer Products -> Products -> Downloads.',
 'HELP_SHOP_CONFIG_ENTERNETPRICE' => 'In admin area product prices must be entered as net prices.',
 'HELP_SHOP_CONFIG_FACEBOOKCONNECT' => 'Show Facebook Connect box which allows users to log in into eShop using theirs Facebook accunt data.',
@@ -218,7 +218,7 @@ $aLang = array(
 'HELP_SHOP_RDFA_GEO_LONGITUDE' => 'The longitude of the store as part of geo position. Please enter numbers only.',
 'HELP_SHOP_RDFA_GLN' => 'Global Location Number (GLN) for the company. The Global Location Number is a thirteen-digit number used to identify parties and physical locations.',
 'HELP_SHOP_RDFA_ISIC' => 'The International Standard of Industrial Classification of All Economic Activities (ISIC) code for your company. See http://unstats.un.org/unsd/cr/registry/isic-4.asp.',
-'HELP_SHOP_RDFA_LOGO_URL' => 'The Web address (URL) of a logo or image.',
+'HELP_SHOP_RDFA_LOGO_URL' => 'Веб-адрес (URL) вашего логотипы или изображении.',
 'HELP_SHOP_RDFA_NAICS' => 'North American Industry Classification System (NAICS) code for your company. See http://www.census.gov/eos/www/naics/.',
 'HELP_SHOP_RDFA_RATING_MAX' => 'Possible maximum value refer to the scale used for ratings in your shop. This value is not the highest current rating of a product!',
 'HELP_SHOP_RDFA_RATING_MIN' => 'Possible minimum value refer to the scale used for ratings in your shop. This value is not the lowest current rating of a product!',
