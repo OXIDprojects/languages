@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), mantgomery (2), marco (1156), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), cyberkatze (8), mantgomery (2), marco (1156), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = 'Русский';
@@ -35,8 +35,8 @@ $aLang = array(
 'BUTTON_LICENCE' => 'Дальше',
 'BUTTON_PROCEED_INSTALL' => 'Начать установку',
 'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Установить демо-данные',
-'BUTTON_RADIO_LICENCE_ACCEPT' => 'Я принимаю условия лицензионного соглашения.',
-'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'Я не принимаю условия лицензионного соглашения.',
+'BUTTON_RADIO_LICENCE_ACCEPT' => 'Я <strong>принимаю</strong> условия лицензионного соглашения.',
+'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'Я <strong>не принимаю</strong> условия лицензионного соглашения.',
 'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => '<strong>Не</strong> установить демо-данные',
 'BUTTON_START_INSTALL' => 'Снова начать установку',
 'BUTTON_WRITE_DATA' => 'Сохранить базу данных сейчас',

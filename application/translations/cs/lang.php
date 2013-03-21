@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3161), inquisitor8 (298)
+ * @translators: admin (3161), inquisitor8 (298), SYSKO (8)
  */
 
 $sLangName  = 'Česky';
@@ -864,5 +864,5 @@ $aLang = array(
 '_UNIT_M3' => 'm³',
 '_UNIT_ML' => 'ml',
 '_UNIT_MM' => 'mm',
-'_UNIT_PIECE' => 'piece',
+'_UNIT_PIECE' => 'ks',
 );

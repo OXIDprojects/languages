@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), mantgomery (2), marco (1156), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), cyberkatze (8), mantgomery (2), marco (1156), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = 'Русский';
@@ -81,7 +81,7 @@ $aLang = array(
 'ARTICLE_EXTEND_HEIGHT' => 'Высота:',
 'ARTICLE_EXTEND_ISCONFIGURABLE' => 'Продукт может быть настроен',
 'ARTICLE_EXTEND_ISSEARCH' => 'Доступен для поиска',
-'ARTICLE_EXTEND_LENGTH' => 'Длинна:',
+'ARTICLE_EXTEND_LENGTH' => 'Длина:',
 'ARTICLE_EXTEND_MASS' => 'Размеры (Габариты)',
 'ARTICLE_EXTEND_MEDIAURLS' => 'Ссылки на медиа контент',
 'ARTICLE_EXTEND_NONMATERIAL' => 'Виртуальный товар',
@@ -283,7 +283,7 @@ $aLang = array(
 'CATEGORY_ORDER_NEWSORT' => 'Новая сортировка',
 'CATEGORY_ORDER_NEWSORTSAVE' => 'Сохранить сортировку',
 'CATEGORY_ORDER_SORTCATEGORIES' => 'Сортировать категории',
-'CATEGORY_PICTURES_UPLOADISDISABLED' => 'Это демонстрационный магазин. Загрузка / удаление изображения было закрыто в целях безопасности.',
+'CATEGORY_PICTURES_UPLOADISDISABLED' => 'Это демонстрационный магазин. Загрузка / удаление изображений было закрыто в целях безопасности.',
 'CATEGORY_RIGHTS_ALLGROUPS' => 'Все группы пользователей',
 'CATEGORY_RIGHTS_ALLGROUPS2' => 'Все группы пользователей',
 'CATEGORY_RIGHTS_APPLYLEVEL' => 'Изменения только добавить к этой категории и ее элементы',
@@ -297,7 +297,7 @@ $aLang = array(
 'CATEGORY_TEXT_SAVE' => 'Сохранить',
 'CATEGORY_UPDATE_CLOSE' => 'Закрыть',
 'CATEGORY_UPDATE_TITLE' => '[Индексация категорий OXID]',
-'CMSFOLDER_EMAILS' => 'E-mails',
+'CMSFOLDER_EMAILS' => 'E-mail\'ы',
 'CMSFOLDER_NONE' => 'Нет',
 'CMSFOLDER_PRODUCTINFO' => 'Информация о товаре',
 'CMSFOLDER_USERINFO' => 'Информация для клиентов',
