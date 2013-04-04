@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (367), gvlimpt (97), hoekie (28), marco (932)
+ * @translators: admin (367), gvlimpt (97), hoekie (28), marco (932), topconcepts (111)
  */
 
 $sLangName  = 'Nederlands';
@@ -264,17 +264,17 @@ $aLang = array(
 'ERROR_MESSAGE_WRONG_DOWNLOAD_LINK' => 'De downloadlink is incorrect.',
 'ERRROR_MESSAGE_COMLETE_FIELDS_CORRECTLY' => 'Om het verlanglijstje te kunnen versturen, dient u alle velden in te vullen.',
 'EXPIRES_IN' => 'Loopt af op:',
-'FACEBOOK_COMMENTS' => 'Facebook commentaar',
+'FACEBOOK_COMMENTS' => 'Facebook comments',
 'FACEBOOK_ENABLEINFOLINK' => 'Informationen über die Datenübermittlung anzeigen.',
 'FACEBOOK_ENABLELINK' => 'FACEBOOK INHALTE ANZEIGEN',
 'FACEBOOK_ENABLETEXT' => 'Es werden Daten an Facebook übermittelt.',
 'FACEBOOK_ENABLE_INFOTEXT' => 'Hier können Informationen zur Übermittlung personenbezogener Daten an Facebook hinterlegt werden.<br><br>Bei der Nutzung der Facebook Plugins wird eine Verbindung zu Facebook hergestellt, damit Sie Inhalte mit anderen Usern teilen können. Sollten Sie beim Besuch des Online-Shops die Plugins nutzen und gleichzeitig bei Facebook eingeloggt sein, werden personenbezogene Daten automatisch an Facebook übermittelt. Der Umfang der Datenerhebung sowie die weitere Verarbeitung und Nutzung der Daten kann in den <a href="http://www.facebook.com/policy.php" target="_blank">Datenschutzhinweisen von Facebook</a> nachgelesen und individuell konfiguriert werden.',
 'FACEBOOK_ENABLE_INFOTEXTHEADER' => 'Hinweis zum Datenschutz bei der Nutzung der Facebook Plugins',
 'FACEBOOK_FACEPILE' => 'Facebook Facepile',
-'FACEBOOK_INVITE' => 'Facebook uitnodiging',
-'FACEBOOK_INVITETEXT' => 'Door op de knop beneden te drukken kun je ons aanraden bij je vrienden.',
+'FACEBOOK_INVITE' => 'Facebook invite',
+'FACEBOOK_INVITETEXT' => 'Allen op de button beneden klikken om naar de anbeveling te komen.',
 'FACEBOOK_INVITE_YOUR_FRIENDS' => 'Vrienden uitnodigen',
-'FACEBOOK_LOCALE' => 'nl_NL',
+'FACEBOOK_LOCALE' => 'de_DE',
 'FACEBOOK_OPEN_WEBSITE' => 'Shop bezoeken',
 'FAX' => 'Fax:',
 'FIRST_LAST_NAME' => 'Naam:',
@@ -356,7 +356,7 @@ $aLang = array(
 'MANUFACTURER' => 'Fabrikant:',
 'MANUFACTURER_S' => '| Fabrikant: %s',
 'MANY_GREETINGS' => 'Met vriendelijke groet,',
-'MEDIA' => 'Media',
+'MEDIA' => 'Aanvullende informatie',
 'MESSAGE' => 'Bericht',
 'MESSAGE_2' => 'Bericht:',
 'MESSAGE_ACCOUNT_REGISTRATION_CONFIRMED' => 'Uw account is gecreëerd.',
@@ -457,8 +457,8 @@ $aLang = array(
 'MORE_3' => 'meer',
 'MORE_INFO' => 'meer info',
 'MOVE' => 'Artikel verplaatsen',
-'MR' => 'Dhr.',
-'MRS' => 'Mw.',
+'MR' => 'Meneer',
+'MRS' => 'Mevrouw',
 'MY_ACCOUNT' => 'Mijn account',
 'MY_ACCOUNT_2' => 'Mijn account -',
 'MY_ACCOUNT_3' => 'Mijn account /',
@@ -476,7 +476,7 @@ $aLang = array(
 'NEWLIST' => 'Nieuwe favorieten',
 'NEWS' => 'Nieuws',
 'NEWSLETTER' => 'Nieuwsbrief',
-'NEWSLETTER_EMAIL_NOT_EXIST' => 'Onbekend e-mail adres',
+'NEWSLETTER_EMAIL_NOT_EXIST' => 'Het ingevulde adres is geen abonnee van de nieuwsbrief,',
 'NEWSLETTER_SETTINGS' => 'Nieuwsbrief instellingen',
 'NEWSLETTER_SUBSCRIBE_CANCEL' => 'Nieuwsbrief aanmelden / afmelden',
 'NEWSLETTER_SUBSCRIPTION' => 'Nieuwsbrief aanmelden',
@@ -545,7 +545,7 @@ $aLang = array(
 'OXICON' => 'oxicon',
 'OXID' => 'interne Identnr.',
 'OXID_ESALES_URL' => 'http://www.oxid-esales.com/de/startseite',
-'OXID_ESALES_URL_TITLE' => 'Shop Software von OXID eSales',
+'OXID_ESALES_URL_TITLE' => 'Shop Software van OXID eSales',
 'OXINSERT' => 'Gemaakt op',
 'OXISCONFIGURABLE' => 'Artikel is aanpasbaar',
 'OXISSEARCH' => 'Kan worden gezocht',

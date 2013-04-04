@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (406), HolgerGremminger (69), marco (934), rhinosmedia (4)
+ * @translators: admin (406), HolgerGremminger (69), marco (934), rhinosmedia (4), topconcepts (118)
  */
 
 $sLangName  = 'Svenska';
@@ -264,17 +264,17 @@ $aLang = array(
 'ERROR_MESSAGE_WRONG_DOWNLOAD_LINK' => 'Downloadlink är inte korrekt.',
 'ERRROR_MESSAGE_COMLETE_FIELDS_CORRECTLY' => 'Vänligen fyll alla fält annars kan inte önskelistan levereras.',
 'EXPIRES_IN' => 'löper ut:',
-'FACEBOOK_COMMENTS' => 'Facebook Kommentarer',
+'FACEBOOK_COMMENTS' => 'Facebook kommentarer',
 'FACEBOOK_ENABLEINFOLINK' => 'Visa information om dataöverföring.',
 'FACEBOOK_ENABLELINK' => 'VISA FACEBOOK INNEHÅLL',
 'FACEBOOK_ENABLETEXT' => 'Information överförs till Facebook.',
 'FACEBOOK_ENABLE_INFOTEXT' => 'Här kan personuppgifter sparas för att överföras till Facebook.<br><br>När du använder Facebooks plug-in ansluter denna till Facebook så kan du dela innehåll med andra användare. Om du använder plug-in när du besöker online-shopen och samtidigt är inloggad på Facebook, överförs personrelaterade uppgifter automatiskt till Facebook. Dess omfattning, vidarebearbetning och användning kan läsas i <a href=http://www.facebook.com/policy.php target=_blank>dataskydd i Facebook</a> och kan konfigureras individuellt.',
 'FACEBOOK_ENABLE_INFOTEXTHEADER' => 'Anmärkning om dataskydd vid användning av Facebooks plug-in',
 'FACEBOOK_FACEPILE' => 'Facebook Facepile',
-'FACEBOOK_INVITE' => 'Facebook Inbjudan',
+'FACEBOOK_INVITE' => 'Facebook invite',
 'FACEBOOK_INVITETEXT' => 'Klicka bara på knappen nedan för att komma till för rekommendation.',
 'FACEBOOK_INVITE_YOUR_FRIENDS' => 'Bjud in vänner',
-'FACEBOOK_LOCALE' => 'de_DE',
+'FACEBOOK_LOCALE' => 'se_SE',
 'FACEBOOK_OPEN_WEBSITE' => 'Besök shop',
 'FAX' => 'Telefax:',
 'FIRST_LAST_NAME' => 'Namn:',
@@ -284,7 +284,7 @@ $aLang = array(
 'FROM' => 'Från',
 'FROM_2' => 'Från:',
 'FROM_3' => 'Från och med',
-'fullDateFormat' => 'åååå-mm-dd h:min:s',
+'fullDateFormat' => 'd.m.Y H:i:s',
 'GIFTWRAPPER' => 'Presentförpackning',
 'GIFT_OPTION' => 'Presentalternativ',
 'GIFT_REGISTRY' => 'Önskelista',

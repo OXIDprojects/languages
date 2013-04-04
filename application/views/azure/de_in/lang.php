@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (495), dsb (1), marco (4409), simoneschuppe (4), Thielo (1)
+ * @translators: admin (495), dsb (1), marco (4415), simoneschuppe (4), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';
@@ -56,7 +56,7 @@ $aLang = array(
 'EMAIL_ORDER_CUST_HTML_TAX1' => 'zzgl. MwSt.',
 'EMAIL_ORDER_CUST_HTML_TSPROTECTIONCHARGETAX1' => 'zzgl. MwSt.',
 'EMAIL_ORDER_OWNER_HTML_MESSAGE' => 'Mitteilung:',
-'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>BEZAHLINFORMATIONEN AUSGESCHALTET</b> - um diese einzuschalten bitte email/html/order_owner.tpl aendern.',
+'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>BEZAHLINFORMATIONEN AUSGESCHALTET</b> - um diese einzuschalten bitte application/views/[theme]/email/html/order_owner.tpl aendern.',
 'EMAIL_SENDDOWNLOADS_DOWNLOADS_DESC' => 'Lade Dir Deine bestellten Dateien hier herunter.',
 'EMAIL_SENDDOWNLOADS_GREETING' => 'Guten Tag',
 'EMAIL_SENDDOWNLOADS_PAYMENT_PENDING' => 'Die Bezahlung der Bestellung ist noch nicht abgeschlossen.',

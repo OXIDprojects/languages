@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: la bete (5), marco (4), mart (139), pawelch (1660)
+ * @translators: la bete (5), marco (4), mart (139), pawelch (1660), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -264,7 +264,7 @@ $aLang = array(
 'ERROR_MESSAGE_WRONG_DOWNLOAD_LINK' => 'Download link is not correct.',
 'ERRROR_MESSAGE_COMLETE_FIELDS_CORRECTLY' => 'Please complete all fields correctly!',
 'EXPIRES_IN' => 'Expires in:',
-'FACEBOOK_COMMENTS' => 'Facebook Comments',
+'FACEBOOK_COMMENTS' => 'Komentarze na Facebook',
 'FACEBOOK_ENABLEINFOLINK' => 'View information about the data transmission.',
 'FACEBOOK_ENABLELINK' => 'DISPLAY FACEBOOK CONTENT',
 'FACEBOOK_ENABLETEXT' => 'Data is transmitted to Facebook.',
@@ -272,7 +272,7 @@ $aLang = array(
 'FACEBOOK_ENABLE_INFOTEXTHEADER' => 'Notes on data protection using Facebook plug-ins',
 'FACEBOOK_FACEPILE' => 'Facebook Facepile',
 'FACEBOOK_INVITE' => 'Facebook Invite',
-'FACEBOOK_INVITETEXT' => 'Check this out. Simply click on the button below to check recommended product.',
+'FACEBOOK_INVITETEXT' => 'Kliknij tutaj i otwórz polecenia',
 'FACEBOOK_INVITE_YOUR_FRIENDS' => 'Invite your Friends',
 'FACEBOOK_LOCALE' => 'en_US',
 'FACEBOOK_OPEN_WEBSITE' => 'Open website',
@@ -284,7 +284,7 @@ $aLang = array(
 'FROM' => 'From',
 'FROM_2' => 'From:',
 'FROM_3' => 'from',
-'fullDateFormat' => 'Y-m-d H:i:s',
+'fullDateFormat' => 'd.m.Y H:i:s',
 'GIFTWRAPPER' => 'Giftwrapper',
 'GIFT_OPTION' => 'Gift options',
 'GIFT_REGISTRY' => 'Gift Registry',
@@ -356,7 +356,7 @@ $aLang = array(
 'MANUFACTURER' => 'Manufacturer:',
 'MANUFACTURER_S' => 'Manufacturer: %s',
 'MANY_GREETINGS' => 'Many Greetings,',
-'MEDIA' => 'Media',
+'MEDIA' => 'Dodatkowe informacje',
 'MESSAGE' => 'Message',
 'MESSAGE_2' => 'Message:',
 'MESSAGE_ACCOUNT_REGISTRATION_CONFIRMED' => 'Your account registration is confirmed.',
@@ -457,8 +457,8 @@ $aLang = array(
 'MORE_3' => 'more',
 'MORE_INFO' => 'more Info',
 'MOVE' => 'Move',
-'MR' => 'Mr',
-'MRS' => 'Mrs',
+'MR' => 'Pan',
+'MRS' => 'Pani',
 'MY_ACCOUNT' => 'Moje konto',
 'MY_ACCOUNT_2' => 'Moje konto -',
 'MY_ACCOUNT_3' => 'Moje konto /',
@@ -476,7 +476,7 @@ $aLang = array(
 'NEWLIST' => 'New Listmania list',
 'NEWS' => 'News',
 'NEWSLETTER' => 'Newsletter',
-'NEWSLETTER_EMAIL_NOT_EXIST' => 'Unknown e-mail address!',
+'NEWSLETTER_EMAIL_NOT_EXIST' => 'Wpisany adres e-mail nie jest zarejestrowany do odbioru newsletter.',
 'NEWSLETTER_SETTINGS' => 'Newsletter Settings',
 'NEWSLETTER_SUBSCRIBE_CANCEL' => 'Subscribe/cancel Newsletter',
 'NEWSLETTER_SUBSCRIPTION' => 'Newsletter subscription',
@@ -544,8 +544,8 @@ $aLang = array(
 'OXHEIGHT' => 'Height',
 'OXICON' => 'oxicon',
 'OXID' => 'Internal Identno.',
-'OXID_ESALES_URL' => 'http://www.oxid-esales.com/',
-'OXID_ESALES_URL_TITLE' => 'Shopping cart software by OXID eSales',
+'OXID_ESALES_URL' => 'http://www.oxid-esales.com/de/startseite',
+'OXID_ESALES_URL_TITLE' => 'Shopsoftware i shopsystemy firmy OXID eSales',
 'OXINSERT' => 'Created on',
 'OXISCONFIGURABLE' => 'Product is customizable',
 'OXISSEARCH' => 'Is searchable',
@@ -770,7 +770,7 @@ $aLang = array(
 'SUM' => 'Sum:',
 'SURCHARGE' => 'Surcharge',
 'S_CATEGORY_PRODUCTS' => '%s category\'s articles',
-'TAGS' => 'Tags',
+'TAGS' => 'Słowa kluczowe',
 'TERMS_AND_CONDITIONS' => 'Terms and Conditions',
 'THANK_YOU' => 'Thank you',
 'TIME' => 'Time:',

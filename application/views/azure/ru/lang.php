@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), cyberkatze (8), mantgomery (2), marco (1164), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), cyberkatze (8), mantgomery (2), marco (1168), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = 'Русский';
@@ -56,7 +56,7 @@ $aLang = array(
 'EMAIL_ORDER_CUST_HTML_TAX1' => 'плюс НДС',
 'EMAIL_ORDER_CUST_HTML_TSPROTECTIONCHARGETAX1' => 'плюс НДС',
 'EMAIL_ORDER_OWNER_HTML_MESSAGE' => 'Сообщение',
-'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>ИНФОРМАЦИЯ ОБ ОПЛАТЕ ОТКЛЮЧЕНА</b> - чтобы подключить информацию об оплате, смените email_order_owner_html.tpl.',
+'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>ИНФОРМАЦИЯ ОБ ОПЛАТЕ ОТКЛЮЧЕНА</b> - чтобы подключить информацию об оплате, смените application/views/[theme]/email_order_owner_html.tpl.',
 'EMAIL_SENDDOWNLOADS_DOWNLOADS_DESC' => 'Скачайте файлы вашего заказа здесь.',
 'EMAIL_SENDDOWNLOADS_GREETING' => 'добрый день',
 'EMAIL_SENDDOWNLOADS_PAYMENT_PENDING' => 'Оплаты заказа еще не завершена.',

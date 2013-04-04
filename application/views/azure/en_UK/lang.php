@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: marco (4110)
+ * @translators: marco (4127)
  */
 
 $sLangName  = 'British English';
@@ -56,7 +56,7 @@ $aLang = array(
 'EMAIL_ORDER_CUST_HTML_TAX1' => 'plus VAT',
 'EMAIL_ORDER_CUST_HTML_TSPROTECTIONCHARGETAX1' => 'plus VAT',
 'EMAIL_ORDER_OWNER_HTML_MESSAGE' => 'Message:',
-'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>PAYMENT INFORMATION SWITCHED OFF</b> - To switch them on, please change email_order_owner_html.tpl.',
+'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>PAYMENT INFORMATION SWITCHED OFF</b> - To switch them on, please change application/views/[theme]/email_order_owner_html.tpl.',
 'EMAIL_SENDDOWNLOADS_DOWNLOADS_DESC' => 'Download the files your ordered here.',
 'EMAIL_SENDDOWNLOADS_GREETING' => 'Hello',
 'EMAIL_SENDDOWNLOADS_PAYMENT_PENDING' => 'The payment of the order is not complete yet.',

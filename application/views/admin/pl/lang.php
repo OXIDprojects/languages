@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: la bete (5), marco (4), mart (139), pawelch (1660)
+ * @translators: la bete (5), marco (4), mart (139), pawelch (1660), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -828,6 +828,7 @@ $aLang = array(
 'invalid_serial' => 'Nieprawidłowy klucz licencyjny',
 'IS_REVERSE_PROXY_AVAILABLE' => 'Test Reverse Proxy\'s availability',
 'LANGUAGE_ABBERVATION' => 'Abbreviation',
+'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Attention: you can\\'t change abbreviation of main language (with ID = 0)!',
 'LANGUAGE_ACTIVE' => 'Active in frontend',
 'LANGUAGE_ALREADYEXISTS_ERROR' => 'Error: language with such abbervation already exists!',
 'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Attention: No language files were found in /admin dir for selected language!',
@@ -1585,7 +1586,7 @@ $aLang = array(
 'SHOP_SYSTEM_INLINEIMGEMAIL' => 'Send e-mails with inline Images',
 'SHOP_SYSTEM_INTERFACEPROFILES' => 'Admin Profiles (resolution / number of lines in list section)',
 'SHOP_SYSTEM_ISERVERTIMESHIFT' => 'Server Time shift (hours)',
-'SHOP_SYSTEM_LDAP' => 'Activate LDAP authentification (Please edit file core/oxldap.php)',
+'SHOP_SYSTEM_LDAP' => 'Activate LDAP authentification',
 'SHOP_SYSTEM_LOGSKIPTAGS' => 'Exclusions for Admin log',
 'SHOP_SYSTEM_ORDERDISNOREG' => 'Disable Ordering without Registration.',
 'SHOP_SYSTEM_OTHERCOUNTRYORDER' => 'Allow Orders from foreign Countries if no Shipping Costs are defined',

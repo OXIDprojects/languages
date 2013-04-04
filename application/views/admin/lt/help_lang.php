@@ -235,6 +235,7 @@ $aLang = array(
 'HELP_SHOP_SYSTEM_DISABLENAVBARS' => 'Jei varnelė uždėta, labiausiai naviguojami elementai nėra rodomi užsakymo siuntimo metu. Todėl vartotojai nereikalingai neblaškomi užsakymo formavimo metu.',
 'HELP_SHOP_SYSTEM_INLINEIMGEMAIL' => 'Jei varnelė uždėta, el. laiškai siunčiami su paveikslėliais. Jei varnelė neuždėta, paveikslėliai yra parsiunčiami el. pašto programos, tada kai atidaromas el. laiškas.',
 'HELP_SHOP_SYSTEM_ISERVERTIMESHIFT' => 'Serveryje parduotuvė gali veikti ir kitoje laiko zonoje. Naudojant šį parametrą laiko poslinkis gali būti koreguojamas: Įveskite valandas, kad galėtumėte pridėti / atimti iš serverio laiką, pvz. <kdb>+2</kdb> arba <kdb>-2</kdb>',
+'HELP_SHOP_SYSTEM_LDAP' => 'Please edit file core/oxldap.php.',
 'HELP_SHOP_SYSTEM_OTHERCOUNTRYORDER' => 'Leisti užsakymus iš kitų šalių:<ul><li>Jei varnelė uždėta, vartotojai gali užsakyti: jiems bus pranešta, jei pristatymo kainos keisis.</li><li>Jei varnelė neuždėta, vartotojai iš kitų šalių, kurios neturi apibrėžtų pristatymo kainų, užsakyti negali.</li></ul>',
 'HELP_SHOP_SYSTEM_SHOP_LOCATION' => 'Please choose the market to which shop is focused. According to it, additional eCommerce Services will be loaded from OXID server. Do not forget to enable option "Load additional Information from OXID server" in Master Settings -> Core Settings -> Settings -> Administration',
 'HELP_SHOP_SYSTEM_SHOWVARIANTREVIEWS' => 'Šis parametras nurodo kaip variantų peržiūros yra tvarkomos: Jei parametras yra patikrintas, variantų pastabos taip pat yra rodomos prie prekės.',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: dsb (5), marco (3990)
+ * @translators: dsb (5), marco (3996)
  */
 
 $sLangName  = 'Deutsch';
@@ -828,17 +828,18 @@ $aLang = array(
 'invalid_serial' => 'Ungültiger Lizenzschlüssel',
 'IS_REVERSE_PROXY_AVAILABLE' => 'Verfügbarkeit des Reverse Proxy testen',
 'LANGUAGE_ABBERVATION' => 'Sprachkürzel',
+'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Warnung: Sie können nicht die Abkürzung der Hauptsprache (Sprach-ID 0) ändern!',
 'LANGUAGE_ACTIVE' => 'Im Frontend aktiv',
 'LANGUAGE_ALREADYEXISTS_ERROR' => 'Fehler: Eine Sprache mit diesem Sprachkürzel existiert bereits',
 'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Warnung: Es wurden keine Sprachdateien im Verzeichnis /admin für die ausgewählte Sprache gefunden!',
 'LANGUAGE_BASESSLURL' => 'Basis SSL URL',
 'LANGUAGE_BASEURL' => 'Basis URL',
 'LANGUAGE_DEFAULT' => 'Standardsprache',
-'LANGUAGE_DELETINGMAINLANG_WARNING' => 'Warnung: Sie können nicht die Hauptsprache löschen (Sprach-ID 0)',
+'LANGUAGE_DELETINGMAINLANG_WARNING' => 'Warnung: Sie können nicht die Hauptsprache löschen (Sprach-ID 0)!',
 'LANGUAGE_DESCRIPTION' => 'Name',
 'LANGUAGE_EMPTYLANGUAGENAME_ERROR' => 'Bitte geben Sie den Namen der Sprache ein!',
 'LANGUAGE_ERRORGENERATEVIEWS' => 'Bitte aktualisieren Sie die Datenbank-Views unter Service -> Tools',
-'LANGUAGE_ERROR_ADDING_MULTILANG_FIELDS' => 'Warnung: Beim anlegen der neuen Datenbankfelder ist ein Fehler aufgetreten',
+'LANGUAGE_ERROR_ADDING_MULTILANG_FIELDS' => 'Warnung: Beim Anlegen der neuen Datenbankfelder ist ein Fehler aufgetreten!',
 'LANGUAGE_ERROR_RESETING_MULTILANG_FIELDS' => 'Achtung: Während des Löschens einer Sprache ist beim Zurücksetzens der Multisprachen-Felder ein Fehler aufgetreten!',
 'LANGUAGE_FRONTEND_NOTRANSLATIONS_WARNING' => 'Warnung: Es wurden keine Sprachdateien zum Theme oder im Verzeichnis /out für die ausgewählte Sprache gefunden!',
 'LANGUAGE_LANGUAGEID' => 'Sprach-ID',
@@ -1585,7 +1586,7 @@ $aLang = array(
 'SHOP_SYSTEM_INLINEIMGEMAIL' => 'E-Mails mitsamt Bildern versenden',
 'SHOP_SYSTEM_INTERFACEPROFILES' => 'Profile für den Administrationsbereich',
 'SHOP_SYSTEM_ISERVERTIMESHIFT' => 'Zeitverschiebung des Servers in Stunden',
-'SHOP_SYSTEM_LDAP' => 'LDAP Authentifizierung aktivieren (Bitte Datei core/oxldap.php anpassen)',
+'SHOP_SYSTEM_LDAP' => 'LDAP Authentifizierung aktivieren',
 'SHOP_SYSTEM_LOGSKIPTAGS' => 'Diese Änderungen im Administrationsbereich nicht mitloggen',
 'SHOP_SYSTEM_ORDERDISNOREG' => 'Benutzer müssen sich registrieren, um bestellen zu können',
 'SHOP_SYSTEM_OTHERCOUNTRYORDER' => 'Bestellungen aus dem Ausland auch dann erlauben, wenn keine Versandkosten für das Land vorhanden sind',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (495), dsb (1), marco (4409), simoneschuppe (4), Thielo (1)
+ * @translators: admin (495), dsb (1), marco (4415), simoneschuppe (4), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';
@@ -237,6 +237,7 @@ $aLang = array(
 'HELP_SHOP_SYSTEM_DISABLENAVBARS' => 'Wenn Du diese Einstellung aktivierst, werden die meisten Navigationselemente im Bestellprozess ausgeblendet. Dadurch werden die Benutzer beim Bestellen nicht unnötig abgelenkt.',
 'HELP_SHOP_SYSTEM_INLINEIMGEMAIL' => 'Wenn die Einstellung aktiv ist, werden die Bilder, die in E-Mails verwendet werden, zusammen mit der E-Mail versendet. Wenn die Einstellung nicht aktiv ist, lädt das E-Mail Programm die Bilder herunter, wenn Benutzer die E-Mail öffnen.',
 'HELP_SHOP_SYSTEM_ISERVERTIMESHIFT' => 'Es kann sein, dass sich der Server in einer anderen Zeitzone befindet. Mit dieser Einstellung kannst Du die Zeitverschiebung korrigieren: Gib die Anzahl der Stunden, die zur Serverzeit addiert/abgezogen werden sollen ein, z. B. <kdb>+2</kdb> oder <kdb>-2</kdb>',
+'HELP_SHOP_SYSTEM_LDAP' => 'Bitte Datei core/oxldap.php anpassen.',
 'HELP_SHOP_SYSTEM_OTHERCOUNTRYORDER' => 'Diese Einstellung beeinflusst das Verhalten des OXID eShops, wenn für ein Land, in das Benutzer bestellen wollen, keine Versandkosten definiert sind:<br><ul><li>Wenn die Einstellung aktiv ist, erhalten diese Benutzer im Bestellprozess eine Meldung: Die Versandkosten werden Dir nachträglich mitgeteilt, wenn Du damit einverstanden ist. Du kannst mit der Bestellung fortfahren.</li><li>Wenn die Einstellung ausgeschaltet ist, können Benutzer aus Ländern, für die keine Versandkosten definiert sind, nicht bestellen.</li></ul>',
 'HELP_SHOP_SYSTEM_SHOP_LOCATION' => 'Bitte wähle die Region, auf die der Shop ausgerichtet ist. Abhängig davon werden zusätzliche eCommerce Services vom OXID Server nachgeladen. Bitte vergiss nicht, die Einstellung "Zusätzliche Informationen vom OXID Server laden" in Stammdaten -> Grundeinstellungen -> Einstell. -> Administrationsbereich zu aktivieren',
 'HELP_SHOP_SYSTEM_SHOWVARIANTREVIEWS' => 'Diese Einstellung beeinflusst das Verhalten, wenn Varianten bewertet werden: Wenn die Einstellung aktiv ist, dann werden die Bewertungen der Varianten auch beim Vater-Artikel angezeigt.',

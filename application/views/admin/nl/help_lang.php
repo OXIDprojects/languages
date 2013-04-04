@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (367), gvlimpt (97), hoekie (28), marco (932)
+ * @translators: admin (367), gvlimpt (97), hoekie (28), marco (932), topconcepts (111)
  */
 
 $sLangName  = 'Nederlands';
@@ -237,6 +237,7 @@ $aLang = array(
 'HELP_SHOP_SYSTEM_DISABLENAVBARS' => 'If this setting is checked, most navigation elements aren\'t shown during checkout. Thereby users aren\'t distracted unnecessarily during checkout.',
 'HELP_SHOP_SYSTEM_INLINEIMGEMAIL' => 'If the setting is checked, the pictures in e-mails are sent together with the e-mail. If the setting is unchecked, the pictures are downloaded by the e-mail program when the e-mail is opened.',
 'HELP_SHOP_SYSTEM_ISERVERTIMESHIFT' => 'The server the eShop is running on can be in a different time zone. With this setting the time shift can be adjusted: Enter the amount of hours that are to be added/subtracted from the server time, e. g. <kdb>+2</kdb> or <kdb>-2</kdb>',
+'HELP_SHOP_SYSTEM_LDAP' => 'Please edit file core/oxldap.php.',
 'HELP_SHOP_SYSTEM_OTHERCOUNTRYORDER' => 'Here you can set if orders can be made in countries for which no shipping costs are defined:<ul><li>If the setting is checked, users can order: The users are notified that they are informed about the shipping costs manually.</li><li>If the setting is unchecked, users from countries for which no shipping costs are defined cannot order.</li></ul>',
 'HELP_SHOP_SYSTEM_SHOP_LOCATION' => 'Please choose the market to which shop is focused. According to it, additional eCommerce Services will be loaded from OXID server. Do not forget to enable option "Load additional Information from OXID server" in Master Settings -> Core Settings -> Settings -> Administration',
 'HELP_SHOP_SYSTEM_SHOWVARIANTREVIEWS' => 'This setting affects how reviews for variants are handled: If the setting is checked, remarks from variants are also shown at the parent product.',

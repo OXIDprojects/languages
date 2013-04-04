@@ -235,6 +235,7 @@ $aLang = array(
 'HELP_SHOP_SYSTEM_DISABLENAVBARS' => 'Pokud je volba zapnutá, během závěru objednávky není zobrazena většina navigačních možností. Uživatel díky tomu není zbytečně rozptylován.',
 'HELP_SHOP_SYSTEM_INLINEIMGEMAIL' => 'Pokud je volba aktivní, obrázky v emailu se odesílají zároveň s textem. Pokud je volba vypnutá, obrázky se stahují až po otevření emailu.',
 'HELP_SHOP_SYSTEM_ISERVERTIMESHIFT' => 'Server a eShop mohou být v jiném časovém pásmu. Pomocí tohoto nastavení času lze upravit časový posun - zadejte počet hodin, které mají být přičteny / odečteny od času serveru, např. <kdb>+2</kdb> nebo <kdb>-2</kdb>',
+'HELP_SHOP_SYSTEM_LDAP' => 'Please edit file core/oxldap.php.',
 'HELP_SHOP_SYSTEM_OTHERCOUNTRYORDER' => 'Zde můžete nastavit, zda lze provést objednávky ze zemí, pro které nejsou stanoveny ceny:<ul><li>Pokud je volba aktivována, uživatel si může objednat a bude mu stanovena speciální cena.</li><li>Pokud je volba vypnutá, uživatel si nemůže objednat žádné zboží.</li></ul>',
 'HELP_SHOP_SYSTEM_SHOP_LOCATION' => 'Please choose the market to which shop is focused. According to it, additional eCommerce Services will be loaded from OXID server. Do not forget to enable option "Load additional Information from OXID server" in Master Settings -> Core Settings -> Settings -> Administration',
 'HELP_SHOP_SYSTEM_SHOWVARIANTREVIEWS' => 'Tato volba ovlivňuje, jak jsou zpracovávány recenze pro varianty - pokud je volba aktivní, poznámky variant jsou zobrazeny i u hlavního výrobku.',
