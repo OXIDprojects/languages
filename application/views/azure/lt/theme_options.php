@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (19), linasg (3), muslimukas (5), NFQ Lithuania (2756), swolou (3), tlt (204), vaidasif (75)
+ * @translators: abejingas (188), agladutis (19), linasg (3), muslimukas (5), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
  */
 
 $sLangName  = 'Lietuvių';
@@ -46,7 +46,7 @@ $aLang = array(
 'SHOP_THEME_bl_showCompareList' => 'Naudoti prekių palyginimą',
 'SHOP_THEME_bl_showGiftWrapping' => 'Naudoti įpakavimą',
 'SHOP_THEME_bl_showListmania' => 'Naudoti mėgstamiausias',
-'SHOP_THEME_bl_showOpenId' => 'Use Open ID',
+'SHOP_THEME_bl_showOpenId' => '',
 'SHOP_THEME_bl_showVouchers' => 'Naudoti kuponus',
 'SHOP_THEME_bl_showWishlist' => 'Naudoti pageidavimus',
 'SHOP_THEME_GROUP_display' => 'Rodyti',

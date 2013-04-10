@@ -825,7 +825,7 @@ $aLang = array(
 'invalid_serial' => 'Clé de licence invalide',
 'IS_REVERSE_PROXY_AVAILABLE' => 'Disponibilité d\'un test inversé.',
 'LANGUAGE_ABBERVATION' => 'Abréviation',
-'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Attention: you can\\'t change abbreviation of main language (with ID = 0)!',
+'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => '',
 'LANGUAGE_ACTIVE' => 'Activée sur la boutique',
 'LANGUAGE_ALREADYEXISTS_ERROR' => 'Erreur: Une langue utilisant cette abréviation existe déjà!',
 'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Attention: le fichier langue choisi n\'existe pas dans le répertoire  / admin!',
