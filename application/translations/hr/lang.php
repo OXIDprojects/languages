@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: buby (27)
+ * @translators: buby (29)
  */
 
 $sLangName  = 'Hrvatski';
@@ -29,7 +29,7 @@ $sLangName  = 'Hrvatski';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACCESSORIES' => 'Accessories',
+'ACCESSORIES' => 'Dodatna oprema',
 'ACCOUNT' => 'Korisnički račun',
 'ACCOUNT_INFORMATION' => 'Detalji Korisničkog računa',
 'ADD' => 'Dodaj',

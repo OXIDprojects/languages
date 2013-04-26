@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: buby (27)
+ * @translators: buby (29)
  */
 
 $sLangName  = 'Hrvatski';
@@ -31,7 +31,7 @@ $aLang = array(
 'charset' => 'utf-8',
 'ACTIONS_LIST_MENUITEM' => 'Kupci info',
 'ACTIONS_LIST_MENUSUBITEM' => 'Promotions',
-'ACTIONS_MAIN_ALLARTICLES' => 'All available Products',
+'ACTIONS_MAIN_ALLARTICLES' => 'Svi dostupni proizvodi',
 'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Promoted Products',
 'ACTIONS_MAIN_NOTSELECTED' => 'Please select one from above list to make changes',
 'ADMINGB_LIST_AUTHOR' => 'Autor',
