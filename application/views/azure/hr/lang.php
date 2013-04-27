@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: buby (29)
+ * @translators: buby (113)
  */
 
 $sLangName  = 'Hrvatski';
@@ -31,11 +31,11 @@ $aLang = array(
 'charset' => 'utf-8',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'There is no Listmania lists at the moment. To create new, click',
 'ADD_RECOMM_ADDRECOMMLINK2' => 'Ovdje',
-'allBrands' => 'All Brands',
+'allBrands' => 'Označi sve',
 'byBrand' => 'By Brand',
 'byManufacturer' => 'By Manufacturer',
 'byVendor' => 'By Distributor',
-'DETAILS_ARTNUMBER' => 'Product Nr.:',
+'DETAILS_ARTNUMBER' => 'Šifra artikla:',
 'DETAILS_CHOOSEVARIANT' => 'Please select a variant',
 'DETAILS_LOCATOR_PRODUCT' => 'PRODUCT',
 'DETAILS_PLUSSHIPPING2' => 'shipping costs.',

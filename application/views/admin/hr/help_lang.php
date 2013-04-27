@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: buby (29)
+ * @translators: buby (113)
  */
 
 $sLangName  = 'Hrvatski';
@@ -49,7 +49,7 @@ $aLang = array(
 'HELP_ARTICLE_IS_DOWNLOADABLE' => 'Files of this product can be downloaded.',
 'HELP_ARTICLE_MAIN_ALDPRICE' => 'With <span class="navipath_or_inputname">Alt. Prices</span> you can set up special prices for certain users. More information is available in the <a href="http://www.oxid-esales.com/de/resources/help-faq/eshop-manual/set-alternative-prices-special-users" target="_blank">eShop Manual</a> on the OXID eSales website.',
 'HELP_ARTICLE_MAIN_TAGS' => 'Here you can enter tags for the product. From these tags the tag cloud on the front page is generated. The tags are separated by a comma.',
-'HELP_ARTICLE_MAIN_VAT' => 'Here you can enter a special VAT for this product. This VAT is used for this product in all later calculations (cart, order, invoice)',
+'HELP_ARTICLE_MAIN_VAT' => 'Ovdje možeš dodati poseban porez ( npr. hrana 5 % )',
 'HELP_ARTICLE_PICTURES_ICON' => 'Icons are the smallest pictures of a product. For example, they are used in the shopping cart.<br>Uploading custom icon will override icon, generated from the first product picture.<br>After uploading, the filename is shown in Icon. If no icon is uploaded yet, --- is displayed.<br>Further information is available in the <a href="http://www.oxid-esales.com/en/resources/help-faq/eshop-manual/product-images-basics" target="_blank">product pictures manual entry</a>.',
 'HELP_ARTICLE_PICTURES_PIC1' => 'Pictures are used in the detail view of a product. You can upload up to 7 pictures per product. After uploading, the filename is shown in the accordant input field. If no picture is uploaded yet, --- is displayed.<br>Pictures with a maximum of 2 MB or 1500 * 1500 pixel resolution can be uploaded. This restriction is to avoid problems with the PHP memory limit. After uploading, the main picture, zoom picture, thumbnail and icon will be generated automatically.<br>Further information is available in the <a href="http://www.oxid-esales.com/en/resources/help-faq/eshop-manual/product-images-basics" target="_blank">product pictures manual entry</a>.',
 'HELP_ARTICLE_PICTURES_THUMB' => 'Thumbnails are small product pictures. For example, they are used in product lists (categories, search results).<br>Uploading custom thumbnail will override the thumbnail generated from the first product picture.<br>After uploading, the filename is shown in Thumbnail. If no thumbnail is uploaded yet, ---- is displayed.<br>Further information is available in the <a href="http://www.oxid-esales.com/en/resources/help-faq/eshop-manual/product-images-basics" target="_blank">product pictures manual entry</a>.',
@@ -258,7 +258,7 @@ $aLang = array(
    <li>Browse and manage existing user payment methods.</li>
    <li>Create new payment methods and set default values, for example direct debit.</li>
 </ul>',
-'HELP_VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Here you can set if users are allowed to use coupons together with coupons of other coupon series in a single order.',
+'HELP_VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Ovdje možeš podesiti dali kupci mogu iskoristiti različite vaučere',
 'HELP_VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Here you can set whether users are allowed to use several coupons of this coupon series in a single order.',
 'HELP_VOUCHERSERIE_MAIN_CALCULATEONCE' => 'If you assign products or categories to your coupon, deactivate this option to calculate this coupon to each product per cart position. Activate if the coupon shall be valid only once per cart position.',
 'HELP_VOUCHERSERIE_MAIN_DISCOUNT' => 'In <span class="navipath_or_inputname">Discount</span>, you specify the magnitude of the discount. You can use the selection list after the entry field to specify whether the discount is to be applied as an absolute discount or as a percentage discount:<ul><li><span class="userinput_or_code">abs</span>: The discount is an absolute discount, e.g. EUR 5.</li><li><span class="userinput_or_code">%</span>: The discount is a percentage discount, e.g. 10 percent of the purchase price.</li></ul>',

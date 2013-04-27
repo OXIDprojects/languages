@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: buby (29)
+ * @translators: buby (113)
  */
 
 $sLangName  = 'Hrvatski';
@@ -34,29 +34,29 @@ $aLang = array(
 'ACCOUNT_INFORMATION' => 'Detalji Korisničkog računa',
 'ADD' => 'Dodaj',
 'ADDITIONAL_INFO' => 'Dodatne informacije',
-'ADDRESS' => 'Address',
+'ADDRESS' => 'Adresa',
 'ADDRESSES' => 'Adrese',
-'ADDRESSES_2' => 'Addresses:',
+'ADDRESSES_2' => 'Adrese:',
 'ADDRESS_2' => 'dodatna adresa :',
-'ADD_TAGS' => 'Add tags:',
+'ADD_TAGS' => 'Dodaj tag:',
 'ADD_THIS_PAGE_TO' => 'Dodaj stranicu',
 'ADD_THIS_PAGE_TO_WEBNEWS' => 'Add this page to Webnews',
 'ADD_THIS_PAGE_TO_YIEEHA' => 'Add this page to Yieeha',
 'ADD_TO_CART' => 'Dodaj u košaricu',
-'ADD_TO_CART_2' => 'add to cart',
+'ADD_TO_CART_2' => 'Dodaj u košaricu',
 'ADD_TO_GIFT_REGISTRY' => 'Dodaj na listu želja',
 'ADD_TO_LIST' => 'Add to List',
 'ADD_TO_LISTMANIA_LIST' => 'Dodaj na omiljenu listu',
-'ADD_TO_WISH_LIST' => 'Add to Wish List',
+'ADD_TO_WISH_LIST' => 'Dodaj u podsjetnik',
 'ADD_WRAPPING' => 'Zapakovati kao poklon',
-'ADD_YOUR_COMMENTS' => 'Add your comments',
+'ADD_YOUR_COMMENTS' => 'Vaša poruka',
 'ALL' => 'Sve',
 'ALL_LISTMANIA' => 'Sve omiljene liste',
 'ALREADY_ADDED_TAG' => 'You already tagged this text',
 'ALREADY_CUSTOMER' => 'Već imam kreirani korisnički račun',
-'APPLAY' => 'Apply',
-'ARTNUM' => 'Product number',
-'ART_NUMBER' => 'Art. No.:',
+'APPLAY' => 'Preuzmi',
+'ARTNUM' => 'Šifra',
+'ART_NUMBER' => 'Šifra artikla:',
 'ATENTION_GREETING_CARD' => 'Attention Greeting Card:',
 'AUTHOR' => 'Author',
 'AVAILABLE_ON' => 'Available on',

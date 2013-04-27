@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: buby (29)
+ * @translators: buby (113)
  */
 
 $sLangName  = 'Hrvatski';
@@ -47,7 +47,7 @@ $aLang = array(
 'SHOP_THEME_bl_showGiftWrapping' => 'Use gift wrapping',
 'SHOP_THEME_bl_showListmania' => 'Use listmania',
 'SHOP_THEME_bl_showOpenId' => 'Use Open ID',
-'SHOP_THEME_bl_showVouchers' => 'Use vouchers',
+'SHOP_THEME_bl_showVouchers' => 'Aktiviraj vaučere',
 'SHOP_THEME_bl_showWishlist' => 'Use gift registry',
 'SHOP_THEME_GROUP_display' => 'Display',
 'SHOP_THEME_GROUP_features' => 'Features',

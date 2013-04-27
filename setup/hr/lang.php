@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: buby (29)
+ * @translators: buby (113)
  */
 
 $sLangName  = 'Hrvatski';
@@ -33,7 +33,7 @@ $aLang = array(
 'BUTTON_BEGIN_INSTALL' => 'Start installation',
 'BUTTON_DB_INSTALL' => 'Create database now',
 'BUTTON_LICENCE' => 'Continue',
-'BUTTON_PROCEED_INSTALL' => 'Proceed with setup',
+'BUTTON_PROCEED_INSTALL' => 'Započmi instalaciju',
 'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Install demodata',
 'BUTTON_RADIO_LICENCE_ACCEPT' => 'I accept license conditions.',
 'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'I do not accept license conditions.',
