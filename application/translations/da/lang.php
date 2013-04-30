@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: topconcepts (811)
+ * @translators: gnomic (110), topconcepts (811)
  */
 
 $sLangName  = 'Dansk';
@@ -264,14 +264,14 @@ $aLang = array(
 'ERROR_MESSAGE_WRONG_DOWNLOAD_LINK' => 'Download link is not correct.',
 'ERRROR_MESSAGE_COMLETE_FIELDS_CORRECTLY' => 'Udfyld venligst alle felter, ellers kan ønskelisten ikke afsendes.',
 'EXPIRES_IN' => 'Udløber om:',
-'FACEBOOK_COMMENTS' => 'Facebook Kommentarer',
+'FACEBOOK_COMMENTS' => 'Facebook Comments',
 'FACEBOOK_ENABLEINFOLINK' => 'View information about the data transmission.',
 'FACEBOOK_ENABLELINK' => 'DISPLAY FACEBOOK CONTENT',
 'FACEBOOK_ENABLETEXT' => 'Data is transmitted to Facebook.',
 'FACEBOOK_ENABLE_INFOTEXT' => 'Here you can leave information about the transmission of personal data to Facebook.<br><br>While using Facebook plug-ins, a connection is established enabling the share of content with other users. Using plug-ins while browsing through the online shop being logged in on Facebook at the same time, your personal data is automatically transmitted to Facebook. You can find more information about collecting, using and processing of your personal data on <a href="http://www.facebook.com/policy.php" target="_blank">Facebook\'s Privacy Policy</a>.',
 'FACEBOOK_ENABLE_INFOTEXTHEADER' => 'Notes on data protection using Facebook plug-ins',
 'FACEBOOK_FACEPILE' => 'Facebook Facepile',
-'FACEBOOK_INVITE' => 'Facebook inviter',
+'FACEBOOK_INVITE' => 'Facebook Invite',
 'FACEBOOK_INVITETEXT' => 'Se her. Klik ganske enkelt på knappen herunder, for at tjekke det anbefalede produkt.',
 'FACEBOOK_INVITE_YOUR_FRIENDS' => 'Inviter dine venner',
 'FACEBOOK_LOCALE' => 'en_US',
@@ -770,7 +770,7 @@ $aLang = array(
 'SUM' => 'Sum:',
 'SURCHARGE' => 'Tillæg',
 'S_CATEGORY_PRODUCTS' => 'Produkter fra kategori %s',
-'TAGS' => 'Søgeord',
+'TAGS' => 'Tags',
 'TERMS_AND_CONDITIONS' => 'AFB',
 'THANK_YOU' => 'Mange tak',
 'TIME' => 'Tid:',
