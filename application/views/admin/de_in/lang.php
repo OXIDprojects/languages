@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (495), dsb (1), marco (4415), simoneschuppe (4), Thielo (1)
+ * @translators: admin (495), dsb (1), marco (4424), simoneschuppe (4), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';
@@ -401,15 +401,17 @@ $aLang = array(
 'dyn_menu' => 'Servicebereich',
 'dyn_technics' => 'Technik',
 'DYN_TRUSTED_ACTIVE' => 'Trusted Shops Siegel anzeigen',
+'DYN_TRUSTED_AMAZON_PAYMENTS' => 'Amazon Payments',
 'DYN_TRUSTED_CANCELLED' => 'Das Zertifikat ist abgelaufen',
 'DYN_TRUSTED_CASH_ON_DELIVERY' => 'Nachnahme',
 'DYN_TRUSTED_CASH_ON_PICKUP' => 'Zahlung bei Abholung',
 'DYN_TRUSTED_CHEQUE' => 'Verrechnungsscheck',
-'DYN_TRUSTED_CLICKANDBUY' => 'Click&Buy (Firstgate)',
+'DYN_TRUSTED_CLICKANDBUY' => 'Click&Buy',
 'DYN_TRUSTED_CREDIT_CARD' => 'Kreditkarte',
 'DYN_TRUSTED_DIRECT_DEBIT' => 'Lastschrift/Bankeinzug',
-'DYN_TRUSTED_DIRECT_E_BANKING' => 'Sofortüberweisung.de',
+'DYN_TRUSTED_DIRECT_E_BANKING' => 'SOFORT Überweisung',
 'DYN_TRUSTED_DISABLED' => 'Das Zertifikat ist gesperrt',
+'DYN_TRUSTED_DOTPAY' => 'Dotpay',
 'DYN_TRUSTED_FINANCING' => 'Finanzierung',
 'DYN_TRUSTED_GIROPAY' => 'Giropay',
 'DYN_TRUSTED_GOOGLE_CHECKOUT' => 'Google Checkout',
@@ -417,11 +419,13 @@ $aLang = array(
 'DYN_TRUSTED_INVALID_TS_ID' => 'Das Zertifikat existiert nicht',
 'DYN_TRUSTED_INVOICE' => 'Rechnung',
 'DYN_TRUSTED_LEASING' => 'Leasing',
+'DYN_TRUSTED_MONEYBOOKERS' => 'moneybookers.com / Skrill',
 'DYN_TRUSTED_OTHER' => 'Andere Zahlungsart',
 'DYN_TRUSTED_PASSWORD' => 'Passwort (wsPassword)',
 'DYN_TRUSTED_PAYBOX' => 'Paybox',
 'DYN_TRUSTED_PAYPAL' => 'PayPal',
 'DYN_TRUSTED_PREPAYMENT' => 'Vorauskasse / Überweisung',
+'DYN_TRUSTED_PRZELEWY24' => 'Przelewy24',
 'DYN_TRUSTED_RATINGS' => 'Den Feedback Button anzeigen',
 'DYN_TRUSTED_RATINGS_COMMENT' => 'Entscheide, an welchen Stellen Du Kundenfeedback einholen möchtest.',
 'DYN_TRUSTED_RATINGS_CONFIGFILE' => '<b>HINWEIS:</b> Die Datei config.inc.php enthält weitere Konfigurationseinstellungen. Soweit Du die Einstellungen der Trusted Shops Kundenbewertung bearbeiten oder die Unterstützung für weitere Sprachen hinzufügen möchtest, (die Standardkonfiguration umfasst DE und EN), editiere bitte Deine Konfigurationsdatei.',
@@ -435,7 +439,7 @@ $aLang = array(
 'DYN_TRUSTED_RATINGS_THANKYOU' => 'Auf der Bestätigungsseite nach der Bestellung',
 'DYN_TRUSTED_RATINGS_WIDGET' => 'Bewertungs-Widget im eShop-Frontend anzeigen',
 'DYN_TRUSTED_SHOPPAYMENT' => 'Zahlart im Shop',
-'DYN_TRUSTED_SHOP_CARD' => 'Online Shop Zahlungskarte',
+'DYN_TRUSTED_SHOP_CARD' => 'Zahlungskarte des Online Shops',
 'DYN_TRUSTED_TESTMODUS' => 'Testmodus aktiv',
 'DYN_TRUSTED_TRUSTEDSHOP' => 'Trusted Shops ID',
 'DYN_TRUSTED_TRUSTEDSHOP_ERROR' => 'Ungültige Trusted Shops ID. Bitte wende Dich an Deinen Ansprechpartner bei Trusted Shops, um eine gültige Trusted Shops ID zu erhalten.',

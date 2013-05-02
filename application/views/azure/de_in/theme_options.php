@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (495), dsb (1), marco (4415), simoneschuppe (4), Thielo (1)
+ * @translators: admin (495), dsb (1), marco (4424), simoneschuppe (4), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';
@@ -38,8 +38,8 @@ $aLang = array(
 'HELP_SHOP_THEME_sManufacturerIconsize' => 'Dieses Logo wird auf der Startseite in der Markenlogo-übersicht angezeigt.',
 'HELP_SHOP_THEME_sThumbnailsize' => 'Thumbnails sind kleine Bilder eines Artikels. Sie werden z. B. <br><ul><li>in Artikellisten angezeigt. Artikellisten sind z. B. Kategorieansichten (alle Artikel in einer Kategorie werden aufgelistet) und die Suchergebnisse.</li><li>in Aktionen angezeigt, die in der Mitte der Startseite angezeigt werden, z. B. <span class="filename_filepath_or_italic">Die Dauerbrenner</span> und <span class="filename_filepath_or_italic">Frisch eingetroffen!</span>.</li></ul>Damit das Design des eShops nicht durch zu große Thumbnails gestört wird, werden zu große Thumbnails automatisch verkleinert. Die maximale Größe kannst Du hier eingeben.',
 'SHOP_THEME_aDetailImageSizes' => 'Größe der Artikelbilder  (Bild 1-12) in Pixeln (Breite*Höhe)',
-'SHOP_THEME_aNrofCatArticles' => 'Anzahl der Artikel, die in einer Artikelliste pro Seite angezeigt werden können<br><br>Warnung: Eine große Anzahl von Artikeln pro Seite (über 100) kann kann die Geschwindigkeit des Shops erhebliche beeinflussen!',
-'SHOP_THEME_aNrofCatArticlesInGrid' => 'Für Galerie: Anzahl der Artikel, die in einer Artikelliste pro Seite angezeigt werden können<br><br>Warnung: Eine große Anzahl von Artikeln pro Seite (über 100) kann die Geschwindigkeit des Shops erhebliche beeinflussen!',
+'SHOP_THEME_aNrofCatArticles' => 'Anzahl der Artikel, die in einer Artikelliste pro Seite angezeigt werden können<br><br>Warnung: Eine große Anzahl von Artikeln pro Seite (über 100) kann kann die Geschwindigkeit des Shops erheblich beeinflussen!',
+'SHOP_THEME_aNrofCatArticlesInGrid' => 'Für Galerie: Anzahl der Artikel, die in einer Artikelliste pro Seite angezeigt werden können<br><br>Warnung: Eine große Anzahl von Artikeln pro Seite (über 100) kann die Geschwindigkeit des Shops erheblich beeinflussen!',
 'SHOP_THEME_blShowBirthdayFields' => 'Eingabefeld für das Geburtsdatum anzeigen, wenn Benutzer ihre Daten eingeben',
 'SHOP_THEME_blShowFinalStep' => 'Bestellbestätigung anzeigen, wenn die Bestellung abgeschlossen ist (fünfter Bestellschritt)',
 'SHOP_THEME_blShowListDisplayType' => 'Produktlistentyp in Produktlisten anzeigen',

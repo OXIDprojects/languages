@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), cyberkatze (8), mantgomery (2), marco (1168), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), cyberkatze (8), mantgomery (2), marco (1175), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = 'Русский';
@@ -401,15 +401,17 @@ $aLang = array(
 'dyn_menu' => 'Раздел служб',
 'dyn_technics' => 'Технология',
 'DYN_TRUSTED_ACTIVE' => 'Показать печать "Trusted Shops"',
+'DYN_TRUSTED_AMAZON_PAYMENTS' => 'Amazon Payments',
 'DYN_TRUSTED_CANCELLED' => 'The certificate has expired',
 'DYN_TRUSTED_CASH_ON_DELIVERY' => 'Cash on delivery',
 'DYN_TRUSTED_CASH_ON_PICKUP' => 'Cash on pickup',
 'DYN_TRUSTED_CHEQUE' => 'Cheque',
-'DYN_TRUSTED_CLICKANDBUY' => 'Click&Buy (Firstgate)',
+'DYN_TRUSTED_CLICKANDBUY' => 'Click&Buy',
 'DYN_TRUSTED_CREDIT_CARD' => 'Кредитная карточка',
 'DYN_TRUSTED_DIRECT_DEBIT' => 'Direct debit',
-'DYN_TRUSTED_DIRECT_E_BANKING' => 'Sofortüberweisung.de',
+'DYN_TRUSTED_DIRECT_E_BANKING' => 'SOFORT banking',
 'DYN_TRUSTED_DISABLED' => 'The certificate is locked',
+'DYN_TRUSTED_DOTPAY' => 'Dotpay',
 'DYN_TRUSTED_FINANCING' => 'Финансирование',
 'DYN_TRUSTED_GIROPAY' => 'Giropay',
 'DYN_TRUSTED_GOOGLE_CHECKOUT' => 'Google Checkout',
@@ -417,11 +419,13 @@ $aLang = array(
 'DYN_TRUSTED_INVALID_TS_ID' => 'Сертификат не существует',
 'DYN_TRUSTED_INVOICE' => 'Cчёт',
 'DYN_TRUSTED_LEASING' => 'Лизинг',
+'DYN_TRUSTED_MONEYBOOKERS' => 'moneybookers.com / Skrill',
 'DYN_TRUSTED_OTHER' => 'другой вариант оплаты',
 'DYN_TRUSTED_PASSWORD' => 'Password (wsPassword)',
 'DYN_TRUSTED_PAYBOX' => 'Paybox',
 'DYN_TRUSTED_PAYPAL' => 'PayPal',
 'DYN_TRUSTED_PREPAYMENT' => 'Оплата / перевод',
+'DYN_TRUSTED_PRZELEWY24' => 'Przelewy24',
 'DYN_TRUSTED_RATINGS' => 'Show feedback button',
 'DYN_TRUSTED_RATINGS_COMMENT' => 'Decide where you would like to invite your customer to leave feedback.',
 'DYN_TRUSTED_RATINGS_CONFIGFILE' => '<b>NOTICE:</b> config.inc.php file contains additional configuration options. In case you need to customize Trusted Shops Customer Ratings or add additional language support (default configuration supports DE and EN) please adjust your config file.',
