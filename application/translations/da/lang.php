@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: gnomic (315), topconcepts (811)
+ * @translators: gnomic (338), topconcepts (811)
  */
 
 $sLangName  = 'Dansk';
@@ -124,7 +124,7 @@ $aLang = array(
 'COMPANY' => 'Firma:',
 'COMPARE' => 'sammenlign',
 'COMPARE_2' => 'Sammenlign',
-'COMPLETE_MARKED_FIELDS' => 'Felter med en <span class=req">*</span> skal udfyldes"',
+'COMPLETE_MARKED_FIELDS' => 'Udfyld venligst alle felter med <b>fed</b> skrift.',
 'COMPLETE_ORDER' => 'Afslut bestilling',
 'CONFIRM_PASSWORD' => 'Bekræft Password:',
 'CONFIRM_PASSWORD_2' => 'Bekræft Password:',
@@ -178,7 +178,7 @@ $aLang = array(
 'EMAIL' => 'E-Mail',
 'EMAIL_2' => 'E-Mail:',
 'EMAIL_ADDRESS' => 'E-Mail-adresse',
-'EMAIL_ADDRESS_2' => 'E-Mail-adresse:',
+'EMAIL_ADDRESS_2' => 'E-mail-adresse:',
 'ENABLE' => 'Aktiver',
 'ENTER_COUPON_NUMBER' => 'Angiv kupon nummer',
 'ENTER_COUPON_NUMBER_2' => 'Angiv rabatkuponkode:',
@@ -216,7 +216,7 @@ $aLang = array(
 'ERROR_MESSAGE_INCORRECT_DATE' => 'Forkert dato',
 'ERROR_MESSAGE_INPUT_EMPTYPASS' => 'Angiv venligst et Password.',
 'ERROR_MESSAGE_INPUT_INVALIDAMOUNT' => 'Angiv venligst en gyldig mængde for dette produkt!',
-'ERROR_MESSAGE_INPUT_NOTALLFIELDS' => 'Udfyld venligst alle felter med "*"!',
+'ERROR_MESSAGE_INPUT_NOTALLFIELDS' => 'Udfyld venligst dette felt.',
 'ERROR_MESSAGE_INPUT_NOVALIDEMAIL' => 'Ingen gyldige e-mail adresse!',
 'ERROR_MESSAGE_INPUT_PASSTOOSHORT' => 'Fejl: Dit Password er for kort.',
 'ERROR_MESSAGE_INPUT_WRONGCAPTCHA' => 'Den angivede verificeringskode er ikke korrekt. Prøv venligst igen.',
@@ -390,10 +390,10 @@ $aLang = array(
 'MESSAGE_NEWSLETTER_CONGRATULATIONS' => 'Hjertelig tillykke!',
 'MESSAGE_NEWSLETTER_FOR_SUBSCRIPTION_BONUS' => 'NU! Afhent dine nyhedsbrevs bonuspoint.',
 'MESSAGE_NEWSLETTER_NOT_ABLE_TO_SEND_EMAIL' => 'Vi kan desværre ikke sende dig nogen e-mail bekræftelse på modtagelse af nyhedsbreve.<br>Kontroller venligst din e-mail adresse.',
-'MESSAGE_NEWSLETTER_SENT_CONFIRMATION' => 'Du har lige modtaget en mail, hvormed du kan aktivere vores Newsletter.',
-'MESSAGE_NEWSLETTER_SUBSCRIPTION' => 'Du kan til enhver tid afbestille vores Newsletter.',
-'MESSAGE_NEWSLETTER_SUBSCRIPTION_ACTIVATED' => 'Du er nu frikoblet til at modtage vores Newsletters.',
-'MESSAGE_NEWSLETTER_SUBSCRIPTION_CANCELED' => 'Du har med succes afbestilt vores Newsletters.',
+'MESSAGE_NEWSLETTER_SENT_CONFIRMATION' => 'Du har lige modtaget en mail, hvormed du kan aktivere vores nyhedsbrev.',
+'MESSAGE_NEWSLETTER_SUBSCRIPTION' => 'Du kan til enhver tid afbestille vores nyhedsbrev.',
+'MESSAGE_NEWSLETTER_SUBSCRIPTION_ACTIVATED' => 'Du er nu frikoblet til at modtage vores nyhedsbrev.',
+'MESSAGE_NEWSLETTER_SUBSCRIPTION_CANCELED' => 'Du har med succes afbestilt vores nyhedsbrev.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_CENCELED' => 'Newsletter blev afbestilt.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_SUCCESS' => 'Newsletter blev bestilt.',
 'MESSAGE_NOT_ABLE_SEND_CONFIRMATION_EMAIL' => 'Desværre kunne vi ikke sende nogen e-mail til bekræftelse af din Newsletter modtagelse. <br>Kontroller venligst e-mail adresse.<br>',
@@ -425,7 +425,7 @@ $aLang = array(
 'MESSAGE_SORRY_NO_GIFT_REGISTRY' => 'Desværre er der ikke fundet nogen passende notatseddel!',
 'MESSAGE_STOCK_LOW' => 'Lagerbestand lav : Denne artikel har nået den ang. lagerbestandsgrænse.',
 'MESSAGE_SUBMIT_BOTTOM' => 'Afsend din bestilling ved slutningen af denne oversigt',
-'MESSAGE_THANKYOU_FOR_SUBSCRIBING_NEWSLETTERS' => 'Mange tak for abonnementet af vores Newsletters.',
+'MESSAGE_THANKYOU_FOR_SUBSCRIBING_NEWSLETTERS' => 'Tak for din tilmelding til vores nyhedsbrev',
 'MESSAGE_TO_BE_LOGGED_WRITE_GUESTBOOK' => 'Du skal være <span class=note">tilmeldt</span>, for at kunne skrive et indlæg i gæstebogen."',
 'MESSAGE_TRUSTED_SHOPS_SEAL_OF_APPROVAL' => 'er en af Trusted Shops afprøvet Onlineforhendler med partner Segl og køberbeskyttelse. Mere...',
 'MESSAGE_UNAVAILABLE_SHIPPING_METHOD' => 'Den valgte forsendelsesmetode er ikke længere mulig. Vælg venligst en anden.',
@@ -475,12 +475,12 @@ $aLang = array(
 'NEWEST_SHOP_PRODUCTS_DESCRIPTION' => 'Nyeste artikler',
 'NEWLIST' => 'Ny favoritliste',
 'NEWS' => 'News',
-'NEWSLETTER' => 'Newsletter',
+'NEWSLETTER' => 'Nyhedsbrev',
 'NEWSLETTER_EMAIL_NOT_EXIST' => 'Den angivede e-mail adresse er ikke tilmeldt vores nyhedsbrev.',
-'NEWSLETTER_SETTINGS' => 'Newslettereindstillinger',
-'NEWSLETTER_SUBSCRIBE_CANCEL' => 'Newsletter abonnere / afmelde',
-'NEWSLETTER_SUBSCRIPTION' => 'Newsletter tilmelding',
-'NEWSLETTER_SUBSCRIPTION_2' => 'Newsletter tilmelding:',
+'NEWSLETTER_SETTINGS' => 'Nyhedsbrev indstillinger',
+'NEWSLETTER_SUBSCRIBE_CANCEL' => 'Tilmeld/afmelde Nyhedsbrev',
+'NEWSLETTER_SUBSCRIPTION' => 'Tilmeld nyhedsbrev',
+'NEWSLETTER_SUBSCRIPTION_2' => 'Tilmeld nyhedsbrev:',
 'NEWS_2' => 'Nyheder:',
 'NEW_ADDRESS' => 'Ny adresse',
 'NEW_BASKET_ITEM_MSG' => 'Der er blevet lagt et nyt produkt i indkøbsvognen',

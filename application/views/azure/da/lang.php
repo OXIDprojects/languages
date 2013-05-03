@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: gnomic (315), topconcepts (811)
+ * @translators: gnomic (338), topconcepts (811)
  */
 
 $sLangName  = 'Dansk';
@@ -91,7 +91,7 @@ $aLang = array(
 'FORM_PRIVATESALES_INVITE_SENDEREMAIL' => 'Afsenderens e-mail:',
 'FORM_RECOMMENDATION_EDIT_LISTTITLE' => 'Titel',
 'FORM_REGISTER_BILLINGADDRESS' => 'Betalers adresse',
-'FORM_REGISTER_COMPLETEMARKEDFIELDS' => '(Udfyld venligst alle felter markeret med en<span class="req">*</span>)',
+'FORM_REGISTER_COMPLETEMARKEDFIELDS' => '(Udfyld venligst alle felter med <b>fed</b> skrift.)',
 'FORM_REGISTER_IAGREETORIGHTOFWITHDRAWAL1' => 'Jeg er blevet informeret om min',
 'FORM_REGISTER_IAGREETORIGHTOFWITHDRAWAL3' => 'underrettet.',
 'FORM_REGISTER_IAGREETOTERMS1' => 'Jeg accepterer',
@@ -160,7 +160,7 @@ $aLang = array(
                                                                       - Bestillings historik<br>
                                                                       - Personlige ønskeliste<br>
                                                                       - Personlig Gaveliste<br>
-                                                                      - Nyhedsbrev abonnement<br>
+                                                                      - Tilmeld nyhedsbrev<br>
                                                                       - Særlige tilbud og rabatter',
 'PAGE_CHECKOUT_WRAPPING_CANCEL' => 'Annuller',
 'PAGE_CHECKOUT_WRAPPING_NONE' => 'INTET',
