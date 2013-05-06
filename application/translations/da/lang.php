@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: gnomic (338), topconcepts (811)
+ * @translators: gnomic (352), topconcepts (811)
  */
 
 $sLangName  = 'Dansk';
@@ -33,7 +33,7 @@ $aLang = array(
 'ACCOUNT' => 'Konto',
 'ACCOUNT_INFORMATION' => 'Kontoinformationer',
 'ADD' => 'tilføj',
-'ADDITIONAL_INFO' => 'yderl. Info:',
+'ADDITIONAL_INFO' => 'Yderligere info:',
 'ADDRESS' => 'Afsend',
 'ADDRESSES' => 'Adresser',
 'ADDRESSES_2' => 'Adresser:',
@@ -109,7 +109,7 @@ $aLang = array(
 'CATEGORY_S' => '| Kategori: %s',
 'CELLUAR_PHONE' => 'Mobiltelefon:',
 'CHANGE' => 'Ændre',
-'CHANGE_ACCOUNT_PASSWORD' => 'ændre kontopassword',
+'CHANGE_ACCOUNT_PASSWORD' => 'Ændre konto adgangskode',
 'CHANGE_PASSWORD' => 'Gem nyt Password',
 'CHANGE_PASSWORD_2' => 'Skift Password',
 'CHARGES' => 'Omkostninger:',
@@ -276,7 +276,7 @@ $aLang = array(
 'FACEBOOK_INVITE_YOUR_FRIENDS' => 'Inviter dine venner',
 'FACEBOOK_LOCALE' => 'en_US',
 'FACEBOOK_OPEN_WEBSITE' => 'ben hjemmeside',
-'FAX' => 'Telefax:',
+'FAX' => 'Fax:',
 'FIRST_LAST_NAME' => 'Navn:',
 'FIRST_NAME' => 'Fornavn:',
 'FIRST_NAME_2' => 'Fornavn:',
@@ -392,11 +392,11 @@ $aLang = array(
 'MESSAGE_NEWSLETTER_NOT_ABLE_TO_SEND_EMAIL' => 'Vi kan desværre ikke sende dig nogen e-mail bekræftelse på modtagelse af nyhedsbreve.<br>Kontroller venligst din e-mail adresse.',
 'MESSAGE_NEWSLETTER_SENT_CONFIRMATION' => 'Du har lige modtaget en mail, hvormed du kan aktivere vores nyhedsbrev.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION' => 'Du kan til enhver tid afbestille vores nyhedsbrev.',
-'MESSAGE_NEWSLETTER_SUBSCRIPTION_ACTIVATED' => 'Du er nu frikoblet til at modtage vores nyhedsbrev.',
-'MESSAGE_NEWSLETTER_SUBSCRIPTION_CANCELED' => 'Du har med succes afbestilt vores nyhedsbrev.',
-'MESSAGE_NEWSLETTER_SUBSCRIPTION_CENCELED' => 'Newsletter blev afbestilt.',
-'MESSAGE_NEWSLETTER_SUBSCRIPTION_SUCCESS' => 'Newsletter blev bestilt.',
-'MESSAGE_NOT_ABLE_SEND_CONFIRMATION_EMAIL' => 'Desværre kunne vi ikke sende nogen e-mail til bekræftelse af din Newsletter modtagelse. <br>Kontroller venligst e-mail adresse.<br>',
+'MESSAGE_NEWSLETTER_SUBSCRIPTION_ACTIVATED' => 'Din tilmelding til vores nyhedsbrev er nu aktiveret.',
+'MESSAGE_NEWSLETTER_SUBSCRIPTION_CANCELED' => 'Nyhedsbrevet er blevet afmeldt.',
+'MESSAGE_NEWSLETTER_SUBSCRIPTION_CENCELED' => 'Nyhedsbrevet er blevet afmeldt.',
+'MESSAGE_NEWSLETTER_SUBSCRIPTION_SUCCESS' => 'Tilmelding til nyhedsbrevet er vellykket',
+'MESSAGE_NOT_ABLE_SEND_CONFIRMATION_EMAIL' => 'Desværre kunne vi ikke sende en nyhedsbrev aktiveringsmail. <br>Kontroller venligst e-mail adressen.<br>',
 'MESSAGE_NOT_ABLE_TO_SEND_EMAIL' => 'Desværre kunne vi ikke sende dig nogen e-mail.',
 'MESSAGE_NOT_ON_STOCK' => 'Denne artikel er endnu ikke på lager og skal først efterbestilles.',
 'MESSAGE_NO_DELIVERY_METHOD' => '<p>Vi har i øjeblikket ikke nogen forsendelsesmetode for dette land.</p> <p>Vi vil forsøge at finde en forsendelsesmetode og vil informere dig via e-mail så hurtigt som muligt omkring resultatet, inklusiv yderligere informationer om leverings omkostningerne.</p> <p>Hvis du acceptere denne procedure, så vælg venligst "forsæt til næste trin"</p>',
@@ -421,7 +421,7 @@ $aLang = array(
 'MESSAGE_SELECTED_IPAYMENT' => 'Du har valgt "iPayment" som betalingsmetode.<br>Du bliver nu automatisk viderestillet til iPayment, hvor du kan indtaste de nødvendige data for betaling med "iPayment".<br><br>Hvis dette ikke er tilfældet, fx. hvis du har deaktiveret Javascript- så klik venligst på følgende "iPayment"-Symbol, for at gennemføre dette manuelt."',
 'MESSAGE_SELECT_AT_LEAST_TWO_PRODUCTS' => 'Vælg venligst mindst 2 artikler til sammenligning.',
 'MESSAGE_SEND_GIFT_REGISTRY' => 'Klik her, for at sende din ønskeliste til dine venner.',
-'MESSAGE_SENT_CONFIRMATION_EMAIL' => 'Du har netop modtaget en e-mail, hvormed du kan frikoble vores Newsletter.<br><br>Mange tak.',
+'MESSAGE_SENT_CONFIRMATION_EMAIL' => 'Du har nu fået tilsendt en bekræftelses e-mail, hvor du kan aktivere din tilmelding.<br><br>Mange tak.',
 'MESSAGE_SORRY_NO_GIFT_REGISTRY' => 'Desværre er der ikke fundet nogen passende notatseddel!',
 'MESSAGE_STOCK_LOW' => 'Lagerbestand lav : Denne artikel har nået den ang. lagerbestandsgrænse.',
 'MESSAGE_SUBMIT_BOTTOM' => 'Afsend din bestilling ved slutningen af denne oversigt',
@@ -764,7 +764,7 @@ $aLang = array(
 'SUBMIT_COUPON' => 'Indløs rabatkupon',
 'SUBMIT_ORDER' => 'Afsend bestilling',
 'SUBSCRIBE' => 'Abonnere',
-'SUBSCRIBE_NEWSLETTER' => 'Tilmeld Newsletter:',
+'SUBSCRIBE_NEWSLETTER' => 'Tilmeld Nyhedsbrev:',
 'SUBSCRIBE_NEWSLETTER_MESSAGE' => 'Det er altid muligt at almelde nyhedsbreve.',
 'SUCCESS' => 'Succes!',
 'SUM' => 'Sum:',
@@ -814,7 +814,7 @@ $aLang = array(
 'USE_BILLINGADDRESS_FOR_SHIPPINGADDRESS' => 'Anvend fakturaadresse som leveringsadresse',
 'VALID_UNTIL' => 'Gyldig til:',
 'VAT' => 'Moms',
-'VAT_ID_NUMBER' => 'Moms ID-nr.:',
+'VAT_ID_NUMBER' => 'CVR:',
 'VENDOR' => 'Leverandør',
 'VENDOR_S' => '| fabrikat: %s',
 'VERIFICATION_CODE' => 'Kontrolkode',
