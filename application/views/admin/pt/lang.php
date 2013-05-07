@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1082), johnjase (163), monteiro (2)
+ * @translators: admin (1082), johnjase (165), monteiro (2)
  */
 
 $sLangName  = 'Português';
@@ -57,7 +57,7 @@ $aLang = array(
 'ARTICLE_ATTRIBUTE_TOOMANYATTRIBUTES' => 'Por favor selecione um único Atributo',
 'ARTICLE_BUNDLE_ALLITEMS' => 'Todos os produtos disponíveis',
 'ARTICLE_BUNDLE_ASSIGNARTICLE' => 'Atribuir produto',
-'ARTICLE_BUNDLE_ASSIGNEDARTICLE' => 'Bundled Product:',
+'ARTICLE_BUNDLE_ASSIGNEDARTICLE' => 'Produto Empacotado',
 'ARTICLE_BUNDLE_UNASSIGNARTICLE' => 'Desatribuir produto',
 'ARTICLE_CROSSSELLING_ALLITEMS' => 'Todos os produtos disponíveis',
 'ARTICLE_CROSSSELLING_ASSIGNACCESSORIES' => 'Atribuir acessórios',
@@ -65,7 +65,7 @@ $aLang = array(
 'ARTICLE_CROSSSELLING_CROSSSELLING' => 'Crossselling Products',
 'ARTICLE_CROSSSELLING_EXTRAS' => 'Acessórios para o Produto',
 'ARTICLE_EXTEND_ALLCATS' => 'Todas as categorias disponíveis',
-'ARTICLE_EXTEND_ARTEXTRA' => 'Bundled Product',
+'ARTICLE_EXTEND_ARTEXTRA' => 'Produto Empacotado',
 'ARTICLE_EXTEND_ARTINCATS' => 'Produto está nestas caategorias',
 'ARTICLE_EXTEND_BLFIXEDPRICE' => 'Desativar alerta de preço',
 'ARTICLE_EXTEND_BPRICE' => 'Preço de compra',
