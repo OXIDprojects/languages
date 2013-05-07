@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1082), johnjase (83), monteiro (2)
+ * @translators: admin (1082), johnjase (163), monteiro (2)
  */
 
 $sLangName  = 'Português';
@@ -29,7 +29,7 @@ $sLangName  = 'Português';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ATTENTION' => 'Attention, important',
+'ATTENTION' => 'Atenção, importante',
 'BUTTON_BEGIN_INSTALL' => 'Start installation',
 'BUTTON_DB_INSTALL' => 'Create database now',
 'BUTTON_LICENCE' => 'Continue',

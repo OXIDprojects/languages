@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1082), johnjase (83), monteiro (2)
+ * @translators: admin (1082), johnjase (163), monteiro (2)
  */
 
 $sLangName  = 'Português';
@@ -56,7 +56,7 @@ $aLang = array(
 'ALREADY_CUSTOMER' => 'Já sou um cliente',
 'APPLAY' => 'Aplicar',
 'ARTNUM' => 'Número do produto',
-'ART_NUMBER' => 'Art. No.:',
+'ART_NUMBER' => 'No. Art.:',
 'ATENTION_GREETING_CARD' => 'Cartão saudação:',
 'AUTHOR' => 'Autor',
 'AVAILABLE_ON' => 'Disponível em',
