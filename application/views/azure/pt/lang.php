@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1082), monteiro (2)
+ * @translators: admin (1082), johnjase (83), monteiro (2)
  */
 
 $sLangName  = 'Português';
@@ -31,7 +31,7 @@ $aLang = array(
 'charset' => 'utf-8',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'De momento, não existem listas Listmania. Para criar uma, clique',
 'ADD_RECOMM_ADDRECOMMLINK2' => 'aqui',
-'allBrands' => 'All Brands',
+'allBrands' => 'Todas as marcas',
 'byBrand' => 'Por marca',
 'byManufacturer' => 'Por marca',
 'byVendor' => 'Por distribuidor',
