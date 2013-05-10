@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1082), johnjase (165), monteiro (2)
+ * @translators: admin (1082), goncalop (28), johnjase (172), monteiro (2)
  */
 
 $sLangName  = 'Português';
@@ -30,16 +30,16 @@ $sLangName  = 'Português';
 $aLang = array(
 'charset' => 'utf-8',
 'ATTENTION' => 'Atenção, importante',
-'BUTTON_BEGIN_INSTALL' => 'Start installation',
-'BUTTON_DB_INSTALL' => 'Create database now',
-'BUTTON_LICENCE' => 'Continue',
+'BUTTON_BEGIN_INSTALL' => 'Instalação iniciada',
+'BUTTON_DB_INSTALL' => 'Criar base de dados agora',
+'BUTTON_LICENCE' => 'Continuar',
 'BUTTON_PROCEED_INSTALL' => 'Proceed with setup',
 'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Install demodata',
-'BUTTON_RADIO_LICENCE_ACCEPT' => 'I accept license conditions.',
-'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'I do not accept license conditions.',
+'BUTTON_RADIO_LICENCE_ACCEPT' => 'Eu aceito as condições de licensa',
+'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'Eu não aceito as condições de licensa',
 'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => 'Do <strong>not</strong> install demodata',
 'BUTTON_START_INSTALL' => 'Restart setup',
-'BUTTON_WRITE_DATA' => 'Save and continue',
+'BUTTON_WRITE_DATA' => 'Gravar e continuar',
 'BUTTON_WRITE_LICENCE' => 'Save license key',
 'ERROR_BAD_DEMODATA' => 'ERROR: Issue while inserting this SQL statements: ',
 'ERROR_BAD_SERIAL_NUMBER' => 'ERROR: Wrong license key!',

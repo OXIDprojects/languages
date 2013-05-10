@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: gnomic (352), topconcepts (811)
+ * @translators: gnomic (358), topconcepts (811)
  */
 
 $sLangName  = 'Dansk';

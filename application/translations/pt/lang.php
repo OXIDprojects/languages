@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1082), johnjase (165), monteiro (2)
+ * @translators: admin (1082), goncalop (28), johnjase (172), monteiro (2)
  */
 
 $sLangName  = 'Português';
@@ -91,7 +91,7 @@ $aLang = array(
 'BILLING_SHIPPING_SETTINGS' => 'Configuração de facturação e entrega',
 'BIRTHDATE' => 'Data de nascimento:',
 'BLOCK_PRICE' => 'Bloco preço',
-'BRAND' => 'Brand',
+'BRAND' => 'Marca',
 'CANCEL' => 'Cancelar',
 'CAPTION' => 'Subtitulo:',
 'CARD_MASTERCARD' => 'Mastercard',
