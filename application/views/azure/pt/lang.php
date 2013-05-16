@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1082), goncalop (28), johnjase (172), monteiro (2)
+ * @translators: admin (1082), goncalop (66), johnjase (172), monteiro (2)
  */
 
 $sLangName  = 'Português';
@@ -35,13 +35,13 @@ $aLang = array(
 'byBrand' => 'Por marca',
 'byManufacturer' => 'Por marca',
 'byVendor' => 'Por distribuidor',
-'DETAILS_ARTNUMBER' => 'Product Nr.:',
+'DETAILS_ARTNUMBER' => 'Nr. de produto:',
 'DETAILS_CHOOSEVARIANT' => 'Please select a variant',
 'DETAILS_LOCATOR_PRODUCT' => 'PRODUTO',
-'DETAILS_PLUSSHIPPING2' => 'shipping costs.',
+'DETAILS_PLUSSHIPPING2' => 'custos de entrega.',
 'DETAILS_PRICEALARM' => '<b>[!]</b> Alerta de preço',
 'DETAILS_VPE_MESSAGE_1' => 'Este produto só pode ser encomendado em packs de',
-'DETAILS_VPE_MESSAGE_2' => 'purchased.',
+'DETAILS_VPE_MESSAGE_2' => 'comprado.',
 'EMAIL_INVITE_HTML_INVITETOSHOP' => 'Um convite de',
 'EMAIL_INVITE_HTML_INVITETOSHOP2' => 'para visitar',
 'EMAIL_INVITE_HTML_INVITETOSHOP3' => 'to visit.',
@@ -55,7 +55,7 @@ $aLang = array(
 'EMAIL_ORDER_CUST_HTML_SHIPPINGNET' => 'Shipping costs (w/o tax):',
 'EMAIL_ORDER_CUST_HTML_TAX1' => 'plus tax',
 'EMAIL_ORDER_CUST_HTML_TSPROTECTIONCHARGETAX1' => 'plus tax',
-'EMAIL_ORDER_OWNER_HTML_MESSAGE' => 'Message: ',
+'EMAIL_ORDER_OWNER_HTML_MESSAGE' => 'Mensagem:',
 'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>PAYMENT INFORMATION SWITCHED OFF</b> - To switch them on, please change application/views/[theme]/email_order_owner_html.tpl.',
 'EMAIL_SENDDOWNLOADS_DOWNLOADS_DESC' => 'Download your ordered files here.',
 'EMAIL_SENDDOWNLOADS_GREETING' => 'Hello',

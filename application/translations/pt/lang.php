@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1082), goncalop (28), johnjase (172), monteiro (2)
+ * @translators: admin (1082), goncalop (66), johnjase (172), monteiro (2)
  */
 
 $sLangName  = 'Português';
@@ -133,7 +133,7 @@ $aLang = array(
 'CONTINUE_SHOPPING' => 'Continuar a comprar',
 'CONTINUE_TO_NEXT_STEP' => 'Continuar para o próximo passo',
 'COOKIE_NOTE' => 'This online shop is using cookies to give you the best shopping expierience. Thereby for example the session information or language setting are stored on your computer. Without cookies the range of the online shop\'s functionality is limited.',
-'COOKIE_NOTE_CLOSE' => 'Close',
+'COOKIE_NOTE_CLOSE' => 'Fechar',
 'COOKIE_NOTE_DISAGREE' => 'If you do not agree, please click here.',
 'COUNTRY' => 'País:',
 'COUPON' => 'Cupão',
