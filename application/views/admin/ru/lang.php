@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), cyberkatze (8), mantgomery (2), marco (1175), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), cyberkatze (8), mantgomery (2), marco (1180), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
 
 $sLangName  = 'Русский';
@@ -1001,16 +1001,16 @@ $aLang = array(
 'ORDER_LIST_FOLDER_ALL' => 'все',
 'ORDER_LIST_MENUITEM' => 'Administer Orders',
 'ORDER_LIST_MENUSUBITEM' => 'Заказы',
-'ORDER_LIST_ORDERTIME' => 'Order Time',
+'ORDER_LIST_ORDERTIME' => 'Bремя заказа',
 'ORDER_LIST_PAID' => 'День платежа',
 'ORDER_LIST_YOUWANTTOSTORNO' => 'Do you really want to cancel this order?',
 'ORDER_MAIN_BILLNUM' => 'Счет №',
-'ORDER_MAIN_CURRENT_DATE' => 'Current Date',
+'ORDER_MAIN_CURRENT_DATE' => 'Текущее время',
 'ORDER_MAIN_DELTYPE' => 'Shipped with',
 'ORDER_MAIN_DISCOUNT' => 'Скидка',
 'ORDER_MAIN_IPADDRESS' => 'IP Address',
 'ORDER_MAIN_ORDERPAID' => 'Заказ оплачен',
-'ORDER_MAIN_PAIDON' => 'Paid on',
+'ORDER_MAIN_PAIDON' => 'Выплачены',
 'ORDER_MAIN_PAIDWITH' => 'Payment with',
 'ORDER_MAIN_PAYMENT_INFORMATION' => 'Информация об оплате',
 'ORDER_MAIN_SEND_DOWNLOADS' => 'Ordered download links',
@@ -1024,9 +1024,9 @@ $aLang = array(
 'ORDER_OVERVIEW_INFOLDER' => 'В папкe',
 'ORDER_OVERVIEW_INTSTATUS' => 'Internal Status',
 'ORDER_OVERVIEW_LSBANKNAME' => 'Банк',
-'ORDER_OVERVIEW_LSBLZ' => 'Bank code',
+'ORDER_OVERVIEW_LSBLZ' => 'банковские идентичности',
 'ORDER_OVERVIEW_LSKTOINHABER' => 'Владелец счета',
-'ORDER_OVERVIEW_LSKTONR' => 'Account No.',
+'ORDER_OVERVIEW_LSKTONR' => 'номер счета',
 'ORDER_OVERVIEW_MAKE' => 'Создать',
 'ORDER_OVERVIEW_ORDERAMTODAY' => 'Количество заказов сегодня',
 'ORDER_OVERVIEW_ORDERAMTOTAL' => 'Number Order TOTAL',
