@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1217), bRanzo (210)
+ * @translators: admin (1217), bRanzo (210), DC-NICO (41)
  */
 
 $sLangName  = 'Italiano';
@@ -30,7 +30,7 @@ $sLangName  = 'Italiano';
 $aLang = array(
 'charset' => 'utf-8',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'Voce',
-'ADD_RECOMM_ADDRECOMMLINK2' => 'here',
+'ADD_RECOMM_ADDRECOMMLINK2' => 'qui',
 'allBrands' => 'Tutte le marche',
 'byBrand' => 'By Brand',
 'byManufacturer' => 'By Manufacturer',
