@@ -1837,103 +1837,146 @@ $aLang = array(
 'TOOLTIPS_ARTICLEVAT' => 'Nur falls spezielle MwSt. hier ausfüllen',
 'TOOLTIPS_ARTLIST_NEWROLE' => 'Neue Rolle anlegen',
 'TOOLTIPS_ARTLIST_ROLEGENERATOR' => 'Rechte und Rollen Tabelle neu generieren.',
-'TOOLTIPS_ARTLIST_SEARCHFIELDOXDYNAMIC' => 'suche?php
-/**
- *    This file is partSHORTDESID eShop Com Kurztext?php
-/**
- *    This file is partTITLEnity EditionTitel?php
-/**
- *EDITVARD eShoVariante editieren?php
-/**
- *FORMATD eShoFormat : YYYY-MM-DD?php
-/**
- *ITEMDELET/or modEintrag löschic License as pion,STORNOr version 3 ofstornublic License as pion,UNASSIGNf the Gerknüpfung zu Shopf theic License as pNEWACTIONSD eShoNeue Aktion anlegted in the hope thaDDRESwill be usefudressmmunity Editio thaRTICd/or mod usen Artikel*    but WITHOUT ANY WARCATEGORYill be usefKategorieor FITNESS FOR A PARTICULARTRE/or modhe
- *   baum neu indizublic License as pICULONTENhed by usefCMS-Seit  GNU General Public LicenOUNTRPOSE.  See s Land*    but WITHOUT ANY WARDELIVERPOSE.  See tVersandkostenregY or FITNESS FOR A PARTICU see <htSEy of the GNUu.org/lart
- *
- * @link      http:/ISong w   MERCHANTARabatage   lang
- * @copyright   (ah OXID eShopAttribuage   lang
- * @copyrightLANGUAG    MERCHAN Sprationsb (5), marco (3854)
- *INK   MERCHANTALinkch";
-
-// -------------MALLCshed by usefMallthe
- *    GNU General Public LiceMANUFACTUREof the CHANTAHersteller-----------
-$aLang = arrWSID eSales AG MwSt. Satzch";
-
-// -------------NEWwill be usefNachrichage   lang
- * @copyrightktioLETTrset' => 'ut Newsletter Vorlagimplied warranty PAYMopy of the GNUZahlungsckage   lang
- * @copyrightPROMO it ill be useful,
- /PromoähleBannerld have receivedREMAR--------otiS_LIfübut WITHOUT ANY WARSELEC  Thiill be usefuuswahllisl Public License
- *    alSHOPet' => 'utf- distNTRY' => 'Eintrag',
-'ADMTATISTXID eShome  = tatisti
-// RESOURCE IDENTIFIER =USrset' => 'utr BenutzListe oben eine Ak_TITGROUGB_LIST_MENID Gästegruppsch";
-
-// -------------_TITSWITHATTR' => 'Zugeordnete Arld have receivedVAR1_LIST_MENULINKS_LIST_TITLE' =2D eShoUntListe oben eine AkVAR3f the GNU Gener    but WITHOUT ANY WARVENDOset' => 'utf-Lieferanage   lang
- * @copyrightVOUCHverfügbaren Gute Liinse    GNU General Public LiceWRAPPINGateien werdeee Lickverpacktion    but WITHOUT ANY OPENHELGB_LISTHilfe startynchronisation sich_TIT => 'AutorD GästeLIST_Eöffnic License as pRECALCNROFof
- * SINING
-// -BILITY anzahl derthe
- *   n
- *  berechbute zuordnen',
-'ARTICLE_ATTRIBUTE_AMAD' => 'CTLIST' => 'Auswah8',
-'ACTIONrdnen',
-'ARTICLE_ATTRIBUTE_ITEMSATTRIBUTE' => VNDtikel hat diese Attrib.'er von eizuordnen',
-'ARTICLE_ATTRIBUTE_ISETLE_ATTRIBUTE_ASSIGNSELECTLIST' => 'Auin denhllisten zuozurücksetzNicht ben. Attribute',
-'ARTICLE_AT'Artikel hat diese Attr> 'Bitt8',
-'ACTIO Sie ein Attribut!',
-'ARTICLE_ATTRIBUTE_NOSELLIAusw.listen',
-'ARTICLE_> 'BittIBUTE_NOATTRie ein Attribut!',
-'ARTICLTIMEublished byZeit 
- *   :?php
-/**
- *VALommunity Eion 3 o1__@@ion 3 o2but: usw<?phpOTAL_PLUS_PROPORTIONAL_VAT' => 'plus MwSt. (anteilig berechnet)?phpS_RATINGS_BUTTON_ALSSIGNATTRweMeng Sie unichNUITEM'!BUTE_TOOMANYATTURL_ and/or modTrustedITEM's Kundenbe nurunbut WITUPDATEAPP_DIRNOT eitheD_WARNaden. SteBittef the Licin Atdas updateApp-Verzeichnis?phpuser more drfüel',
-KS_LIST__ ThisMENUion,SIGNATTRIBUTE' verwalenge',
-:',
-'ARTICLE_BUNDLESUB_UNASSIGNARTICLE' ninfornung löschen',MAIES' LMEMBERCE
- * All => 'KundeAlle verfügbaren Akel',
-INLIST_MENUITMitglieswahswah_ALLITEMS' => ung lös_RANTY; _ see <htRANTY; withouer von  the inung lös*   
- * _QUANTITPOSE.  A=> 'ATICLE_CROEXTEND_BONI => 'AronitäNLINKordnete CrosCRtermPOINTCE
- * Bonuspunkt_ASSIGNCROte CrosDISABLEAUTOLIST_MENUITKeine automITEMtion_ALLITEMS' => '-Zuordnung
-'ARTICLE_CROSSSEMAILFAILEsw.listE-Mailen t. ungültiND_ARTEXTRA' => 'MOBILFED' => 'Telefon mobi'Zugeordnete Cros> 'Alle verfügbartikel',
-
-'ARTICLE_CROSSSPRIVATategorien',
-'ARTIpriva,
-'ARTICLE ThisCUSTOMERNUASSIGNAerfügnummicht erlaubLE_BUNDLLE_UNASSIGNARTICLE' => 'Zuordnung lös> 'Als Haup_CROSSSELLING_ALLITEMEND_DESCRIPTIOPLAC/or modOINLINKDESCRIPTIOZIGB_LISTPLZ => 'm',
-ren AufspreisSNof the LE_EXTEr<?phpURL' => 'EArtikLOGID' => 'RTICLE/LogiTEND_DESCRren AHASPASSWORsw.listHat ein Passwort?eben <br>(PDF,LDAGB_LIST�er ID GästebuchICLE_EXTENNAM/or modVor-/en',nam_ASSIGNCROARTICLLESWORSAVINGTPRI eShopWarnung:sein!',
-'ARTICRIGHRAS' => Rechete Zubehören ASTRde MedieStr./Hausangeben <br>OVERVIEWssselling-Artikel', als Amp  it uHIPPING' => 'VeREACKORDrset' =>Abgebro LicKate
-'ACTArtikel',
-IPPING' => 'VLIST_AS' => 'ALLITEMS' => 'Alle verING' => 'VLASTBUPOSE.  Letz',
-'KaufEND_ISSEARCH' => 'Kann_UNASSIGNAZulerde gekaufteABILITY EXTEND_HEIGHT' => OXIsw.listoxidEXTEND_HESWITHATICLESWITHATTR' => 'Zugeordmethol dazu:',
-ediendateSWITHATTR' =>eordnete ArARTICLE_CROmaterieller ArtTYP/or modMATERIAntypEND_QUESTIONEMAILVALU/or modWei',
-'ARTICLtion zICE' D eSho[tion]'Alle neg. Nachl'ARTICLE_EX[URAB.n.',
-'ARTICLE_EXTtion zur Bea[Bem 'Alt. Template',
-_TITLE' =>[Reg 'Alt.usrRegIST_redD eShoDCLE_CROSSSE wird nachTICLEEingabe sLCAT=> 'Datei'es r' => ri=> 'Allriert,CLE_BUNDLE_UNASSIGNAStammE_BUc LicATEMEDIA' => 'Ü_CROSSSELLINGIBUTE_NOATT_EXTEND_UPDATEPR and/or mod[XTENCLE_ATTRIBUT> 'Zuorungn.',
-ATEMEDIren Artihop CE
- * E_CROver ausbaut aS' => 'MaßCEB' => 'B:'ICONUPLOAsw.listIcon hochladTICLE_EXTEND_EXTEND  (aWITHriert, ArtikBILITY ovon diesemCLE_ATTRIBUT?phpviewAllLE_EXTEND_Uanzeibut WITaden. DSERIE_EXPp CoON/or moden aber nexpokagebgie blo
-'AR<?phpUPLOADFILE' => 'ODER WNTEPRICES' DownloaLS' =UPLOADFILE' => 'ODEazu',
-'Achladen (g großeTENDTR' =UPLOADFILE' => 'ODEaden. SteEerstrichrden aber ne ..en per FTP hochgelGENERAchstaben,' => 'URLDESC' => gencht h (_) und Punkt enth,
-'ARTICL Datei hochladen (icht',
-'anuelateien sollten per FTP hochgel,
-'ARTIaden. SteGcht',
-'_URLDESC' => 'Text für ext. URL',ualis_Zubehör zuorVDATEPRICE füLE_CROSSSELLING_TEND_UPLOADFILE' =A' => 'Übernehmen',hopr niBLE' => 'Arti�r diesen Artikel zula_CROSSSELLINGen aber nicht FILE' => 'Neue Datei zumINPDISCOUNTS'AbTQUAEND_s nurILE' => 'Neue Datei zuILE'AL',
-'ARTICN 'ExterUPLOADFILE' =ren ArtiOWOTADFILE' se ignoGRTINCA miage derer Scht EW_TITLE' => 'Neue Datei hoSAMEen',
-'ARTICLE_FILES_NEW_glIGNED' => 'Abschicken',
-'ARTICLE_FIVAIL,
-'ADOWNLOADABLE' =>EW_TITLE' => 'Neue DatRTICULATEONSIONS_UNNur => maligen',
-'ARTI (ARTINCA nur bei zugew_UPDinamRLDESC' =>n)EW_TITLE' => 'Neue Dat (C) OXID eSal2003-2EW_TITLE' => 'Neue Dat> 'ODE'ARTICLE_EXTEW_TITLE' => 'Neue Dat,
-'ARTIC => 'Name der hFILE' => 'Neue DatDUCTS' => 'alRANDOn auswächt'ate Random Nnen Datei eintragen',
-'MIN'ARTIPRISIONS_UNE_FILES_aad ist nur nach Bezahlung verf�L',
-'ARTaden. Dateien werden aber n</b> Der ShopTO' => 'bis',
-'ARTtikel'',
-'ARTICZufallsEND_DEn ASSIutiv',
-'ARTICLE_MAIN_ALDPROR' => chlad'ARTICLE_EXei hochladen',
-'ARTICLE_FI_FILE 'OdONS_LOADnGURABLE' =>',
-'ARTICLE_MAIN_ALDPRUSazu',
-'A',
-'ARRTICLE_LIST_ALLPRODUCTSaden. D',
-'ARTICen aber nEND_DEFAULersteller EAN',
-'ARTICLE_
-'ADMINGB'ARTICLEL' => 'Od?phpweight => 'Namw'ACT?phpchgeladetCOSTS' => 'Geschenkverpackung?phpchgeladetikel zulassen',
-'ARTICLE_FILES_NEW_FILE'ICLE_MAIN_GOTO' =>chladen auswäie bitte die manuNCATEGORY' => 'In PI'char => 'ArtlLS' =D' => 'HerstellibutNTPACKUE' => 'NamE_MAIN_MANUFACTURERID' => 'HerstelEPRICEA' => 'A:',MPN)',
-'ARTND_UPDATEPRIICLE_MAINren Aler',
-'ARTICLE_MAIN_MPN' => 'HE_MAIN_PDATEPRICES' E_MAPreis zur festRTICLE_MAIN_PRIler-Artikelnummer (MPN)',
-'ARTICLE_MAIN_NONE' => 'ren Aine --',
-'ARTICLE_MAIN_PRICE' => 'Preis);
+'TOOLTIPS_ARTLIST_SEARCHFIELDOXDYNAMIC' => 'suche',
+'TOOLTIPS_ARTLIST_SEARCHFIELDOXSHORTDESC' => 'suche Kurztext',
+'TOOLTIPS_ARTLIST_SEARCHFIELDOXTITLE' => 'suche Titel',
+'TOOLTIPS_EDITVAR' => 'Variante editieren',
+'TOOLTIPS_FORMAT' => 'Format : YYYY-MM-DD',
+'TOOLTIPS_ITEMDELETE' => 'Eintrag löschen',
+'TOOLTIPS_ITEMSTORNO' => 'Eintrag stornieren',
+'TOOLTIPS_ITEMUNASSIGN' => 'Verknüpfung zu Shop lösen',
+'TOOLTIPS_NEWACTIONS' => 'Neue Aktion anlegen',
+'TOOLTIPS_NEWADDRESS' => 'Neue Adresse',
+'TOOLTIPS_NEWARTICLE' => 'Neuen Artikel anlegen',
+'TOOLTIPS_NEWCATEGORY' => 'Neue Kategorie anlegen',
+'TOOLTIPS_NEWCATTREE' => 'Kategoriebaum neu indizieren',
+'TOOLTIPS_NEWCONTENT' => 'Neue CMS-Seite anlegen',
+'TOOLTIPS_NEWCOUNTRY' => 'Neues Land anlegen',
+'TOOLTIPS_NEWDELIVERY' => 'Neue Versandkostenregel anlegen',
+'TOOLTIPS_NEWDELIVERYSET' => 'Neue Versandart anlegen',
+'TOOLTIPS_NEWDISCOUNT' => 'Neuen Rabatt anlegen',
+'TOOLTIPS_NEWITEMS' => 'Neues Attribut anlegen',
+'TOOLTIPS_NEWLANGUAGE' => 'Neue Sprache anlegen',
+'TOOLTIPS_NEWLINK' => 'Neuen Link anlegen',
+'TOOLTIPS_NEWMALLCAT' => 'Neue Mall Kategorie anlegen',
+'TOOLTIPS_NEWMANUFACTURER' => 'Neuen Hersteller anlegen',
+'TOOLTIPS_NEWMWST' => 'Neuen MwSt. Satz anlegen',
+'TOOLTIPS_NEWNEWS' => 'Neue Nachricht anlegen',
+'TOOLTIPS_NEWNEWSLETTER' => 'Neue Newsletter Vorlage',
+'TOOLTIPS_NEWPAYMENT' => 'Neue Zahlungsart anlegen',
+'TOOLTIPS_NEWPROMOTION' => 'Neue Aktion/Promotion/Banner',
+'TOOLTIPS_NEWREMARK' => 'Notiz anfügen',
+'TOOLTIPS_NEWSELECTLIST' => 'Neue Auswahlliste anlegen',
+'TOOLTIPS_NEWSHOP' => 'Neuen Shop anlegen',
+'TOOLTIPS_NEWSTATISTIC' => 'Neue Statistik anlegen',
+'TOOLTIPS_NEWUSER' => 'Neuer Benutzer',
+'TOOLTIPS_NEWUSERGROUP' => 'Neue Benutzergruppe anlegen',
+'TOOLTIPS_NEWUSERPAYMENT' => 'Neue Zahlungsart',
+'TOOLTIPS_NEWVAR1' => 'Neue',
+'TOOLTIPS_NEWVAR2' => 'Unter',
+'TOOLTIPS_NEWVAR3' => 'Variante anlegen',
+'TOOLTIPS_NEWVENDOR' => 'Neuen Lieferant anlegen',
+'TOOLTIPS_NEWVOUCHER' => 'Neue Gutscheinserie anlegen',
+'TOOLTIPS_NEWWRAPPING' => 'Neue Geschenkverpackung anlegen',
+'TOOLTIPS_OPENHELP' => 'Hilfe starten',
+'TOOLTIPS_OPENUSERLIST' => 'Benutzerliste öffnen',
+'TOOLTIPS_RECALCNROFARTICLESINCAT' => 'Artikelanzahl der Kategorien neu berechnen',
+'TOOLTIPS_RECALCNROFARTICLESINMAN' => 'Artikelanzahl der Hersteller neu berechnen',
+'TOOLTIPS_RECALCNROFARTICLESINVND' => 'Artikelanzahl der Lieferanten neu berechnen',
+'TOOLTIPS_RESETNROFARTICLESINCAT' => 'Artikelanzahl in den Kategorien zurücksetzen',
+'TOOLTIPS_RESETNROFARTICLESINMAN' => 'Artikelanzahl in den Herstellern zurücksetzen',
+'TOOLTIPS_RESETNROFARTICLESINVND' => 'Artikelanzahl in den Lieferanten zurücksetzen',
+'TOOLTIPS_TIMEFORMAT' => 'Zeit Format:',
+'TOOLTIPS_VALDESC' => 'Eintrag1__@@Eintrag2__@@ usw.',
+'TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus MwSt. (anteilig berechnet)',
+'TS_RATINGS_BUTTON_ALT' => 'Bewerten Sie unseren Shop!',
+'TS_RATINGS_URL_TITLE' => 'Trusted Shops Kundenbewertungen',
+'UPDATEAPP_DIRNOTDELETED_WARNING' => 'Bitte löschen Sie das updateApp-Verzeichnis',
+'user' => 'Kunde',
+'USERGROUP_LIST_MENUITEM' => 'Benutzer verwalten',
+'USERGROUP_LIST_MENUSUBITEM' => 'Benutzergruppen',
+'USERGROUP_MAIN_ALLMEMBERS' => 'Alle Benutzer',
+'USERGROUP_MAIN_MEMBERINGROUP' => 'Mitglieder der Benutzergruppe',
+'USER_ADDRESS_DELIVERYADDRESS' => 'Lieferadressen',
+'USER_ARTICLE_QUANTITY' => 'Anzahl',
+'USER_EXTEND_BONI' => 'Bonität',
+'USER_EXTEND_CREDITPOINTS' => 'Bonuspunkte',
+'USER_EXTEND_DISABLEAUTOGROUP' => 'Keine automatische Benutzergruppen-Zuordnung',
+'USER_EXTEND_EMAILFAILED' => 'E-Mail Adr. ungültig',
+'USER_EXTEND_MOBILFON' => 'Telefon mobil',
+'USER_EXTEND_NEWSLETTER' => 'Newsletter',
+'USER_EXTEND_PRIVATFON' => 'Telefon privat',
+'USER_LIST_CUSTOMERNUM' => 'Kundennummer',
+'USER_LIST_MENNUITEM' => 'Benutzer verwalten',
+'USER_LIST_MENNUSUBITEM' => 'Benutzer',
+'USER_LIST_PLACE' => 'Ort',
+'USER_LIST_ZIP' => 'PLZ',
+'USER_MAIN_CUSTOMERSNR' => 'Kundennr.',
+'USER_MAIN_EMAILLOGIN' => 'E-Mail/Login',
+'USER_MAIN_HASPASSWORD' => 'Hat ein Passwort?',
+'USER_MAIN_LDAP' => 'LDAP Benutzer',
+'USER_MAIN_NAME' => 'Vor-/Nachname',
+'USER_MAIN_NEWPASSWORD' => 'Neues Passwort',
+'USER_MAIN_RIGHTS' => 'Rechte',
+'USER_MAIN_STRNR' => 'Str./Hausnr.',
+'USER_OVERVIEW_BONI' => 'Bonität als Ampel',
+'USER_OVERVIEW_BREACKORDER' => 'Abgebrochene Bestellungen',
+'USER_OVERVIEW_GROUPS' => 'Benutzergruppen',
+'USER_OVERVIEW_LASTBUY' => 'Letzter Kauf',
+'USER_OVERVIEW_LASTITEM' => 'Zuletzt gekaufte Artikel',
+'USER_OVERVIEW_OXID' => 'oxid',
+'USER_PAYMENT_NEWPAYMENT' => 'Neue Zahlmethode',
+'USER_PAYMENT_PAYMENT' => 'Zahlungsarten',
+'USER_PAYMENT_PAYMENTTYPE' => 'Methodentyp',
+'USER_PAYMENT_VALUE' => 'Wert',
+'USER_REMARK_NEWS' => '[News]',
+'USER_REMARK_ORDER' => '[Best.]',
+'USER_REMARK_REMARK' => '[Bem.]',
+'USER_REMARK_USER' => '[Reg.]',
+'usrRegistered' => 'Der Benutzer wird nach der Eingabe seines Passwortes registriert',
+'VENDOR_LIST_MENUITEM' => 'Stammdaten',
+'VENDOR_LIST_MENUSUBITEM' => 'Lieferanten',
+'VENDOR_LIST_TITLE' => '[OXID Lieferantenverwaltung]',
+'VENDOR_MAIN_ALLITEMS' => 'Alle verfügbaren Artikel',
+'VENDOR_MAIN_ICONUPLOAD' => 'Icon hochladen',
+'VENDOR_MAIN_ITEMSWITHVENDOR' => 'Artikel von diesem Lieferanten',
+'viewAll' => 'Alle anzeigen',
+'VOUCHERSERIE_EXPORTDONE' => 'Gutscheinexport abgeschlossen.',
+'VOUCHERSERIE_EXPORTDOWNLOAD' => 'Download',
+'VOUCHERSERIE_EXPORTED' => 'Gutscheine exportiert:',
+'VOUCHERSERIE_EXPORTING' => 'Exportiere Gutscheine ...',
+'VOUCHERSERIE_GENERATED' => 'Anzahl Gutscheine generiert:',
+'VOUCHERSERIE_GENERATEDONE' => 'Gutscheingenerierung abgeschlossen.',
+'VOUCHERSERIE_GENERATING' => 'Generiere Gutscheine ...',
+'VOUCHERSERIE_GROUPS_INGROUP' => 'Verfügbar für Benutzergruppen',
+'VOUCHERSERIE_LIST_MENUITEM' => 'Shopeinstellungen',
+'VOUCHERSERIE_LIST_MENUSUBITEM' => 'Gutscheinserien',
+'VOUCHERSERIE_LIST_MINVALUE' => 'Ab Einkaufswert',
+'VOUCHERSERIE_LIST_SERIALNUM' => 'Name',
+'VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Gültig mit anderer Serie',
+'VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Gültig mit gleicher Serie',
+'VOUCHERSERIE_MAIN_AVAILABLE' => 'Verfügbar',
+'VOUCHERSERIE_MAIN_CALCULATEONCE' => 'Nur einmalig berechnen (gültig nur bei zugewiesenen Gutscheinen)',
+'VOUCHERSERIE_MAIN_DISCOUNT' => 'Rabatt',
+'VOUCHERSERIE_MAIN_EXPORT' => 'Export',
+'VOUCHERSERIE_MAIN_GENERATE' => 'Generieren',
+'VOUCHERSERIE_MAIN_GENERATERANDOM' => 'Generate Random Nr',
+'VOUCHERSERIE_MAIN_MINORDERPRICE' => 'Gültig ab Einkaufswert',
+'VOUCHERSERIE_MAIN_NEWVOUCHER' => 'Neue Gutscheine anlegen',
+'VOUCHERSERIE_MAIN_RANDOMNUM' => 'Zufallsnummern erzeugen',
+'VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Gültig mit gleicher Serie bei einer anderen Bestellung',
+'VOUCHERSERIE_MAIN_USED' => 'Benutzt',
+'VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Gutscheinnummer',
+'VOUCHERSERIE_MAIN_VOUCHERSTATISTICS' => 'Gutscheine',
+'weight' => 'Gewicht',
+'WRAPPING_COSTS' => 'Geschenkverpackung',
+'WRAPPING_LIST_MENUITEM' => 'Shopeinstellungen',
+'WRAPPING_LIST_MENUSUBITEM' => 'Geschenkverpackung',
+'WRAPPING_LIST_PICTURE' => 'Bild',
+'WRAPPING_LIST_PRESENTPACKUNG' => 'Geschenkverpackung',
+'WRAPPING_LIST_TITLE' => '[OXID Geschenkverwaltung]',
+'WRAPPING_MAIN_PICTURE' => 'Bild',
+'WRAPPING_MAIN_PICUPLOAD' => 'Bild hochladen',
+'WRAPPING_MAIN_PRESENTPACKUNG' => 'Geschenkverpackung',
+'WRAPPING_MAIN_TITLE' => '[OXID Geschenkverwaltung]',
+);

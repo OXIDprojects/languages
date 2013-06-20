@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1587), urecheatu007 (3)
+ * @translators: admin (1587), urecheatu007 (3), valdone (189)
  */
 
 $sLangName  = 'Română';
@@ -29,9 +29,9 @@ $sLangName  = 'Română';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ADD_RECOMM_ADDRECOMMLINK1' => 'There is no Listmania lists at the moment. To create new, click',
-'ADD_RECOMM_ADDRECOMMLINK2' => 'here',
-'allBrands' => 'All Brands',
+'ADD_RECOMM_ADDRECOMMLINK1' => 'Nu există Listmania pentru moment. Pentru a crea una, click',
+'ADD_RECOMM_ADDRECOMMLINK2' => 'aici',
+'allBrands' => 'Toate mărcile',
 'byBrand' => 'By Brand',
 'byManufacturer' => 'By Manufacturer',
 'byVendor' => 'By Distributor',

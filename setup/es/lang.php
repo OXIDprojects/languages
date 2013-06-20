@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (2202), afimage (504), Espana (5), jsmaster (6), nuelgoz (156)
+ * @translators: admin (2202), afimage (504), diegotech (7), Espana (5), jsmaster (6), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -31,7 +31,7 @@ $aLang = array(
 'charset' => 'utf-8',
 'ATTENTION' => 'Atención',
 'BUTTON_BEGIN_INSTALL' => 'Comienzo de la instalación',
-'BUTTON_DB_INSTALL' => 'Create database now',
+'BUTTON_DB_INSTALL' => 'Crear base de datos ahora',
 'BUTTON_LICENCE' => 'Continuar',
 'BUTTON_PROCEED_INSTALL' => 'Instalar',
 'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Instalar muestra',
@@ -39,7 +39,7 @@ $aLang = array(
 'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'No acepto las condiciones de la licencia.',
 'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => 'Do <strong>not</strong> install demodata',
 'BUTTON_START_INSTALL' => 'Reinicie la instalación',
-'BUTTON_WRITE_DATA' => 'Save and continue',
+'BUTTON_WRITE_DATA' => 'Guardar y continuar',
 'BUTTON_WRITE_LICENCE' => 'Guardar clave de licencia',
 'ERROR_BAD_DEMODATA' => 'ERROR: Problema al insertar este SQL:',
 'ERROR_BAD_SERIAL_NUMBER' => 'ERROR: Wrong license key!',

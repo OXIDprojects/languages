@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (2202), afimage (504), Espana (5), jsmaster (6), nuelgoz (156)
+ * @translators: admin (2202), afimage (504), diegotech (7), Espana (5), jsmaster (6), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -96,7 +96,7 @@ $aLang = array(
 'ARTICLE_EXTEND_UPDATEPRICEA' => 'Precio A:',
 'ARTICLE_EXTEND_UPDATEPRICEB' => 'Precio B:',
 'ARTICLE_EXTEND_UPDATEPRICEC' => 'Precio C:',
-'ARTICLE_EXTEND_UPDATEPRICES' => 'Update price on defined time',
+'ARTICLE_EXTEND_UPDATEPRICES' => 'Actualizar precios en tiempo definido',
 'ARTICLE_EXTEND_UPDATEPRICETIME' => 'Hora de inicio:',
 'ARTICLE_EXTEND_UPLOADFILE' => 'O cargar el archivo (archivos de gran tamaño deben ser cargados a través de FTP) <br> (nombre del archivo sólo puede contener números de cartas de subrayado (_) y puntos (.))',
 'ARTICLE_EXTEND_UPLOADISDISABLED' => 'This is a demoshop. Uploading files has been switched off due to security reasons.',
@@ -106,11 +106,11 @@ $aLang = array(
 'ARTICLE_EXTEND_WIDTH' => 'A:',
 'ARTICLE_FILES_ENTER_FILENAME' => 'ARCHIVOS DE ARTÍCULO ENTRAN EN NOMBRE DEL ARCHIVO',
 'ARTICLE_FILES_ISDOWNLOADABLE' => 'Permitir la descarga de archivos de este producto',
-'ARTICLE_FILES_NEW_FILE' => 'Select a file for upload',
+'ARTICLE_FILES_NEW_FILE' => 'Seleccione un archivo para cargar',
 'ARTICLE_FILES_NEW_PURCHASEDONLY' => 'Descargar sólo está disponible después de la compra',
-'ARTICLE_FILES_NEW_TITLE' => 'New file',
+'ARTICLE_FILES_NEW_TITLE' => 'Nuevo archivo',
 'ARTICLE_FILES_NEW_UPLOAD' => 'enviar',
-'ARTICLE_FILES_OR' => 'or upload file',
+'ARTICLE_FILES_OR' => 'o subir archivo',
 'ARTICLE_FILES_OR_FILENAME' => 'introduzca el nombre o un archivo existente',
 'ARTICLE_FILES_TABLE_FILENAME' => 'NOMBRE DEL ARCHIVO',
 'ARTICLE_FILES_TABLE_PURCHASEDONLY' => 'Purchased only',
@@ -1954,27 +1954,29 @@ $aLang = array(
 'VOUCHERSERIE_LIST_MINVALUE' => 'Min. Orden Suma',
 'VOUCHERSERIE_LIST_SERIALNUM' => 'Nombre',
 'VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Válido con diferentes series',
-'VOUCHERSERIE_MAIN_ALLARSAMEOSE.  See the
- * a  GNUla mismuseful,
- *    but WITHOPARTICVAILABLit and/n 3 of thef the GNU General PublCALCULATEONCit and/Calcular una sola vez (v
- *   sólo Licenlos bonor
- *producto o categoría)f the GNU General PublDISCOUNTe
- *  escuentof the GNU General Publile isrt of OXID eShop Cf the GNU General PublD eShop rt of G freerhop CE
- * @translators: adminRANDOn.
- *), afim al azarommuShop CE
- * @translatorMINORDERPRI  If notthout even the implied warranty PARTINEW
- *    If not,rey
- *    iBlink    la nuev-----
-// RESOURCE IDENr (6),ERCHANTABIúmeros aleato(at your option) any PARTI*
- *   PURP
-// -ou should have receiv even ------Sful,U General Pued a) OXID eSales AG 2003-2US CommuniUsad) OXID eSales AG 2003-2
- *    rset' => 'utf-8'BITEM' cup eShop CE
- * @translator
- *    TTATISTIC See thCity Ed/**weight hope tes) OXIWRAPPING COSTS' => 'Gift Wrapping OXIWRAPPING later version.
- *
- *    OXID eShop Community ne uno de la lista in the hope EnvolturaBITEregalt yourne uno de la lPICTURn (2202ImageShop trada',
-'ADMINGRESENTPACKUpart of OINGB_LIST_ENTRY' => 'Entrada',
-'ADMINTITnse
- * [OXID eINGBver]> 'Informaci�PARTIGB_LIST_MENUITEM' => 'Informaci�as OXID]UPLOACommuniSubir iNKS_LIST_MENUITEM' => 'I cliente',
-'ADMINGB_LIST_MENUSUBITEM' => 'Libro de vPARTIs',
-'ADMINGB_TITLE' => '[Libr);
+'VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Válida con la misma serie',
+'VOUCHERSERIE_MAIN_AVAILABLE' => 'Disponible',
+'VOUCHERSERIE_MAIN_CALCULATEONCE' => 'Calcular una sola vez (válido sólo para los bonos de producto o categoría)',
+'VOUCHERSERIE_MAIN_DISCOUNT' => 'Descuento',
+'VOUCHERSERIE_MAIN_EXPORT' => 'Exportación',
+'VOUCHERSERIE_MAIN_GENERATE' => 'Generar',
+'VOUCHERSERIE_MAIN_GENERATERANDOM' => 'Generar al azar de n',
+'VOUCHERSERIE_MAIN_MINORDERPRICE' => 'Min. Orden Suma',
+'VOUCHERSERIE_MAIN_NEWVOUCHER' => 'Creación de Bonos de la nueva',
+'VOUCHERSERIE_MAIN_RANDOMNUM' => 'Números aleatorios',
+'VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Válida con la Orden de la Serie diferentes mismo',
+'VOUCHERSERIE_MAIN_USED' => 'Usado',
+'VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Número de la cupón',
+'VOUCHERSERIE_MAIN_VOUCHERSTATISTICS' => 'Cupones',
+'weight' => 'Peso',
+'WRAPPING_COSTS' => 'Gift Wrapping',
+'WRAPPING_LIST_MENUITEM' => 'Configuración de Tienda',
+'WRAPPING_LIST_MENUSUBITEM' => 'Envoltura de regalos',
+'WRAPPING_LIST_PICTURE' => 'Imagen',
+'WRAPPING_LIST_PRESENTPACKUNG' => 'Envoltura de regalos',
+'WRAPPING_LIST_TITLE' => '[OXID envolver]',
+'WRAPPING_MAIN_PICTURE' => 'Imagen',
+'WRAPPING_MAIN_PICUPLOAD' => 'Subir imagen',
+'WRAPPING_MAIN_PRESENTPACKUNG' => 'Envoltura de regalos',
+'WRAPPING_MAIN_TITLE' => '[OXID envolver]',
+);

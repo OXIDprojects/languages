@@ -1902,64 +1902,81 @@ $aLang = array(
 'USER_EXTEND_BONI' => 'Credit Rating',
 'USER_EXTEND_CREDITPOINTS' => 'Credit points',
 'USER_EXTEND_DISABLEAUTOGROUP' => 'Deactivate automatic User Group Assignment',
-'USER_EXTEND_EMAILFAILED' => 'E-mail Adr. is Invalidhis file is partMOBILFONhop CoCelluar Phonehis file is partNEWSLETTERhop CoRecieves Newsletterhis file is partPRIVATunity EdiEvening free software:LIST_CUSTOMERNUMty Editust No.blic License aMENNUITEd by
- Administer Users Free Software FounSUBdation, ein 3 of the License,PLACEty Editityblic License aZIPhop Coop Cis file MAINas publisSNibute i*   omer the Free Sofis di of OLOGIf the GNmunit/Login Edition is diHASPASSWORShop CoHas password? Edition is diLDA CommunNTAB us *    it unis diNAMsion.
-Name, Surnam software:ARTICUEWven the implieNew Pranty o Edition is diRIGHTSbute itightof the Licis diSTR in the Street, e GNU  the Free SofOVERVIEW_BONIhop Co\'Traffic Luld \' Credit Ratingic License
- *    aREACKORDribute iAborted Ord3 of the Lice
- *    GROUP You shn 3 php
-/
- * @link      httLASTBUYILITY oast Purchas software:kage   lang
-dation, eiight pC) OXIDd Produc have receie
- *    OXIShop Co(33)is file PAYMENTneral = 'ا License fory   T Methodof the Lic  = 'ا�ربية';
--------------------------------
-// RESTYPsion.
------- Typ software:  = 'ا�VALUsion.
-Valu software:REMARKan rehop Co[modi]',
-'ACTIONS_LIST.gnu.org/li[.
- *إستعلاما�NS_LIS�زباRemarkإستعلاما�fileITEM' => g.إس�usrRegversiedhop CoTheITNES will be rN_ALLARTI afrsioenterenerhiwarranty oe FreVENDOoftware Fondation, eiMaersioSeton. of thR' => 'Promoted  *    (at youDistributo of thR' => 'PromoTITLsion.
-[(33) Vendor ther verrationإس�R' => 'is diALLdatiNUITEM'All availableE
- * @transl'ADMINGB_LISICONUPLOAShop CoUpload IcoARRANTEM' => 'CustTRY'WITHR' => OURCE I
- * @tr from tLLARe from abovsLanviewAll of thehow allB_LISOUCHERSERIE_EXPORTDONsion.
- oupons export completeITHATTRTEM' => 'Customer InWNInformatioDown,
-'ASUBITEM' => 'Links',
-'AeShop Con',
-'ADMINLINKed: SUBITEM' => 'Links',
-'AINGhop ComNLINKenerc',
-'ADM..USUBITEM' => 'LinkGENERAstration]',
-'ALTEgeneraVE_IMAGE_SERVER_NOTE' on detectnformation',
-'ADM not beionS_LIST_MENUSUBITEM' => 'Linkon dete>Note:</bGbout synative image server configuratio://ww_IN> 'As => 'En,
-'ADMINGfoion 3 les.com
- *TEM' => 'LinkPromoted Products',ShopONS_MAIN_NOTSELECTLIST' => 'Assign  *    (at youn',
-'A SerieSIGNSELECTLIST' => 'AssiINarset' => 'Min.>.
- * SumIGNSELECTLIST' => 'Ass> 'CALhed by
- SE. IGNSELECTLIST' =>B_LIST_EOWOT' => 'CuNUITEM'V *
- with differ----ttributes',
-'ARTICLE_ATAvailable SAMEbutes',
-'ARTICLE_ATTRIBsameRIBUTES' => 'Please select oneVAILABes',
-'AD',
-'ARTIC' => 'Please select onCALCULATEONrsion.
- alculate only once (
- *
-w windE_ATp
- * @t or category vouchers)' => 'Please select onDISCOU�ة';
-Discou This  'Please select ontomer te:</b> Alten Attribute:',
-'ARTICLon detecmount',
-'ARTITRIBUTE_OPENINNEWWINDOWon detecRANDOd by
- one Attr Random Non Attribute:',
-'ARTICLMIN.gnu.PRIrsion.
-T' => 'Product\'s Selection LisU GeneraATTRIBU'Producrelablnew n',
-'ADn Attribute:',
-'ARTICLEMS' =hed by
- e Producumb3 of thTICLE_BUNDLE_ASSIGribute!Attri.gnu.org/liLE_ATTRIBUTE_NOSELLIST,BUTE_NOATTR.
- *uct',
-'ARTICLE_CROSSSEUSeShop CoUse => '[OXID Links Ais diATTRIBUhed by
- *t\'s Agn Proccessories',
-'ARTICLE_CROSSSESTATISTICNUITEM'duct:',
-'ARweuld hop CoWSSELLI,
-'WRAPPING_COS  You shGift Wrappn.  If lling Pro 'Assign Selection Lists',
-'ARTICLE_G_EXTRAS' => 'Acce *    (at youTICLE_CROSSSELLING_EXTRAS' => 'PICTURt only PicturTRIBU',
-'ARTICLE_EXTRESENTPACKU'Amount',ICLE_CROSSSELLING_EXTRAS' => 'anges',
-'ADMINGB__CROSSSEإس�lling Prois diTEND_ARTEXTRA' => 'Bundled ProducE' => 'Dr Information',
-'ADPrice Alert',
-'ARTICLE_EXTRTICLE_EXTEND_ARTINCATS' => 'Product is in this diategories',
-'ARTICLE_EXTEND_B);
+'USER_EXTEND_EMAILFAILED' => 'E-mail Adr. is Invalid',
+'USER_EXTEND_MOBILFON' => 'Celluar Phone',
+'USER_EXTEND_NEWSLETTER' => 'Recieves Newsletter',
+'USER_EXTEND_PRIVATFON' => 'Evening Phone',
+'USER_LIST_CUSTOMERNUM' => 'Cust No.',
+'USER_LIST_MENNUITEM' => 'Administer Users',
+'USER_LIST_MENNUSUBITEM' => 'Users',
+'USER_LIST_PLACE' => 'City',
+'USER_LIST_ZIP' => 'ZIP',
+'USER_MAIN_CUSTOMERSNR' => 'Customer No.',
+'USER_MAIN_EMAILLOGIN' => 'E-mail/Login',
+'USER_MAIN_HASPASSWORD' => 'Has password?',
+'USER_MAIN_LDAP' => 'LDAP user',
+'USER_MAIN_NAME' => 'Name, Surname',
+'USER_MAIN_NEWPASSWORD' => 'New Password',
+'USER_MAIN_RIGHTS' => 'Rights',
+'USER_MAIN_STRNR' => 'Street, Street No.',
+'USER_OVERVIEW_BONI' => '\'Traffic Light\' Credit Rating',
+'USER_OVERVIEW_BREACKORDER' => 'Aborted Orders',
+'USER_OVERVIEW_GROUPS' => 'User Groups',
+'USER_OVERVIEW_LASTBUY' => 'Last Purchase',
+'USER_OVERVIEW_LASTITEM' => 'Last purchased Products',
+'USER_OVERVIEW_OXID' => 'OXID',
+'USER_PAYMENT_NEWPAYMENT' => 'New Payment Methods',
+'USER_PAYMENT_PAYMENT' => 'Payment Methods',
+'USER_PAYMENT_PAYMENTTYPE' => 'Method Type',
+'USER_PAYMENT_VALUE' => 'Value',
+'USER_REMARK_NEWS' => '[News]',
+'USER_REMARK_ORDER' => '[Order]',
+'USER_REMARK_REMARK' => '[Remark]',
+'USER_REMARK_USER' => '[Reg.]',
+'usrRegistered' => 'The user will be registered after entering his password.',
+'VENDOR_LIST_MENUITEM' => 'Master Settings',
+'VENDOR_LIST_MENUSUBITEM' => 'Distributors',
+'VENDOR_LIST_TITLE' => '[OXID Vendor Administration]',
+'VENDOR_MAIN_ALLITEMS' => 'All available Products',
+'VENDOR_MAIN_ICONUPLOAD' => 'Upload Icon',
+'VENDOR_MAIN_ITEMSWITHVENDOR' => 'Products from this Distributor',
+'viewAll' => 'Show all',
+'VOUCHERSERIE_EXPORTDONE' => 'Coupons export completed.',
+'VOUCHERSERIE_EXPORTDOWNLOAD' => 'Download',
+'VOUCHERSERIE_EXPORTED' => 'Coupons exported: ',
+'VOUCHERSERIE_EXPORTING' => 'Exporting coupons ...',
+'VOUCHERSERIE_GENERATED' => 'Coupons generated: ',
+'VOUCHERSERIE_GENERATEDONE' => 'Coupons generation completed.',
+'VOUCHERSERIE_GENERATING' => 'Generating coupons ...',
+'VOUCHERSERIE_GROUPS_INGROUP' => 'Available for User Groups',
+'VOUCHERSERIE_LIST_MENUITEM' => 'Shop Settings',
+'VOUCHERSERIE_LIST_MENUSUBITEM' => 'Coupon Series',
+'VOUCHERSERIE_LIST_MINVALUE' => 'Min. Order Sum',
+'VOUCHERSERIE_LIST_SERIALNUM' => 'Name',
+'VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Valid with different Series',
+'VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Valid with same Series',
+'VOUCHERSERIE_MAIN_AVAILABLE' => 'Available',
+'VOUCHERSERIE_MAIN_CALCULATEONCE' => 'Calculate only once (valid only for product or category vouchers)',
+'VOUCHERSERIE_MAIN_DISCOUNT' => 'Discount',
+'VOUCHERSERIE_MAIN_EXPORT' => 'Export',
+'VOUCHERSERIE_MAIN_GENERATE' => 'Generate',
+'VOUCHERSERIE_MAIN_GENERATERANDOM' => 'Generate Random No',
+'VOUCHERSERIE_MAIN_MINORDERPRICE' => 'Min. Order Sum',
+'VOUCHERSERIE_MAIN_NEWVOUCHER' => 'Create new Coupons',
+'VOUCHERSERIE_MAIN_RANDOMNUM' => 'Random Numbers',
+'VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Valid with same Series, different Order',
+'VOUCHERSERIE_MAIN_USED' => 'Used',
+'VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Coupon Number',
+'VOUCHERSERIE_MAIN_VOUCHERSTATISTICS' => 'Coupons',
+'weight' => 'Weight',
+'WRAPPING_COSTS' => 'Gift Wrapping',
+'WRAPPING_LIST_MENUITEM' => 'Shop Settings',
+'WRAPPING_LIST_MENUSUBITEM' => 'Gift Wrapping',
+'WRAPPING_LIST_PICTURE' => 'Picture',
+'WRAPPING_LIST_PRESENTPACKUNG' => 'Gift Wrapping',
+'WRAPPING_LIST_TITLE' => '[OXID Wrapping]',
+'WRAPPING_MAIN_PICTURE' => 'Picture',
+'WRAPPING_MAIN_PICUPLOAD' => 'Upload Picture',
+'WRAPPING_MAIN_PRESENTPACKUNG' => 'Gift Wrapping',
+'WRAPPING_MAIN_TITLE' => '[OXID Wrapping]',
+);

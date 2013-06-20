@@ -1899,70 +1899,84 @@ $aLang = array(
 'USERGROUP_MAIN_MEMBERINGROUP' => 'User Group Members',
 'USER_ADDRESS_DELIVERYADDRESS' => 'Shipping Addresses',
 'USER_ARTICLE_QUANTITY' => 'Quantity',
-'USER_EXTEND_BONI' => 'Credit Ratingphp
-/**
- *    CREDITPOINTS file is partpointsphp
-/**
- *    DISABLEAUTOGROUP file Deactivate automatic User Group Assignmentphp
-/**
- *    EMAILFAILED file E-mail Adr. is Invalidphp
-/**
- *    MOBILFON file ielluar Phonephp
-/**
- *    NEWSLETTER file Recieves Newsletterphp
-/**
- *    PRIVAT    the FEveningtware FoundatioLIST_CUSTOMERNUM file iust No.
- *    OXID eSMENNUITEity EdiAdministere it hop Communed in the SUBhope that useful,
- *    but PLACE file ii<?php
-/**ID eSZIftware:MERChp
-/**MAINShop CommSNn 3 of tionomer is distributTNESS termLOGI later vGener/LoginITY or FITNESSHASPASSWORthe GNUHas password?ITY or FITNESSLDAftware:y of us *    (at yTNESSNAMplied wName, Surnam FoundatioLicensEW
- *
- *    YouNew Pld haveITY or FITNESSRIGH.
- *
- RighShop CommunTNESSSTRRTICULARStreet, ww.oxi is distributOVERVIEW This file \'Traffic L>.
-\' is part of OXID eShop kage   lanREACKORDon 3 of Aborted Ordeful,
- *   kage   lae sof
- *
-  it and/ors: admin (406), HolLASTBUY the GNast Purchas Foundatio rhinosmedia hope that oncepps (118)d ProducShop Communkage   laOXIthe GNU// REhp
-/**PAYMENTunity STRINn.  If not, y
- * Methodhop Commun= STRING/ ---------------------------
-$aLang = array(
-'chaTYPplied w------ Typ Foundatio= STRINGVALUplied wValu FoundatioREMARKher v file [se, ]era aktioner',
-'eShop CE
- [latorLARTICLES' => 'Alner',
-llgängRemarkLARTICLES' => 'Al
-/**N_ALLARTIg.LARTIusrRegll beed CE
- *nvändaren rONS_Mreras ef be att lösenordet angetShop CVENDO   but WIT hope that Mal be Setf OXtan ovan',
-'ADMINGB_LUT ANY WARRANDj deibutoful,
-van',
-'ADMINTITLplied w[// R Vendor it will rationLARTIvan',
-'TNESSALLhopeIONS_MAAll available-------------=> 'GästbokICONUPLOAthe GNUUpload Icofor m
-'ADMINLINKS_ADMIWITHvan',
-rset' =------- from this DMINGB_LISTENTIviewAlltp://wwhow allormatOUCHERSERIE_EXPORTDONplied waoupons export completed dist�rvaltning]',
-'ALTERNWNMENUITEM' Down 'Kuänvisning:</b> shoppen the GNUAGE_SERVER_NOTed: änvisning:</b> shoppenINGlater vR_NOTion.cGE_SERV..Hänvisning:</b> sGENERAdas från en extegenerarver. Filer laddas docen utförNATIVE_IMAGE_SERV=> 'MäionE' => '<b>Hänvisning:</b> sen utf�pp dit. SGllordnaatt den manuella synkroniseringeerGre_INe software:A=> '[OXIDfoe usef9), marco (�rvaltning]',ADMINGB_LIST_AUTHORShopAutor',
-'ADMINttribut',
-'ARTICLE_ATUT ANY WARRANAGE_SE Serieessa attribut',
-'ARTICLEINUBITEM' => Min.slator Sumssa attribut',
-'ARTICLing]ALunity Edialonssa attribut',
-'Astbok',
-OWOTltning]'IONS_MAVcens with differ----TTRIBUTE_NOATTRIBUTE' =TTRIBUTE_NSAMEIST' => 'Ej anv. urvallsameARTICLE_ATTRIBUTE_OPENINNEWWINVAILn isMSATTRIBUTE' =>_ATTRIBUTE_OPENINNEWWICALCULATEONmplied waalculn reonly once (icens'ARTIC'Artp------ or category vouchers)_ATTRIBUTE_OPENINNEWWIDISCOU--------Discou *    RIBUTE_OPENINNEWWI
-'ALTEdit. Se till'Alla artiklar som st�en utföECTLIST' => 'ATTRIBUTE_SELECTONEATTRen utföRANDOity Edi> 'Tillo Random No'Alla artiklar som st�MINeShopPRImplied w',
-'ARTICLE_ATTRIBUTE_NOATTRIBUCommunitrtikeln file is  => new AGE_SER'Alla artiklar som st�_ASSIGunity Edi'Tillordumbeful,
- tillordning',
-'AR => 'ViOSELLeShop CE
- ut i nytt fönster',
-',listor',
-'AlatorCROSSSELLING_ASSIGNACCUS the GNUUse� att artikelbildeTNESSrtikelnunity EditICLE_ARTICLE-sellings',
-'ARTICLE_CROSSSELSTATISTIC
- *
- * => 'Alla we>.
- file WNG_EXT,
-'WRAPPING_COS.
- *
- Gift Wrapp OXID ednade tilRTICLE_ATTRIBUTE_ITEMSSELLIST' => 'AEXTEND_ALLCATS' =>UT ANY WARRANiklar',
-'ARTICLE_EXTEND_ALLCATSPICTURICLE' =PicturATTRILE_EXTEND_ARTINRESENTPACKUELECTLISTklar',
-'ARTICLE_EXTEND_ALLCATSndinformation',
-'',
-'ARTILARTIdnade tilTNESSNCATS' => 'Tillordnade kategorierBPRICE' T_MENUITEM' => 'Kunspris',
-'ARTICLE_EXTEND_DETICLE_EXTEND_BLFIXEDPRICE' => 'SpecialaktioneTNESStillåtna (prislarm)',
-'ARTIC);
+'USER_EXTEND_BONI' => 'Credit Rating',
+'USER_EXTEND_CREDITPOINTS' => 'Credit points',
+'USER_EXTEND_DISABLEAUTOGROUP' => 'Deactivate automatic User Group Assignment',
+'USER_EXTEND_EMAILFAILED' => 'E-mail Adr. is Invalid',
+'USER_EXTEND_MOBILFON' => 'Celluar Phone',
+'USER_EXTEND_NEWSLETTER' => 'Recieves Newsletter',
+'USER_EXTEND_PRIVATFON' => 'Evening Phone',
+'USER_LIST_CUSTOMERNUM' => 'Cust No.',
+'USER_LIST_MENNUITEM' => 'Administer Users',
+'USER_LIST_MENNUSUBITEM' => 'Users',
+'USER_LIST_PLACE' => 'City',
+'USER_LIST_ZIP' => 'ZIP',
+'USER_MAIN_CUSTOMERSNR' => 'Customer No.',
+'USER_MAIN_EMAILLOGIN' => 'E-mail/Login',
+'USER_MAIN_HASPASSWORD' => 'Has password?',
+'USER_MAIN_LDAP' => 'LDAP user',
+'USER_MAIN_NAME' => 'Name, Surname',
+'USER_MAIN_NEWPASSWORD' => 'New Password',
+'USER_MAIN_RIGHTS' => 'Rights',
+'USER_MAIN_STRNR' => 'Street, Street No.',
+'USER_OVERVIEW_BONI' => '\'Traffic Light\' Credit Rating',
+'USER_OVERVIEW_BREACKORDER' => 'Aborted Orders',
+'USER_OVERVIEW_GROUPS' => 'User Groups',
+'USER_OVERVIEW_LASTBUY' => 'Last Purchase',
+'USER_OVERVIEW_LASTITEM' => 'Last purchased Products',
+'USER_OVERVIEW_OXID' => 'OXID',
+'USER_PAYMENT_NEWPAYMENT' => 'New Payment Methods',
+'USER_PAYMENT_PAYMENT' => 'Payment Methods',
+'USER_PAYMENT_PAYMENTTYPE' => 'Method Type',
+'USER_PAYMENT_VALUE' => 'Value',
+'USER_REMARK_NEWS' => '[News]',
+'USER_REMARK_ORDER' => '[Order]',
+'USER_REMARK_REMARK' => '[Remark]',
+'USER_REMARK_USER' => '[Reg.]',
+'usrRegistered' => 'Användaren registreras efter att lösenordet angetts',
+'VENDOR_LIST_MENUITEM' => 'Master Settings',
+'VENDOR_LIST_MENUSUBITEM' => 'Distributors',
+'VENDOR_LIST_TITLE' => '[OXID Vendor Administration]',
+'VENDOR_MAIN_ALLITEMS' => 'All available Products',
+'VENDOR_MAIN_ICONUPLOAD' => 'Upload Icon',
+'VENDOR_MAIN_ITEMSWITHVENDOR' => 'Products from this Distributor',
+'viewAll' => 'Show all',
+'VOUCHERSERIE_EXPORTDONE' => 'Coupons export completed.',
+'VOUCHERSERIE_EXPORTDOWNLOAD' => 'Download',
+'VOUCHERSERIE_EXPORTED' => 'Coupons exported: ',
+'VOUCHERSERIE_EXPORTING' => 'Exporting coupons ...',
+'VOUCHERSERIE_GENERATED' => 'Coupons generated: ',
+'VOUCHERSERIE_GENERATEDONE' => 'Coupons generation completed.',
+'VOUCHERSERIE_GENERATING' => 'Generating coupons ...',
+'VOUCHERSERIE_GROUPS_INGROUP' => 'Available for User Groups',
+'VOUCHERSERIE_LIST_MENUITEM' => 'Shop Settings',
+'VOUCHERSERIE_LIST_MENUSUBITEM' => 'Coupon Series',
+'VOUCHERSERIE_LIST_MINVALUE' => 'Min. Order Sum',
+'VOUCHERSERIE_LIST_SERIALNUM' => 'Name',
+'VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Valid with different Series',
+'VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Valid with same Series',
+'VOUCHERSERIE_MAIN_AVAILABLE' => 'Available',
+'VOUCHERSERIE_MAIN_CALCULATEONCE' => 'Calculate only once (valid only for product or category vouchers)',
+'VOUCHERSERIE_MAIN_DISCOUNT' => 'Discount',
+'VOUCHERSERIE_MAIN_EXPORT' => 'Export',
+'VOUCHERSERIE_MAIN_GENERATE' => 'Generate',
+'VOUCHERSERIE_MAIN_GENERATERANDOM' => 'Generate Random No',
+'VOUCHERSERIE_MAIN_MINORDERPRICE' => 'Min. Order Sum',
+'VOUCHERSERIE_MAIN_NEWVOUCHER' => 'Create new Coupons',
+'VOUCHERSERIE_MAIN_RANDOMNUM' => 'Random Numbers',
+'VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Valid with same Series, different Order',
+'VOUCHERSERIE_MAIN_USED' => 'Used',
+'VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Coupon Number',
+'VOUCHERSERIE_MAIN_VOUCHERSTATISTICS' => 'Coupons',
+'weight' => 'Weight',
+'WRAPPING_COSTS' => 'Gift Wrapping',
+'WRAPPING_LIST_MENUITEM' => 'Shop Settings',
+'WRAPPING_LIST_MENUSUBITEM' => 'Gift Wrapping',
+'WRAPPING_LIST_PICTURE' => 'Picture',
+'WRAPPING_LIST_PRESENTPACKUNG' => 'Gift Wrapping',
+'WRAPPING_LIST_TITLE' => '[OXID Wrapping]',
+'WRAPPING_MAIN_PICTURE' => 'Picture',
+'WRAPPING_MAIN_PICUPLOAD' => 'Upload Picture',
+'WRAPPING_MAIN_PRESENTPACKUNG' => 'Gift Wrapping',
+'WRAPPING_MAIN_TITLE' => '[OXID Wrapping]',
+);

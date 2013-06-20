@@ -1949,33 +1949,34 @@ $aLang = array(
 'VOUCHERSERIE_GENERATEDONE' => 'Coupons generation completed.',
 'VOUCHERSERIE_GENERATING' => 'Generating coupons ...',
 'VOUCHERSERIE_GROUPS_INGROUP' => 'Available for User Groups',
-'VOUCHERSERIE_LIST_MENUITEM' =>e Shop Set Frer option) any later versionSUB.
- *
- * is par Serier option) any later versINVALUnder thMin. Order Sum option) any later ver**
-ALNU *
- * NameShop Community EdMAIN_ALLOWOT
-/**
- S file Valid with different that it will be useful,TY or FITNSAMEOR A PARTICULAR PURPOSEsamee
- *    GNU General Public LiVAILABLnder thcense, or  GNU General Public LCALCULATEONCnder thealculate only once (vAR PU Edit
- * product or category vouchers)  GNU General Public LDISCOUNT file Discount  GNU General Public L    Th*
- *    OXI  GNU General Public Le softway
- *    the ublic License
- *    ale softwaRANDO *
- * on OXID  Random No  GNU General Public LMINORDERPRIID eShop ANY WARRANTY; without even theTY orNEW?php
-/ file ire
-$sLnew is partRESOURCE IDENTIFIER = co (38rranty ofangName umber---------
-$aLang = arre for mESS F----- details.
- *
- *    You sho,E.  See theWARRARESOURCE IDENTIFIER = USis file UsedRESOURCE IDENTIFIER = ?php
-/rranty ofe hope -8',
-'=> 'All available Products',
-STATISTICPARTICU-----------weight file WECTED',
-'WRAPPINGeCOSTS' => 'Gift Wrapping',
-'WRAPPINGer version.
- *
- *    OXID eShop Comect one from aboveributed in thGift Wrapping select one from aPICTUR @versiPicturublicTRY' => 'Entry'RESENTPACKU by
- *  'ADMINGB_LIST_ENTRY' => 'EntryTIThe GNU G[OXIDMINGB_LIS] select one fTY or',
-'ADMINGB_LIST_MENUITEM' => 'Cubook]',
-UPLOALARTICLEpload S_LIST_MENUITEM' => 'Custo Information',
-'ADMINGB_LIST_MENUSUBITEM' => TY ortbook',
-'ADMINGB_TITLE' => '[);
+'VOUCHERSERIE_LIST_MENUITEM' => 'Shop Settings',
+'VOUCHERSERIE_LIST_MENUSUBITEM' => 'Coupon Series',
+'VOUCHERSERIE_LIST_MINVALUE' => 'Min. Order Sum',
+'VOUCHERSERIE_LIST_SERIALNUM' => 'Name',
+'VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Valid with different Series',
+'VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Valid with same Series',
+'VOUCHERSERIE_MAIN_AVAILABLE' => 'Available',
+'VOUCHERSERIE_MAIN_CALCULATEONCE' => 'Calculate only once (valid only for product or category vouchers)',
+'VOUCHERSERIE_MAIN_DISCOUNT' => 'Discount',
+'VOUCHERSERIE_MAIN_EXPORT' => 'Export',
+'VOUCHERSERIE_MAIN_GENERATE' => 'Generate',
+'VOUCHERSERIE_MAIN_GENERATERANDOM' => 'Generate Random No',
+'VOUCHERSERIE_MAIN_MINORDERPRICE' => 'Min. Order Sum',
+'VOUCHERSERIE_MAIN_NEWVOUCHER' => 'Create new Coupons',
+'VOUCHERSERIE_MAIN_RANDOMNUM' => 'Random Numbers',
+'VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Valid with same Series, different Order',
+'VOUCHERSERIE_MAIN_USED' => 'Used',
+'VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Coupon Number',
+'VOUCHERSERIE_MAIN_VOUCHERSTATISTICS' => 'Coupons',
+'weight' => 'Weight',
+'WRAPPING_COSTS' => 'Gift Wrapping',
+'WRAPPING_LIST_MENUITEM' => 'Shop Settings',
+'WRAPPING_LIST_MENUSUBITEM' => 'Gift Wrapping',
+'WRAPPING_LIST_PICTURE' => 'Picture',
+'WRAPPING_LIST_PRESENTPACKUNG' => 'Gift Wrapping',
+'WRAPPING_LIST_TITLE' => '[OXID Wrapping]',
+'WRAPPING_MAIN_PICTURE' => 'Picture',
+'WRAPPING_MAIN_PICUPLOAD' => 'Upload Picture',
+'WRAPPING_MAIN_PRESENTPACKUNG' => 'Gift Wrapping',
+'WRAPPING_MAIN_TITLE' => '[OXID Wrapping]',
+);

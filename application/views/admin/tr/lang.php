@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (1849), e.mersinlioglu (45), enginistemi (4), marco (2), McDaim (101), scaly (10)
+ * @translators: admin (1849), e.mersinlioglu (45), enginistemi (4), Justian0 (3), marco (2), McDaim (101), mykibarli (20), scaly (10)
  */
 
 $sLangName  = 'Türkçe';
@@ -1832,108 +1832,151 @@ $aLang = array(
 'TOOLTIPS_ARTICLEREVIEW' => 'Ürün önizlemesini aç',
 'TOOLTIPS_ARTICLESTOCK' => 'Stokta olan Ürün Adeti',
 'TOOLTIPS_ARTICLETEMPLATE' => 'Eğer Standar değil ise <br>Templatein Dosya ismi',
-'TOOLTIPS_ARTICLEUNITDESCRIPTION' => 'Temel Fiyat adı altında, tek bir adet ürüne atanan<br> ve aynı zamanda KDV dahil ve<br> diğer Fiyat ekstralarınıda b*    dıran f?phptır.',
-'TOOLTIPS_ARTICLEURLIMG' => 'Templateleri uydurulması gereklihop Community EditioVAT
- *  Yanlızca özel KDV var ise burayı dolmmunnuzhop Community EdLIST_NEWROLE
- *  Create new Roleerms of the GNU GenerPublGENERATOR
- *  (Re) Genere asRights &blishs fieldserms of the GNU GenerSEARCHFIELDOXDYNAMIC
- *  Ara or
- *    (at your option) any laSHORTDESrsion.Kısa Açıklamada a *
- *    OXID eShop Community EditiTITblic LicBaşlıktat it will be usefEDITVAundatioVaryasyon değiştirhop CommunityFORMan redisFormat : YYYY-MM-DDhop CommunityITEMDELETlic LicGiriş/Metin silee the
- *    GNUSTORNOal Public License fipta more details.
- *UNASSIGN
- *  Unassign from shophop CommunityNEWACTIONS redisteni Eylem oluştuILITY or FITNEOXIDDDRESp Community Adre, or
- *    (aOXIDEditio Community Ürünon.  If not, see <http://CATEGORY Community Kategories.com
- * @package   lang
-TREtp://ww) OXID eSAğac   Th yeniden indexshed by
- *    langONTENn redistity CMS-Sayfy Edis.com
- * @package   langOUNT@copyright (CÜlkeco (2), McDaim (101), scaDELIVE@copyright (C) rgo kuralarco (2), McDaim (101), sca--------SE5), enginist------Şn is
-// RESOURCE IDENTIFIER = ISly (1 ------------mpanya/İndiriion.  If not, see <http://
- *
- */
-
-$sL�zellikco (2), McDaim (101), scaLANGUAGtp://www.oxiDilT_MENUSUBITEM' => 'AktioneINK), enginistLinST_MENUSUBITEM' => 'AktionMALLCan redistity MallC) OXID es----------
-$aLang = arrayMANUFACTUREundatiow.oxid-eeticrün',
-'ACTIONS_MAIN_NOTSELWSrset' => 'utfDV oranslan.  If not, see <http://NEWlgisi',
-'ACTMesajTHOR' => 'Yazar',
-'ADMINGB_LILETT 'Lütfen de�E-Bülten taslağı49), e.mersinlioPAYM(45), enginistÖdeme----------------
-$aLang = arrayPROMOeShoLütfen de�Promo    /Editi49), e.mersinlioREMARvcut ÜNot düş49), e.mersinlioSELEC GeneLütfen de�Seçim Liste�rün',
-'ACTIONS_MAIN_NOTSESHOPTR' => 'TanığazaS_LIST_TITLE' => '[OXID LiTATISTersion. 'TanİstatistIST_MENUSUBITEM' => 'AktionUS 'Lütfen de�KullT_AUcDMINGB_LIST_MENUSUrünGROU yönetimi]'yüklemek i Grubup harici bir sunucudan ürünBITEM' => 'Ziyaret Defteri',
-'A49), e.mersinlioVAR1Uyarı:</b',
-'amount' => 'Ade2
- *  alte is*
- *    OXID > 'Ade3anty of
- *    Mn.  If not, see <http://VENDoundatio 'TanTedarikç----------
-$aLang = arrayVOUCH 'Lütfen de�Hediye Çekler' Ürün',
-'ACTIONS_MAIN_NOTSEWRAPPIN*
- *  > 'Ürüne bPaket----------
-$aLang = arOPENHEL yönetiardımı bTY; atim Listelerini i�rünTEM' => 'LM
-'ADteri/ kaydedilemeMINLINKni açhop CommunityRECALCNROF    httSINHATTR' =>) OXID elerdÖzed-esaleAdnse iators: adhesapl*
- *    OXID ' => 'Lütfen özellMAefteri]�iştirmRTICLE_ATTRIBUTE_NOSELLIST' => 'Kullanılmayan Seçim Listeleri',
-'ARTIVND
- *    anımla'RTICLE_ATTRIBUTE_NOSELLIST' => 'Kullanılmayan SeçimSETLütfen özellik seçiniz!',
-'ARTICLE_ATTRIBUTE_NOSELLsıfırla/ghop ived a copy of ',
-'ARTICLE_ATTRIBUCLE_ATTRIBUTE_OPENINNEWWINDOW' => 'Yeni zca bir özellik seçiniz!',
-'ARTICLE_BUNDLE_ALLIdet',
-'ARTICLE_ATTRIBUTE_SELECTONEATTR' =>zca bir özellik seçiniz!',
-'TIMESS FOR A PARZaman TICULA:hop CommunityVAL distributlic Li1__@@lic Li2'Tü ...Shop CoTAL_PLUS_PROPOReShoAL_can redisplus VAT (proportionally calcuID ed)hop CS_RATINGS_BUTTON_ALnılmaya
-'ALTEmızt uneğerleONS_Ln!TICLE_CROSSSELLURL_T ANY WARRATrusted Shops an Özell Yorum *   hop UPDATEAPP_DIRNOT GenerD_WARNUTE_ITEMSLütfen updateApp-dizinün eilinitermsuserılmayan Özellrosssıldı.A_GenerMENU GNUseçinikaydedilemeyöneTE_NOD_ALLCATS' => 'TümSUB Kategoriler',
-'ARTICLGrup�ş Crosss_ALLCATS'MAISSIGLMEMBERlgisi',Tüm yüklemek için'TanımlanmıştegoriINdı.Ama dos kaydedilemedi. Lnun üyeShopLFIXEDPR_www.gnu_--------www.gnu.org/lTesliULARes/>.armı)',
-'ARTIEditio_QUANTITcopyrigE_NO�)',
-'ARTEXTEND_BONI
- *  güvenirliLISTpuT_AU olarak ayarla',CRed wPOINTlgisi',Bonus PuanlaILITYrak ayarla',DISABLEAUTOdı.Ama dosOtomaShopkkaydedilemegTINCATS' ataty EdnslakapUTE_NOrak ayarla',EMAILFAILEt',
-'ARE-Mail�',
-. geçersesuar-rak ayarla',MOBILFDefteri]Telefon ce   alrak ayarla',T_MENUITEM' => 'teri Bilg normal FiyattanPRIVATilen satış Fiya and/ normal FGenerCUSTOMERNUtegoril=> 'TanımNumary EdRTICLE_EXTEND_MEN�m Kategoriler',
-'ARTICLE_EXTEND_ARTEX' => 'Dosya ekle',
-'ARTICLE_EXTEND_EESHIPPING' =>PLACtp://wwİlçhed bIPPING' =>ZI yönetPosta Kodu,
-'ARTICLmışFILE' =>SNundatio
-'ARTICLE_EoShop 'Ürün Ki,
-'ARLOGIefteri]_ERROR/LogiICLE_EXTENmışHASPASSWORt',
-'ARŞifrINKSvarmı?_EXTEND_ISSEARLDA yönetçü ÜrüEXTEND_ISSEARNAMtp://wwAdı SoyadE_EXTEND_HEDIAURLSUBI 'Uzunluk:', 'Tan
-'ARTIEXTEND_MEDIAURRIGHEXTEND_DHakUNIT' => 'bamışSTR�tirebiles/>.ı)',
-'ARTOVERVIEW,
-'ARTICLE_GXTEND_l_DESkIONS_ı lambERNAarakabilecek Adres',
-'AREACKORD 'Lütfeİceiv edilen Sipac LilE_EXTEND_MEAdres',
-'dı.Algisi',CLE_EXTEND_ARTINCATS' => 'Tanmplate',
-'LASTBUcopyrigSon ---şvec Lie edilen satış fiyat KategorilEn sCLE_Edı'ADMATTRIBUe edilen satış fOXIt',
-'ARoxidEXTEND_MEBITEM' NUSUBITEM' => 'Ziyaret Defterr',
-enRCHAEDIA' => 'Sına/KBITEM' => 'Zi DeftersEPRICEkarmı)',
-'ARTat:',
-'ARTICLE_TYPtp://wwMethod tip=> 'Anafiyat:',
-'AVALUtp://wwDssselEXTEND_ME�ştern yü
- *  [ 'Talik]:',
-'ARTICLE_EXT et.',
-'ART[MPLATE' => 'Fiyatı belir�şteri Bilg[Not=> 'Fiyatı belirrün resim[Kul.=> 'FusrRegINLIredE_EXTEND_TPRICE' =
-'ARTICLni girdikilgisonra k it t E' =>mi >(PDmlanmXTEN�m ecsi İn> 'Se�' => 'Tüm KategorilAna BilgRIBUlir)<br>(Dosya ismi  ekle',
-'ARTITICLE_APENINlir)<br>(Dosya iT ANY WARRA[EXTEğiştirmeE_EXTEimi=> 'F<br>(Domış Kai Bilgisi',ARTICmevcutATTRIBURTICLE_EXTEND_mışICONUPLOAt',
-'ARIcon yükshed breasons.',
-'A
- *WITH> 'Seçim LiBu üştirm: ad to security viewAll
- *  hep(büy�öADFI'Dı�ATTRIBSERIE_EXSSELDONPRICEC' XTENiz <bAktarmaogramıyla yüShop GHT_UNIT' => 'kg',
-'AWNE_EXTEND_UTIONS_RTICLE_FILES_ENTER_FILEE_EXTENDrüne bu ÖShop dTEND_WIDTa' =>ıNITQARTICGHT_UNIT' => 'kg',
-UTE_ITEMSDABLE' => 'Bu ürün içiyan indirmyanmļnler',GHT_UNIT' => tware FE_EXTENDO.  If nulan�rüne bu ÖzeE_NOSizin ver',
-'ARTICLrün sadeARTICLE_En.  If n 'Genişlik:',
-'lais pCHASEDONLY' => 'Ürün saS_NEW_FILE' => 'Yeni Dosn----------uNEW_PrünHASEDONLY' => 'ÜrRTICL_mpanyalara daBucu Medya URL girbniz <biçCLE_EXGHT_UNIT' =>  => 'Tüm Kategoril,
-'ALTERAyar�ş Cross_FILES_TABLE_FILENAME' ekle',
-'ARTIrüne bu Özellikarmı)',_FILES_TABLE_FILENAINDATEPRICEC'Azami AEXTEN-V_UNIT  => 'C�ş',
-'ARTICLE_FILES_TAT' =AL 'Dosya',İsi_MENUGHT_UNIT' => mış KaOWOTUNIT' =>XTEND_DIaşkaellikyleGTPRICEn.',
-'ARTICLE_LIST_MENUSUBITESAME 'Ürün',
-'AyS' =_MAIN_ACTIVE' => 'Aktif',
-'ARTICLE_MAINVAILLE_EE_EXTEND_TPRIClabKIPD 'Aktif',
-'ARTICLE_MAI=> 'ULATEON 'Yüksetribute itbirkez 'Kullan (sadecebr>(enmesi DABLE' => 'Bu �N_ACTIVE' =>dirRTICLARTICLE_LIST_MENUS(
-'charset' =TIONS_LI'ARTICLE_MAIN_ARTCOPY''kg',
-TICLE_ExAkse'ARTICLE_MAIN_ARTCOPY'rün sadce ödemeden sARTICLE_MAIN_DISTEAN' => 'ÜreRANDOtegorilRasgeleerna_EXTENDIBUTE_ASSIGNSARTICLE_LIST_MENUSMIN et.'PRI 'YükseGIVE' => NG'  => 'Dosya Yükle',
-'ARTICLE_LIST_ALLPROICLE_EXTSATTRIBUTE' => 'Ürüne bu ÖShop RTICLE' => 'Uyarı: Ürün Numdu',
-' 'Dosya',E_MAIN_ESAVINGARTICLE' => 'Uyarı: Ürün NumIVEFROMM' => et.',
-'ART�langıc',
-'ARTICLE_MA,ATTRIkternaEMPLATE' t 'Dı�_MAIN_INCATEGORY'USE_EXTENDN_ACTIVFRnmesi=> 'Uyarı: Ürün NumE' => ' 'Dosya',rüne bu ÖzeEXTEND_FILEUPBLE' => 'Anaürün satıl' => '<b>_EXTEND_LE_MAIN_INVALIEXTEweon 3_MPN' ='ADMr witEXTETTRIBUTE_COSEXTEND_DGift WrappingPRICEC' => 'CFILENAME' => 'Dosya Adi Tablosu',
-'ARTICKaydet',
-'ARTICLE_EDONLY' => 'Sadace s'ÜrüKelimeleri',
-'ARTIPI' => removedeler',
-'�klama',
-'ARTIC',
-'NTPACKU_NEW_FILE' => 'Kısa Açıklama',
-'ARTIDISDISABLED' => 'CLE_MAIYdemoshop. UplEC' => 'CmışCLE_MAIN_TAGS' => 'Anahtar Keli => 'ÖzCLE_EXTEND_U' => SC' => 'DıAIN_VENDORID' =,
-'ARTICLE_MAIN_TITLE' => 'Başlık',
-'ARTICLmışN_VARIANTE' => 'Varyasyonu',
-'ARTICLE);
+'TOOLTIPS_ARTICLEUNITDESCRIPTION' => 'Temel Fiyat adı altında, tek bir adet ürüne atanan<br> ve aynı zamanda KDV dahil ve<br> diğer Fiyat ekstralarınıda barındıran fiyattır.',
+'TOOLTIPS_ARTICLEURLIMG' => 'Templateleri uydurulması gerekli',
+'TOOLTIPS_ARTICLEVAT' => 'Yanlızca özel KDV var ise burayı doldurunuz',
+'TOOLTIPS_ARTLIST_NEWROLE' => 'Create new Role',
+'TOOLTIPS_ARTLIST_ROLEGENERATOR' => '(Re) Generate Rights & Roles fields',
+'TOOLTIPS_ARTLIST_SEARCHFIELDOXDYNAMIC' => 'Ara',
+'TOOLTIPS_ARTLIST_SEARCHFIELDOXSHORTDESC' => 'Kısa Açıklamada ara',
+'TOOLTIPS_ARTLIST_SEARCHFIELDOXTITLE' => 'Başlıkta ara',
+'TOOLTIPS_EDITVAR' => 'Varyasyon değiştir',
+'TOOLTIPS_FORMAT' => 'Format : YYYY-MM-DD',
+'TOOLTIPS_ITEMDELETE' => 'Giriş/Metin sil',
+'TOOLTIPS_ITEMSTORNO' => 'Giriş/Metin iptal',
+'TOOLTIPS_ITEMUNASSIGN' => 'Unassign from shop',
+'TOOLTIPS_NEWACTIONS' => 'Yeni Eylem oluştur',
+'TOOLTIPS_NEWADDRESS' => 'Yeni Adres',
+'TOOLTIPS_NEWARTICLE' => 'Yeni Ürün oluştur',
+'TOOLTIPS_NEWCATEGORY' => 'Yeni Kategori oluştur',
+'TOOLTIPS_NEWCATTREE' => 'Kategori Ağacını yeniden indexle',
+'TOOLTIPS_NEWCONTENT' => 'Yeni CMS-Sayfası oluştur',
+'TOOLTIPS_NEWCOUNTRY' => 'Yeni Ülke oluştur',
+'TOOLTIPS_NEWDELIVERY' => 'Yeni Kargo kuralı oluştur',
+'TOOLTIPS_NEWDELIVERYSET' => 'Yeni Kargo Şekli oluştur',
+'TOOLTIPS_NEWDISCOUNT' => 'Yeni Kampanya/İndirim oluştur',
+'TOOLTIPS_NEWITEMS' => 'Yeni Özellik oluştur',
+'TOOLTIPS_NEWLANGUAGE' => 'Yeni Dil oluştur',
+'TOOLTIPS_NEWLINK' => 'Yeni Link oluştur',
+'TOOLTIPS_NEWMALLCAT' => 'Yeni Mall Kategorisi oluştur',
+'TOOLTIPS_NEWMANUFACTURER' => 'Yeni Üretici oluştur',
+'TOOLTIPS_NEWMWST' => 'Yeni KDV oranı oluştur',
+'TOOLTIPS_NEWNEWS' => 'Yeni Mesaj oluştur',
+'TOOLTIPS_NEWNEWSLETTER' => 'Yeni E-Bülten taslağı',
+'TOOLTIPS_NEWPAYMENT' => 'Yeni Ödeme Şekli oluştur',
+'TOOLTIPS_NEWPROMOTION' => 'Yeni Promosyon/Eylem',
+'TOOLTIPS_NEWREMARK' => 'Not düş',
+'TOOLTIPS_NEWSELECTLIST' => 'Yeni Seçim Listesi oluştur',
+'TOOLTIPS_NEWSHOP' => 'Yeni Mağaza oluştur',
+'TOOLTIPS_NEWSTATISTIC' => 'Yeni İstatistik oluştur',
+'TOOLTIPS_NEWUSER' => 'Yeni Kullanıcı',
+'TOOLTIPS_NEWUSERGROUP' => 'Yeni Kullanıcı Grubu oluştur',
+'TOOLTIPS_NEWUSERPAYMENT' => 'Yeni Ödeme Şekli',
+'TOOLTIPS_NEWVAR1' => 'Yeni',
+'TOOLTIPS_NEWVAR2' => 'altında',
+'TOOLTIPS_NEWVAR3' => 'Varyasyon oluştur',
+'TOOLTIPS_NEWVENDOR' => 'Yeni Tedarikçi oluştur',
+'TOOLTIPS_NEWVOUCHER' => 'Yeni Hediye Çeki Serisi oluştur',
+'TOOLTIPS_NEWWRAPPING' => 'Yeni Hediye Paketi oluştur',
+'TOOLTIPS_OPENHELP' => 'Yardımı başlat',
+'TOOLTIPS_OPENUSERLIST' => 'Müşteri/Kullanıcı Listesini aç',
+'TOOLTIPS_RECALCNROFARTICLESINCAT' => 'Kategorilerdeki Ürün Adetini yeniden hesapla',
+'TOOLTIPS_RECALCNROFARTICLESINMAN' => 'Üreticilerdeki Ürün Adetini yeniden hesapla',
+'TOOLTIPS_RECALCNROFARTICLESINVND' => 'Tedarikçilerdeki Ürün Adetini yeniden hesapla',
+'TOOLTIPS_RESETNROFARTICLESINCAT' => 'Kategorilerdeki Ürün Adetini sıfırla/geri al',
+'TOOLTIPS_RESETNROFARTICLESINMAN' => 'Üreticilerdeki Ürün Adetini sıfırla/geri al',
+'TOOLTIPS_RESETNROFARTICLESINVND' => 'Tedarikçilerdeki Ürün Adetini sıfırla/geri al',
+'TOOLTIPS_TIMEFORMAT' => 'Zaman Format:',
+'TOOLTIPS_VALDESC' => 'Giriş1__@@Giriş2__@@ ....',
+'TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
+'TS_RATINGS_BUTTON_ALT' => 'Mağazamızı değerlendirin!',
+'TS_RATINGS_URL_TITLE' => 'Trusted Shops Müşteri Yorumları',
+'UPDATEAPP_DIRNOTDELETED_WARNING' => 'Lütfen updateApp-dizinini siliniz',
+'user' => 'Müşteri',
+'USERGROUP_LIST_MENUITEM' => 'Kullanıcı yönet',
+'USERGROUP_LIST_MENUSUBITEM' => 'Kullanıcı Grupları',
+'USERGROUP_MAIN_ALLMEMBERS' => 'Tüm Kullanıcı',
+'USERGROUP_MAIN_MEMBERINGROUP' => 'Kullanıcı Grubunun üyeleri',
+'USER_ADDRESS_DELIVERYADDRESS' => 'Teslimat Adresleri',
+'USER_ARTICLE_QUANTITY' => 'Adet',
+'USER_EXTEND_BONI' => 'güvenirlilik puanı',
+'USER_EXTEND_CREDITPOINTS' => 'Bonus Puanlar',
+'USER_EXTEND_DISABLEAUTOGROUP' => 'Otomatik kullanıcı grupları atamasını kapat',
+'USER_EXTEND_EMAILFAILED' => 'E-Mail Adr. geçersiz',
+'USER_EXTEND_MOBILFON' => 'Telefon cep',
+'USER_EXTEND_NEWSLETTER' => 'E-Bülten',
+'USER_EXTEND_PRIVATFON' => 'Telefon özel',
+'USER_LIST_CUSTOMERNUM' => 'Müşteri Numarası',
+'USER_LIST_MENNUITEM' => 'Kullanıcı yönet',
+'USER_LIST_MENNUSUBITEM' => 'Kullanıcı',
+'USER_LIST_PLACE' => 'İlçe',
+'USER_LIST_ZIP' => 'Posta Kodu',
+'USER_MAIN_CUSTOMERSNR' => 'Müşteri No.',
+'USER_MAIN_EMAILLOGIN' => 'E-Mail/Login',
+'USER_MAIN_HASPASSWORD' => 'Şifresi varmı?',
+'USER_MAIN_LDAP' => 'LDAP user',
+'USER_MAIN_NAME' => 'Adı Soyadı',
+'USER_MAIN_NEWPASSWORD' => 'Yeni Şifre',
+'USER_MAIN_RIGHTS' => 'Haklar',
+'USER_MAIN_STRNR' => 'Adresi',
+'USER_OVERVIEW_BONI' => 'Güvenilirlik Puanı lamba olarak',
+'USER_OVERVIEW_BREACKORDER' => 'İptal edilen Siparişler',
+'USER_OVERVIEW_GROUPS' => 'Kullanıcı Grupları',
+'USER_OVERVIEW_LASTBUY' => 'Son alışveriş',
+'USER_OVERVIEW_LASTITEM' => 'En son aldığı Ürün',
+'USER_OVERVIEW_OXID' => 'oxid',
+'USER_PAYMENT_NEWPAYMENT' => 'Yeni Ödeme Seçeneği',
+'USER_PAYMENT_PAYMENT' => 'Ödeme seçenekleri',
+'USER_PAYMENT_PAYMENTTYPE' => 'Method tipi',
+'USER_PAYMENT_VALUE' => 'Değer',
+'USER_REMARK_NEWS' => '[Yenilik]',
+'USER_REMARK_ORDER' => '[Sipariş]',
+'USER_REMARK_REMARK' => '[Not]',
+'USER_REMARK_USER' => '[Kul.]',
+'usrRegistered' => 'Kullanıcı Şifresini girdikten sonra kayıt işlemi tamamlanmış olacak',
+'VENDOR_LIST_MENUITEM' => 'Ana Bilgiler',
+'VENDOR_LIST_MENUSUBITEM' => 'Tedarikciler',
+'VENDOR_LIST_TITLE' => '[OXID Üretici yönetimi]',
+'VENDOR_MAIN_ALLITEMS' => 'Tüm mevcut Ürünler',
+'VENDOR_MAIN_ICONUPLOAD' => 'Icon yükle',
+'VENDOR_MAIN_ITEMSWITHVENDOR' => 'Bu üreticiden Ürünler',
+'viewAll' => 'hepsini göster',
+'VOUCHERSERIE_EXPORTDONE' => 'Dışarı Aktarma işlemi tamam.',
+'VOUCHERSERIE_EXPORTDOWNLOAD' => 'İndir',
+'VOUCHERSERIE_EXPORTED' => 'Hediye Çekleri dışarı aktarıldı:',
+'VOUCHERSERIE_EXPORTING' => 'Hediye Çekleri dışarıya aktarıyorum...',
+'VOUCHERSERIE_GENERATED' => 'Oluşturulan Hediye Çeki Adeti:',
+'VOUCHERSERIE_GENERATEDONE' => 'oluşturma işlemi tamamlandı.',
+'VOUCHERSERIE_GENERATING' => 'Hediye Çeklerini oluşturuyorum ...',
+'VOUCHERSERIE_GROUPS_INGROUP' => 'Bu kullanıcı grubları için',
+'VOUCHERSERIE_LIST_MENUITEM' => 'Mağaza Ayarları',
+'VOUCHERSERIE_LIST_MENUSUBITEM' => 'Hediye Çeki Serileri',
+'VOUCHERSERIE_LIST_MINVALUE' => 'Azami Alış-Veriş Değeri',
+'VOUCHERSERIE_LIST_SERIALNUM' => 'İsim',
+'VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Başka Seriyle geçerli',
+'VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Aynı Seriyle geçerli',
+'VOUCHERSERIE_MAIN_AVAILABLE' => 'Kullanılabilir',
+'VOUCHERSERIE_MAIN_CALCULATEONCE' => 'Yanlızca birkez hesapla (sadece atanmış Hediye Çekleriyle geçerlidir)',
+'VOUCHERSERIE_MAIN_DISCOUNT' => 'İndirim',
+'VOUCHERSERIE_MAIN_EXPORT' => 'Export',
+'VOUCHERSERIE_MAIN_GENERATE' => 'Oluştur',
+'VOUCHERSERIE_MAIN_GENERATERANDOM' => 'Rasgele bir Numara oluştur',
+'VOUCHERSERIE_MAIN_MINORDERPRICE' => 'Geçerli azami Alış-Veriş Değeri',
+'VOUCHERSERIE_MAIN_NEWVOUCHER' => 'Yeni Hediye Çekleri oluştur',
+'VOUCHERSERIE_MAIN_RANDOMNUM' => 'Rasgele Numara oluştur',
+'VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Aynı Seriyle geçerli, başka bir Siparişte',
+'VOUCHERSERIE_MAIN_USED' => 'Kullanılmış',
+'VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Hediye Çeki Numarası',
+'VOUCHERSERIE_MAIN_VOUCHERSTATISTICS' => 'Hediye Çekleri',
+'weight' => 'Ağırlık',
+'WRAPPING_COSTS' => 'Gift Wrapping',
+'WRAPPING_LIST_MENUITEM' => 'Mağaza Ayarları',
+'WRAPPING_LIST_MENUSUBITEM' => 'Hediye Paketi',
+'WRAPPING_LIST_PICTURE' => 'Resim',
+'WRAPPING_LIST_PRESENTPACKUNG' => 'Hediye Paketi',
+'WRAPPING_LIST_TITLE' => '[OXID Hediye Yönetimi]',
+'WRAPPING_MAIN_PICTURE' => 'Resim',
+'WRAPPING_MAIN_PICUPLOAD' => 'Resim yükle',
+'WRAPPING_MAIN_PRESENTPACKUNG' => 'Hediye Paketi',
+'WRAPPING_MAIN_TITLE' => '[OXID Hediye Yönetimi]',
+);

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (19), linasg (3), muslimukas (5), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
+ * @translators: abejingas (188), agladutis (19), gvidas123 (1), linasg (3), muslimukas (5), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
  */
 
 $sLangName  = 'Lietuvių';
@@ -130,7 +130,7 @@ $aLang = array(
 'ARTICLE_MAIN_ERRORSAVINGARTICLE' => 'Perspėjimas: Prekė jau egzistuoja!',
 'ARTICLE_MAIN_GOTO' => 'Eiti į',
 'ARTICLE_MAIN_INCATEGORY' => 'Kategorijoje:',
-'ARTICLE_MAIN_INVALIDTAGSFOUND' => 'Attention: Invalid tags removed',
+'ARTICLE_MAIN_INVALIDTAGSFOUND' => 'Dėmesio: Neteisinga gairė pašalinta',
 'ARTICLE_MAIN_MANUFACTURERID' => 'Gamintojas',
 'ARTICLE_MAIN_MPN' => 'GPK',
 'ARTICLE_MAIN_NONE' => '-- nėra --',
@@ -1827,137 +1827,156 @@ $aLang = array(
 'TOOLS_MAIN_UPDATEVIEWSINFO' => 'After particular DB table structure updates, in order changes to take effect you need to regenerate DB views.',
 'TOOLS_MAIN_UPDATEVIEWSNOW' => 'Atnaujinti DB vaizdus dabar',
 'TOOLTIPS_ADDSUMITMTYPE' => 'Absoliuti, procentinė<br> arba prekės<br>Nuolaida/Antkainis',
-'TOOLTIPS_ADDSUMTYPE' => 'Absoliuti arba<br>procentinė
- *Nuolaida/Antkainis',
-'TOOLTIPS_ARTICLEDELIVERY' => 'Laiko formatas:op Community EditionREVIEW*    OAtidaryti prekės peržiūrąop Community EditionSTOCK*    OPstributkiekis sandėlyjeop Community EditionTEMPLATE*    OŠablono failo vardas
- *jei nenaudojamas standart eShop Community EditionUNITDESCRIPTIONhe termo bazine ID ea yra suprantamasion.
-grindžiam*
- * konkrečiu  Comvimo vienetų taikymu, įskaitantditiomokesistrs irsion.os komponentus. License, or
- *    (RLIMG*    OKeisti reikiamus šhe Fruhop Community EditionVAThe termildykite čia tik išimf thu PVM atvejuop Community EdiLIST_NEWROL
- *   Create new Rolblic License as p moretailGENERATOR*    O(Re) Gener*   Rights &u shos fieldhop Community Edi moreSEARCHFIELDOXDYNAMIC*    Opaieškah OXID eShop Community Edition.  ISHOR your*    Otr. aprašymath OXID eShop Community Edition.  ITITils.
- *pavadiniles.com
- * @pacEDITVANU Geney of
- variantor modify
- *  FORMRTICULARFop Commu YYYY-MM-DDop Community ITEMDElish*    OTrinti įd-esor modify
- *  ), mSTORNOare: youšauktia (2756), regneo UNASSIGn) any Unassign from shopop Community NEWACtionS*    OSukurti naują akcijor modify
- *  ----DDRES-------Naujas adreses.com
- * @pac----dition---------------------istri�----------------CATEGO
- *    O---------------kategor/ RESOURCE IDENTIFIECATTREaLang =Peommueksuoti. klientamų medį,
-'ACTIONS_LIST_MONTENTICULAR array(
-'charseuslapNS_MAIN_ALLARTICLES'UNTT_MENUITEM' => 'Inform.šalNS_MAIN_ALLARTICLE.
- *
- *    O array(
-'charsetistatymosion.RESOURCE IDENTIFIE.
- *
- SE'Visos turimos prekės'ažy.sion.ų grup=> 'utf-8',
-'ACTIODISCLESWLECTED' => 'Prašome n part RESOURCE IDENTIFIEneo (---------------------tribu
- * @translatorNEWLANGUAGaLang = array(
-'charskalbB_LIST_MENUSUBITEM'INthe terY' => 'Įrašas',
-roMINGB_LIST_MENUITEMMALLCRTICULAR---------------moli vilientams',
-'ACTIONS_LIST_MANUFACTURENU Gene---------------gamintoBITEM' => 'Nuorodos'WSST_ENTRY' => 'ĮrašasPVMLIST_MENUSUBITEMNEW 'Inform. klientams',
-žinut=> 'utf-8',
-'ACTIOio:<LETTINKS_LIST_TITLE' => '[O----ienlaiškNS_MAIN_ALLARTICLEPAYM> 'Visos / -----mokėj in būd------------------PROMOtion) any / --- reklama/
-// a/banerShop Community  detEMARthe termsidėrediastaTITLE' => '[OXID SvSELECmmuniKS_LIST_TITLE' => '[Osavybių sąthuania (2756), regLECTHOPLECTED' => 'Prašome parduotuv=> 'utf-8',
-'ACTIOSTATIST, see <hirti savybes',
-'tatof
-kTE_ITEMSATTRIBUTE'USINKS_LIS/ -----vartotoj------------------TE' GROU 'Prekių atributai',
-ti atribTHOR' => 'Autorius',
-'ADMTE' ite patys pasirūpinti sinchronizacija.',
-'amount' =VAR1=> 'Nepriskios savybės',
-'ARTI2) any laos savybės',
-'ARTI3*    Os-------hop CE
- * @translator
-'ARENDGNU Gene---------------titrib RESOURCE IDENTIFIEVOUCHINKS_LIST_TITLE' => '[OkupFreesetams',
-'ACTIONS_LIST_WRAPPINwarrant---------------įpaked ior modify
- *  OPENHEL 'PrekiPagalbww.gnu.org/licutąTE'  => 'Priskou can red�ome pažymATTRIBUTE_ITEMSATTRIBURECALCNROF  it undIN. klientaAt�ymėredistrCLE_numerbut T_MENUSUBosblic License arti prekes',
-'ARTICLMAn) any ASSIGNEDARXID NuorųRTICLE' => 'Prisk:',
-'ARTICLE_BUNDLE_UNASSIGNARTICVND => 'NepriskirtiTE_SELE',
-'ARTICLE_CROSSSELLING_ALLITEMS'SETekes',
-'ARTICLE_BUNDLE_AServerNFQ TICLE' => 'Priskirtos prekės:',
-'ARTICLE_BUsesuarus',
-'ARTICLE' => 'NepLING_ASSI prekių',
-'ARTICLE_CROSSSELLING_ALLITEMS'sesuarus',
-'ARTIC',
-'ARTICLELING_ASSILLING_ASSIGNACCESSORIES' => 'Priskirti TIMEs: abejingasXID eShop Community Edition VAL  http://wĮd-esas1__@@XTEND_AR2EXTR usw withouTAL_PLUS_PROPORtionAL_ARTICULARplus VAT (proportionally calculated)op CoS_RATINGS_BUTTON_ALTICULAR ad-esak atsiliepktai!CLE_EXTEND_BLFIURL_right (C) OTrusted Shops PirNG_ASSIįveof thma (204UPDATEAPP_DIRNOTuslimuD_WARNTES' => 'Pd-esome
- *t, NFQ katalogą: updateApp�"',
-userrsion OlientTE_OPETRIBUTE_N_ moreMENU), m*    OVome pažymvaldales.comIT' => 'm',
-'ARTICLSUBE_EXTEND_EG' =>��yti egzistuojaMAIICE'LMEMBER 'InforVisLE_BUNDLE_ULT' => filmas, mp3 aouTubeINUTE_NOATTRI�orinisLE_EXTEND_ERRORSAVI_R = STR_.
- *
- R = STRING
-/Kitas pažymėti ----------- nei �dition_QUANTIT *    OVisti at nei EXTEND_BONI*    OMokuašyti egziByla',
-'CR
- * POINTICLE_EXTredito ta//wwesnė nei yla',
-'DISABLEAUTOUTE_NOATTRIIšjunghp
-uto.INGB_kyrktaiOR' =>�mILEUPLOAD' => 'ĮEMAILFAILE
-'ARTICEl. pašt 'Išorin neteisingas?LE' => 'Byla',
-'MOBILFon) any MobiPrektelefonFILEUPLOAD' => 'Įserveris. Failai iųf
- erverįas e'Prekė u',
-'ARTICLE_EXTENPRIVATEARCH' =>Privatdama per paiešką',
- moreCUSTOMERNUXTEND_EIMENSIo nr witha URL',
-'AMENCLE_EXTEND_ENTERURL' => 'Įrašyti egzieriali preka URL <br>(i�NTERURL'FREESHIPPIN morePLACaLang =MiesIONS_UNIT' SCOUNTZI
-'ARTICLEė gaind=> 'Nematemp3 aRTICLE_ESNersion OATERIAL' => 'Nematemp3 aSCONFLOGIn) any  'Prekė gali būti/INGB_iARTI in tre FoE' => 'Alt. šHASPASSWOR
-'ARTICTuri 
-'ACtažodį',
-'ARTICLmp3 aLDA 'PrekiTY'  E_EXTND_UNITQUANTINAMaLang =Vre Fo / Pa
-'ARė)',
-'ARTICLE_EXurit' => 'Mato p/ -----
-'ARTICLE_Shop CUNITQUANTIRIGH�:',
-'ARTeisnis PDF, fiQUANTISTRICLE_EXTGatvė, namo(buto)L' = )',
-'ARTIOVERoftw'ARTICLE_EXTEND_FILEUPLOAD'
-'ARTICLE_REACKORDINKS_LIS(3), tlt  užsakyAULT' =>=> 'C:',
-'ARTUTE_N 'Infor�orinis PDF, fi'C:',
-'ARTLASTBU *    OPaskuf the pirkles AG 2END_UPDATEPRICETIME_EXTEND_ENėliausiai'ARTIto_EXTtribu_EXTEND_UPDATEPRICOXI
-'ARTICs perXTEND_UPite pat turite patys pasirūinti sinchronizacinti kain�rdas turite patys pasMų, numerių, pabraukimo (_) ir taško TYPaLang =Būdo tipTICLE_EXTENrdas turVALUaLang =Reikšmnaujinti meti atrLE_EX*    O[raid�enos]joje yra išjungXTEND_UPDAT[U 'AtnaujEND_URLDESC' => 'Uti atributus[PE_ATTaND_URLDESC' => 'UTE' => 'Ne[Reg.ND_URusrRegistered,
-'ARTICLE_EXTEs bus=> 'r_EXTEruoND_EXTENduEPRICE' => 'į with�saugo',
-'ARTICLE_EXTEND_EPard. nu�ymėt pabrakelto failo pavaa URL <br>(i�TE_SELE_ISDOWNLOADABLE' =right (C) O[s pe ųsti �',
-'ĮrašND_URkelto fmp3 ar Y' => 'InforD_FIs failas turinkite įkrauICONUPLOA'Mato pa_NEW_FILlogos failų EW_PURCHASEDOeo (WITH�saugoti',
-'iūsti gafailas turiviewAllracinėodICLE_isATTRIBUšome pSERIE_EXTENDDONaLang =K
-'ARų eksse ked i
-'ARaigta; with> 'Siųsti',
-'ARTICLEWN=> 'ParsisParsis=> 'I:
-'ARTICLE_FILES_OR_FILEABLE' =>R' =>ai
- *rba įkų vunity> 'Siųsti',
-'ARTICTES' => 'E
-'ARTICLE_',
-'ARus..,
-'ARTICLE_FILES_Oof the  failo pavadinimsugblicCLE_FILES_TABLE_FILENAASEDONLY'E_FILES_OR' => 'akus',elkite failą',
-'ARTICLE_FILES_Oof the TES' => 'ublicmas',
-'ARTICLE_FILES_TABLE_PURCHAu lai_ida: Sena kaiPrieinXID  'A:',
-'ARTI> 'Siųsti',
-ailo pavadinimą',
-'ARTICLE_FILES_ISDOWN'ARTICLE_MAIN_ACTIVEFa URL <br>(i�avadinius',
-'ARTICLE_MAIN_ACTIINmonstracin�Min.=> 'Atnauo sumww.gnCTIVETO' => 'į',
-sti'ALXTEND_NONSLE_AosL' => 'NCTIVETO' => 'mp3 ar YOWOTiųsti',iku',
-'Aalioj
- * kitomU Ge' => mia',
-'Aeisti',
-'ARTICLE_MAIN_ASAMEY' => 'Kopijuoti prekęta pa See CLE_MaARTNUM' => 'Prekės kodaVAILokamXTEND_Uepaeithet> 'Alt. kaina',
-'AuponaiALCU byON=> 'PralSkaiistras',thekartą(goti prethefailei WITHOlientamaiICLE_ARTICLE' => 'PerspINGB_LIST_ENTRs part o_MAIN_INCATEGORY' => ''ARTICailo pavadinimas'_MAIN_INCATEGORY' => 'ASEDONLYprekės',
-'ARTIlid tags removed',
-'ARTICLE_MARANDOXTEND_EAtsitika:',
-'l be  but_MAIN_INCATEGORY' => 'MINXTENDPRI=> 'PraleiMAIN_ALDPRICE' => 'Alt. kaina',
-'Adia',
-'Ašome pažymėti atributą:',
-'AROAD' => 'Siųsti',
-na',
-'AIN_MXTEND_NON 'GPK',
-'ARTI> 'Pri_NONE' => '-- nėra --''ARTICLRTCOPXTEND_UPDATSTEAN' => 'Tiekėjo BAR',
-', skiof tgiemICLE_Atnaujm_ARTNUM' => 'Prekės kodUSABLE' =>P_ERRORSAVINGARTICLE' => 'PerspCTIVETOXTEND_NONM
-'ARTI:',
-'ARTICLE_MAIN_PRICEB' => CTIVETO'IST' => ICLE_EXTVFROMTILL'wenseė jau vo'ARTICLTRIBUTES_COS�:',
-'ARGift Wrappingimas',
-'ARTICailo pavadinimą',
-'ARTICLE_FILES_ISDOWtas',
-'ARTICLE_MAIa URL <br>(i�Pi tiktoCLE_laugonimas',
-'ARTICCOUNTSIMINLIjoje:',
-'trauwww.gn 'Kiti nustatymprekNTPACKUCLE_EXTENCLE_OTHER_OPTIONS' => 'Kiti nustatys',
-'ARTICLE_FILEICLE_OV'Pasiri',
-'ARTICmp3 amai',
-'ARTICLPaveikslti fnimas',
-'ARTICERVIEW_L' => 'ParsisĮkelI:',_OVERVIą 
- *(didelise Sofas tv.',būs',
-elty Eute i FTPICLE_uota',
-'ARTICLEekė sukurta',
-'ARTICLE_OVTICLE_uota',
-'ARTICLuktų užsakymų skaičius',
-');
+'TOOLTIPS_ADDSUMTYPE' => 'Absoliuti arba<br>procentinė<br>Nuolaida/Antkainis',
+'TOOLTIPS_ARTICLEDELIVERY' => 'Laiko formatas:',
+'TOOLTIPS_ARTICLEREVIEW' => 'Atidaryti prekės peržiūrą',
+'TOOLTIPS_ARTICLESTOCK' => 'Prekės kiekis sandėlyje',
+'TOOLTIPS_ARTICLETEMPLATE' => 'Šablono failo vardas<br>jei nenaudojamas standartinis',
+'TOOLTIPS_ARTICLEUNITDESCRIPTION' => 'Po bazine kaina yra suprantama kaina grindžiama<br> konkrečiu matavimo vienetų taikymu, įskaitant<br> mokesčius ir kainos komponentus.',
+'TOOLTIPS_ARTICLEURLIMG' => 'Keisti reikiamus šablonus',
+'TOOLTIPS_ARTICLEVAT' => 'Pildykite čia tik išimtiniu PVM atveju',
+'TOOLTIPS_ARTLIST_NEWROLE' => 'Create new Role',
+'TOOLTIPS_ARTLIST_ROLEGENERATOR' => '(Re) Generate Rights & Roles fields',
+'TOOLTIPS_ARTLIST_SEARCHFIELDOXDYNAMIC' => 'paieška',
+'TOOLTIPS_ARTLIST_SEARCHFIELDOXSHORTDESC' => 'tr. aprašymas',
+'TOOLTIPS_ARTLIST_SEARCHFIELDOXTITLE' => 'pavadinimas',
+'TOOLTIPS_EDITVAR' => 'Keisti variantą',
+'TOOLTIPS_FORMAT' => 'Formatas: YYYY-MM-DD',
+'TOOLTIPS_ITEMDELETE' => 'Trinti įrašą',
+'TOOLTIPS_ITEMSTORNO' => 'Atšaukti',
+'TOOLTIPS_ITEMUNASSIGN' => 'Unassign from shop',
+'TOOLTIPS_NEWACTIONS' => 'Sukurti naują akciją',
+'TOOLTIPS_NEWADDRESS' => 'Naujas adresas',
+'TOOLTIPS_NEWARTICLE' => 'Sukurti naują prekę',
+'TOOLTIPS_NEWCATEGORY' => 'Sukurti naują kategoriją',
+'TOOLTIPS_NEWCATTREE' => 'Perindeksuoti kategorijų medį',
+'TOOLTIPS_NEWCONTENT' => 'Sukurti naują puslapį',
+'TOOLTIPS_NEWCOUNTRY' => 'Sukurti naują šalį',
+'TOOLTIPS_NEWDELIVERY' => 'Sukurti naują pristatymo kainą',
+'TOOLTIPS_NEWDELIVERYSET' => 'Sukurti naują prist. kainų grupę',
+'TOOLTIPS_NEWDISCOUNT' => 'Sukurti naują nuolaidą',
+'TOOLTIPS_NEWITEMS' => 'Sukurti naują atributą',
+'TOOLTIPS_NEWLANGUAGE' => 'Sukurti naują kalbą',
+'TOOLTIPS_NEWLINK' => 'Sukurti naują nuorodą',
+'TOOLTIPS_NEWMALLCAT' => 'Sukurti naują molo kategoriją',
+'TOOLTIPS_NEWMANUFACTURER' => 'Sukurti naują gamintoją',
+'TOOLTIPS_NEWMWST' => 'Sukurti naują PVM',
+'TOOLTIPS_NEWNEWS' => 'Sukurti naują žinutę',
+'TOOLTIPS_NEWNEWSLETTER' => 'Sukurti naują naujienlaiškį',
+'TOOLTIPS_NEWPAYMENT' => 'Naujas mokėjimo būdas',
+'TOOLTIPS_NEWPROMOTION' => 'Nauja reklama/akcija/baneris',
+'TOOLTIPS_NEWREMARK' => 'Pridėti pastabą',
+'TOOLTIPS_NEWSELECTLIST' => 'Sukurti naują savybių sąrašą',
+'TOOLTIPS_NEWSHOP' => 'Sukurti naują parduotuvę',
+'TOOLTIPS_NEWSTATISTIC' => 'Sukurti naują statistiką',
+'TOOLTIPS_NEWUSER' => 'Naujas vartotojas',
+'TOOLTIPS_NEWUSERGROUP' => 'Sukurti naują vartotojų grupę',
+'TOOLTIPS_NEWUSERPAYMENT' => 'Naujas mokėjimo būdas',
+'TOOLTIPS_NEWVAR1' => 'Naujas',
+'TOOLTIPS_NEWVAR2' => 'Po',
+'TOOLTIPS_NEWVAR3' => 'sukurti variantą',
+'TOOLTIPS_NEWVENDOR' => 'Sukurti naują tiekėją',
+'TOOLTIPS_NEWVOUCHER' => 'Sukurti naują kupono seriją',
+'TOOLTIPS_NEWWRAPPING' => 'Sukurti naują įpakavimą',
+'TOOLTIPS_OPENHELP' => 'Pagalba',
+'TOOLTIPS_OPENUSERLIST' => 'Atidaryti vartotojų sąrašą',
+'TOOLTIPS_RECALCNROFARTICLESINCAT' => 'Atstatyti prekių numerius kategorijose',
+'TOOLTIPS_RECALCNROFARTICLESINMAN' => 'Atstatyti gamintojų prekių numerius',
+'TOOLTIPS_RECALCNROFARTICLESINVND' => 'Atstatyti tiekėjų prekių numerius',
+'TOOLTIPS_RESETNROFARTICLESINCAT' => 'Atnaujinti prekių numerius kategorijose',
+'TOOLTIPS_RESETNROFARTICLESINMAN' => 'Atnaujinti gamintojų prekių numerius',
+'TOOLTIPS_RESETNROFARTICLESINVND' => 'Atnaujinti tiekėjų prekių numerius',
+'TOOLTIPS_TIMEFORMAT' => 'Laiko formatas:',
+'TOOLTIPS_VALDESC' => 'Įrašas1__@@Įrašas2__@@ usw.',
+'TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
+'TS_RATINGS_BUTTON_ALT' => 'Parašyk atsiliepimą!',
+'TS_RATINGS_URL_TITLE' => 'Trusted Shops Pirkėjų įvertinimai',
+'UPDATEAPP_DIRNOTDELETED_WARNING' => 'Prašome ištrinti katalogą: updateApp!',
+'user' => 'Klientas',
+'USERGROUP_LIST_MENUITEM' => 'Vartotojų valdymas',
+'USERGROUP_LIST_MENUSUBITEM' => 'Grupės',
+'USERGROUP_MAIN_ALLMEMBERS' => 'Visi vartotojai',
+'USERGROUP_MAIN_MEMBERINGROUP' => 'Grupės vartotojai',
+'USER_ADDRESS_DELIVERYADDRESS' => 'Kitas pristatymo adresas',
+'USER_ARTICLE_QUANTITY' => 'Viso',
+'USER_EXTEND_BONI' => 'Mokumas',
+'USER_EXTEND_CREDITPOINTS' => 'Kredito taškai',
+'USER_EXTEND_DISABLEAUTOGROUP' => 'Išjungti auto. priskyrimą grupėms',
+'USER_EXTEND_EMAILFAILED' => 'El. pašto adresas neteisingas?',
+'USER_EXTEND_MOBILFON' => 'Mobilus telefonas',
+'USER_EXTEND_NEWSLETTER' => 'Siųsti naujienas el. paštu?',
+'USER_EXTEND_PRIVATFON' => 'Privatus telefonas',
+'USER_LIST_CUSTOMERNUM' => 'Kliento nr.',
+'USER_LIST_MENNUITEM' => 'Vartotojų valdymas',
+'USER_LIST_MENNUSUBITEM' => 'Vartotojai',
+'USER_LIST_PLACE' => 'Miestas',
+'USER_LIST_ZIP' => 'Pašto ind.',
+'USER_MAIN_CUSTOMERSNR' => 'Kliento nr.',
+'USER_MAIN_EMAILLOGIN' => 'El. pašto adresas / prisijungimo vardas',
+'USER_MAIN_HASPASSWORD' => 'Turi slaptažodį?',
+'USER_MAIN_LDAP' => 'LDAP user',
+'USER_MAIN_NAME' => 'Vardas / Pavardė',
+'USER_MAIN_NEWPASSWORD' => 'Naujas slaptažodis',
+'USER_MAIN_RIGHTS' => 'Teisės',
+'USER_MAIN_STRNR' => 'Gatvė, namo(buto) nr. ',
+'USER_OVERVIEW_BONI' => 'Mokumas',
+'USER_OVERVIEW_BREACKORDER' => 'Atšaukti užsakymai',
+'USER_OVERVIEW_GROUPS' => 'Grupės',
+'USER_OVERVIEW_LASTBUY' => 'Paskutinis pirkimas',
+'USER_OVERVIEW_LASTITEM' => 'Vėliausiai pirktos prekės',
+'USER_OVERVIEW_OXID' => 'OXID',
+'USER_PAYMENT_NEWPAYMENT' => 'Nauji mokėjimo būdai',
+'USER_PAYMENT_PAYMENT' => 'Mokėjimo būdai',
+'USER_PAYMENT_PAYMENTTYPE' => 'Būdo tipas',
+'USER_PAYMENT_VALUE' => 'Reikšmė',
+'USER_REMARK_NEWS' => '[Naujienos]',
+'USER_REMARK_ORDER' => '[Užsakymas]',
+'USER_REMARK_REMARK' => '[Pastaba]',
+'USER_REMARK_USER' => '[Reg.]',
+'usrRegistered' => 'Vartotojas bus užregistruotas įvedus slaptažodį.',
+'VENDOR_LIST_MENUITEM' => 'Pard. nustatymai',
+'VENDOR_LIST_MENUSUBITEM' => 'Tiekėjai',
+'VENDOR_LIST_TITLE' => '[OXID Tiekėjo valdymas]',
+'VENDOR_MAIN_ALLITEMS' => 'Visos prekės',
+'VENDOR_MAIN_ICONUPLOAD' => 'Tiekėjo logotipas',
+'VENDOR_MAIN_ITEMSWITHVENDOR' => 'Tiekėjo prekės',
+'viewAll' => 'Rodyti viską',
+'VOUCHERSERIE_EXPORTDONE' => 'Kuponų eksportavimas baigtas.',
+'VOUCHERSERIE_EXPORTDOWNLOAD' => 'Parsisiųsti',
+'VOUCHERSERIE_EXPORTED' => 'Kuponai išeksportuoti:',
+'VOUCHERSERIE_EXPORTING' => 'Eksportuoti kuponus...',
+'VOUCHERSERIE_GENERATED' => 'Kuponai sugeneruoti:',
+'VOUCHERSERIE_GENERATEDONE' => 'Kuponų generavimas baigtas.',
+'VOUCHERSERIE_GENERATING' => 'Generuoti kuponus...',
+'VOUCHERSERIE_GROUPS_INGROUP' => 'Prieinama grupėms',
+'VOUCHERSERIE_LIST_MENUITEM' => 'Pard. nustatymai',
+'VOUCHERSERIE_LIST_MENUSUBITEM' => 'Kuponai',
+'VOUCHERSERIE_LIST_MINVALUE' => 'Min. užsakymo suma',
+'VOUCHERSERIE_LIST_SERIALNUM' => 'Serijos nr.',
+'VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Galioja su kitomis serijomis?',
+'VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Galioja su ta pačia serija?',
+'VOUCHERSERIE_MAIN_AVAILABLE' => 'Nepanaudota',
+'VOUCHERSERIE_MAIN_CALCULATEONCE' => 'Skaičiuoti tik kartą(galioja tik prekei ir kategorijai)',
+'VOUCHERSERIE_MAIN_DISCOUNT' => 'Nuolaida',
+'VOUCHERSERIE_MAIN_EXPORT' => 'Eksportuoti',
+'VOUCHERSERIE_MAIN_GENERATE' => 'Generuoti',
+'VOUCHERSERIE_MAIN_GENERATERANDOM' => 'Atsitiktinis skaičius',
+'VOUCHERSERIE_MAIN_MINORDERPRICE' => 'Min. užsakymo suma',
+'VOUCHERSERIE_MAIN_NEWVOUCHER' => 'Sukurti naują kuponą',
+'VOUCHERSERIE_MAIN_RANDOMNUM' => 'Atsitiktinis numeris',
+'VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Galioja su ta pačia serija, skirtingiems užsakymams?',
+'VOUCHERSERIE_MAIN_USED' => 'Panaudota',
+'VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Kupono numeris',
+'VOUCHERSERIE_MAIN_VOUCHERSTATISTICS' => 'Kuponai',
+'weight' => 'Svoris',
+'WRAPPING_COSTS' => 'Gift Wrapping',
+'WRAPPING_LIST_MENUITEM' => 'Pard. nustatymai',
+'WRAPPING_LIST_MENUSUBITEM' => 'Pakavimo paslaugos',
+'WRAPPING_LIST_PICTURE' => 'Nuotrauka',
+'WRAPPING_LIST_PRESENTPACKUNG' => 'Pakavimo paslaugos',
+'WRAPPING_LIST_TITLE' => '[OXID Pakavimas]',
+'WRAPPING_MAIN_PICTURE' => 'Paveikslėlis',
+'WRAPPING_MAIN_PICUPLOAD' => 'Įkelti nuotrauką <br>(didelis failas turi būti keliamas per FTP)',
+'WRAPPING_MAIN_PRESENTPACKUNG' => 'Pakavimas',
+'WRAPPING_MAIN_TITLE' => '[OXID Pakavimas]',
+);

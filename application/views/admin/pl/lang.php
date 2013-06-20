@@ -1888,58 +1888,95 @@ $aLang = array(
 'TOOLTIPS_RESETNROFARTICLESINVND' => 'Resetowanie ilości produktów u dystrybutorów',
 'TOOLTIPS_TIMEFORMAT' => 'Format czasu:',
 'TOOLTIPS_VALDESC' => 'Zapis1__@@Zapis2__@@ etc.',
-'TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)    TS_RATINGS_BUTTON_ALeShop CN<?phz recenzję!hop Community EURL_TITLEShop CRanking zaufanych zakupów?    UPDATEAPP_DIRNOTDELETED_WARNINGShop CPlease delete directory: updateApp rediuserShop CKlientf theSERGROUP_LIST_MENUITEMShop CAdministracja użytkownikamision 3 of the License, SUBor
- *    Grupyon) any lateówsion 3 of the MAIn isLMEMBERSShop CWszyscEdition is dcyibuted in the hope t it wINf theShop CCzłonkowie gty Edition is diasion 3 o_ADDRESS_DELIVERYITY or  *    (ares wysyłkversion._ARTICLE_QUANTITYll be uielkośćee the
- EXTEND_BONIodify
- *    ikredytowyof theore detailsCREDITPOINTARTICULLiczba punktstributed i detailsDISABLEAUTOt even the Wyłącz automatyczne przypisywanarrantydition is distributed i detailsEMAILFAILEDRTICULAR PURe-mail jest nieprawidłowWITHOUT A detailsMOBILFONShop CTelefon komórk lang
- * @copyrighNEWSLETTERShop COdbiorcy biuletynu received a copyPRIVAT OXID eSales AG 2stacjonarnang
- * @cLicenCUSTOMERNU
- *    Nr kr verRCHANTABILLicense,, or
- *    (at your option) any later version.// -------- eShop CommunU *    but WITHOUT A// ---PLACmodifyMiasto----------
-$aZIen the Kod pocz hav receivedhope 
- */
-
-SN
- * @te  = 'Polski';
-
-/hope      LOGIXID eSaEles.c/LoginTIONS_LIST_MENHASPASSWOR//www.o----waj hasłae receivedhope LDAen the ACTI tion, produkty',
-'NAMmodifyImię, Nazwiskcharset' =ATTR' EWICLES' => 'WszNowedostęmi',
-'ACTIONS_MRIGHU GeneraPrawCTIONS_LIST_MENSTR dla kliAR PU, Ulica nr*    eivedOVERVIEWs.
- *
- * \'Przepustowense \' ruchushould haegoe received,
-'ADMINGBREACKORDE
- * @tZamówienia anulowane'ADMINGB_LIST_MENUf theARTICULity Edition is distributed i_LIST_MENULASTBUl PubliOstat/wwwe terMENUITEM' > 'Customer Ior
- *    n',
-'ADoINLINKio, seeoduktS_LIST_MENUSUBITEM'OXI//www.ostrat> 'Wpis'PAYMENTMAIN_NIMAGECTED' => 'Wmetody płatnoścIDENTIFIERE_IMAGE_VER_NOTE' => Mformacja:</b>Znaleziono alternatywny serwTYPmodify
-odzajInformaLTERNATIVE_IMAGE_VALUmodifyWartense for more REMARKD eShShop C[N'Infoci]unt' => 'IlośćM' => 'Ksi�[�ga gościeTE_ASSIGNATTRIBUTIloś� 'AssigObserwoptiTE_ASSIGNATTRIBUTeive 'AssigReg.TE_ASusrRegistered----------------k zost//wwwzarem
- rMINGa po wpisaniu swojegodostęp*    VENDOER = STRIN or
- *    Ustaości',główGB_TITT' => 'Product\' eShop CommunDystrybutorzć o T' => 'Produ/or modify[(at your otor dProdwcy straTE_AST' => 'hope thaor
-ill be usefutkiePleasępTITLE' => '[OXIttribute!',
-ICONUPLOA//www.oIkona wczyoducRCHANlection ListsICLEWITHT' => MINGB_LI' => ' tUTE_dle AttribuRCHANviewAllMINGB_Lokaż wUTE_NOcharsVOUCHERSERIE_EXart DONmodifyEksion. kuponówINLIończonyELLIST_SELECTONEATTR' => 'WNRTICLE_ATTPobierzIBUTE_SELECTONEATTR' =>://www.oExct an Attribu:IBUTE_SELECTONEATTR' => as publielect aujn Attry ..LE_ATTRIBUTE_TOOMAGENERAe!',
-'ARTGenebutesieUNDLE_ALLITEMS' => 'All ava'Przypisz'Please skt',
-'ARTICLE_BUNDLEte:',
-'ARTIeASSIGNARTICLE' => 'Przypi as publikt',
-ICLE_BUNDLE_ASSIGNARTICLE' => 'uestb_out even the DIST' => 'dlaw.gnu.org/licenses/>.
- TRIBUTE_TOOMAProduct\'s Selection Lists',
-'sklepte (5CESSORIES' => 'Assign  eShop CommunSerian AttribuSSELLING_ASSIGNCROSSSELINchronizacj�Min. suma zga gości'SSELLING_ASSIGNCROSSSETONEAL$sLangNameazT_AUTHTRIBUTE_TOOMAhope thaOWOTLECTONEAill be uażne z różer thsCrosch 'Accessories for Product',SAMEICLE_EXTEND_ALLCATS' tej samrodueriversicessories for ProduVAIL OXIe produkty',
-'le Selessories for ProdCALCULATEONg = arraOblicz tylko raz (do notyDeactivLE' => DLE_lub ka'ARTriin AttribuShop gories',
-'ARTICLE_DISCOUOTE' => Rabarsiongories',
-'ARTICLE_TR' =>oducts',
-'ARTCategory',
-'ARTICLE_EX'PrzypisProduct:',
-'ARTIC> 'Description',
-'ARTICLE_EXTERANDO Communit',
-'ARTICLlosów', nTICLEgories',
-'ARTICLE_MINM' =>PRIg = array( => 'Crossselling Products',
-'ARTICLONS_MAINgories'lectiontwórz nowyn AttrL <br>(external PDF, mTERURL$sLangNamLg med => 'e Categories',
-'ARTICLE_ND_ARTE
-'ARTM' => 'Ksi�'Bundled Product',
-'ARTI, => 'Alt\'sLE_EXTEND_ERRORSAVINGTPRICE' =>US://www.oystkiee Categories',
-'ARTICLE_gories'$sLangNameumern AttrSSSELLING_ASSIGNCR
-'ARTICLE_EXSTATISTIC'ARTICLK_BUNDLTERweight => 'FilgProduWRAPPING_COSU GeneraGift WrappingLE_EXTEND_ISS 'Assign Accessories',
-'ARTICLE_CROngs',
-'ICLE_EXTEND_LENGTH eShop CommunPak'ARTICLprezencense
- ICLE_EXTEND_LEPICTUREND_DIMZdjęcNIT' =RLs',
-'ARTICLE_RESENTPACKUas publis_MEDIAURLS' => 'Media URLs',
-'ARTICLERIBUTE_NOATTOp_MEDIAURLect one AXTEND_ISShope _EXTEND_NONMATERIAL' => 'Intangibll negati'ARTICLE_ATTWOPENIj zs<br>(Discounts, Vouchers,uct',
-'ARTICLE_EXTEND_QUESTIONEMAIL' => 'Alt. Contachope ARTICLE_EXTEND_SKIPDISCOUNTS' =);
+'TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
+'TS_RATINGS_BUTTON_ALT' => 'Napisz recenzję!',
+'TS_RATINGS_URL_TITLE' => 'Ranking zaufanych zakupów?',
+'UPDATEAPP_DIRNOTDELETED_WARNING' => 'Please delete directory: updateApp!',
+'user' => 'Klient',
+'USERGROUP_LIST_MENUITEM' => 'Administracja użytkownikami',
+'USERGROUP_LIST_MENUSUBITEM' => 'Grupy użytkowników',
+'USERGROUP_MAIN_ALLMEMBERS' => 'Wszyscy użytkownicy',
+'USERGROUP_MAIN_MEMBERINGROUP' => 'Członkowie grupy użytkownika',
+'USER_ADDRESS_DELIVERYADDRESS' => 'Adres wysyłki',
+'USER_ARTICLE_QUANTITY' => 'Wielkość',
+'USER_EXTEND_BONI' => 'Ranking kredytowy?',
+'USER_EXTEND_CREDITPOINTS' => 'Liczba punktów',
+'USER_EXTEND_DISABLEAUTOGROUP' => 'Wyłącz automatyczne przypisywanie grup użytkowników',
+'USER_EXTEND_EMAILFAILED' => 'Adres e-mail jest nieprawidłowy',
+'USER_EXTEND_MOBILFON' => 'Telefon komórkowy',
+'USER_EXTEND_NEWSLETTER' => 'Odbiorcy biuletynu',
+'USER_EXTEND_PRIVATFON' => 'Telefon stacjonarny',
+'USER_LIST_CUSTOMERNUM' => 'Nr klienta',
+'USER_LIST_MENNUITEM' => 'Administracja użytkownikami',
+'USER_LIST_MENNUSUBITEM' => 'Użytkownicy',
+'USER_LIST_PLACE' => 'Miasto',
+'USER_LIST_ZIP' => 'Kod pocztowy',
+'USER_MAIN_CUSTOMERSNR' => 'Nr klienta',
+'USER_MAIN_EMAILLOGIN' => 'E-mail/Login',
+'USER_MAIN_HASPASSWORD' => 'Używaj hasła?',
+'USER_MAIN_LDAP' => 'LDAP user',
+'USER_MAIN_NAME' => 'Imię, Nazwisko',
+'USER_MAIN_NEWPASSWORD' => 'Nowe hasło',
+'USER_MAIN_RIGHTS' => 'Prawa',
+'USER_MAIN_STRNR' => 'Adres, Ulica nr.',
+'USER_OVERVIEW_BONI' => '\'Przepustowość\' ruchu kredytowego?',
+'USER_OVERVIEW_BREACKORDER' => 'Zamówienia anulowane',
+'USER_OVERVIEW_GROUPS' => 'Grupy użytkowników',
+'USER_OVERVIEW_LASTBUY' => 'Ostatnie zakupy',
+'USER_OVERVIEW_LASTITEM' => 'Ostatnio zakupione produkty',
+'USER_OVERVIEW_OXID' => 'OXID',
+'USER_PAYMENT_NEWPAYMENT' => 'Nowe metody płatności',
+'USER_PAYMENT_PAYMENT' => 'Metody płatności',
+'USER_PAYMENT_PAYMENTTYPE' => 'Rodzaj metody',
+'USER_PAYMENT_VALUE' => 'Wartość',
+'USER_REMARK_NEWS' => '[Nowości]',
+'USER_REMARK_ORDER' => '[Zamówienie]',
+'USER_REMARK_REMARK' => '[Obserwacja]',
+'USER_REMARK_USER' => '[Reg.]',
+'usrRegistered' => 'Użytkownik zostanie zarejestrowana po wpisaniu swojego hasła.',
+'VENDOR_LIST_MENUITEM' => 'Ustawienia główne',
+'VENDOR_LIST_MENUSUBITEM' => 'Dystrybutorzy',
+'VENDOR_LIST_TITLE' => '[Administrator dostawcy OXID]',
+'VENDOR_MAIN_ALLITEMS' => 'Wszystkie dostępne produkty',
+'VENDOR_MAIN_ICONUPLOAD' => 'Ikona wczytania',
+'VENDOR_MAIN_ITEMSWITHVENDOR' => 'Produkty tego dystrybutora',
+'viewAll' => 'Pokaż wszystko',
+'VOUCHERSERIE_EXPORTDONE' => 'Eksport kuponów zakończony.',
+'VOUCHERSERIE_EXPORTDOWNLOAD' => 'Pobierz',
+'VOUCHERSERIE_EXPORTED' => 'Export kuponów:',
+'VOUCHERSERIE_EXPORTING' => 'Eksportuj kupony ...',
+'VOUCHERSERIE_GENERATED' => 'Generowanie kuponów:',
+'VOUCHERSERIE_GENERATEDONE' => 'Generowanie kuponów zakończone.',
+'VOUCHERSERIE_GENERATING' => 'Generuj kupony ...',
+'VOUCHERSERIE_GROUPS_INGROUP' => 'Dostępne dla grup użytkowników',
+'VOUCHERSERIE_LIST_MENUITEM' => 'Ustawienia sklepu',
+'VOUCHERSERIE_LIST_MENUSUBITEM' => 'Seria kuponów',
+'VOUCHERSERIE_LIST_MINVALUE' => 'Min. suma zamówienia',
+'VOUCHERSERIE_LIST_SERIALNUM' => 'Nazwa',
+'VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Ważne z różnych seriach',
+'VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Ważne z tej samej serii',
+'VOUCHERSERIE_MAIN_AVAILABLE' => 'Dostępny',
+'VOUCHERSERIE_MAIN_CALCULATEONCE' => 'Oblicz tylko raz (dotyczy tylko produktów lub kategorii kuponów)',
+'VOUCHERSERIE_MAIN_DISCOUNT' => 'Rabat',
+'VOUCHERSERIE_MAIN_EXPORT' => 'Eksport',
+'VOUCHERSERIE_MAIN_GENERATE' => 'Generowanie',
+'VOUCHERSERIE_MAIN_GENERATERANDOM' => 'Generowanie losowego nr',
+'VOUCHERSERIE_MAIN_MINORDERPRICE' => 'Min. suma zamówienia',
+'VOUCHERSERIE_MAIN_NEWVOUCHER' => 'Utwórz nowy kupon',
+'VOUCHERSERIE_MAIN_RANDOMNUM' => 'Losowe liczny',
+'VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Ważne z tej samej serii, różne zamówienia',
+'VOUCHERSERIE_MAIN_USED' => 'Używany',
+'VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Numer kuponu',
+'VOUCHERSERIE_MAIN_VOUCHERSTATISTICS' => 'Kupony',
+'weight' => 'Waga',
+'WRAPPING_COSTS' => 'Gift Wrapping',
+'WRAPPING_LIST_MENUITEM' => 'Ustawienia sklepów',
+'WRAPPING_LIST_MENUSUBITEM' => 'Pakowanie prezentów',
+'WRAPPING_LIST_PICTURE' => 'Zdjęcie',
+'WRAPPING_LIST_PRESENTPACKUNG' => 'Pakowanie prezentów',
+'WRAPPING_LIST_TITLE' => '[Opakowanie OXID]',
+'WRAPPING_MAIN_PICTURE' => 'Zdjęcie',
+'WRAPPING_MAIN_PICUPLOAD' => 'Wczytaj zdjęcie',
+'WRAPPING_MAIN_PRESENTPACKUNG' => 'Pakowanie prezentów',
+'WRAPPING_MAIN_TITLE' => '[Opakowanie OXID]',
+);

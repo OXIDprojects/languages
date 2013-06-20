@@ -1852,100 +1852,131 @@ $aLang = array(
 'TOOLTIPS_NEWCATTREE' => 'Přeindexovat adresář kategorii',
 'TOOLTIPS_NEWCONTENT' => 'Vytvořit novou stránku',
 'TOOLTIPS_NEWCOUNTRY' => 'Přidat zem',
-'TOOLTIPS_NEWDELIVER<?php
-Upravit pře Comní nákladyThis file is part of OXISET?php
-/**
- *  působ do Com*    OXID eShop CoISCOUNdition is free slevuThis file is parITEMS?php
-Vytvořit nový parametrThis file is parLANGUAGEe GNU General Public Ljazyks published by
- INK?php
-Nlic LodkazThis file is parMALLCAdition General Pukategorii obchdo under the terms MANUFACTURER the LicensevýrobceID eShop CommunitWSdition icen� DPHThis file is parNEWhe GNU General Puzprát under the terms Y WALETT is distp Communvzor Novine, either version PAYME/or modiicensesoftwareplatb*    OXID eShop CPROMOTIONe useful,
- promoakce/
- *This file is parREMARf the L/**
- * poznámk under the terms SELECTLI be usef/**
- * blic Lvýběas published by
-SHOPe GNU General Public L*   odommunity Edition.TATISTICe useful,
- statistikaThis file is parUS is distributeuživatelid-esales.com
- * @pGROUIf not, see <http://oung
- * @coskou skupin under the terms * @pULAR PURPOSE.  See the
- *    GNU General Public VAR1RPOSE.  See(8)
- */
-
-$sLangN2?php
-níž   You should havVAR3?php
-p**
- * variant under the terms VENDOis distributedoda* @copyright (C) OXIDVOUCH is distGeneral Pusé*
- poukázTNESS FOR A PARTICWRAPPINGition is free softwarebaleníThis file is OPENHELIf not,Spust Pubápověd under the terravo* @p
- *    alOtevřít seznamng
- * @coůThis file is RECALCNROFARTICLESINon) any lZnovu spočít of rodukty vion.
- *íchLLARTICLESWITHATTR' => 'Produkty MAfor morry',
-'ACTIONS_MAIzboží jednotlivýched in th_ALLARTICLESWITHATTR' => 'Produkty VNDB_LIST_AUTHOR' => 'Autor',
-'ADMINGB_LIST_ENTR---
-$aLa_ALLARTICLESWITHASET => 'Produkty s parametResetov of tčELEC in tkuECTED' => 'Prosím vyberte jedtěv',
-'ADMINGB_TINGB_LIST'[OXID Kniha návr',
-'ADMINGB_LIST_ENTRY' => 'Záznam',
-'ADMINGtěv',
-'ADMINGB_T> 'Informvy',
-'ADMINLINKS_LIST_MENUSUBITEM' => 'USUBITEM' => 'Kniha návTIMEFORMn) any lFormát času:This file is VALDESlink   Entry1__@@s wil2 not usw.This fTAL_PLUS_PROPORse fAL_Vn) any lplus VAT (proportionally calculated)This S_RATINGS_BUTTON_ALURPOSE. apište hodnocNUSU!unt' => 'MnožsURL_TITLhe FreeTrusted ShopsE_ASSIGNATT zákazník_ALLARUPDATEAPP_DIRNOTDELETED_WARNinformaceOdstraňteIN_Nsím adresář: updateAppRIBUTuserB_LIST_IGNSELECTST' =eSales A_
- *_MENUof t   MERCHANTABIon OXID eShop CE
- * @traUTE_ITEMSSELLIST' =SUB> 'Přiřazn OXID eShhttpE
- *xid-eUTE_ITEMSSMAI,
-'ALMEMBERhe GNU Gšichniýběry',
-éTRIBUTE_NOATTRIBUTE=> 'VyINles AG 2003Čleblic�ýběry',
-'AéTICLE_A*    UTE__ADDRESS_t of OXI_OPENIN?php
-DoručovacíBUTE' TTRIBUTE__'Produk_QUANTIT<?php
-MnožstvSUBITEně',EXTEND_BONI?php
-HTRIBUTE_ASkreditLIST' =',
-'ARTICLECREDITPOINTVytvořKTR' =E_ASbo *    nota parametDISABLEAUTOles AG 2003-2pnout automatic,
-'AENTIřazl,
-E_ASIONS_MAIN_A doTICLE_AATTRIBUTES' => 'EMAILFAILE'Informne   Gný emaiopyrinota parametMOBILF for morMobCLE' => 'Přiřadity of
- *    MEROdebírith OXinky?E' => 'PřiřadiPRIVATdukt',
-'ATelefon mimo pracotion.dobTRIBUTE_NSELLISCUSTOMERNUPřiřaČísloSSIGNSELECTao remICLE_CROSSMEN => 'Přiřazené v�SIGNSELECTovy_ASS
-'ACYATTRIBUTEkty',
-'ART'Dostupné parametry',né produkty',PLAChe FreeMěstoné produkty',ZIIf not,PSČné produIBUTESELLING_SNis distARTICLE_AT IONSsl'PřiřazeIBUTEy',
-'LOGIfor morETICL / /**hlášNUSUBITEdukty ke kHASPASSWOR'InformM�BUTE_eslo:',
-'ARTICIBUTELDAIf not,ALLC ametrLLING_EXTRAS'NAMhe FreeJméno,RTICíjmOSSSELLING_EXTRAS'TICULDoplňky k vicen�ku',
-'ny dostupné kRIGHICLE_ATTPen t�m okně',IBUTESTRSSELLINGUlice .&nbsp;ING' =>  popisnetr!',
-'AR_OVERVIEWE_ATTRIBUTE\'SemaforARTI\'E_ASSIGNATT=> 'Žádná reklamREACKORD is distZruCROSS� obINGBávkYATTRIBUTEná reklales AVytvořrametry',
-'ARTICLE_ATTRIBUTE_hlavní kaLASTBU<?php
-/osl=> 'n.
- *upTION' => 'Popis',
-'ART> 'PřiřaND_DIMENSIkoupeIGNAštěvTNESS ' => 'Popis',
-OXI'Informiálnodkaz naULAR PURTICULAR PURPOSE.  See the
- *    GNU Gen>(PDF, film, ULAR PURPOSE.ZoftwaryRTICLE_EXTEND_ERRORSAVINGTPRICETYPhe FreeUpozorn <br>(PDF, film, VALUhe Free_SELEtPTION' => e receEDART?php
-[or FIky]ARTICLE_EXTEND_EARTICLE_EXT[O' => 'Vyba� URL',
-'ARTICLE_e received a[Remark� URL',
-'ARTICLE_* @package[Reg.� URLusrRegisteredi',
-'ARTICLE_EX bude rHIPPIrm)'�n po zadLE_ALLu',
-upné ------SELLIST' => 'PřiřaNastavTE_AS.gnu.o unde:',
-'ARTICLE_EXT'Dostupné paD--
-$aLaetr!',:',
-'ARTICLEit parametr[iál AdminTICLaceRVER_NOTE' =� URL:',
-'ARIBUTES' of the GNU Gšechny dostupFAULN_NOTSEL=> 'Délka:',
-'AICONUPLOAobek',
-'ahr serikonku <br>(vel,
-'ARoubory na mulvejITEMřes ftpount'XTEND_MEDIAURf thWITH------------Z',
-'ADMINn odRVER_NOTE'   YoviewAllLE_EXTEobrazABILš   Yoarset' SERIE_EXPleaDONhe FreeExzati kupónů byl dokončen�ška:ND_SKIPDISCOUNTS' =>WN> 'Odkazy Downloaorg/l(Slevy, poukázky, CLE_BUNDK�echny ečit E_EXTyonfig(Slevy, poukázky, informaceočit ujivšechny ..y<br>(Slevy, pouk�GENERA> 'AlternVygeneLE_EXTyobchodn�TICLE_EXTEND_TPRICEND_UNITN> 'PřeskGJednotka'> 'V�echny odpoočty z cenoena',
-'ARTICLE_EXTEND_UNIinformace�',
-'aloobohodní cena',
-'ARTICLE_EXTEegori_OSELLIST' => DRozm�ry',
-'ARTICLE_TIONS_MAIN_ALLAR(Slevy, pouk�TICLE_EXTEND_ISCONFIGURABLE' =>  => 'Vybrat jRTICLE_EXTEND_UPDATEPR'Dostupné paPT_MENU_UPDATEPRICEC' => 'C:',
-'INrmální ceMinimálT' =>a.',
-'CLE_EXTEND_UPDATEPRICEC' => 'C:',
-PDISALALLITEMS' => 'VšIONS_E_EXTEND_SKIPDISCOIBUTES' OWOTSKIPDISC'VýrobeASSIG� s jinop CONS_L:',
-'nebo soubor nahrajte (vSAME soubory nahrajete pve stejte p�<br>(jméno souboru smí obsaVAILerte
-'ARTICLE_Epnáméno souboru smí obsTTR'ULATEONSSELLINGZaCTIONS_MAINouzeMINGB_u (_ASSIG�ouborůD_UPkupony�ch dN_NOTSELEneboion.
- *e' => 'ebo soubor nahrajit and/or modiSlee v t�DESC' => 'Text extUNTS' poručená mRTICLE_EXTEND_WEIGHT' END_UNITžství',
-'ARaCLE_EXTEND_WEIGHT_UNIT' => 'kg'RANDOPřiřa> 'Jednotith áEXTEéING' => 'ProDESC' => 'Text extMINARTICPRISSELLING',
-'ARTICLE_EXTEND_UPDATEPRICETIME' => 'Start ti> 'Balenarset' => 'utf-8',
-'ACTST_MENUU GeneDESC' => 'Text extICLE_FALLITEMS'NTER_FILENAME' => 'Zadejte název nahratého soubort pouzeelkéARTICLE_EXTSodtršDFILE' , růzFAULT' => 'Vybrjméno souboru smí obsUSCLE_BUNDPog
- tSABLED' => 'Toto je demoDESC' =ALLITEMS' => 'V�u_FILES_NEtahování souborů proDESC' =>*
- * @lCLE_ATTR�vod� <brweightahrán�áhxid-ecké inf_COSICLE_ATTGift Wrappingile',
-'ARTICLTICLE_EXTEND_ISCONFIGURABLE' => 'Produkt File name',
-'ARTICigurován',
-'AárkARTIC_MENUSUBITEFile name',
-'APItion ní soubrENUITEM' S' => 'UploadedIST_NTPACKUnformaceES_TABLE_UPLOADEDFILES' => 'Uploade 'Vyhledatelný',dS_TABLE_UPLOADED� URL,
-'ARTICLIBUTEd Files',
-'ARTICLE_LIST_ALLPRODUCTRTICLE_M => 'Odkazy na mulE' => CLE_ální soubory',
-'ARTICLE_EXTEND_NONMATERIAL' => ',
-'ARTICLE_MAI'Všechny produkty',
-'ARTICLE_LIST_MENUSUBITEM' =IBUTE 'Vyhledatelný',BE' => 'Akt);
+'TOOLTIPS_NEWDELIVERY' => 'Upravit přepravní náklady',
+'TOOLTIPS_NEWDELIVERYSET' => 'Přidat způsob dopravy',
+'TOOLTIPS_NEWDISCOUNT' => 'Přidat slevu',
+'TOOLTIPS_NEWITEMS' => 'Vytvořit nový parametr',
+'TOOLTIPS_NEWLANGUAGE' => 'Vytvořit nový jazyk',
+'TOOLTIPS_NEWLINK' => 'Nový odkaz',
+'TOOLTIPS_NEWMALLCAT' => 'Vytvořit kategorii obchdou',
+'TOOLTIPS_NEWMANUFACTURER' => 'Nový výrobce',
+'TOOLTIPS_NEWMWST' => 'Nová DPH',
+'TOOLTIPS_NEWNEWS' => 'Vytvořit zprávu',
+'TOOLTIPS_NEWNEWSLETTER' => 'Upravit vzor Novinek',
+'TOOLTIPS_NEWPAYMENT' => 'Nový způsob platby',
+'TOOLTIPS_NEWPROMOTION' => 'Nová promoakce/akce',
+'TOOLTIPS_NEWREMARK' => 'Přidat poznámku',
+'TOOLTIPS_NEWSELECTLIST' => 'Přidat nový výběr',
+'TOOLTIPS_NEWSHOP' => 'Vytvořit nový obchod',
+'TOOLTIPS_NEWSTATISTIC' => 'Nová statistika',
+'TOOLTIPS_NEWUSER' => 'Nový uživatel',
+'TOOLTIPS_NEWUSERGROUP' => 'Vytvořit novou uživatelskou skupinu',
+'TOOLTIPS_NEWUSERPAYMENT' => 'Nový způsob platby',
+'TOOLTIPS_NEWVAR1' => 'Nový',
+'TOOLTIPS_NEWVAR2' => 'níže',
+'TOOLTIPS_NEWVAR3' => 'přidat variantu',
+'TOOLTIPS_NEWVENDOR' => 'Nový dodavatel',
+'TOOLTIPS_NEWVOUCHER' => 'Vytvořit sérii poukázek',
+'TOOLTIPS_NEWWRAPPING' => 'Přidat způsob balení',
+'TOOLTIPS_OPENHELP' => 'Spustit nápovědu',
+'TOOLTIPS_OPENUSERLIST' => 'Otevřít seznam uživatelů',
+'TOOLTIPS_RECALCNROFARTICLESINCAT' => 'Znovu spočítat produkty v kategoriích',
+'TOOLTIPS_RECALCNROFARTICLESINMAN' => 'Znovu spočítat zboží jednotlivých výrobců',
+'TOOLTIPS_RECALCNROFARTICLESINVND' => 'Znovu spočítat zboží jednotlivých dodavatelů',
+'TOOLTIPS_RESETNROFARTICLESINCAT' => 'Resetovat počty výrobku v kategoriích',
+'TOOLTIPS_RESETNROFARTICLESINMAN' => 'Resetovat počty zboží jednotlivých výrobců',
+'TOOLTIPS_RESETNROFARTICLESINVND' => 'Resetovat počty zboží jednotlivých dodavatelů',
+'TOOLTIPS_TIMEFORMAT' => 'Formát času:',
+'TOOLTIPS_VALDESC' => 'Entry1__@@Entry2__@@ usw.',
+'TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
+'TS_RATINGS_BUTTON_ALT' => 'Napište hodnocení!',
+'TS_RATINGS_URL_TITLE' => 'Trusted Shops hodnocení zákazníků',
+'UPDATEAPP_DIRNOTDELETED_WARNING' => 'Odstraňte prosím adresář: updateApp!',
+'user' => 'Zákazník',
+'USERGROUP_LIST_MENUITEM' => 'Upravit uživatelskou skupinu',
+'USERGROUP_LIST_MENUSUBITEM' => 'Uživatelská skupina',
+'USERGROUP_MAIN_ALLMEMBERS' => 'Všichni uživatelé',
+'USERGROUP_MAIN_MEMBERINGROUP' => 'Členové uživatelské skupiny',
+'USER_ADDRESS_DELIVERYADDRESS' => 'Doručovací adresa',
+'USER_ARTICLE_QUANTITY' => 'Množství',
+'USER_EXTEND_BONI' => 'Hodnocení kreditů',
+'USER_EXTEND_CREDITPOINTS' => 'Kreditní body',
+'USER_EXTEND_DISABLEAUTOGROUP' => 'Vypnout automatické přiřazování uživatelů do skupin',
+'USER_EXTEND_EMAILFAILED' => 'neplatný email',
+'USER_EXTEND_MOBILFON' => 'Mobil',
+'USER_EXTEND_NEWSLETTER' => 'Odebírat novinky?',
+'USER_EXTEND_PRIVATFON' => 'Telefon mimo pracovní dobu',
+'USER_LIST_CUSTOMERNUM' => 'Číslo zákazníka.',
+'USER_LIST_MENNUITEM' => 'Upravit zákazníkovy záznamy',
+'USER_LIST_MENNUSUBITEM' => 'Uživatel',
+'USER_LIST_PLACE' => 'Město',
+'USER_LIST_ZIP' => 'PSČ',
+'USER_MAIN_CUSTOMERSNR' => 'Zákazník číslo',
+'USER_MAIN_EMAILLOGIN' => 'Email / Přihlášení',
+'USER_MAIN_HASPASSWORD' => 'Máte heslo?',
+'USER_MAIN_LDAP' => 'LDAP user',
+'USER_MAIN_NAME' => 'Jméno, příjmení',
+'USER_MAIN_NEWPASSWORD' => 'Nové heslo',
+'USER_MAIN_RIGHTS' => 'Práva',
+'USER_MAIN_STRNR' => 'Ulice .&nbsp; číslo popisné',
+'USER_OVERVIEW_BONI' => '\'Semaforové\' hodnocení',
+'USER_OVERVIEW_BREACKORDER' => 'Zrušené objednávky',
+'USER_OVERVIEW_GROUPS' => 'Uživatelská skupina',
+'USER_OVERVIEW_LASTBUY' => 'Poslední nákup',
+'USER_OVERVIEW_LASTITEM' => 'Poslední koupený výrobek',
+'USER_OVERVIEW_OXID' => 'OXID',
+'USER_PAYMENT_NEWPAYMENT' => 'Nový způsob platby',
+'USER_PAYMENT_PAYMENT' => 'Způsoby platby',
+'USER_PAYMENT_PAYMENTTYPE' => 'Způsob',
+'USER_PAYMENT_VALUE' => 'Hodnota',
+'USER_REMARK_NEWS' => '[Novinky]',
+'USER_REMARK_ORDER' => '[Objednávka]',
+'USER_REMARK_REMARK' => '[Remark]',
+'USER_REMARK_USER' => '[Reg.]',
+'usrRegistered' => 'Uživatel bude registrován po zadání hesla.',
+'VENDOR_LIST_MENUITEM' => 'Nastavení obchodu',
+'VENDOR_LIST_MENUSUBITEM' => 'Dodavatelé',
+'VENDOR_LIST_TITLE' => '[OXID Administrace dodavatelů]',
+'VENDOR_MAIN_ALLITEMS' => 'Všechny dostupné produkty',
+'VENDOR_MAIN_ICONUPLOAD' => 'Nahrát ikonku <br>(velké soubory nahrávejte přes ftp)',
+'VENDOR_MAIN_ITEMSWITHVENDOR' => 'Zboží jen od dodavatele',
+'viewAll' => 'Zobrazit vše',
+'VOUCHERSERIE_EXPORTDONE' => 'Export kupónů byl dokončen.',
+'VOUCHERSERIE_EXPORTDOWNLOAD' => 'Download',
+'VOUCHERSERIE_EXPORTED' => 'Kupóny exportovány:',
+'VOUCHERSERIE_EXPORTING' => 'Exportuji kupóny ...',
+'VOUCHERSERIE_GENERATED' => 'Vygenerovány kupóny:',
+'VOUCHERSERIE_GENERATEDONE' => 'Generování kupónů bylo dokončeno.',
+'VOUCHERSERIE_GENERATING' => 'Generuji kopóny ...',
+'VOUCHERSERIE_GROUPS_INGROUP' => 'Dostuné pro skupiny uživatelů',
+'VOUCHERSERIE_LIST_MENUITEM' => 'Nastavení objednávky',
+'VOUCHERSERIE_LIST_MENUSUBITEM' => 'Poukázky',
+'VOUCHERSERIE_LIST_MINVALUE' => 'Minimální hodnota objednávky',
+'VOUCHERSERIE_LIST_SERIALNUM' => 'Číslo série',
+'VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Platné s jinou sérii?',
+'VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Platné ve stejné sérii?',
+'VOUCHERSERIE_MAIN_AVAILABLE' => 'Dostupná',
+'VOUCHERSERIE_MAIN_CALCULATEONCE' => 'Započítat pouze jednou (platné pouze pro kupony pro produkty nebo kategorie)',
+'VOUCHERSERIE_MAIN_DISCOUNT' => 'Sleva',
+'VOUCHERSERIE_MAIN_EXPORT' => 'Export',
+'VOUCHERSERIE_MAIN_GENERATE' => 'Generovat',
+'VOUCHERSERIE_MAIN_GENERATERANDOM' => 'Vygenerovat náhodné číslo',
+'VOUCHERSERIE_MAIN_MINORDERPRICE' => 'Minimální hodnota objednávky',
+'VOUCHERSERIE_MAIN_NEWVOUCHER' => 'Vytvořit poukázku',
+'VOUCHERSERIE_MAIN_RANDOMNUM' => 'Vygenerovat náhodné číslo',
+'VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Stejná série, různé objednávky?',
+'VOUCHERSERIE_MAIN_USED' => 'Použitá',
+'VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Číslou poukázky',
+'VOUCHERSERIE_MAIN_VOUCHERSTATISTICS' => 'Kupony',
+'weight' => 'Váha',
+'WRAPPING_COSTS' => 'Gift Wrapping',
+'WRAPPING_LIST_MENUITEM' => 'Nastavení obchodu',
+'WRAPPING_LIST_MENUSUBITEM' => 'Dárkové balení',
+'WRAPPING_LIST_PICTURE' => 'Obrázek',
+'WRAPPING_LIST_PRESENTPACKUNG' => 'Dárkové balení',
+'WRAPPING_LIST_TITLE' => '[OXID dárkové balení]',
+'WRAPPING_MAIN_PICTURE' => 'Obrázek',
+'WRAPPING_MAIN_PICUPLOAD' => 'Nahrání obrázku <br>(velké soubory nahrávejte přes ftp)',
+'WRAPPING_MAIN_PRESENTPACKUNG' => 'Dárkové balení',
+'WRAPPING_MAIN_TITLE' => '[OXID Balení]',
+);

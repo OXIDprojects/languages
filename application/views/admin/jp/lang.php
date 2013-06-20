@@ -1870,128 +1870,113 @@ $aLang = array(
 'TOOLTIPS_NEWSHOP' => '新規ショップを作成',
 'TOOLTIPS_NEWSTATISTIC' => '新しい総計を作成',
 'TOOLTIPS_NEWUSER' => '新規ユーザーの作成',
-'TOOLTIPS_NEWUSERGROUP' => '新規�RRANTY; with��ル*    �hout even the implied warrantID eShop Community Edition is free software: you can redistVAR1This file isore details.
- *
- 2This f以下ore details.
- *
- 3This fVariantnse for more details.
- *ENDO This fileodify配送業者 will be useful,
- *    bVOUCH  This fileodify
- �*    �or
-mmun�
- *  or � will be useful,
- *    bWRAPPINGThis file is p�ID eS�or
-��hout even the implied OPENHELsion.
-OXIDhop Co�� ヘITNES�version OXID eShout Wther versiANTABILITY or *    (at��開�uld have receiRECALCNROFARTICLESINCA
-$sLangN��テゴales.co��製品数を再計�364), hodota (---------------
-// MAt and/o製造httpING
-// -------------------------------
-$aLang = array(VNDopy of t�理店f-8',
-'ACTIONS_LIST_MENUITEM' => 'カ�SET---------
-// RESOURCE IDENTIFIER = STRING
-// ------本誻ID eS���ション',
-'ACTIONS_MAIN_ALLA
-'charset' => 'utf-8',
-'ACTIONS_�',
-'ACTIONS_MAIN_ALLARTICLESWITHATTR' => '�
-'ACTIONS_LIST_MENUSUBITEM' => '�',
-'ACTIONS_MAIN_ALLARTITIMEFORMESOURCE ID�イムフォ日朞CTIONS:n.
- *
- *   VALDESed in tEntry1__@@Entry2__@@ usw.',
-'TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)n.
- S_RATINGS_BUTTON_AL
-$sLangNa�ビrt of OX�書--------> 'エン�URL_TITLE$sLangN��客様による信�TRINきる    OXID eSho��採点n.
-UPDATEAPP_DIRNOTDELETED_WARNight (C) ディhe Lice��リ: 
- * D eSho��*    the�Editi�----��除odify�くだ�on in.
-userThis f顧客GB_TIanty of_ther_MENUITEM
- * @tr�ドミ par   (atGB_L�nslatorsRANTY; wit��ク',
-'ADMINLINKS_LISSUBT_TITLE' =>NTABILITY or FITNESS FO��ク',
-'ADMINMAIー'LMEMBERS,
-'ADMIN�べMINLI�LTERNATIVE_IMAGE_SERVER_NOTRIBU => '�INy of
- *    '重量',
-'ARTICLE_ATTR メor
- �E_IMAGE_SER_ADDRESS_DELIVERYLE_ATTRThis f発送先住所',
-'ARTICL----
-_QUANTITYThis fi���uld hARTICEXTEND_BONI
- * @tr�D eSh�CTIONS管理]TIFI�2003-2T' => '製品のCREDITPOINT��性の�ョンリスト�ADMIN�ONS_MAI> '製品のDISABLEAUTOy of
- *   自動ANTABILITY or FITNESS FOR A割り当MINL��非
- *    RTICLE_�化BUTE_NOATTRIBUTEEMAILFAILEACTIONS割ゼITNE '[OXID�ンが無効> '゙BUTE_NOATTRIBUTEMOBILFit and/or��帯電話BUTE_NOATTRIBUTE**
- *    This f part of OXID eShop Co��受信BUTE_NOATTRIBUTEPRIVAT��性を�固定��ます。',
-'LINKSCUSTOMERNUITLE' => �translat�ー番号ください:'MENIST_TITLE' =>RRANTY; withou管理' => '一つの属�,
-'amount' => '重量',
-'ください:'PLAC',
-'ADM市区町村ください:'ZIsion.
-郵便IBUTES' => '一TRIBU,
-'ARTICSNE_SAVE' TE_TOOMANYATTRIBUTES' => '一TRIBU択',LOGIt and/oTRIBUTE_O/ ter��CLE_AT�トにする�HASPASSWORICLE_ATTR�ン�tp://w�UITE��っMINLI�ま�割�？�トにする�LDAsion.
-LDAP user',
+'TOOLTIPS_NEWUSERGROUP' => '新規ユーザーグループの作成',
+'TOOLTIPS_NEWUSERPAYMENT' => '新規支払い方法の作成',
+'TOOLTIPS_NEWVAR1' => '新規',
+'TOOLTIPS_NEWVAR2' => '以下',
+'TOOLTIPS_NEWVAR3' => 'Variantの作成',
+'TOOLTIPS_NEWVENDOR' => '新しい配送業者を作成',
+'TOOLTIPS_NEWVOUCHER' => '新しいクーポンのシリーズを作成',
+'TOOLTIPS_NEWWRAPPING' => '新規ラッピングの作成',
+'TOOLTIPS_OPENHELP' => 'スタート ヘルプ',
+'TOOLTIPS_OPENUSERLIST' => 'ユーザーリストを開く',
+'TOOLTIPS_RECALCNROFARTICLESINCAT' => 'カテゴリーで製品数を再計算',
+'TOOLTIPS_RECALCNROFARTICLESINMAN' => '製造者で製品数を再計算',
+'TOOLTIPS_RECALCNROFARTICLESINVND' => '代理店で製品数を再計算',
+'TOOLTIPS_RESETNROFARTICLESINCAT' => 'カテゴリーで製品数をリセット',
+'TOOLTIPS_RESETNROFARTICLESINMAN' => '製造者で製品数をリセット',
+'TOOLTIPS_RESETNROFARTICLESINVND' => '代理店で製品数をリセット',
+'TOOLTIPS_TIMEFORMAT' => 'タイムフォーマット:',
+'TOOLTIPS_VALDESC' => 'Entry1__@@Entry2__@@ usw.',
+'TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
+'TS_RATINGS_BUTTON_ALT' => 'レビューを書く',
+'TS_RATINGS_URL_TITLE' => 'お客様による信頼できるショップの採点',
+'UPDATEAPP_DIRNOTDELETED_WARNING' => 'ディレクトリ: アップデートアプリを削除してください',
+'user' => '顧客',
+'USERGROUP_LIST_MENUITEM' => 'アドミニストレーターユーザー',
+'USERGROUP_LIST_MENUSUBITEM' => 'ユーザーグループ',
+'USERGROUP_MAIN_ALLMEMBERS' => 'すべてのユーザー',
+'USERGROUP_MAIN_MEMBERINGROUP' => 'ユーザーグループ メンバー',
+'USER_ADDRESS_DELIVERYADDRESS' => '発送先住所',
+'USER_ARTICLE_QUANTITY' => '数量',
+'USER_EXTEND_BONI' => 'クレジットレーティング',
+'USER_EXTEND_CREDITPOINTS' => 'クレジットポイント',
+'USER_EXTEND_DISABLEAUTOGROUP' => '自動ユーザーグループの割り当てを非アクティブ化',
+'USER_EXTEND_EMAILFAILED' => 'メールアドレスが無効です',
+'USER_EXTEND_MOBILFON' => '携帯電話',
+'USER_EXTEND_NEWSLETTER' => 'ニュースレターを受信',
+'USER_EXTEND_PRIVATFON' => '固定電話',
+'USER_LIST_CUSTOMERNUM' => 'カスタマー番号',
+'USER_LIST_MENNUITEM' => 'ユーザーの管理',
+'USER_LIST_MENNUSUBITEM' => 'ユーザー',
+'USER_LIST_PLACE' => '市区町村',
+'USER_LIST_ZIP' => '郵便番号',
+'USER_MAIN_CUSTOMERSNR' => 'カスタマー番号',
+'USER_MAIN_EMAILLOGIN' => 'メール/ログイン',
+'USER_MAIN_HASPASSWORD' => 'パスワードを持っていますか？',
+'USER_MAIN_LDAP' => 'LDAP user',
 'USER_MAIN_NAME' => '名前, 苗字',
 'USER_MAIN_NEWPASSWORD' => '新しいパスワード',
-'USER_MAIN_RIGHTS' => 'RightsASSIGNACCESSORSTRLE_ASSIG丁目, 地番BUTE_NOATOVERVIEW�セレク�\'��ト�B_LIS�TEM'利�ADMIN�\' �な属性',
-'ART�2003-�E_ATTRIBUTE_NOAの割り�REACKORD  This f中止LIST��たご注文�製品',
-'ARTICLEy of��性の'重量',
-'ARTICLE_ATTRIBUTE_AS,
-'ARTICLELASTBUE_ITEMSS��後の購入��の可能なカテ�T_TITLE' =
-'ARTICL�_EXTENodify�G
-// ��の可能なカ�OXIACTIONSOXIDBUTE_NOATID eSho  OXID eShop Communiodify
-��Edition is free��らのカテゴID eShop Comm��',
-'ARTICLE_EXTEND_BLFIXEDPRICE' => 'プTYP',
-'ADMINGEdition is free so種類��らのカテゴVALU��',
-'AR��BUTE_NOATpublisE_ATT��こ�[News]',
+'USER_MAIN_RIGHTS' => 'Rights',
+'USER_MAIN_STRNR' => '丁目, 地番',
+'USER_OVERVIEW_BONI' => '\'トラフィックライト\' クレジットランキング',
+'USER_OVERVIEW_BREACKORDER' => '中止されたご注文',
+'USER_OVERVIEW_GROUPS' => 'ユーザーグループ',
+'USER_OVERVIEW_LASTBUY' => '最後の購入',
+'USER_OVERVIEW_LASTITEM' => '最後に購入した製品',
+'USER_OVERVIEW_OXID' => 'OXID',
+'USER_PAYMENT_NEWPAYMENT' => '新しいお支払い方法',
+'USER_PAYMENT_PAYMENT' => 'お支払い方法',
+'USER_PAYMENT_PAYMENTTYPE' => 'お支払い方法の種類',
+'USER_PAYMENT_VALUE' => '値',
+'USER_REMARK_NEWS' => '[News]',
 'USER_REMARK_ORDER' => '[Order]',
 'USER_REMARK_REMARK' => '[Remark]',
-'USER_REMARK_USER' => '[Reg.]ENUSUBrRegistered'セレクション���外す',
-'ARTICLE入力ICLE_E��品'登録> '製�ALLIT��n.
-munityNLINKS_LIST_TITLE' =>��translator��設定�入力してくだ�,
-'amount' =>_LIST_MEN�入力してく�報',
-'ADM[品� ベ_ATTR��てくだ�]�入力し�TRIBUTE'T_TI��性の割り当�可能なXTEND_ARTI通常価格ICONUPLOAICLE_ATT *  �コw.oxid-eITEM' => ��当て',
-',
-'ARTICLE_E���WITHmunity Editiこのot, see <http��らF、TEND_ARTIviewAll�性の割り�表示LE' =.
- *SERIE_EXPORTDON',
-'ADMIttp://www.oxid-e�Licen�/www.   th��完了odify�ICLE_EXTEND_FREESHIPPING' => '�WN_EXTURL' =>��ウ_ATTRTEND_FILE' =_FREESHIPPING' => TICLE_ATTttp://www.ox��EXTEND_HEIGHT' => '�'ARTICLE_E'作�',
-'ARTICLE_EXTEND_ック]',
- => '検索可能で',
-'ARTICLE_EXTENLLING_ALLI ...' => '長さ:',
-'GENERA_ISSEARCH' => '検索可生成EXTEND_LENGTH' => '長さ:',
-',
-'ARTICL無料配送',
-'ARTICLE_ => '無��さ:',
-'ARTICLE_EXTEND_ISCONFIGURA,
-'ARTIE_EXTEND_MASS' => '寸� => '無形IAURLS' => 'メディアのURL',ARTIC_ST' => 'セレクションリスト�で利用�が�' => '長さ:',
-'LINKS_LIST_TITLE' => �ブック',
-�ムービ�レート',
-'ARTICLE_,
-'amount' => ttp://www.oxid-esales.com��プレート',
-'ARTICIN�',
-'ARTICL
-'AR��のア合�S_MAI��',
-'ARTICLE_EXTEHIPPALLE_ATTRIB_CROSSEDIA' => 'メデ�TRIBUTE'OWOTEESHIPPIメイ�別xid-esales.com
-��有�NGB_TARTICLE_EXTEND_UPDATEPRSAME=> 'ベース��じ�：',
-'ARTICLE_EXTEND_UPDATEPRICEA' => '',
-VAIL=> '�ース テンプレート',
-
-'ARTIALCULATEON品',
-'A一度KS_LI�------�割�� (ルをもEXTEN�は,
-'ARTICLE_Eユニット',
-'��_EXTEN)D_UPDATEPRICEA' => '',DISCOUhop Comm割�END_BTEPRICES' => '設�G' => 
- * @trTEND_HEIGHT' => �ップロード (大�,
-'ARTICBUTE' ==> '烃プロードしてくださ�RANDO�� <br>(傻ー�望�>(フ�IBUTES' =>TEPRICES' => '設�MINSELLIPRI品',
-'ACLE_EXTEND_UPDATEMEDIA' => 'メデ�ESSORIES>.
- *
- * @link3 of tp://www.oxidftware: yoARTICLE_EXTEND_WEI��ダ�LE_ATTRIBU�(_)、ド�)のみ)',
-'ARTICLE_EXTEND_ICLE_EXICE' SELLING_EXTTEPRICEB' => '',
-'A��異なる順序CLE_EXTEND_UPDATEPRICEA' => '',USTICLE_AT使用ICLE_EXTEND_ISCONFIGURATRIBU��',
-'ALE_ATTRIBUTtp://www.oICLE_FILES_ENTER_FILENAME' =��',
-'ARstribute��可能な�//www.on.
-weightLES_ISD��n.
-copyrigh
-COSTS' => 'Gift Wrappingn.
-copyrigh
-'ARTICLE_EXTEND_TPRICE' => '希望小売価�ITLE' => '',
-'ARTINITNAME' => 'ヮB_LIスセ� AG 2003-2RTICLE_FILES_OR' =PICTURい)<br>(��uld hICLE_FILES_TABL
-'ACNTPACKU_EXTEND_MAS_OR_FILENAME' => '',
-'ARTICLE_FILES_TABNGTPRICE' => '注�NAME' => '',
-��をITLE' => TRIBULE_FILENAME' => '',
-'ARTICLE_FIL�の製�ND_EXTURL' ==> '',',
-'ARTICLE_EXTEND_FILE' ENUSUBITEM' => LE_PURCHASEDONLY' => '',
-'ARTICLE_FILES_TABLE_UPLOADEDFITRIBU=> '',
-'ARTICLE_LIST_ALLPRODUCTS' =>);
+'USER_REMARK_USER' => '[Reg.]',
+'usrRegistered' => 'ユーザーはパスワードを入力した後に登録されます。',
+'VENDOR_LIST_MENUITEM' => 'マスターの設定',
+'VENDOR_LIST_MENUSUBITEM' => '代理店',
+'VENDOR_LIST_TITLE' => '[OXID ベンダーの管理]',
+'VENDOR_MAIN_ALLITEMS' => 'すべての可能な製品',
+'VENDOR_MAIN_ICONUPLOAD' => 'アイコンのアップロード',
+'VENDOR_MAIN_ITEMSWITHVENDOR' => 'この配送業者からの製品',
+'viewAll' => 'すべて表示',
+'VOUCHERSERIE_EXPORTDONE' => 'クーポンのエクスポートが完了しました',
+'VOUCHERSERIE_EXPORTDOWNLOAD' => 'ダウンロード',
+'VOUCHERSERIE_EXPORTED' => 'クーポンをエクスポートしました:',
+'VOUCHERSERIE_EXPORTING' => 'クーポンをエクスポートしています ...',
+'VOUCHERSERIE_GENERATED' => 'クーポンを生成しました:',
+'VOUCHERSERIE_GENERATEDONE' => 'クーポンの生成が完了しました',
+'VOUCHERSERIE_GENERATING' => 'クーポンを生成しています ...',
+'VOUCHERSERIE_GROUPS_INGROUP' => 'ユーザーグループで利用可能',
+'VOUCHERSERIE_LIST_MENUITEM' => 'ショップの設定',
+'VOUCHERSERIE_LIST_MENUSUBITEM' => 'クーポンのシリーズ',
+'VOUCHERSERIE_LIST_MINVALUE' => '最小注文合計',
+'VOUCHERSERIE_LIST_SERIALNUM' => '名前',
+'VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => '別のシリーズで有効',
+'VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => '同じシリーズで有効',
+'VOUCHERSERIE_MAIN_AVAILABLE' => '可能',
+'VOUCHERSERIE_MAIN_CALCULATEONCE' => '一度だけ計算する (製品もしくは購入したクーポンのみ有効)',
+'VOUCHERSERIE_MAIN_DISCOUNT' => '割引',
+'VOUCHERSERIE_MAIN_EXPORT' => 'エクスポート',
+'VOUCHERSERIE_MAIN_GENERATE' => '生成',
+'VOUCHERSERIE_MAIN_GENERATERANDOM' => 'ランダム生成番号',
+'VOUCHERSERIE_MAIN_MINORDERPRICE' => '最小注文合計',
+'VOUCHERSERIE_MAIN_NEWVOUCHER' => '新規クーポンの作成',
+'VOUCHERSERIE_MAIN_RANDOMNUM' => 'ランダム番号',
+'VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => '同じシリーズ、異なる順序で有効',
+'VOUCHERSERIE_MAIN_USED' => '使用した',
+'VOUCHERSERIE_MAIN_VOUCHERNUM' => 'クーポン番号',
+'VOUCHERSERIE_MAIN_VOUCHERSTATISTICS' => 'クーポン',
+'weight' => '幅',
+'WRAPPING_COSTS' => 'Gift Wrapping',
+'WRAPPING_LIST_MENUITEM' => 'ショップの設定',
+'WRAPPING_LIST_MENUSUBITEM' => 'ギフトラッピング',
+'WRAPPING_LIST_PICTURE' => '画像',
+'WRAPPING_LIST_PRESENTPACKUNG' => 'ギフトラッピング',
+'WRAPPING_LIST_TITLE' => '[OXID ラッピング]',
+'WRAPPING_MAIN_PICTURE' => '画像',
+'WRAPPING_MAIN_PICUPLOAD' => '画像のアップロード',
+'WRAPPING_MAIN_PRESENTPACKUNG' => 'ギフトラッピング',
+'WRAPPING_MAIN_TITLE' => '[OXID ラッピング]',
+);

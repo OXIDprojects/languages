@@ -1851,115 +1851,132 @@ $aLang = array(
 'TOOLTIPS_NEWCATEGORY' => 'Vytvoriť kategóriu',
 'TOOLTIPS_NEWCATTREE' => 'Preindexovať adresár kategórií',
 'TOOLTIPS_NEWCONTENT' => 'Vytvoriť novú stránku',
-'TOOLTIPS_NEWCOUNTRY
-/**Pridať krajint of OXID eShop CDELIVEity EditUprav Thipres frné náklady OXID eShop Community EdSEp
-/**ion.
- *spôsob dos fredistribute it andISommun
- *    it undzľavt of OXID eShop CITEMS
-/**
- *    This fi� parameter of OXID eShop CLANGUAGEoftware Foundation, eijazykion 3 of the LiceINK
-/**Nn, eiodkaz of OXID eShop CMALLCAp
-/**
- *    Thikategóriu obchodt of OXID eShop CMANUFACTURER
- *    OXIDvýrobcall be useful,
- *WS Licens  OX� DPH of OXID eShop CNEWSoftware Foundatispráed by
- *    the FABILLETTITHOUT Ais free svzor Novinieny later version.PAYMphp
-/**  OXIDer the tplatbedistribute it anPROMOTIONied warrantypromoakcia/ic Li of OXID eShop CREMAR*
- *  ion.
- *poznámrt of OXID eShop CSELECTLIplied waion.
- *on, eivýbrsion 3 of the LicSHOPoftware Foundation, eit it w
- * @link      htTATISTICied warrantyštatistik
- *    along witUSITHOUT ANY WARužívateľ2003-2012
- * @versiGROU://www.oxid-esales.co�op CE
- * @tskile kup    OXID eShop Commersidetails.
- *
- *    You should have received a coVAR1.
- *
- *  OURCE IDENTIFIER = 2
-/**nižšieOURCE IDENTIFIER = 3
-/**pon.
- *variantOURCE IDENTIFIER ENDOTHOUT ANY WARdodá
- * @translators: admiVOUCHITHOUT A FITNESS FOé thapoukážony later version.WRAPPING
- *    it under the tbalene
- *    along OPENHEL://www.Spust Thisápovewill be useful,NS_Mersi//www.gnu.O*    Thizoznamop CE
- * @tov of OXID eShoRECALCNROFARTICLESINis distriZnova spočítmunitrodukty vthe hope tachsím vyberte jednu možnosť',
-'AMAe GNU GST_AUTHOR' => 'Auttovar jednotlivýchRRANTY; rosím vyberte jednu možnosť',
-'AVNDTEM' => 'Informácie o zákazníkovi',
-'ADMIke informárosím vyberte jeSETmožnosť',
-'ADMINGB_LIReseákaunityčADMIANTY;kovMINGB_LIST_ENTRY' => 'Záznam'> 'Informácie o NUITEM' =kovi',
-'ADMINLINKSákazovníkovi',
-'ADMINGB_LIST_MENUSUBITEM' =>> 'Informácie o ,
-'ADMING Administrácia odkazov]',
-'ALTERNATIVE_'ADMINLINKS_LIST_MENUITEM'TIMEFORMs distriFormát času: of OXID eShoVALDESight (CEntry1__@@anual2y.', usw. of OXTAL_PLUS_PROPOR theAL_Vs distriplus VAT (proportionally calculated) of OS_RATINGS_BUTTON_ALs.
- *
-apíšte hokovienie!'ARTICLE_ATTRIBURL_TITLr
- *  Trusted Shops'Priradiť  zákazníkrosímUPDATEAPP_DIRNOTDELETED_WARNCLES' => 'lease delete directory: updateAppvýbeuserTEM' =>é paramee',
-' (3114),_//ww_MENUree 
- *    GNU Gen
-$sLangName  = 'Slovenčinné parametre',
-'ARSUBTICLE_ATTRI
-$sLangName  � 'Slove
- * né parameMAISSIGLMEMBERSoftwarešetciATTRi
- * le
- * stupné výbery'ARTICIN114), DominČlenoviaATTRIBUTES' =>ej 'Sloveedistné _ADDRESS_unity Ed',
-'ART
-/**Doručovacia adresDOW' => '_nosť',_QUANTITty EditMnožstvo'UložiťEXTEND_BONI
-/**H> 'Priradekredittre',
-'BUTES' => 'CREDITPOINTSELECTOKden p: yoboredister!',
-'ARTICDISABLEAUTO114), Dominikpnúť automatické priraďovaradeENINNEWWKS_L do 'Sloíndostupné produkEMAILFAILE'ADMINGneuld ný emaildostupné produkMOBILFhe GNU GMobE_BUNDLE_UNASSIGNA.  See the
- *  Odoberlicenseinky?dostupné produkPRIVATE' => 'OdTelefón mimo pracovnú dob zvoľte etre',CUSTOMERNULE_ATTRČísloené parameaMnožIES' => 'PMENARTICLE_ATTRIBUTE_NOAzáTSELyTICLE_CROSSSLLING_ASSIGNCROSSSE!',
-'ARTICLE_ATTRIBUTE_NLLING_ASSIGNCRPLACr
- *  MestYATTRIBUTEtre',ZI://www.PSČLLING_ASS�beryriradeniSNTHOUT ATE' => 'Do ' =>slYATTRIBUTE�beryBundlLOGIe GNU GECLE_ /radihlásiť ALLCATS' => 'VHASPASSWOR'ADMINGM�=> 'Peslošetky dos�beryLDA://www.D_AR _NOATARTICLE_EXTENNAM�žový pno,radiezvisk_ALLCATS' => 'Vre de => 'Balený  OX�obok',�robok je v t�RIGHALLITEMSP A Pdaja',
-'AR�berySTRýrobku'Ulica .  popis: yoEXTEND_ALLCATS' OVERVIEW'Prosím zv\'Semaforadna\''Priradiť  => 'Vybrať ako hlREACKORDITHOUT AZruše: yoobíkoávk dostupnéať ako h114),SELECTOATTRIBUTE_NOSELLIST' => 'Dostup,
-'ARTICLELASTBUty EditioslONS_�ou caupujúci odkaz na multimTICLE_ATTRsoubor <brzakúpe <br_LIST_,
-'ACTci odkaz na muOXI'ADMINGrneniTPRICE' detailsore details.
- *
- *    You should have rná maloobchodetails.
- *Sr the y než normálna cena.',
-'ARTICLTYPr
- *  ND_EXTU�čaná maloobchoVALUr
- *  oľte daja',
-'ARh OXIDTICLE
-/**[Publiky]' => 'Nahranie s
-'ARTICLE_E[OSIONS_UNIa_EXTEND_FREESHIPPh OXID eShop[Pozn._EXTEND_FREESHIPPersion OXI[Regška:'usrRegisteredD_ENTERURL' => 'V bude r 'Prorrodu eito zadaníobok'SELLINEM' =>etre',
-'ARTICLE_ATTRNastaviradet it will b 'Vyhľadateľn�!',
-'ARTICLE_De informácie' 'VyhľadateTTRIBUTE_IT[rnen Admin�',
-á> 'H'ADMINLINKS_L_EXTE 'Vyhľ�bery',
-ree SoftwareBUTEky dostup: yoor',
-'AD súbory',
-'ARTIICONUPLOA => 'ŽiahITEMSikonku<br>(veľPrirsúbory nahTICLEjte cez ftp
-'ARTt',
-'ARTICLE_ee SWITHEM' => 'ZákT�kaznlen od multimediádaja'viewAllICLE_EXobraz GeneATERIama<bIST_MENSERIE_EXE_ATDONr
- *  Coupons ex'Pri comp� v�dH' => EXTEND_TEMPLATE' => WND_QUESTIONDownloapackaEND_TPRICE' => 'Odpý produtívny vzhľaded: á cena',
-'ARTICLE_EXTECLES' => Ehľading cívny v..E_EXTEND_TPRICE' =GENERAEND_UNITNAME' => generre',a',
-'ARTICLE_EXTENDMEDIA' => 'Alternatívny v� multiion',
-'ARTICLE_EXTEND_TPRICE' =MEDIA' CLES' => G => 'Bažstvo',
-'ARTICLE_EXTEND_UPDATEMEXTEN_er v novom okD => 'NehmoteAVE' => ECTED' => 'ProsímEND_TPRICE' =adateľný',
-'ARTICLE_EXTEND_LENIONS_UNIT' =>_UPDATEPRICES' => 'Upd!',
-'ARTICLE_P akcie'RTICLE_EXTEND_UPDATEPRICEIN_EXTEND_FILMinimálna'Prirada time',
-'ARTICLE_EXTEND_UPDATEPRIC_TEMALe doplnkov',
-'ARTravov_DESCEND_TPRICE' =�bery',
-OWOTEND_TEMPm)',
-'AR',
-'A� s inou obsahoušetk iba písmená, číslaSAMEtržítko (_) a bodkv rovnaE_SAVavoviCLE_EXTEND_UPLOADISDISABVAIL,
-'AEXTEND_UPDATEP�LE_EXTEND_UPLOADISDISAdnu ULATEONížovýZaOR' => 'Autiba raz (:',
-'A��ho oCEC'k�vnyy_EXTE_LIST_My alebothe hope tePDISCOiba písmená, č Public LicensZishedaja'IGHT_UNIT' => 'kg'ATE' =TITY' => 'MnDTH' => 'Šírka:',
-'AMEDIA' =' => 'A:',
-'Aovať iba písmená, čMEDIA' =RANDOLE_ATTRVy� mul,
-'ADMnáPrirD_DEFAULT' => IGHT_UNIT' => 'kg'MIN
-'ARTPRIížový úbor nahrajte(veľké súbory nahrajete cez fD_BLFIXEIST_MENUSUBITEM' => 'Sp� akcie'rt of IGHT_UNIT' => 'kg'ADABLEe doplnkoPovoliť sťahovanie súborov pre tento produkt',
-'A => 'To, pod
-'ARTICLE_ERshopuELLIavova, odlišNehmooradieCLE_EXTEND_UPLOADISDISAUSý produPoENINtv vypnuté.',
-'ARTICLE_EIGHT_UNe doplnkov',
-'ARTahnutie jratie',
-'ARTICLE_FILES_IGHT_UNI @copyriLLITEMS'D_WEI�čaweight
-/**
-áhdaja'LARTICLE_COSALLITEMSGift WrappingPurchased onladateľný',
-'ARTICLE_EXTEND_LENGTH' => 'OADEDFILES' => 'UpCLE_EXTEND_MASarčekadna é pro_DESCOADEDFILES' =>PIut WIie: odpbráz,
-'ACTITEM' => 'Polo�'<b>NTPACKULES' => ,
-'ARTICLE_LIST_MENUSUBITEM' => 'PoloEXTEND_MEDIAURLS'd
-'ARTICLE_LIST_MEN_EXTEhased onl�beryžka',
-'ARTICLE_MAIN_ACTIVE' => 'Aktívny'END_QUESTIONEMAILND_LEN_MAIku ernatívny kontakt',
-'ARTICLE_EXTEND_SKIPDISCCE' => 'Alternay',
-'ARTICLE_MAIN_ACTIVEFROM' => 'Od',
-'ARTICLE_MAI�beryEXTEND_MEDIAURLS'BACTIVFROMT);
+'TOOLTIPS_NEWCOUNTRY' => 'Pridať krajinu',
+'TOOLTIPS_NEWDELIVERY' => 'Upraviť prepravné náklady',
+'TOOLTIPS_NEWDELIVERYSET' => 'Pridať spôsob dopravy',
+'TOOLTIPS_NEWDISCOUNT' => 'Pridať zľavu',
+'TOOLTIPS_NEWITEMS' => 'Vytvoriť nový parameter',
+'TOOLTIPS_NEWLANGUAGE' => 'Vytvoriť nový jazyk',
+'TOOLTIPS_NEWLINK' => 'Nový odkaz',
+'TOOLTIPS_NEWMALLCAT' => 'Vytvoriť kategóriu obchodu',
+'TOOLTIPS_NEWMANUFACTURER' => 'Nový výrobca',
+'TOOLTIPS_NEWMWST' => 'Nová DPH',
+'TOOLTIPS_NEWNEWS' => 'Vytvoriť správu',
+'TOOLTIPS_NEWNEWSLETTER' => 'Upraviť vzor Noviniek',
+'TOOLTIPS_NEWPAYMENT' => 'Nový spôsob platby',
+'TOOLTIPS_NEWPROMOTION' => 'Nová promoakcia/akcia',
+'TOOLTIPS_NEWREMARK' => 'Pridať poznámku',
+'TOOLTIPS_NEWSELECTLIST' => 'Pridať nový výber',
+'TOOLTIPS_NEWSHOP' => 'Vytvoriť nový obchod',
+'TOOLTIPS_NEWSTATISTIC' => 'Nová štatistika',
+'TOOLTIPS_NEWUSER' => 'Nový užívateľ',
+'TOOLTIPS_NEWUSERGROUP' => 'Vytvoriť novú užívateľskú skupinu',
+'TOOLTIPS_NEWUSERPAYMENT' => 'Nový spôsob platby',
+'TOOLTIPS_NEWVAR1' => 'Nový',
+'TOOLTIPS_NEWVAR2' => 'nižšie',
+'TOOLTIPS_NEWVAR3' => 'pridať variant',
+'TOOLTIPS_NEWVENDOR' => 'Nový dodávateľ',
+'TOOLTIPS_NEWVOUCHER' => 'Vytvoriť sériu poukážok',
+'TOOLTIPS_NEWWRAPPING' => 'Pridať spôsob balenia',
+'TOOLTIPS_OPENHELP' => 'Spustiť nápovedu',
+'TOOLTIPS_OPENUSERLIST' => 'Otvoriť zoznam užívateľov',
+'TOOLTIPS_RECALCNROFARTICLESINCAT' => 'Znova spočítať produkty v kategóriach',
+'TOOLTIPS_RECALCNROFARTICLESINMAN' => 'Znova spočítať tovar jednotlivých výrobcov',
+'TOOLTIPS_RECALCNROFARTICLESINVND' => 'Znova spočítať tovar jednotlivých dodávateľov',
+'TOOLTIPS_RESETNROFARTICLESINCAT' => 'Resetovať počty výrobkov v kategóriach',
+'TOOLTIPS_RESETNROFARTICLESINMAN' => 'Resetovať počty tovarov jednotlivých výrobcov',
+'TOOLTIPS_RESETNROFARTICLESINVND' => 'Resetovať počty tovarov jednotlivých dodávateľov',
+'TOOLTIPS_TIMEFORMAT' => 'Formát času:',
+'TOOLTIPS_VALDESC' => 'Entry1__@@Entry2__@@ usw.',
+'TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
+'TS_RATINGS_BUTTON_ALT' => 'Napíšte hodnotenie!',
+'TS_RATINGS_URL_TITLE' => 'Trusted Shops hodnotenie zákazníkov',
+'UPDATEAPP_DIRNOTDELETED_WARNING' => 'Please delete directory: updateApp!',
+'user' => 'Zákazník',
+'USERGROUP_LIST_MENUITEM' => 'Upraviť užívateľskú skupinu',
+'USERGROUP_LIST_MENUSUBITEM' => 'Užívateľská skupina',
+'USERGROUP_MAIN_ALLMEMBERS' => 'Všetci uživatelia',
+'USERGROUP_MAIN_MEMBERINGROUP' => 'Členovia užívateľskej skupiny',
+'USER_ADDRESS_DELIVERYADDRESS' => 'Doručovacia adresa',
+'USER_ARTICLE_QUANTITY' => 'Množstvo',
+'USER_EXTEND_BONI' => 'Hodnotenie kreditov',
+'USER_EXTEND_CREDITPOINTS' => 'Kreditné body',
+'USER_EXTEND_DISABLEAUTOGROUP' => 'Vypnúť automatické priraďovanie uživateľov do skupín',
+'USER_EXTEND_EMAILFAILED' => 'neplatný email',
+'USER_EXTEND_MOBILFON' => 'Mobil',
+'USER_EXTEND_NEWSLETTER' => 'Odoberať novinky?',
+'USER_EXTEND_PRIVATFON' => 'Telefón mimo pracovnú dobu',
+'USER_LIST_CUSTOMERNUM' => 'Číslo zákazníka.',
+'USER_LIST_MENNUITEM' => 'Upraviť záznamy zákazníka',
+'USER_LIST_MENNUSUBITEM' => 'Užívateľ',
+'USER_LIST_PLACE' => 'Mesto',
+'USER_LIST_ZIP' => 'PSČ',
+'USER_MAIN_CUSTOMERSNR' => 'Zákazník číslo',
+'USER_MAIN_EMAILLOGIN' => 'Email / prihlásenie',
+'USER_MAIN_HASPASSWORD' => 'Máte heslo?',
+'USER_MAIN_LDAP' => 'LDAP user',
+'USER_MAIN_NAME' => 'Meno, priezvisko',
+'USER_MAIN_NEWPASSWORD' => 'Nové heslo',
+'USER_MAIN_RIGHTS' => 'Práva',
+'USER_MAIN_STRNR' => 'Ulica .  popisné číslo',
+'USER_OVERVIEW_BONI' => '\'Semaforové\' hodnotenie',
+'USER_OVERVIEW_BREACKORDER' => 'Zrušené objednávky',
+'USER_OVERVIEW_GROUPS' => 'Užívateľská skupina',
+'USER_OVERVIEW_LASTBUY' => 'Posledný nákup',
+'USER_OVERVIEW_LASTITEM' => 'Posledný zakúpený výrobok',
+'USER_OVERVIEW_OXID' => 'OXID',
+'USER_PAYMENT_NEWPAYMENT' => 'Nový spôsob platby',
+'USER_PAYMENT_PAYMENT' => 'Spôsoby platby',
+'USER_PAYMENT_PAYMENTTYPE' => 'Spôsob',
+'USER_PAYMENT_VALUE' => 'Hodnota',
+'USER_REMARK_NEWS' => '[Novinky]',
+'USER_REMARK_ORDER' => '[Objednávka]',
+'USER_REMARK_REMARK' => '[Pozn.]',
+'USER_REMARK_USER' => '[Reg.]',
+'usrRegistered' => 'Užívateľ bude registrovaný po zadaní hesla.',
+'VENDOR_LIST_MENUITEM' => 'Nastavenie obchodu',
+'VENDOR_LIST_MENUSUBITEM' => 'Dodávateľ',
+'VENDOR_LIST_TITLE' => '[OXID Administrácia dodávateľov]',
+'VENDOR_MAIN_ALLITEMS' => 'Všetky dostupné produkty',
+'VENDOR_MAIN_ICONUPLOAD' => 'Nahrať ikonku<br>(veľké súbory nahrávajte cez ftp)',
+'VENDOR_MAIN_ITEMSWITHVENDOR' => 'Tovar len od dodávateľa',
+'viewAll' => 'Zobraziť všetko',
+'VOUCHERSERIE_EXPORTDONE' => 'Coupons export completed.',
+'VOUCHERSERIE_EXPORTDOWNLOAD' => 'Download',
+'VOUCHERSERIE_EXPORTED' => 'Coupons exported: ',
+'VOUCHERSERIE_EXPORTING' => 'Exporting coupons ...',
+'VOUCHERSERIE_GENERATED' => 'Coupons generated: ',
+'VOUCHERSERIE_GENERATEDONE' => 'Coupons generation completed.',
+'VOUCHERSERIE_GENERATING' => 'Generating coupons ...',
+'VOUCHERSERIE_GROUPS_INGROUP' => 'Dostupné pre skupiny užívateľov',
+'VOUCHERSERIE_LIST_MENUITEM' => 'Nastavenie objednávky',
+'VOUCHERSERIE_LIST_MENUSUBITEM' => 'Poukážky',
+'VOUCHERSERIE_LIST_MINVALUE' => 'Minimálna hodnota objednávky',
+'VOUCHERSERIE_LIST_SERIALNUM' => 'Číslo série',
+'VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Platné s inou sériou?',
+'VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Platné v rovnakej sérii?',
+'VOUCHERSERIE_MAIN_AVAILABLE' => 'Dostupná',
+'VOUCHERSERIE_MAIN_CALCULATEONCE' => 'Započítať iba raz (platné iba pre kupony pre výrobky alebo kategórie)',
+'VOUCHERSERIE_MAIN_DISCOUNT' => 'Zľava',
+'VOUCHERSERIE_MAIN_EXPORT' => 'Export',
+'VOUCHERSERIE_MAIN_GENERATE' => 'Generate',
+'VOUCHERSERIE_MAIN_GENERATERANDOM' => 'Vygenerovať náhodné číslo',
+'VOUCHERSERIE_MAIN_MINORDERPRICE' => 'Minimálna hodnota objednávky',
+'VOUCHERSERIE_MAIN_NEWVOUCHER' => 'Vytvoriť poukážku',
+'VOUCHERSERIE_MAIN_RANDOMNUM' => 'Vygenerovať náhodné číslo',
+'VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Rovnaká séria, odlišné poradie?',
+'VOUCHERSERIE_MAIN_USED' => 'Použitá',
+'VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Číslo poukážky',
+'VOUCHERSERIE_MAIN_VOUCHERSTATISTICS' => 'Kupony',
+'weight' => 'Váha',
+'WRAPPING_COSTS' => 'Gift Wrapping',
+'WRAPPING_LIST_MENUITEM' => 'Nastavenie obchodu',
+'WRAPPING_LIST_MENUSUBITEM' => 'Darčekové balenie',
+'WRAPPING_LIST_PICTURE' => 'Obrázok',
+'WRAPPING_LIST_PRESENTPACKUNG' => 'Darčekové balenie',
+'WRAPPING_LIST_TITLE' => '[OXID darčekové balenie]',
+'WRAPPING_MAIN_PICTURE' => 'Obrázok',
+'WRAPPING_MAIN_PICUPLOAD' => 'Nahranie obrázku <br>(veľké súbory nahrávajte cez ftp)',
+'WRAPPING_MAIN_PRESENTPACKUNG' => 'Darčekové balenie',
+'WRAPPING_MAIN_TITLE' => '[OXID Balenie]',
+);
