@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: crashover (330), fifo (9), val (933)
+ * @translators: crashover (330), fifo (9), marco (1), val (933)
  */
 
 $sLangName  = 'Български';
@@ -268,7 +268,7 @@ $aLang = array(
 'FACEBOOK_ENABLEINFOLINK' => 'Виж информацията за трансфера на данни.',
 'FACEBOOK_ENABLELINK' => 'ПОКАЖИ СЪДЪРЖАНИЕТО В FACEBOOK',
 'FACEBOOK_ENABLETEXT' => 'Данните са изпратени към Facebook.',
-'FACEBOOK_ENABLE_INFOTEXT' => 'Тук може да оставите информация за преноса на персонални данни към Facebook.<br><br>Докато използвате плъгините на Facebook, има осъществена връзка,която разрешава споделянето на съдържанието с други потребители.Използването на плъгините, докато разлиствате онлайн магазина и сте логнати в същото време в Facebook,позволява Вашите лични данни автоматично да се изпращат в Facebook.За повече информация относно събирането и използването на лични данни на <a href="http://www.facebook.com/policy.php" target="_blank">Facebook\\'s Privacy Policy</a>.',
+'FACEBOOK_ENABLE_INFOTEXT' => 'Тук може да оставите информация за преноса на персонални данни към Facebook.<br><br>Докато използвате плъгините на Facebook, има осъществена връзка,която разрешава споделянето на съдържанието с други потребители.Използването на плъгините, докато разлиствате онлайн магазина и сте логнати в същото време в Facebook,позволява Вашите лични данни автоматично да се изпращат в Facebook.За повече информация относно събирането и използването на лични данни на <a href="http://www.facebook.com/policy.php" target="_blank">Facebook\'s Privacy Policy</a>.',
 'FACEBOOK_ENABLE_INFOTEXTHEADER' => 'Бележки за защита на лични данни, използвайки Facebook plug-ins',
 'FACEBOOK_FACEPILE' => 'FACEBOOK_FACEPILE',
 'FACEBOOK_INVITE' => 'Facebook Покани',
