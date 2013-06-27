@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3161), inquisitor8 (298), SYSKO (8)
+ * @translators: admin (3161), inquisitor8 (298), RSee (433), SYSKO (8)
  */
 
 $sLangName  = 'Česky';
@@ -93,7 +93,7 @@ $aLang = array(
 'MOD_REQUEST_URI' => 'REQUEST_URI nastavené',
 'MOD_SERVER_CONFIG' => 'Konfigurace serveru',
 'MOD_SERVER_PERMISSIONS' => 'Přístupová práva souborů/adresářů',
-'MOD_SESSION_AUTOSTART' => 'session.auto_start must be off',
+'MOD_SESSION_AUTOSTART' => 'session.auto_start musí být vypnut',
 'MOD_SOAP' => 'SOAP',
 'MOD_TOKENIZER' => 'Tokenizer',
 'MOD_UNICODE_SUPPORT' => 'Podpora UTF-8',
@@ -101,16 +101,16 @@ $aLang = array(
 'MOD_ZEND_PLATFORM_OR_SERVER' => 'Zend Platform instalován',
 'PRIVACY_POLICY' => 'ochrany osobních údajů',
 'SELECT_COUNTRY_LANG' => 'Vyberte zemi',
-'SELECT_DELIVERY_COUNTRY' => 'Main delivery country',
+'SELECT_DELIVERY_COUNTRY' => 'Hlavní země dodání',
 'SELECT_DELIVERY_COUNTRY_HINT' => 'Pokud bude potřeba, snadno si aktivujte více zemí pro doručení v administraci e-shopu.',
-'SELECT_PLEASE_CHOOSE' => 'Please choose',
+'SELECT_PLEASE_CHOOSE' => 'Prosím vyberte',
 'SELECT_SETUP_LANG' => 'Vyberte jazyk',
 'SELECT_SETUP_LANG_HINT' => '. Pokud bude potřeba, snadno si aktivujte více jazyků v administraci e-shopu.',
 'SELECT_SETUP_LANG_SUBMIT' => 'Vybrat',
-'SELECT_SHOP_LANG' => 'Shop language',
-'SELECT_SHOP_LANG_HINT' => 'If needed, activate easily more languages in admin.',
-'SELECT_SHOP_LOCATION' => 'Your market',
-'SELECT_SHOP_LOCATION_HINT' => 'Please choose the market to which shop is focused. According to it, additional eCommerce Services will be loaded from OXID server, if you allow that.',
+'SELECT_SHOP_LANG' => 'Jazyk obchodu',
+'SELECT_SHOP_LANG_HINT' => 'Pokud je třeba, aktivujte další jazyky v administračním rozhraní',
+'SELECT_SHOP_LOCATION' => 'Váš trh',
+'SELECT_SHOP_LOCATION_HINT' => 'Vyberte prosím trh, pro který je obchod určen. Na základě tohoto, budou z OXID serveru nahrány dodatečné eCommerze služby, pokud toto povolíte.',
 'SETUP_CONFIG_PERMISSIONS' => 'Z bezpečnostních důvodů nastavte konfigurační soubor config.inc.php pouze pro čtení!',
 'SETUP_DIR_DELETE_NOTICE' => 'Z bezpečnostních důvodů odstraňte adresář s instalací, pokud se tak nestalo v průběhu instalace.',
 'STEP_0_DESC' => 'V tomto kroku si zkontrolujte, zda váš systém vyhovuje požadavkům:',

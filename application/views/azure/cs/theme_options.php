@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3161), inquisitor8 (298), SYSKO (8)
+ * @translators: admin (3161), inquisitor8 (298), RSee (433), SYSKO (8)
  */
 
 $sLangName  = 'Česky';
@@ -46,7 +46,7 @@ $aLang = array(
 'SHOP_THEME_bl_showCompareList' => 'Povolit porovnávání zboží',
 'SHOP_THEME_bl_showGiftWrapping' => 'Povolit dárkové balení zboží',
 'SHOP_THEME_bl_showListmania' => 'Povolit Listmanii',
-'SHOP_THEME_bl_showOpenId' => 'Use Open ID',
+'SHOP_THEME_bl_showOpenId' => 'Použít Open ID',
 'SHOP_THEME_bl_showVouchers' => 'Povolit slevové kupony',
 'SHOP_THEME_bl_showWishlist' => 'Povolit seznam přání',
 'SHOP_THEME_GROUP_display' => 'Zobrazení',
@@ -67,10 +67,10 @@ $aLang = array(
 'SHOP_THEME_sDefaultListDisplayType_line' => 'Řádky',
 'SHOP_THEME_sIconsize' => 'Velikost ikony (šířka*výška)',
 'SHOP_THEME_sManufacturerIconsize' => 'Velikost loga výrobce/značky',
-'SHOP_THEME_sStartPageListDisplayType' => 'Product list type on Start page',
-'SHOP_THEME_sStartPageListDisplayType_grid' => 'Grid',
-'SHOP_THEME_sStartPageListDisplayType_infogrid' => 'Double grid',
-'SHOP_THEME_sStartPageListDisplayType_line' => 'List',
+'SHOP_THEME_sStartPageListDisplayType' => 'Seznam produktových typů na Úvodní stránce',
+'SHOP_THEME_sStartPageListDisplayType_grid' => 'Galerie',
+'SHOP_THEME_sStartPageListDisplayType_infogrid' => 'Galerie dvousloupcově',
+'SHOP_THEME_sStartPageListDisplayType_line' => 'Seznam',
 'SHOP_THEME_sThumbnailsize' => 'Velikost náhledů (šířka*výška)',
 'SHOP_THEME_sZoomImageSize' => 'Velikost velkého obrázku produktu (šířka*výška)',
 );

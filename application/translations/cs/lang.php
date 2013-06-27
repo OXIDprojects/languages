@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2012
  * @version OXID eShop CE
- * @translators: admin (3161), inquisitor8 (298), SYSKO (8)
+ * @translators: admin (3161), inquisitor8 (298), RSee (433), SYSKO (8)
  */
 
 $sLangName  = 'Česky';
@@ -749,7 +749,7 @@ $aLang = array(
 'SPECIFICATION' => 'Specifikace',
 'STAR' => 'Hvězdička',
 'STARS' => 'Hvězdičky',
-'START_DOWNLOADING_UNTIL' => 'Please, start downloading until',
+'START_DOWNLOADING_UNTIL' => 'Prosím spusťte stahování do',
 'STATUS' => 'Stav:',
 'STAY_INFORMED' => 'Buďte informováni!',
 'STEPS_BASKET' => '1. Košík',
@@ -842,7 +842,7 @@ $aLang = array(
 'WRITE_PRODUCT_REVIEW' => 'Napište recenzi zboží',
 'WRITE_REVIEW' => 'Napište recenzi.',
 'WRITE_REVIEW_2' => 'Napište recenzi!',
-'YEAR' => 'Year',
+'YEAR' => 'Rok',
 'YES' => 'Ano',
 'YOUR_EMAIL_ADDRESS' => 'Vaše e-mailová adresa:',
 'YOUR_GREETING_CARD' => 'Vaše blahopřání:',
@@ -856,7 +856,7 @@ $aLang = array(
 'ZOOM' => 'Přiblížení',
 '_UNIT_CM' => 'cm',
 '_UNIT_G' => 'g',
-'_UNIT_ITEM' => 'item',
+'_UNIT_ITEM' => 'položka',
 '_UNIT_KG' => 'kg',
 '_UNIT_L' => 'l',
 '_UNIT_M' => 'm',
