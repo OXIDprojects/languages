@@ -17,9 +17,9 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2012
+ * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dsb (5), marco (4005)
+ * @translators: dsb (5), marco (4008)
  */
 
 $sLangName  = 'Deutsch';

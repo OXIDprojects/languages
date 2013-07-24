@@ -17,9 +17,9 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2012
+ * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (19), gvidas123 (1), linasg (3), muslimukas (5), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
+ * @translators: abejingas (188), agladutis (19), akasauskas (14), gvidas123 (1), linasg (3), muslimukas (5), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
  */
 
 $sLangName  = 'Lietuvių';
@@ -36,7 +36,7 @@ $aLang = array(
 'byManufacturer' => 'Pagal gamintoją',
 'byVendor' => 'Pagal tiekėją',
 'DETAILS_ARTNUMBER' => 'Product Nr.:',
-'DETAILS_CHOOSEVARIANT' => 'Please select a variant',
+'DETAILS_CHOOSEVARIANT' => 'Pasirinkite variantą',
 'DETAILS_LOCATOR_PRODUCT' => 'PREKĖ',
 'DETAILS_PLUSSHIPPING2' => 'shipping costs.',
 'DETAILS_PRICEALARM' => '<b>[!]</b> Stebėk kainą',
@@ -49,15 +49,15 @@ $aLang = array(
 'EMAIL_ORDER_CUST_HTML_NONE' => 'NĖRA',
 'EMAIL_ORDER_CUST_HTML_PAYMENTCHARGEVAT1' => 'PVM',
 'EMAIL_ORDER_CUST_HTML_PAYMENTMETHOD' => 'Will be paid by:',
-'EMAIL_ORDER_CUST_HTML_PLUSTAX1' => 'plus tax.',
+'EMAIL_ORDER_CUST_HTML_PLUSTAX1' => 'su mokesčiais.',
 'EMAIL_ORDER_CUST_HTML_PLUSTAX21' => 'plus tax.',
 'EMAIL_ORDER_CUST_HTML_SHIPPINGCARRIER' => 'Will be shipped with',
 'EMAIL_ORDER_CUST_HTML_SHIPPINGNET' => 'Shipping costs (w/o tax):',
-'EMAIL_ORDER_CUST_HTML_TAX1' => 'plus tax',
+'EMAIL_ORDER_CUST_HTML_TAX1' => 'su mokesčiais',
 'EMAIL_ORDER_CUST_HTML_TSPROTECTIONCHARGETAX1' => 'plus tax',
 'EMAIL_ORDER_OWNER_HTML_MESSAGE' => 'Message: ',
 'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>PAYMENT INFORMATION SWITCHED OFF</b> - To switch them on, please change application/views/[theme]/email_order_owner_html.tpl.',
-'EMAIL_SENDDOWNLOADS_DOWNLOADS_DESC' => 'Download your ordered files here.',
+'EMAIL_SENDDOWNLOADS_DOWNLOADS_DESC' => 'Parsisiųskite užsakytus dokumentus čia.',
 'EMAIL_SENDDOWNLOADS_GREETING' => 'Hello',
 'EMAIL_SENDDOWNLOADS_PAYMENT_PENDING' => 'Payment of the order is not yet complete.',
 'EMAIL_SENDDOWNLOADS_SUBJECT' => 'Download links',

@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2012
+ * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
  * @translators: admin (406), HolgerGremminger (69), marco (934), rhinosmedia (4), topconcepts (118)
  */
@@ -394,7 +394,6 @@ $aLang = array(
 'MESSAGE_NEWSLETTER_SUBSCRIPTION' => 'Du kan avbeställa nyhetsbrevet när som helst utan kostnad.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_ACTIVATED' => 'Du är nu berättigad för vårt nyhetsbrev.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_CANCELED' => 'Du har framgångsrikt avslutat prenumerationen av vårt nyhetsbrev.',
-'MESSAGE_NEWSLETTER_SUBSCRIPTION_CENCELED' => 'Nyhetsbrevet har sagts upp.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_SUCCESS' => 'Nyhetsbrevet har abonnerats.',
 'MESSAGE_NOT_ABLE_SEND_CONFIRMATION_EMAIL' => 'Tyvärr kunde vi inte skicka någon e-postbekräftelse för mottagandet av nyhetsbrevet. <br>Vänligen kontrollera e-postadressen.<br>',
 'MESSAGE_NOT_ABLE_TO_SEND_EMAIL' => 'Tyvärr kunde vi inte skicka någon email.',
@@ -527,10 +526,7 @@ $aLang = array(
 'OXACTIVE' => 'Aktiv',
 'OXACTIVEFROM' => 'Aktiv från',
 'OXACTIVETO' => 'Aktiv till',
-'OXAMITEMID' => 'oxamitemid',
-'OXAMTASKID' => 'oxamtaskid',
 'OXARTNUM' => 'Artikelnummer',
-'OXBLFIXEDPRICE' => 'oxblfixedprice',
 'OXBPRICE' => 'Bruttopris',
 'OXBUNDLEID' => 'Bundle identnr.',
 'OXDELIVERY' => 'levererats',
@@ -542,7 +538,6 @@ $aLang = array(
 'OXFOLDER' => 'Arkiv',
 'OXFREESHIPPING' => 'Gratis frakt',
 'OXHEIGHT' => 'Höjd',
-'OXICON' => 'oxicon',
 'OXID' => 'internt ID-nr.',
 'OXID_ESALES_URL' => 'http://www.oxid-esales.com/de/startseite',
 'OXID_ESALES_URL_TITLE' => 'Shop Software från OXID eSales',
@@ -596,7 +591,6 @@ $aLang = array(
 'OXSTOCKACTIVE' => 'Lagerhantering aktiv',
 'OXSTOCKFLAG' => 'Leveransstatus',
 'OXSTOCKTEXT' => 'Information om artikel finns på lager',
-'OXSUBCLASS' => 'oxsubclass',
 'OXTEMPLATE' => 'Alt. förlaga',
 'OXTHUMB' => 'Miniatyrbild',
 'OXTIMESTAMP' => 'Sista ändring',
@@ -609,7 +603,6 @@ $aLang = array(
 'OXVARCOUNT' => 'Antal varianter',
 'OXVARMINPRICE' => 'Pris',
 'OXVARNAME' => 'Variant',
-'OXVARSELECT' => 'oxvarselect',
 'OXVARSTOCK' => 'Lagernivå varianter',
 'OXVAT' => 'Artikel moms',
 'OXVENDORID' => 'Leverantör ID',
@@ -815,6 +808,7 @@ $aLang = array(
 'VALID_UNTIL' => 'giltig till:',
 'VAT' => 'Moms',
 'VAT_ID_NUMBER' => 'VATnr.',
+'VAT_MESSAGE_ID_NOT_VALID' => 'VAT ID is invalid',
 'VENDOR' => 'Leverantör',
 'VENDOR_S' => '| Leverantör: %s',
 'VERIFICATION_CODE' => 'Kod',

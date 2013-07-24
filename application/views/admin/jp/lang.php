@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2012
+ * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
  * @translators: admin (2364), hodota (32)
  */
@@ -832,7 +832,7 @@ $aLang = array(
 'invalid_serial' => '無効なライセンスキー',
 'IS_REVERSE_PROXY_AVAILABLE' => 'Test Reverse Proxy\'s availability',
 'LANGUAGE_ABBERVATION' => '略称',
-'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Attention: you can\\'t change abbreviation of main language (with ID = 0)!',
+'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Attention: you can\'t change abbreviation of main language (with ID = 0)!',
 'LANGUAGE_ACTIVE' => 'フロントエンドのアクティブ',
 'LANGUAGE_ALREADYEXISTS_ERROR' => 'エラー: このような略称を持つ言語は既に存在しています！',
 'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Attention: No language files were found in /admin dir for selected language!',

@@ -17,9 +17,9 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2012
+ * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (1587), urecheatu007 (3), valdone (189)
+ * @translators: admin (1587), urecheatu007 (313), valdone (189)
  */
 
 $sLangName  = 'Română';
@@ -29,30 +29,30 @@ $sLangName  = 'Română';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ATTENTION' => 'Attention, important',
-'BUTTON_BEGIN_INSTALL' => 'Start installation',
-'BUTTON_DB_INSTALL' => 'Create database now',
-'BUTTON_LICENCE' => 'Continue',
-'BUTTON_PROCEED_INSTALL' => 'Proceed with setup',
-'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Install demodata',
-'BUTTON_RADIO_LICENCE_ACCEPT' => 'I accept license conditions.',
-'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'I do not accept license conditions.',
-'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => 'Do <strong>not</strong> install demodata',
-'BUTTON_START_INSTALL' => 'Restart setup',
-'BUTTON_WRITE_DATA' => 'Save and continue',
-'BUTTON_WRITE_LICENCE' => 'Save license key',
-'ERROR_BAD_DEMODATA' => 'ERROR: Issue while inserting this SQL statements: ',
-'ERROR_BAD_SERIAL_NUMBER' => 'ERROR: Wrong license key!',
-'ERROR_BAD_SQL' => 'ERROR: Issue while inserting this SQL statements: ',
-'ERROR_CONFIG_FILE_IS_NOT_WRITABLE' => 'ERROR: %s/config.inc.php not writeable!',
-'ERROR_COULD_NOT_CREATE_DB' => 'ERROR: Database not available and also cannot be created!',
-'ERROR_COULD_NOT_FIND_FILE' => 'Setup could not find "%s"!',
-'ERROR_COULD_NOT_OPEN_CONFIG_FILE' => 'Could not open %s for reading! Please consult our FAQ, forum or contact OXID Support staff!',
-'ERROR_COULD_NOT_READ_FILE' => 'Setup could not open "%s" for reading!',
-'ERROR_COULD_NOT_WRITE_TO_FILE' => 'Setup could not write to "%s"!',
-'ERROR_DB_ALREADY_EXISTS' => 'ERROR: Seems there is already OXID eShop installed in database %s. Please delete it prior continuing!',
-'ERROR_DB_CONNECT' => 'ERROR: No database connection possible!',
-'ERROR_FILL_ALL_FIELDS' => 'ERROR: Please fill in all needed fields!',
+'ATTENTION' => 'Atentie, important',
+'BUTTON_BEGIN_INSTALL' => 'Pornire instalare',
+'BUTTON_DB_INSTALL' => 'Creaza baza de date acum',
+'BUTTON_LICENCE' => 'Continua',
+'BUTTON_PROCEED_INSTALL' => 'Continua cu instalarea',
+'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Instalare date demonstrative',
+'BUTTON_RADIO_LICENCE_ACCEPT' => 'Accept termenii licentei.',
+'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'Nu accept termenii licentei.',
+'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => '<strong>Nu</strong> se instaleaza datele demonstrative',
+'BUTTON_START_INSTALL' => 'Repornire instalare',
+'BUTTON_WRITE_DATA' => 'Salveaza si continua',
+'BUTTON_WRITE_LICENCE' => 'Salveaza cheia de licenta',
+'ERROR_BAD_DEMODATA' => 'EROARE: Probleme la inserarea acestor interogari SQL:',
+'ERROR_BAD_SERIAL_NUMBER' => 'EROARE: cheie de licenta gresita!',
+'ERROR_BAD_SQL' => 'EROARE: Probleme la inserarea acestor interogari SQL:',
+'ERROR_CONFIG_FILE_IS_NOT_WRITABLE' => 'EROARE: %s/config.inc.php nu poate fi scris!',
+'ERROR_COULD_NOT_CREATE_DB' => 'EROARE: Baza de date nu este disponibila si nici nu poate fi creata!',
+'ERROR_COULD_NOT_FIND_FILE' => 'Instalarea nu a gasit "%s"!',
+'ERROR_COULD_NOT_OPEN_CONFIG_FILE' => 'Nu am putut deschide %s pentru citire! Consulta FAQ, forumul sau contacteaza personalul de suport OXID!',
+'ERROR_COULD_NOT_READ_FILE' => 'Instalarea nu a putut deschide "%s" pentru citire!',
+'ERROR_COULD_NOT_WRITE_TO_FILE' => 'Instalarea nu a putut scrie in "%s"!',
+'ERROR_DB_ALREADY_EXISTS' => 'EROARE: Se pare ca exista deja o instalare de OXID eShop in baza de date %s. Trebuie stearsa inainte de continuare!',
+'ERROR_DB_CONNECT' => 'EROARE: Nu este posibila conectarea la baza de date!',
+'ERROR_FILL_ALL_FIELDS' => 'EROARE: Trebuie completate toate campurile necesare!',
 'ERROR_MYSQL_VERSION_DOES_NOT_FIT_REQUIREMENTS' => 'MySQL version does not fit system requiremens',
 'ERROR_NOT_AVAILABLE' => 'ERROR: %s not found!',
 'ERROR_NOT_WRITABLE' => 'ERROR: %s not writeable!',

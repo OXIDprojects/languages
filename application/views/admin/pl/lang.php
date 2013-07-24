@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2012
+ * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
  * @translators: la bete (5), marco (4), mart (139), pawelch (1660), topconcepts (209)
  */
@@ -832,7 +832,7 @@ $aLang = array(
 'invalid_serial' => 'Nieprawidłowy klucz licencyjny',
 'IS_REVERSE_PROXY_AVAILABLE' => 'Test Reverse Proxy\'s availability',
 'LANGUAGE_ABBERVATION' => 'Abbreviation',
-'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Attention: you can\\'t change abbreviation of main language (with ID = 0)!',
+'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Attention: you can\'t change abbreviation of main language (with ID = 0)!',
 'LANGUAGE_ACTIVE' => 'Active in frontend',
 'LANGUAGE_ALREADYEXISTS_ERROR' => 'Error: language with such abbervation already exists!',
 'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Attention: No language files were found in /admin dir for selected language!',

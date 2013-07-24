@@ -17,9 +17,9 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2012
+ * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (3161), inquisitor8 (298), RSee (433), SYSKO (8)
+ * @translators: admin (3161), dave2005 (72), inquisitor8 (298), RSee (892), SYSKO (8)
  */
 
 $sLangName  = 'Česky';
@@ -29,14 +29,14 @@ $sLangName  = 'Česky';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'HELP_SHOP_THEME_blShowListDisplayType' => 'Zvolte, zdá může návštěvník vašeho eshopu vybrat si typ zobrazení seznamu produktů. Pokud tato volba není aktivní, vaši návštěvníci uvidí seznam produktů zobrazený tak, jak jste nastavili v roletce "Výchozí typ zobrazení přehledu produktů".',
-'HELP_SHOP_THEME_iNewBasketItemMessage' => 'V okamžiku, kdy zákazník přidá zboží do košíku, eshop se může různě zachovat. Nastavte, co se stane, aby měl zákazník zpětnou odezvu.',
+'HELP_SHOP_THEME_blShowListDisplayType' => 'Zvolte, zda si může návštěvník Vašeho eShopu vybrat typ zobrazení seznamu produktů. Pokud tato volba není aktivní, budou seznamy zobrazeny tak jak jste je nastavili v roletovém menu "Výchozí typ zobrazení přehledu produktů".',
+'HELP_SHOP_THEME_iNewBasketItemMessage' => 'V okamžiku, kdy zákazník přidá zboží do košíku, může OXID eShop provést různé odezvy.',
 'HELP_SHOP_THEME_sCatIconsize' => 'V detailu kategorie jsou obrázky podkategorií zobrazeny v nadefinované velikosti.',
 'HELP_SHOP_THEME_sCatPromotionsize' => 'Promoakce kategorie na úvodní stránce vyžaduje vlastní velikost obrázků kategorií. Rozměry těchto obrázků se definují zde.',
 'HELP_SHOP_THEME_sCatThumbnailsize' => 'V detailu kategorie, obrázek zvolené kategorie je zobrazen v nedefinované velikosti.',
-'HELP_SHOP_THEME_sIconsize' => 'Ikony jsou nejmenší obrázky produktů. Využívají se: <br><ul><li>v nákupním košíku.</li><li>pokud je zboží zobrazeno v pravém sloupci (např. v <span class="filename_filepath_or_italic">Nejprodávanější</span> nebo <span class="filename_filepath_or_italic">Výhodný nákup</span>).</li></ul>Pro zamezení designových problémů v příliš velkými ikonami jsou ikony zmenšeny. Zde zadejte maximální velikost ikon.',
+'HELP_SHOP_THEME_sIconsize' => 'Ikony jsou nejmenší obrázky produktů. Využívají se: <br><ul><li>v nákupním košíku.</li><li>pokud je zboží zobrazeno v pravém sloupci (např. v <span class="filename_filepath_or_italic">Nejprodávanější</span> nebo <span class="filename_filepath_or_italic">Výhodný nákup</span>).</li></ul>Pro zamezení designových problémů s příliš velkými ikonami jsou ikony zmenšeny. Zde zadejte maximální velikost ikon.',
 'HELP_SHOP_THEME_sManufacturerIconsize' => 'Logo výrobce/značky je zobrazeno na úvodní stránce v posuvníku se značkami výrobců.',
-'HELP_SHOP_THEME_sThumbnailsize' => 'Náhledy jsou malé obrázky produktů. Využívají se:<br><ul><li>v přehledech produktů.</li><li>v promoakcích zobrazeních v prostřední části úvodní stránky, např. <span class="filename_filepath_or_italic">Nejnovější zboží</span>.</li></ul>Pro zamezení designových problémů v příliš velkými náhledovými obrázky jsou tyto náhledy změnšeny. Zde zadejte maximální velikost náhledů.',
+'HELP_SHOP_THEME_sThumbnailsize' => 'Náhledy jsou malé obrázky produktů. Využívají se:<br><ul><li>v přehledech produktů.</li><li>v promoakcích zobrazeních v prostřední části úvodní stránky, např. <span class="filename_filepath_or_italic">Nejnovější zboží</span>.</li></ul>Pro zamezení designových problémů s příliš velkými náhledovými obrázky jsou tyto náhledy zmenšeny. Zde zadejte maximální velikost náhledů.',
 'SHOP_THEME_aDetailImageSizes' => 'Velikost detailního obrázku (šířka*výška)',
 'SHOP_THEME_aNrofCatArticles' => 'Počet zboží, které se zobrazí na stránce s přehledem produktů (stránky kategorií, výsledky vyhledávání)<br><br>Pozor: větší množství produktů na stráce (více než 100) může způsobit snížení odezvy (rychlosti) eshopu!',
 'SHOP_THEME_aNrofCatArticlesInGrid' => 'Galerie: Počet zboží, které se zobrazí na stránce s přehledem produktů (stránky kategorií, výsledky vyhledávání)<br><br>Pozor: větší množství produktů na stráce (více než 100) může způsobit snížení odezvy (rychlosti) eshopu!',

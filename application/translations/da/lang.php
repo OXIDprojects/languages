@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2012
+ * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
  * @translators: gnomic (792), topconcepts (811)
  */
@@ -394,7 +394,6 @@ $aLang = array(
 'MESSAGE_NEWSLETTER_SUBSCRIPTION' => 'Du kan til enhver tid afbestille vores nyhedsbrev.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_ACTIVATED' => 'Din tilmelding til vores nyhedsbrev er nu blevet aktiveret.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_CANCELED' => 'Nyhedsbrevet er blevet afmeldt.',
-'MESSAGE_NEWSLETTER_SUBSCRIPTION_CENCELED' => 'Nyhedsbrevet er blevet afmeldt.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_SUCCESS' => 'Du er nu tilmeldt nyhedsbrevet.',
 'MESSAGE_NOT_ABLE_SEND_CONFIRMATION_EMAIL' => 'Desværre kunne vi ikke sende en nyhedsbrev aktiveringsmail. <br>Kontroller venligst e-mail adressen.<br>',
 'MESSAGE_NOT_ABLE_TO_SEND_EMAIL' => 'Desværre kunne vi ikke sende dig nogen e-mail.',
@@ -527,10 +526,7 @@ $aLang = array(
 'OXACTIVE' => 'Aktiv',
 'OXACTIVEFROM' => 'Aktiv fra',
 'OXACTIVETO' => 'Aktiv indtil',
-'OXAMITEMID' => 'oxamitemid',
-'OXAMTASKID' => 'oxamtaskid',
 'OXARTNUM' => 'Produktnummer',
-'OXBLFIXEDPRICE' => 'oxblfixedprice',
 'OXBPRICE' => 'Brutto pris',
 'OXBUNDLEID' => 'Bundt ID-nr',
 'OXDELIVERY' => 'Afsendt den',
@@ -542,7 +538,6 @@ $aLang = array(
 'OXFOLDER' => 'Mappe',
 'OXFREESHIPPING' => 'Gratis Levering',
 'OXHEIGHT' => 'Højde',
-'OXICON' => 'oxicon',
 'OXID' => 'Intern ID-nr.',
 'OXID_ESALES_URL' => 'http://www.oxid-esales.com/',
 'OXID_ESALES_URL_TITLE' => 'Shopping cart software by OXID eSales',
@@ -596,7 +591,6 @@ $aLang = array(
 'OXSTOCKACTIVE' => 'Lagerstyring aktiv',
 'OXSTOCKFLAG' => 'Lagerstatus',
 'OXSTOCKTEXT' => 'Besked, såfremt varen er på lager',
-'OXSUBCLASS' => 'oxsubclass',
 'OXTEMPLATE' => 'Alt. Template',
 'OXTHUMB' => 'Forhåndsvisning af billede',
 'OXTIMESTAMP' => 'Sidste ændring',
@@ -609,7 +603,6 @@ $aLang = array(
 'OXVARCOUNT' => 'Antal varianter',
 'OXVARMINPRICE' => 'Pris',
 'OXVARNAME' => 'Variant navn',
-'OXVARSELECT' => 'oxvarselect',
 'OXVARSTOCK' => 'Variant lagerstatus',
 'OXVAT' => 'Produkt moms',
 'OXVENDORID' => 'Sælger ID',
@@ -815,6 +808,7 @@ $aLang = array(
 'VALID_UNTIL' => 'Gyldig til:',
 'VAT' => 'Moms',
 'VAT_ID_NUMBER' => 'CVR:',
+'VAT_MESSAGE_ID_NOT_VALID' => 'VAT ID is invalid',
 'VENDOR' => 'Leverandør',
 'VENDOR_S' => 'Leverandør: %s',
 'VERIFICATION_CODE' => 'Kontrolcifre',

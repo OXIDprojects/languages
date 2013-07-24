@@ -17,9 +17,9 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2012
+ * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (495), dsb (1), marco (4424), simoneschuppe (4), Thielo (1)
+ * @translators: admin (495), dsb (1), marco (4427), simoneschuppe (4), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';
@@ -394,7 +394,6 @@ $aLang = array(
 'MESSAGE_NEWSLETTER_SUBSCRIPTION' => 'Du kannst den Newsletter jederzeit kostenlos abbestellen.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_ACTIVATED' => 'Du bist nun freigeschaltet für den Empfang unseres Newsletters.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_CANCELED' => 'Du hast den Empfang unseres Newsletters erfolgreich abbestellt.',
-'MESSAGE_NEWSLETTER_SUBSCRIPTION_CENCELED' => 'Der Newsletter wurde abbestellt.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_SUCCESS' => 'Der Newsletter wurde abonniert.',
 'MESSAGE_NOT_ABLE_SEND_CONFIRMATION_EMAIL' => 'Leider konnten wir Dir keine E-Mail zur Bestätigung des Newsletterempfanges zustellen. <br>Bitte kontrolliere die E-Mail-Adresse.<br>',
 'MESSAGE_NOT_ABLE_TO_SEND_EMAIL' => 'Leider konnten wir Dir keine E-Mail zustellen.',
@@ -527,10 +526,7 @@ $aLang = array(
 'OXACTIVE' => 'Aktiv',
 'OXACTIVEFROM' => 'Aktiv von',
 'OXACTIVETO' => 'Aktiv bis',
-'OXAMITEMID' => 'oxamitemid',
-'OXAMTASKID' => 'oxamtaskid',
 'OXARTNUM' => 'Artikelnummer',
-'OXBLFIXEDPRICE' => 'oxblfixedprice',
 'OXBPRICE' => 'Bruttopreis',
 'OXBUNDLEID' => 'Bundle Identnr.',
 'OXDELIVERY' => 'Ausgeliefert am',
@@ -542,7 +538,6 @@ $aLang = array(
 'OXFOLDER' => 'Ordner',
 'OXFREESHIPPING' => 'Versandkostenfrei',
 'OXHEIGHT' => 'Höhe',
-'OXICON' => 'oxicon',
 'OXID' => 'interne Identnr.',
 'OXID_ESALES_URL' => 'http://www.oxid-esales.com/de/startseite',
 'OXID_ESALES_URL_TITLE' => 'Shop Software von OXID eSales',
@@ -596,7 +591,6 @@ $aLang = array(
 'OXSTOCKACTIVE' => 'Lagerverwaltung aktiv',
 'OXSTOCKFLAG' => 'Lieferstatus',
 'OXSTOCKTEXT' => 'Info falls Artikel auf Lager',
-'OXSUBCLASS' => 'oxsubclass',
 'OXTEMPLATE' => 'Alt. Template',
 'OXTHUMB' => 'Vorschaubild',
 'OXTIMESTAMP' => 'Letzte Änderung',
@@ -609,7 +603,6 @@ $aLang = array(
 'OXVARCOUNT' => 'Varianten Anzahl',
 'OXVARMINPRICE' => 'Preis',
 'OXVARNAME' => 'Name der Variante',
-'OXVARSELECT' => 'oxvarselect',
 'OXVARSTOCK' => 'Varianten Lagerbestand',
 'OXVAT' => 'Artikel MwSt.',
 'OXVENDORID' => 'Lieferant ID',
@@ -784,7 +777,7 @@ $aLang = array(
 'TOTAL_GROSS' => 'Summe Artikel (brutto):',
 'TOTAL_NET' => 'Summe Artikel (netto):',
 'TOTAL_QUANTITY' => 'Anzahl total',
-'TO_CART' => 'In den warenkorb',
+'TO_CART' => 'In den Warenkorb',
 'TO_MY_WISHLIST' => 'Um zu meinem Wunschzettel zu kommen, bitte',
 'TRACKING_ID' => 'Tracking-ID:',
 'TRACK_SHIPMENT' => 'Wo ist meine Lieferung?',
@@ -815,6 +808,7 @@ $aLang = array(
 'VALID_UNTIL' => 'Gültig bis:',
 'VAT' => 'MwSt',
 'VAT_ID_NUMBER' => 'USt-ID:',
+'VAT_MESSAGE_ID_NOT_VALID' => 'USt-ID ist ungültig',
 'VENDOR' => 'Lieferant',
 'VENDOR_S' => '| Lieferant: %s',
 'VERIFICATION_CODE' => 'Prüfcode',

@@ -17,9 +17,9 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2012
+ * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (19), gvidas123 (1), linasg (3), muslimukas (5), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
+ * @translators: abejingas (188), agladutis (19), akasauskas (14), gvidas123 (1), linasg (3), muslimukas (5), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
  */
 
 $sLangName  = 'Lietuvių';
@@ -31,15 +31,15 @@ $aLang = array(
 'charset' => 'utf-8',
 'ATTENTION' => 'Dėmesio',
 'BUTTON_BEGIN_INSTALL' => 'Pradėti diegimą',
-'BUTTON_DB_INSTALL' => 'Create database now',
+'BUTTON_DB_INSTALL' => 'Sukurti duomenų bazę',
 'BUTTON_LICENCE' => 'Tęsti',
 'BUTTON_PROCEED_INSTALL' => 'Proceed with setup',
 'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Įdiegti demonstracinius duomenis',
 'BUTTON_RADIO_LICENCE_ACCEPT' => 'Su licencijos sąlygomis sutinku.',
-'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'I do not accept license conditions.',
-'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => 'Do <strong>not</strong> install demodata',
+'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'Nesutinku su sąlygomis',
+'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => '<strong>Neįdiegti</strong> demonstracinės parduotuvės duomenų',
 'BUTTON_START_INSTALL' => 'Restart setup',
-'BUTTON_WRITE_DATA' => 'Save and continue',
+'BUTTON_WRITE_DATA' => 'Išsaugoti ir tęsti',
 'BUTTON_WRITE_LICENCE' => 'Save license key',
 'ERROR_BAD_DEMODATA' => 'ERROR: Issue while inserting this SQL statements: ',
 'ERROR_BAD_SERIAL_NUMBER' => 'ERROR: Wrong license key!',

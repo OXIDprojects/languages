@@ -17,9 +17,9 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2012
+ * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (3161), inquisitor8 (298), RSee (433), SYSKO (8)
+ * @translators: admin (3161), dave2005 (72), inquisitor8 (298), RSee (892), SYSKO (8)
  */
 
 $sLangName  = 'Česky';
@@ -30,26 +30,26 @@ $sLangName  = 'Česky';
 $aLang = array(
 'charset' => 'utf-8',
 'ATTENTION' => 'Pozor, důležité',
-'BUTTON_BEGIN_INSTALL' => 'Start instalace',
+'BUTTON_BEGIN_INSTALL' => 'Spustit instalaci eShopu',
 'BUTTON_DB_INSTALL' => 'Vytvořit databázi',
 'BUTTON_LICENCE' => 'Pokračovat',
-'BUTTON_PROCEED_INSTALL' => 'Pokračovat v nastavení',
+'BUTTON_PROCEED_INSTALL' => 'Spustit setup',
 'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Instalovat demodata',
 'BUTTON_RADIO_LICENCE_ACCEPT' => 'Souhlasím s licenčními podmínkami.',
 'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'Nesouhlasím s licenčními podmínkami.',
 'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => '<strong>Ne</strong>instalovat demodata',
-'BUTTON_START_INSTALL' => 'Restartovat instalátor',
+'BUTTON_START_INSTALL' => 'Spustit setup znovu',
 'BUTTON_WRITE_DATA' => 'Uložit a pokračovat',
 'BUTTON_WRITE_LICENCE' => 'Uložit licenční klíč',
-'ERROR_BAD_DEMODATA' => 'CHYBA: Záznamy z průběhu zápisu SQL dat:',
+'ERROR_BAD_DEMODATA' => 'CHYBA: Problémy (demodata) z průběhu zápisu SQL dat:',
 'ERROR_BAD_SERIAL_NUMBER' => 'CHYBA: Chybný licenční klíč!',
-'ERROR_BAD_SQL' => 'CHYBA: Záznamy z průběhu zápisu SQL dat:',
+'ERROR_BAD_SQL' => 'CHYBA: Problémy (tabulky) z průběhu zápisu SQL dat:',
 'ERROR_CONFIG_FILE_IS_NOT_WRITABLE' => 'CHYBA: Do souboru %s/config.inc.php  není možné zapisovat!',
 'ERROR_COULD_NOT_CREATE_DB' => 'CHYBA: Databáze není k dispozici, a také nemůže být vytvořena!',
-'ERROR_COULD_NOT_FIND_FILE' => 'Instalátor nemohl nalézt "%s"!',
-'ERROR_COULD_NOT_OPEN_CONFIG_FILE' => 'Soubor %s se nepodařilo otevřít pro čtení! Prosím konzultujte tento problém na našem fóru',
-'ERROR_COULD_NOT_READ_FILE' => 'Instalátor nemohl otevřít "%s" pro čtení!',
-'ERROR_COULD_NOT_WRITE_TO_FILE' => 'Instalátor nemohl zapsat do "%s"!',
+'ERROR_COULD_NOT_FIND_FILE' => 'Setup nemohl nalézt soubor "%s"!',
+'ERROR_COULD_NOT_OPEN_CONFIG_FILE' => 'Soubor %s se nepodařilo otevřít pro čtení! Prosím konzultujte tento problém na našem fóru (FAQ) nebo kontaktujte OXID Support.',
+'ERROR_COULD_NOT_READ_FILE' => 'Setup nemohl otevřít soubor "%s" pro čtení!',
+'ERROR_COULD_NOT_WRITE_TO_FILE' => 'Setup nemohl zapsat do souboru "%s"!',
 'ERROR_DB_ALREADY_EXISTS' => 'CHYBA: Zdá se, že je již OXID eShop v databázi %s instalován. Prosím, odstraňte před pokračováním data!',
 'ERROR_DB_CONNECT' => 'CHYBA: Nelze se připojit k žádné databázi!',
 'ERROR_FILL_ALL_FIELDS' => 'CHYBA: Prosím, vyplňte všechna povinná pole!',
@@ -60,15 +60,15 @@ $aLang = array(
 'ERROR_PASSWORDS_DO_NOT_MATCH' => 'Hesla se neshodují!',
 'ERROR_PASSWORD_TOO_SHORT' => 'Heslo je příliš krátké!',
 'ERROR_SETUP_CANCELLED' => 'Instalační program byl ukončen, protože jste neakceptovali licenční podmínky.',
-'ERROR_USER_NAME_DOES_NOT_MATCH_PATTERN' => 'Prosím, zadejte platnou e-mailovou adresu!',
+'ERROR_USER_NAME_DOES_NOT_MATCH_PATTERN' => 'Prosím, zadejte platnou emailovou adresu!',
 'ERROR_VIEWS_CANT_CREATE' => 'CHYBA: Nelze vytvořit pohledy. Zkontrolujte prosím uživatelská práva v databázi.',
 'ERROR_VIEWS_CANT_DROP' => 'CHYBA: Nelze smazat pohledy. Zkontrolujte prosím uživatelská práva v databázi.',
-'ERROR_VIEWS_CANT_SELECT' => 'CHYBA: Nelze číst data z pohledůews. Zkontrolujte prosím uživatelská práva v databázi.',
+'ERROR_VIEWS_CANT_SELECT' => 'CHYBA: Nelze číst data z pohledů. Zkontrolujte prosím uživatelská práva v databázi.',
 'FOOTER_OXID_ESALES' => '© Oxid eSales AG 2003 - Y',
-'HEADER_META_MAIN_TITLE' => 'OXID eShop průvodce instalací',
+'HEADER_META_MAIN_TITLE' => 'OXID eShop průvodce instalace',
 'HEADER_TEXT_SETUP_NOT_RUNS_AUTOMATICLY' => 'Pokud instalace nebude pokračovat během několika sekund, klikněte prosím',
 'HERE' => 'sem',
-'LOAD_DYN_CONTENT_NOTICE' => '<p>Pokud je políčko "více informací" zaškrtnuto, uvidíte doplňkové menu v admin oblasti Vašeho OXID eShopu. </p> <p>V tomto menu získáte další informace o e-commerce službách jako je Google, vyhledávání produktů.</p> <p> Tato nastavení můžete kdykoliv změnit.</p>',
+'LOAD_DYN_CONTENT_NOTICE' => '<p>Pokud je políčko "více informací" zaškrtnuto, uvidíte doplňkové menu v admin oblasti Vašeho OXID eShopu. </p> <p>V tomto menu získáte další informace o e-commerce službách jako je Google vyhledávání produktů.</p> <p> Tato nastavení můžete kdykoliv změnit.</p>',
 'MOD_ALLOW_URL_FOPEN' => 'allow_url_fopen nebo fsockopen na portu 80',
 'MOD_BC_MATH' => 'BCMath',
 'MOD_BUG53632' => 'Možné problémy na serveru z důvodu chyb PHP',

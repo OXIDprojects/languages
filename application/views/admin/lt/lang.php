@@ -17,9 +17,9 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2012
+ * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (19), gvidas123 (1), linasg (3), muslimukas (5), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
+ * @translators: abejingas (188), agladutis (19), akasauskas (14), gvidas123 (1), linasg (3), muslimukas (5), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
  */
 
 $sLangName  = 'Lietuvių';
@@ -284,7 +284,7 @@ $aLang = array(
 'CATEGORY_ORDER_NEWSORTSAVE' => 'Saugoti naują eiliškumą',
 'CATEGORY_ORDER_SORTCATEGORIES' => 'Rikiuoti kategorijas',
 'CATEGORY_PICTURES_UPLOADISDISABLED' => 'Tai parodomoji parduotuvė. Paveikslėlių įkėlimas bei trynimas yra išjungti dėl saugumo priežasčių.',
-'CATEGORY_RIGHTS_ALLGROUPS' => 'All User Groups',
+'CATEGORY_RIGHTS_ALLGROUPS' => 'Visos vartotojų grupės',
 'CATEGORY_RIGHTS_ALLGROUPS2' => 'Visos vartotojų grupės',
 'CATEGORY_RIGHTS_APPLYLEVEL' => 'Apply changes to category and its products only',
 'CATEGORY_RIGHTS_APPLYLEVEL2' => 'Pritaikyti pakeitimus kategorijai, subkategorijoms bei jų produktams',
@@ -354,7 +354,7 @@ $aLang = array(
 'DELIVERY_RDFA_ADVICE_END' => 'pasak',
 'DELIVERY_RDFA_ADVICE_START' => '<b>Hint:</b> Please choose only those delivery methods, pre-defined in GoodRelations, that comply with your shipping method',
 'DELIVERY_RDFA_ASIGN_DELIVERY' => 'Priskirti pristatymo būdus',
-'DELIVERY_RDFA_DELIVERYMODEDIRECTDOWNLOAD' => 'Download',
+'DELIVERY_RDFA_DELIVERYMODEDIRECTDOWNLOAD' => 'Parsisiųsti',
 'DELIVERY_RDFA_DELIVERYMODEFREIGHT' => 'Krovinys',
 'DELIVERY_RDFA_DELIVERYMODEMAIL' => 'Snail Mail',
 'DELIVERY_RDFA_DELIVERYMODEOWNFLEET' => 'Own fleet',
@@ -832,7 +832,7 @@ $aLang = array(
 'invalid_serial' => 'Negaliojantis licencijos raktas',
 'IS_REVERSE_PROXY_AVAILABLE' => 'Test Reverse Proxy\'s availability',
 'LANGUAGE_ABBERVATION' => 'Sutrumpinimas',
-'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Attention: you can\\'t change abbreviation of main language (with ID = 0)!',
+'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Attention: you can\'t change abbreviation of main language (with ID = 0)!',
 'LANGUAGE_ACTIVE' => 'Aktyvi svetainėje',
 'LANGUAGE_ALREADYEXISTS_ERROR' => 'Klaida: Kalba su tokiu sutrumpinimu jau egzistuoja!',
 'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Attention: No language files were found in /admin dir for selected language!',

@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2012
+ * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
  * @translators: admin (3431), alexraimondo (1), chatard (115), Phenix (202), Rainbow40 (2), vikapera (376)
  */
@@ -396,7 +396,6 @@ Si vous commandez avec votre compte client, Les liens de téléchargement appara
 'MESSAGE_NEWSLETTER_SUBSCRIPTION' => 'Vous avez la possibilité, à tout moment, de vous désinscrire.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_ACTIVATED' => 'Votre abonnement à notre Newsletter a bien été activé.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_CANCELED' => 'Votre abonnement à notre Newsletter a bien été désactivé.',
-'MESSAGE_NEWSLETTER_SUBSCRIPTION_CENCELED' => 'Votre abonnement à notre Newsletter a bien été désactivé.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_SUCCESS' => 'Votre abonnement à notre Newsletter a bien été activé.',
 'MESSAGE_NOT_ABLE_SEND_CONFIRMATION_EMAIL' => 'Malheureusement, nous n\'avons pas été en mesure de vous envoyer un e-mail de confirmation d\'inscription.<br>Veuillez vérifier votre adresse e-mail.<br>',
 'MESSAGE_NOT_ABLE_TO_SEND_EMAIL' => 'Malheureusement, nous n\'avons pas été en mesure de vous envoyer un e-mail.',
@@ -531,10 +530,7 @@ Si vous commandez avec votre compte client, Les liens de téléchargement appara
 'OXACTIVE' => 'Actif',
 'OXACTIVEFROM' => 'Actif à partir de',
 'OXACTIVETO' => 'Actif jusqu\'au',
-'OXAMITEMID' => 'oxamitemid',
-'OXAMTASKID' => 'oxamtaskid',
 'OXARTNUM' => 'Référence produit',
-'OXBLFIXEDPRICE' => 'oxblfixedprice',
 'OXBPRICE' => 'Prix Brut',
 'OXBUNDLEID' => 'ID Bundle',
 'OXDELIVERY' => 'Expédiée le',
@@ -546,7 +542,6 @@ Si vous commandez avec votre compte client, Les liens de téléchargement appara
 'OXFOLDER' => 'Dossier',
 'OXFREESHIPPING' => 'Livraison offerte',
 'OXHEIGHT' => 'Hauteur',
-'OXICON' => 'oxicon',
 'OXID' => 'Id interne',
 'OXID_ESALES_URL' => 'http://www.oxid-esales.fr/',
 'OXID_ESALES_URL_TITLE' => 'Palteforme e-commerce par OXID eSales',
@@ -600,7 +595,6 @@ Si vous commandez avec votre compte client, Les liens de téléchargement appara
 'OXSTOCKACTIVE' => 'Contrôle des stocks actif',
 'OXSTOCKFLAG' => 'Indicateur stock',
 'OXSTOCKTEXT' => 'Message En-stock',
-'OXSUBCLASS' => 'oxsubclass',
 'OXTEMPLATE' => 'Template spécifique',
 'OXTHUMB' => 'Aperçu image',
 'OXTIMESTAMP' => 'Dernière modification',
@@ -613,7 +607,6 @@ Si vous commandez avec votre compte client, Les liens de téléchargement appara
 'OXVARCOUNT' => 'Nombre de variantes',
 'OXVARMINPRICE' => 'Prix',
 'OXVARNAME' => 'Nom de la variante',
-'OXVARSELECT' => 'oxvarselect',
 'OXVARSTOCK' => 'Stock de la variante',
 'OXVAT' => 'TVA produit',
 'OXVENDORID' => 'ID Vendeur',
@@ -819,6 +812,7 @@ Si vous commandez avec votre compte client, Les liens de téléchargement appara
 'VALID_UNTIL' => 'Date de validité:',
 'VAT' => 'TVA',
 'VAT_ID_NUMBER' => 'N° de TVA:',
+'VAT_MESSAGE_ID_NOT_VALID' => 'VAT ID is invalid',
 'VENDOR' => 'Vendeur',
 'VENDOR_S' => 'Vendeur: %s',
 'VERIFICATION_CODE' => 'Code de vérification',

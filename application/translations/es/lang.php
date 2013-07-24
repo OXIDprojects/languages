@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2012
+ * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
  * @translators: admin (2202), afimage (504), diegotech (7), Espana (5), jsmaster (6), nuelgoz (156)
  */
@@ -394,7 +394,6 @@ $aLang = array(
 'MESSAGE_NEWSLETTER_SUBSCRIPTION' => 'It\'s possible to cancel newsletter at any time.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_ACTIVATED' => 'Your subscription to our Newsletter has now been activated.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_CANCELED' => 'Newsletter era anulado',
-'MESSAGE_NEWSLETTER_SUBSCRIPTION_CENCELED' => 'Newsletter era anulado',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_SUCCESS' => 'The Newsletter subscription was successful.',
 'MESSAGE_NOT_ABLE_SEND_CONFIRMATION_EMAIL' => 'Unfortunately we were not able to send you a Newsletter activation e-mail.<br>Please verify your e-mail address.<br>',
 'MESSAGE_NOT_ABLE_TO_SEND_EMAIL' => 'Unfortunately we were not able to send you an e-mail.',
@@ -527,10 +526,7 @@ $aLang = array(
 'OXACTIVE' => 'aktivo',
 'OXACTIVEFROM' => 'aktivo de',
 'OXACTIVETO' => 'aktivo hasta',
-'OXAMITEMID' => 'oxamitemid',
-'OXAMTASKID' => 'oxamtaskid',
 'OXARTNUM' => 'Número de artículo',
-'OXBLFIXEDPRICE' => 'oxblfixedprice',
 'OXBPRICE' => 'Gross Price',
 'OXBUNDLEID' => 'Bundle Identno',
 'OXDELIVERY' => 'Entregado en',
@@ -542,7 +538,6 @@ $aLang = array(
 'OXFOLDER' => 'Carpeta',
 'OXFREESHIPPING' => 'Libre de gastos de envío',
 'OXHEIGHT' => 'Altura',
-'OXICON' => 'oxicon',
 'OXID' => 'OXID',
 'OXID_ESALES_URL' => 'Http://www.oxid-esales.com/',
 'OXID_ESALES_URL_TITLE' => 'Cesta de la compra de software por OXID eSales',
@@ -596,7 +591,6 @@ $aLang = array(
 'OXSTOCKACTIVE' => 'Stock Control Active',
 'OXSTOCKFLAG' => 'Stock Flag',
 'OXSTOCKTEXT' => 'In-Stock Message',
-'OXSUBCLASS' => 'oxsubclass',
 'OXTEMPLATE' => 'alt. Template',
 'OXTHUMB' => 'Preview Picture',
 'OXTIMESTAMP' => 'Last Modification',
@@ -609,7 +603,6 @@ $aLang = array(
 'OXVARCOUNT' => 'Variant count',
 'OXVARMINPRICE' => 'Precio',
 'OXVARNAME' => 'Variant Name',
-'OXVARSELECT' => 'oxvarselect',
 'OXVARSTOCK' => 'Variant Stock',
 'OXVAT' => 'Product VAT',
 'OXVENDORID' => 'Vendor ID',
@@ -815,6 +808,7 @@ $aLang = array(
 'VALID_UNTIL' => 'Válido hasta',
 'VAT' => 'IGIC',
 'VAT_ID_NUMBER' => 'VAT ID No.:',
+'VAT_MESSAGE_ID_NOT_VALID' => 'VAT ID is invalid',
 'VENDOR' => 'suministrador',
 'VENDOR_S' => 'suministrador',
 'VERIFICATION_CODE' => 'Verification code',

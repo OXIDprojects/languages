@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2012
+ * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
  * @translators: crashover (330), fifo (9), marco (1), val (933)
  */
@@ -394,7 +394,6 @@ $aLang = array(
 'MESSAGE_NEWSLETTER_SUBSCRIPTION' => 'Имате възможност да откажете новините по всяко време.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_ACTIVATED' => 'Записването за новини е активирано.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_CANCELED' => 'Записването за новини е отменено.',
-'MESSAGE_NEWSLETTER_SUBSCRIPTION_CENCELED' => 'Записването за новини е отменено.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_SUCCESS' => 'Записването за новини е успешно.',
 'MESSAGE_NOT_ABLE_SEND_CONFIRMATION_EMAIL' => 'За съжаление, не успяхме да Ви пратим имейл за активиране на новините.<br>Моля проверете e-mail адреса си.<br>',
 'MESSAGE_NOT_ABLE_TO_SEND_EMAIL' => 'За съжаление, не успяхме да Ви изпратим имейл.',
@@ -527,10 +526,7 @@ $aLang = array(
 'OXACTIVE' => 'Активен',
 'OXACTIVEFROM' => 'Активен от',
 'OXACTIVETO' => 'Активен',
-'OXAMITEMID' => 'oxamitemid',
-'OXAMTASKID' => 'oxamtaskid',
 'OXARTNUM' => 'Продукт №',
-'OXBLFIXEDPRICE' => 'oxblfixedprice',
 'OXBPRICE' => 'Gross Price',
 'OXBUNDLEID' => 'Bundle Identno',
 'OXDELIVERY' => 'Доставка изпратена на',
@@ -542,7 +538,6 @@ $aLang = array(
 'OXFOLDER' => 'Папка',
 'OXFREESHIPPING' => 'Безплатна доставка',
 'OXHEIGHT' => 'Височина',
-'OXICON' => 'икона',
 'OXID' => 'Вътрешен идент.№.',
 'OXID_ESALES_URL' => 'http://www.oxid-esales.com/',
 'OXID_ESALES_URL_TITLE' => 'Shopping cart software by OXID eSales',
@@ -596,7 +591,6 @@ $aLang = array(
 'OXSTOCKACTIVE' => 'Контрола на склада е активен',
 'OXSTOCKFLAG' => 'Stock Flag',
 'OXSTOCKTEXT' => 'In-Stock Message',
-'OXSUBCLASS' => 'oxsubclass',
 'OXTEMPLATE' => 'alt. Template',
 'OXTHUMB' => 'Виж снимката',
 'OXTIMESTAMP' => 'Последна промяна',
@@ -609,7 +603,6 @@ $aLang = array(
 'OXVARCOUNT' => 'Variant count',
 'OXVARMINPRICE' => 'Цена',
 'OXVARNAME' => 'Variant Name',
-'OXVARSELECT' => 'oxvarselect',
 'OXVARSTOCK' => 'Variant Stock',
 'OXVAT' => 'Product VAT',
 'OXVENDORID' => 'Vendor ID',
@@ -815,6 +808,7 @@ $aLang = array(
 'VALID_UNTIL' => 'Valid until:',
 'VAT' => 'VAT',
 'VAT_ID_NUMBER' => 'VAT ID No.:',
+'VAT_MESSAGE_ID_NOT_VALID' => 'VAT ID is invalid',
 'VENDOR' => 'Vendor',
 'VENDOR_S' => 'Vendor: %s',
 'VERIFICATION_CODE' => 'Verification code',

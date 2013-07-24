@@ -17,9 +17,9 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2012
+ * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (1587), urecheatu007 (3), valdone (189)
+ * @translators: admin (1587), urecheatu007 (313), valdone (189)
  */
 
 $sLangName  = 'Română';

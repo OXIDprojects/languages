@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2012
+ * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
  * @translators: admin (3114), DominikS (403)
  */
@@ -394,7 +394,6 @@ $aLang = array(
 'MESSAGE_NEWSLETTER_SUBSCRIPTION' => 'Odber noviniek je možné zrušiť kedykoľvek.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_ACTIVATED' => 'Odber noviniek bol úspešne aktivovaný.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_CANCELED' => 'Vaše prihlásenie k odberu noviniek bolo zrušené.',
-'MESSAGE_NEWSLETTER_SUBSCRIPTION_CENCELED' => 'Odber noviniek bol zrušený.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_SUCCESS' => 'Odber noviniek bol úspešne aktivovaný.',
 'MESSAGE_NOT_ABLE_SEND_CONFIRMATION_EMAIL' => 'Ľutujeme, ale nebolo vám možné doručiť e-mail pre aktiváciu odberu noviniek. <br> Prosím, skontrolujte e-mailovú adresu, ktorú ste zadali.',
 'MESSAGE_NOT_ABLE_TO_SEND_EMAIL' => 'Ľutujeme, ale nebolo vám možné odoslať e-mailovú správu.',
@@ -527,10 +526,7 @@ $aLang = array(
 'OXACTIVE' => 'Aktívne',
 'OXACTIVEFROM' => 'Aktívne od',
 'OXACTIVETO' => 'Aktívne do',
-'OXAMITEMID' => 'oxamitemid',
-'OXAMTASKID' => 'oxamtaskid',
 'OXARTNUM' => 'Číslo tovaru',
-'OXBLFIXEDPRICE' => 'oxblfixedprice',
 'OXBPRICE' => 'Hrubá cena',
 'OXBUNDLEID' => 'Bundle Identno',
 'OXDELIVERY' => 'Posielame v',
@@ -542,7 +538,6 @@ $aLang = array(
 'OXFOLDER' => 'Adresár',
 'OXFREESHIPPING' => 'Doprava zadarmo',
 'OXHEIGHT' => 'Výška',
-'OXICON' => 'oxicon',
 'OXID' => 'Interné Identno.',
 'OXID_ESALES_URL' => 'http://www.oxid-esales.com/',
 'OXID_ESALES_URL_TITLE' => 'OXID eShop od spoločnosti OXID eSales',
@@ -596,7 +591,6 @@ $aLang = array(
 'OXSTOCKACTIVE' => 'Kontrola stavu na sklade aktívna',
 'OXSTOCKFLAG' => 'Príznak skladu',
 'OXSTOCKTEXT' => 'Oznam "Je na sklade"',
-'OXSUBCLASS' => 'oxsubclass',
 'OXTEMPLATE' => 'alt. šablóna',
 'OXTHUMB' => 'Náhľad obrázku',
 'OXTIMESTAMP' => 'Posledná zmena',
@@ -609,7 +603,6 @@ $aLang = array(
 'OXVARCOUNT' => 'Počet variantov',
 'OXVARMINPRICE' => 'Cena',
 'OXVARNAME' => 'Názov variantu',
-'OXVARSELECT' => 'oxvarselect',
 'OXVARSTOCK' => 'Stav na sklade pre variant',
 'OXVAT' => 'DPH tovaru',
 'OXVENDORID' => 'ID predajcu',
@@ -815,6 +808,7 @@ $aLang = array(
 'VALID_UNTIL' => 'Platné do:',
 'VAT' => 'DPH',
 'VAT_ID_NUMBER' => 'Kód DPH:',
+'VAT_MESSAGE_ID_NOT_VALID' => 'VAT ID is invalid',
 'VENDOR' => 'Dodávateľ',
 'VENDOR_S' => 'Dodávateľ: %s',
 'VERIFICATION_CODE' => 'Overovací kód',

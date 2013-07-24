@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2012
+ * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
  * @translators: admin (1341), compisat (26), cyberkatze (8), mantgomery (2), marco (1180), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
  */
@@ -394,7 +394,6 @@ $aLang = array(
 'MESSAGE_NEWSLETTER_SUBSCRIPTION' => 'Вы можете приостановить рассылку в любое время и совершенно бесплатно.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_ACTIVATED' => 'Вы активировали рассылку наших новостей.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_CANCELED' => 'Вы успешно отписались от рассылки наших новостей.',
-'MESSAGE_NEWSLETTER_SUBSCRIPTION_CENCELED' => 'Рассылка отменена.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_SUCCESS' => 'Вы подписаны на рассылку.',
 'MESSAGE_NOT_ABLE_SEND_CONFIRMATION_EMAIL' => 'К сожалению, мы не можем предоставить Вам подтверждения рассылки новостей по электронному адресу. <br>Пожалуйста, перепроверьте электронный адрес.<br>',
 'MESSAGE_NOT_ABLE_TO_SEND_EMAIL' => 'К сожалению, мы не смогли выслать Вам электронное сообщение.',
@@ -527,10 +526,7 @@ $aLang = array(
 'OXACTIVE' => 'Активно',
 'OXACTIVEFROM' => 'Активно до',
 'OXACTIVETO' => 'Активно до',
-'OXAMITEMID' => 'oxamitemid',
-'OXAMTASKID' => 'oxamtaskid',
 'OXARTNUM' => 'Номер товара',
-'OXBLFIXEDPRICE' => 'фиксированная цена',
 'OXBPRICE' => 'Цена брутто',
 'OXBUNDLEID' => 'Ид. номер упаковки',
 'OXDELIVERY' => 'Доставлено',
@@ -542,7 +538,6 @@ $aLang = array(
 'OXFOLDER' => 'Папка',
 'OXFREESHIPPING' => 'Бесплатная пересылка',
 'OXHEIGHT' => 'Высота',
-'OXICON' => 'oxicon',
 'OXID' => 'идентификационный номер',
 'OXID_ESALES_URL' => 'http://www.oxid-esales.com/',
 'OXID_ESALES_URL_TITLE' => 'Программное обеспечение от OXID eSales',
@@ -596,7 +591,6 @@ $aLang = array(
 'OXSTOCKACTIVE' => 'Управление складом активированно',
 'OXSTOCKFLAG' => 'Статус доставки',
 'OXSTOCKTEXT' => 'Информация в случае, если товар имеется на складе',
-'OXSUBCLASS' => 'Подкатегория',
 'OXTEMPLATE' => 'Старый шаблон',
 'OXTHUMB' => 'Картинка',
 'OXTIMESTAMP' => 'Последние изменения',
@@ -609,7 +603,6 @@ $aLang = array(
 'OXVARCOUNT' => 'Количество вариантов',
 'OXVARMINPRICE' => 'Цена',
 'OXVARNAME' => 'Наименование варианта',
-'OXVARSELECT' => 'Выбрать вариант',
 'OXVARSTOCK' => 'Наличие вариантов на складе',
 'OXVAT' => 'Товар НДС',
 'OXVENDORID' => 'ID поставщика',
@@ -815,6 +808,7 @@ $aLang = array(
 'VALID_UNTIL' => 'Действительно до:',
 'VAT' => 'НДС',
 'VAT_ID_NUMBER' => 'Идентификатор НДС:',
+'VAT_MESSAGE_ID_NOT_VALID' => 'VAT ID is invalid',
 'VENDOR' => 'Поставщик',
 'VENDOR_S' => '| Поставщик: %s',
 'VERIFICATION_CODE' => 'Проверочный код',

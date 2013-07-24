@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2012
+ * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
  * @translators: admin (367), gvlimpt (97), hoekie (28), marco (932), topconcepts (111)
  */
@@ -394,7 +394,6 @@ $aLang = array(
 'MESSAGE_NEWSLETTER_SUBSCRIPTION' => 'U kunt zich op elk gewenst moment kosteloos afmelden voor de nieuwsbrief.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_ACTIVATED' => 'U ontvangt vanaf nu onze nieuwsbrief.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_CANCELED' => 'U heeft zich van onze nieuwsbrief afgemeld.',
-'MESSAGE_NEWSLETTER_SUBSCRIPTION_CENCELED' => 'De nieuwsbrief is uitgeschakeld.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_SUCCESS' => 'De nieuwsbrief is geactiveerd.',
 'MESSAGE_NOT_ABLE_SEND_CONFIRMATION_EMAIL' => 'Helaas konden we geen e-mail bevestiging van uw nieuwsbrief-abonnement sturen.<br>Controleer a.u.b. het e-mailadres.<br>',
 'MESSAGE_NOT_ABLE_TO_SEND_EMAIL' => 'Helaas konden we u geen e-mail sturen.',
@@ -527,10 +526,7 @@ $aLang = array(
 'OXACTIVE' => 'Actief',
 'OXACTIVEFROM' => 'Actief van',
 'OXACTIVETO' => 'Actief tot',
-'OXAMITEMID' => 'oxamitemid',
-'OXAMTASKID' => 'oxamtaskid',
 'OXARTNUM' => 'Artikelnummer',
-'OXBLFIXEDPRICE' => 'oxblfixedprice',
 'OXBPRICE' => 'Brutoprijs',
 'OXBUNDLEID' => 'Bundel ID-nr.',
 'OXDELIVERY' => 'Bezorgd op',
@@ -542,7 +538,6 @@ $aLang = array(
 'OXFOLDER' => 'Map',
 'OXFREESHIPPING' => 'Geen verzendkosten',
 'OXHEIGHT' => 'Hoogte',
-'OXICON' => 'oxicon',
 'OXID' => 'interne Identnr.',
 'OXID_ESALES_URL' => 'http://www.oxid-esales.com/de/startseite',
 'OXID_ESALES_URL_TITLE' => 'Shop Software van OXID eSales',
@@ -596,7 +591,6 @@ $aLang = array(
 'OXSTOCKACTIVE' => 'Voorraadbeheer actief',
 'OXSTOCKFLAG' => 'Bezorgstatus',
 'OXSTOCKTEXT' => 'Info indien artikel op voorraad',
-'OXSUBCLASS' => 'oxsubclass',
 'OXTEMPLATE' => 'Alt. Template',
 'OXTHUMB' => 'Voorbeeld foto',
 'OXTIMESTAMP' => 'Laatste verandering',
@@ -609,7 +603,6 @@ $aLang = array(
 'OXVARCOUNT' => 'Variabelen aantal',
 'OXVARMINPRICE' => 'Prijs',
 'OXVARNAME' => 'Naam van de variabele',
-'OXVARSELECT' => 'oxvarselect',
 'OXVARSTOCK' => 'Variabelen voorraad',
 'OXVAT' => 'Artikel btw.',
 'OXVENDORID' => 'Leverancier ID',
@@ -815,6 +808,7 @@ $aLang = array(
 'VALID_UNTIL' => 'Geldig tot:',
 'VAT' => 'btw',
 'VAT_ID_NUMBER' => 'Btw-nummer:',
+'VAT_MESSAGE_ID_NOT_VALID' => 'VAT ID is invalid',
 'VENDOR' => 'Leverancier',
 'VENDOR_S' => '| Leverancier: %s',
 'VERIFICATION_CODE' => 'Controlecode',
