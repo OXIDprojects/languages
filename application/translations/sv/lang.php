@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (406), HolgerGremminger (69), marco (934), rhinosmedia (4), topconcepts (118)
+ * @translators: admin (406), HolgerGremminger (69), marco (934), Palmer (73), rhinosmedia (4), topconcepts (118)
  */
 
 $sLangName  = 'Svenska';

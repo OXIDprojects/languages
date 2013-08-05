@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (3161), dave2005 (72), inquisitor8 (298), RSee (892), SYSKO (8)
+ * @translators: admin (3161), dave2005 (72), inquisitor8 (298), RSee (1317), SYSKO (8)
  */
 
 $sLangName  = 'Česky';
@@ -102,10 +102,10 @@ $aLang = array(
 'PRIVACY_POLICY' => 'ochrany osobních údajů',
 'SELECT_COUNTRY_LANG' => 'Vyberte zemi',
 'SELECT_DELIVERY_COUNTRY' => 'Hlavní země dodání',
-'SELECT_DELIVERY_COUNTRY_HINT' => 'Pokud bude potřeba, snadno si aktivujte více zemí pro doručení v administraci e-shopu.',
+'SELECT_DELIVERY_COUNTRY_HINT' => 'Pokud bude potřeba, aktivujte více zemí pro doručení v administraci eShopu.',
 'SELECT_PLEASE_CHOOSE' => 'Prosím vyberte',
-'SELECT_SETUP_LANG' => 'Vyberte jazyk',
-'SELECT_SETUP_LANG_HINT' => '. Pokud bude potřeba, snadno si aktivujte více jazyků v administraci e-shopu.',
+'SELECT_SETUP_LANG' => 'Vyberte jazyk pro instalaci',
+'SELECT_SETUP_LANG_HINT' => '. Pokud bude potřeba, aktivujte si více jazyků v administraci eShopu.',
 'SELECT_SETUP_LANG_SUBMIT' => 'Vybrat',
 'SELECT_SHOP_LANG' => 'Jazyk obchodu',
 'SELECT_SHOP_LANG_HINT' => 'Pokud je třeba, aktivujte další jazyky v administračním rozhraní',
@@ -113,15 +113,12 @@ $aLang = array(
 'SELECT_SHOP_LOCATION_HINT' => 'Vyberte prosím trh, pro který je obchod určen. Na základě tohoto, budou z OXID serveru nahrány dodatečné eCommerze služby, pokud toto povolíte.',
 'SETUP_CONFIG_PERMISSIONS' => 'Z bezpečnostních důvodů nastavte konfigurační soubor config.inc.php pouze pro čtení!',
 'SETUP_DIR_DELETE_NOTICE' => 'Z bezpečnostních důvodů odstraňte adresář s instalací, pokud se tak nestalo v průběhu instalace.',
-'STEP_0_DESC' => 'V tomto kroku si zkontrolujte, zda váš systém vyhovuje požadavkům:',
+'STEP_0_DESC' => 'V tomto kroku se zkontroluje, zda Váš systém vyhovuje požadavkům:',
 'STEP_0_ERROR_TEXT' => 'Váš systém nesplňuje požadavky OXID eShopu',
 'STEP_0_ERROR_URL' => 'http://www.oxid-esales.com/en/products/community-edition/system-requirements',
-'STEP_0_TEXT' => '<ul class="req"><li class="pass"> - Váš systém vyhovuje požadavku.</li><li class="pmin"> - Tento požadavek není vhodný, nebo jen částečně. OXID eShop je bude fungovat stejně, a může být instalován ..</li><li class="fail"> - Váš systém neodpovídá požadavkům. OXID eShop bez nich nebude fungovat a nemůže být nainstalován.</li><li class="null"> - Tento požadavek nemohl být zkontrolován.</ul>',
+'STEP_0_TEXT' => '<ul class="req"><li class="pass"> - Váš systém vyhovuje požadavku.</li><li class="pmin"> - Tento požadavek není vhodný, nebo jen částečně. OXID eShop přesto bude fungovat a může být nainstalován ..</li><li class="fail"> - Váš systém neodpovídá požadavkům. OXID eShop bez nich nebude fungovat a nemůže být nainstalován.</li><li class="null"> - Tento požadavek nemohl být zkontrolován.</ul>',
 'STEP_0_TITLE' => 'Systémové požadavky ke kontrole',
-'STEP_1_ADDRESS' => 'oXy Online, s.r.o.<br>
-                                                      Hudcova 78b<br>
-                                                      612 00 Brno<br>
-                                                      Česká republika<br>',
+'STEP_1_ADDRESS' => 'OXID eSales AG<br> Bertoldstr. 48<br> 79098 Freiburg<br> Deutschland<br>',
 'STEP_1_CHECK_UPDATES' => 'Pravidelně ověřovat dostupnost nových verzí',
 'STEP_1_DESC' => 'Vítejte na stránkách průvodce instalací Oxid eShopu',
 'STEP_1_TEXT' => 'Přečtěte si prosím pozorně následující pokyny, aby instalace proběhla v pořádku.
@@ -151,7 +148,7 @@ $aLang = array(
 'STEP_3_UTFNOTSUPPORTED2' => 'nainstalovaný PCRE nepodporuje UTF-8',
 'STEP_4_1_DATA_WAS_WRITTEN' => 'Kontrola dat a možnosti zápisu proběhla úspěšně. Čekejte prosím ...',
 'STEP_4_1_TITLE' => 'Adresáře - vytváření ...',
-'STEP_4_ADMIN_LOGIN_NAME' => 'E-mail administrátora (bude sloužit jako přihlašovací jméno)',
+'STEP_4_ADMIN_LOGIN_NAME' => 'Email administrátora (bude sloužit jako přihlašovací jméno)',
 'STEP_4_ADMIN_PASS' => 'Heslo administrátora',
 'STEP_4_ADMIN_PASS_CONFIRM' => 'Potvrdit heslo administrátora',
 'STEP_4_ADMIN_PASS_MINCHARS' => 'libovolné znaky, min. 6 znaků',
@@ -163,16 +160,16 @@ $aLang = array(
 'STEP_5_1_SERIAL_ADDED' => 'Licenční klíč úspěšně vložen. Čekejte prosím ...',
 'STEP_5_1_TITLE' => 'Licenční klíč je vložen ...',
 'STEP_5_DESC' => 'Prosím, potvrďte licenční klíč:',
-'STEP_5_LICENCE_DESC' => 'Poskytnutý klíč je platný po dobu 30 dnů. Po uplynutí této doby vložte platný licenční klíč. Všechna vaše data a nastavení budou zachována',
+'STEP_5_LICENCE_DESC' => 'Poskytnutý klíč je platný po dobu 30 dnů. Po uplynutí této doby vložte platný licenční klíč. Všechna Vaše data a nastavení budou zachována',
 'STEP_5_LICENCE_KEY' => 'Licenční klíč',
 'STEP_5_TITLE' => 'OXID eShop licence',
 'STEP_6_DESC' => 'Vaše OXID eShop byl nainstalován.',
-'STEP_6_LINK_TO_SHOP' => 'Pokračovat do vašeho Oxid eShopu',
+'STEP_6_LINK_TO_SHOP' => 'Pokračovat do Vašeho eShopu',
 'STEP_6_LINK_TO_SHOP_ADMIN_AREA' => 'Pokračovat do administračního rozhraní OXID eShopu',
 'STEP_6_TITLE' => 'OXID eShop úspěšně instalován',
-'STEP_6_TO_SHOP' => 'Do obchodu',
+'STEP_6_TO_SHOP' => 'Do eShopu',
 'STEP_6_TO_SHOP_ADMIN' => 'Do administračního rozhraní',
-'TAB_0_DESC' => 'Kontrola, zda váš systém vyhovuje požadavkům',
+'TAB_0_DESC' => 'Kontrola, zda Váš systém vyhovuje požadavkům',
 'TAB_0_TITLE' => 'Systémové požadavky',
 'TAB_1_DESC' => 'Vítejte v průvodci instalací OXID eShopu',
 'TAB_1_TITLE' => 'Vítejte',
@@ -180,11 +177,11 @@ $aLang = array(
 'TAB_2_TITLE' => 'Licenční podmínky',
 'TAB_3_DESC' => 'Test připojení do databáze, vytváření tabulek',
 'TAB_3_TITLE' => 'Databáze',
-'TAB_4_DESC' => 'Nastavení eShopu a zápis konfiguračních souborů',
+'TAB_4_DESC' => 'Nastavení eShopu a výběr přístupových admin-údajů',
 'TAB_4_TITLE' => 'Adresář',
-'TAB_5_DESC' => 'Použít licenční klíč',
+'TAB_5_DESC' => 'Zadat licenční klíč',
 'TAB_5_TITLE' => 'Licence',
 'TAB_6_DESC' => 'Instalace byla úspěšně dokončena',
 'TAB_6_TITLE' => 'Konec',
-'USE_DYNAMIC_PAGES' => 'Pro zvýšení Vašeho obchodního úspěchu získejte další informace ze serveru OXID eShop. Více informací najdete v části',
+'USE_DYNAMIC_PAGES' => 'Pro zvýšení Vašeho obchodního úspěchu získejte další informace ze serveru OXID eShop. Více informací najdete v',
 );

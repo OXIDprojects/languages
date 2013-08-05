@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (3161), dave2005 (72), inquisitor8 (298), RSee (892), SYSKO (8)
+ * @translators: admin (3161), dave2005 (72), inquisitor8 (298), RSee (1317), SYSKO (8)
  */
 
 $sLangName  = 'Česky';
@@ -108,14 +108,14 @@ $aLang = array(
 'grid' => 'Galerie',
 'infogrid' => 'Dva sloupce',
 'line' => 'Řádky',
-'NEWSLETTER_COMPLETEALLFIELEDS' => 'Prosím vyplňte správně všechna pole!',
+'NEWSLETTER_COMPLETEALLFIELEDS' => 'Prosím vyplňte všechna pole označená "*"!',
 'PAGE_ACCOUNT_DASHBOARD_LOGOUT' => 'ODHLÁSIT SE',
-'PAGE_ACCOUNT_FORGOTPWD_UPDATEPASSWORD' => 'Změnit heslo',
+'PAGE_ACCOUNT_FORGOTPWD_UPDATEPASSWORD' => 'Uložit nové heslo',
 'PAGE_ACCOUNT_REGISTER_OPENACCOUNT' => 'Vytvořit účet',
-'PAGE_ACCOUNT_USER_USERTITLE' => 'Nastavení zúčtování a expedice',
+'PAGE_ACCOUNT_USER_USERTITLE' => 'Platební a spediční možnosti',
 'PAGE_ACCOUNT_WISHLIST_SENDSUCCESSFULLY1' => 'Váš seznam dárků byl úspěšně odeslán na adresu:',
-'PAGE_ACCOUNT_WISHLIST_SENDSUCCESSFULLY2' => 'odeslány!',
-'PAGE_CHECKOUT_BASKETCONTENTS_ARTNOMBER' => 'Kód:',
+'PAGE_ACCOUNT_WISHLIST_SENDSUCCESSFULLY2' => '!',
+'PAGE_CHECKOUT_BASKETCONTENTS_ARTNOMBER' => 'Č. produktu:',
 'PAGE_CHECKOUT_BASKETCONTENTS_COUPONNOTACCEPTED1' => 'Vaše poukázka',
 'PAGE_CHECKOUT_BASKETCONTENTS_COUPONNOTACCEPTED2' => 'je neplatná.',
 'PAGE_CHECKOUT_BASKETCONTENTS_GRANDTOTAL' => 'Celkový součet:',
@@ -127,58 +127,57 @@ $aLang = array(
 'PAGE_CHECKOUT_BASKETCONTENTS_TAX1' => 'plus DPH',
 'PAGE_CHECKOUT_BASKETCONTENTS_TAX2' => '% částka:',
 'PAGE_CHECKOUT_BASKETCONTENTS_TOTAL' => 'Celkem',
-'PAGE_CHECKOUT_BASKETCONTENTS_TOTALGROSS' => 'Celkem za zboží s DPH:',
-'PAGE_CHECKOUT_BASKETCONTENTS_TOTALNET' => 'Celkem za zboží bez DPH:',
+'PAGE_CHECKOUT_BASKETCONTENTS_TOTALGROSS' => 'Celkem za produkty (brutto):',
+'PAGE_CHECKOUT_BASKETCONTENTS_TOTALNET' => 'Celkem za produkty (netto):',
 'PAGE_CHECKOUT_BASKETCONTENTS_TSPROTECTIONCHARGETAX1' => 'plus DPH',
 'PAGE_CHECKOUT_BASKETCONTENTS_WRAPPINGTAX1' => 'plus DPH',
-'PAGE_CHECKOUT_BASKETCONTENTS_YOURMESSAGE' => 'Váš vzkaz',
+'PAGE_CHECKOUT_BASKETCONTENTS_YOURMESSAGE' => 'Váš zpráva:',
 'PAGE_CHECKOUT_ORDER_BILLINGADDRESS' => 'Fakturační adresa',
 'PAGE_CHECKOUT_ORDER_COUPONNOTACCEPTED1' => 'Vaše poukázka',
 'PAGE_CHECKOUT_ORDER_COUPONNOTACCEPTED2' => 'nemůže být použita.',
 'PAGE_CHECKOUT_ORDER_SHIPPINGADDRESS' => 'Dodací adresa',
 'PAGE_CHECKOUT_PAYMENT_ACCOUNTNUMBER' => 'Číslo účtu:',
 'PAGE_CHECKOUT_PAYMENT_COMLETEALLFIELDS' => 'Prosím vyplňte správně všechna pole!',
-'PAGE_CHECKOUT_PAYMENT_EMPTY_TEXT' => '<p>V současné době nemáme pro Vaši zemi způsob dopravy.</p>
-                                                                      <p>Pokusíme se co nejdříve najít nějaký způsob dopravy a budeme Vás neprodleně informovat e-mailem.</p>
+'PAGE_CHECKOUT_PAYMENT_EMPTY_TEXT' => '<p>V současné době nemáme pro Vaši zemi definován způsob dopravy.</p><p>Pokusíme se co nejdříve najít nějaký způsob  a poté Vás budeme neprodleně informovat emailem.</p>
 																	  <p>Pokud souhlasíte, přejděte prosím na další krok.</p>',
 'PAGE_CHECKOUT_PAYMENT_INCLUDEVAT' => 'včetně DPH',
-'PAGE_CHECKOUT_PAYMENT_PLUSCODCHARGE1' => 'Cena za platbu:',
-'PAGE_CHECKOUT_PAYMENT_PLUSCODCHARGE2' => 'Poplatek COD',
-'PAGE_CHECKOUT_PAYMENT_TSPROTECTIONTEXT' => 'Trusted Shops ochrana zákazníků zabezpečuje váš online nákup. Souhlasím s zasláním a',
+'PAGE_CHECKOUT_PAYMENT_PLUSCODCHARGE1' => 'plus',
+'PAGE_CHECKOUT_PAYMENT_PLUSCODCHARGE2' => 'Poplatek za dobírku',
+'PAGE_CHECKOUT_PAYMENT_TSPROTECTIONTEXT' => 'Trusted Shops buyer protection zabezpečuje Váš online nákup. Souhlasím se zasláním a',
 'PAGE_CHECKOUT_PAYMENT_TSPROTECTIONTEXT2' => 'uložením',
-'PAGE_CHECKOUT_PAYMENT_TSPROTECTIONTEXT3' => 'mé e-mailové adresy pro účely ochrany zákazníků Trusted Shops.',
+'PAGE_CHECKOUT_PAYMENT_TSPROTECTIONTEXT3' => 'mé emailové adresy pro účely ochrany zákazníků Trusted Shops.',
 'PAGE_CHECKOUT_PAYMENT_TSPROTECTIONTEXT4' => 'Podmínky',
 'PAGE_CHECKOUT_PAYMENT_TSPROTECTIONTEXT5' => 'ochrany zákazníků.',
 'PAGE_CHECKOUT_THANKYOU_REGISTEREDYOUORDERNO1' => 'Vaši objednávce bylo přiděleno číslo:',
-'PAGE_CHECKOUT_THANKYOU_REGISTEREDYOUORDERNO2' => 'zaregistrovány u nás.',
+'PAGE_CHECKOUT_THANKYOU_REGISTEREDYOUORDERNO2' => 'a je u nás takto zaregistrována.',
 'PAGE_CHECKOUT_THANKYOU_THANKYOU1' => 'Děkujeme za vaši objednávku',
 'PAGE_CHECKOUT_THANKYOU_THANKYOU2' => 'v',
 'PAGE_CHECKOUT_USER' => 'Adresa',
-'PAGE_CHECKOUT_USER_OPTION_REGISTRATION_DESCRIPTION' => 'Zákazník, který má účet má následující výhody:<br>
+'PAGE_CHECKOUT_USER_OPTION_REGISTRATION_DESCRIPTION' => 'Zákazník, který má účet, má následující výhody:<br>
                                                                       - Správa dodacích adres<br>
                                                                       - Kontrola stavu objednávky<br>
                                                                       - Historie objednávek<br>
                                                                       - Osobní seznam přání<br>
                                                                       - Osobní seznam dárků<br>
-                                                                      - Odbět novinek e-mailem<br>
+                                                                      - Odběr novinek emailem<br>
                                                                       - Speciální nabídky a slevy',
 'PAGE_CHECKOUT_WRAPPING_CANCEL' => 'Zrušit',
 'PAGE_CHECKOUT_WRAPPING_NONE' => 'ŽÁDNÉ',
 'PAGE_DETAILS_THANKYOUMESSAGE1' => 'Děkujeme Vám.',
-'PAGE_DETAILS_THANKYOUMESSAGE2' => 'vážíme si vašich komentářů.',
+'PAGE_DETAILS_THANKYOUMESSAGE2' => 'Vážíme si Vašich připomínek.',
 'PAGE_DETAILS_THANKYOUMESSAGE3' => 'Budeme vás informovat jakmile cena produktu kledne pod',
 'PAGE_DETAILS_THANKYOUMESSAGE4' => '.',
-'PAGE_INFO_CLEARCOOKIE_CONTENT' => 'Rozhodli jste se nepovolit cookies z našeho e​​-shopu. Tyto cookies byly odstraněny. Můžete vypnout používání cookies v nastavení Vašeho prohlížeče a navštívit náš e-shop s jistým omezením funkcionality. Můžete se také vrátit na náš e-shop bez změny nastavení prohlížeče a naplno si vychutnat funkcionalitu. <br/> <br/> Informace o cookies na Wikipedii: <a href="http://cs.wikipedia.org/wiki/HTTP_cookie"><strong>http://cs.wikipedia.org/wiki/HTTP_cookie</strong></a>',
+'PAGE_INFO_CLEARCOOKIE_CONTENT' => 'Rozhodli jste se nepovolit cookies z našeho e​​Shopu. Tyto cookies byly odstraněny. Můžete vypnout používání cookies v nastavení Vašeho prohlížeče a navštívit náš eShop s jistým omezením funkcionality. Můžete se také vrátit na náš eShop bez změny nastavení prohlížeče a naplno si vychutnat funkcionalitu. <br/> <br/> Informace o cookies na Wikipedii: <a href="http://cs.wikipedia.org/wiki/HTTP_cookie"><strong>http://cs.wikipedia.org/wiki/HTTP_cookie</strong></a>',
 'PAGE_INFO_CLEARCOOKIE_TITLE' => 'Informace o Cookies',
-'PAGE_INFO_CONTACT_THANKYOU1' => 'Děkujeme.',
-'PAGE_INFO_CONTACT_THANKYOU2' => 'děkujeme za vaše komentáře.',
+'PAGE_INFO_CONTACT_THANKYOU1' => 'Děkujeme za zprávu na',
+'PAGE_INFO_CONTACT_THANKYOU2' => '.',
 'PAGE_INFO_NEWS_LATESTNEWSBY' => 'Novinky a aktuality od',
-'PAGE_WISHLIST_PRODUCTS_PRODUCTS1' => 'Zboží je na seznamu přání od',
-'PAGE_WISHLIST_PRODUCTS_PRODUCTS2' => '. Pokud mu/jí chcete udělat radost, kupte mu/jí něco z toho.',
+'PAGE_WISHLIST_PRODUCTS_PRODUCTS1' => 'Tento produkt si',
+'PAGE_WISHLIST_PRODUCTS_PRODUCTS2' => 'přál(a). Pokud mu/jí chcete udělat radost, kupte mu/jí jeden nebo více kusů.',
 'searchResult' => 'Výsledky vyhledávání pro "%s"',
-'simpleDateFormat' => 'R-m-d',
+'simpleDateFormat' => 'd.m.Y',
 'usrRegistered' => 'Uživatel bude zaregistrovaný po vyplnění hesla.',
-'view' => 'Zobrazení',
+'view' => 'Náhled',
 'WIDGET_FOOTER_MANUFACTURERS_MORE' => 'Více...',
 'WIDGET_LOGINBOX_LOGIN' => 'Přihlášení',
 'WIDGET_PRODUCT_PRODUCT_DETAILS' => 'Detaily produktu',
