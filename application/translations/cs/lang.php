@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (3161), dave2005 (72), inquisitor8 (298), RSee (1317), SYSKO (8)
+ * @translators: admin (3161), dave2005 (72), inquisitor8 (298), RSee (1318), SYSKO (8)
  */
 
 $sLangName  = 'Česky';
@@ -507,7 +507,7 @@ $aLang = array(
 'NO_TAGS' => 'Momentálně nejsou žádné štítky/tagy',
 'NUMBER' => 'Číslo:',
 'NUMBER_2' => 'No.',
-'OF' => 'Z',
+'OF' => 'Od',
 'OLD_PASSWORD' => 'Původní heslo:',
 'ONLY_IN_PACKING_UNITS_OF' => 'V balení pouze po',
 'OPEN_ACCOUNT' => 'Otevřít účet',

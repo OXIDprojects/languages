@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: 
+ * @translators: AndyTran (40)
  */
 
 $sLangName  = 'Tiếng Việt';
@@ -29,32 +29,32 @@ $sLangName  = 'Tiếng Việt';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACCESSORIES' => 'Accessories',
-'ACCOUNT' => 'Account',
-'ACCOUNT_INFORMATION' => 'Account information',
-'ADD' => 'add',
-'ADDITIONAL_INFO' => 'Additional Info:',
+'ACCESSORIES' => 'Phụ kiện',
+'ACCOUNT' => 'Tài khoản',
+'ACCOUNT_INFORMATION' => 'Thông tin tài khoản',
+'ADD' => 'Thêm',
+'ADDITIONAL_INFO' => 'Thông tin thêm:',
 'ADDRESS' => 'Address',
-'ADDRESSES' => 'Addresses',
+'ADDRESSES' => 'Địa chỉ',
 'ADDRESSES_2' => 'Addresses:',
-'ADDRESS_2' => 'Address:',
+'ADDRESS_2' => 'Địa chỉ:',
 'ADD_TAGS' => 'Add tags:',
-'ADD_THIS_PAGE_TO' => 'Add this page to',
+'ADD_THIS_PAGE_TO' => 'Thêm trang này',
 'ADD_THIS_PAGE_TO_WEBNEWS' => 'Add this page to Webnews',
-'ADD_THIS_PAGE_TO_YIEEHA' => 'Add this page to Yieeha',
+'ADD_THIS_PAGE_TO_YIEEHA' => 'Thêm trang này Yeehaw',
 'ADD_TO_CART' => 'add to Cart',
-'ADD_TO_CART_2' => 'add to cart',
+'ADD_TO_CART_2' => 'thêm vào giỏ hàng',
 'ADD_TO_GIFT_REGISTRY' => 'Add to Gift Registry',
-'ADD_TO_LIST' => 'Add to List',
+'ADD_TO_LIST' => 'Thêm vào danh sách',
 'ADD_TO_LISTMANIA_LIST' => 'Add to Listmania List',
-'ADD_TO_WISH_LIST' => 'Add to Wish List',
+'ADD_TO_WISH_LIST' => 'Thêm vào danh sách mong muốn',
 'ADD_WRAPPING' => 'Add gift wrap',
-'ADD_YOUR_COMMENTS' => 'Add your comments',
+'ADD_YOUR_COMMENTS' => 'Thêm bình luận',
 'ALL' => 'All',
 'ALL_LISTMANIA' => 'all Listmania',
-'ALREADY_ADDED_TAG' => 'You already tagged this text',
+'ALREADY_ADDED_TAG' => 'Bạn đã đánh dấu văn bản này',
 'ALREADY_CUSTOMER' => 'I am already customer',
-'APPLAY' => 'Apply',
+'APPLAY' => 'Áp dụng',
 'ARTNUM' => 'Product number',
 'ART_NUMBER' => 'Art. No.:',
 'ATENTION_GREETING_CARD' => 'Attention Greeting Card:',
