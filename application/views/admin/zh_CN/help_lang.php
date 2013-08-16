@@ -19,10 +19,10 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (1849), e.mersinlioglu (45), enginistemi (4), glp_i (88), Justian0 (3), marco (2), McDaim (101), mykibarli (20), scaly (10)
+ * @translators: 
  */
 
-$sLangName  = 'Türkçe';
+$sLangName  = '簡體中文';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

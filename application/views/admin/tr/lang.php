@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (1849), e.mersinlioglu (45), enginistemi (4), Justian0 (3), marco (2), McDaim (101), mykibarli (20), scaly (10)
+ * @translators: admin (1849), e.mersinlioglu (45), enginistemi (4), glp_i (88), Justian0 (3), marco (2), McDaim (101), mykibarli (20), scaly (10)
  */
 
 $sLangName  = 'Türkçe';
@@ -97,7 +97,7 @@ $aLang = array(
 'ARTICLE_EXTEND_UPDATEPRICEB' => 'B:',
 'ARTICLE_EXTEND_UPDATEPRICEC' => 'C:',
 'ARTICLE_EXTEND_UPDATEPRICES' => 'Fiyatı belirlenen tarihte güncelle',
-'ARTICLE_EXTEND_UPDATEPRICETIME' => 'Start time:',
+'ARTICLE_EXTEND_UPDATEPRICETIME' => 'Başlangıç vakti:',
 'ARTICLE_EXTEND_UPLOADFILE' => 'YADA Dosya yükle (büyük dosyaların FTP Programıyla yüklenmesi önerilir)<br>(Dosya ismi yanlızca Harf, Sayı, Alt Çizgi (_) ve nokta içerebilir.',
 'ARTICLE_EXTEND_UPLOADISDISABLED' => 'This is a demoshop. Uploading files has been switched off due to security reasons.',
 'ARTICLE_EXTEND_URLDESC' => 'Dışarıdan gelen URL icin Metin',
@@ -130,7 +130,7 @@ $aLang = array(
 'ARTICLE_MAIN_ERRORSAVINGARTICLE' => 'Uyarı: Ürün Numarası zaten var!',
 'ARTICLE_MAIN_GOTO' => 'Git..',
 'ARTICLE_MAIN_INCATEGORY' => 'Kategori',
-'ARTICLE_MAIN_INVALIDTAGSFOUND' => 'Attention: Invalid tags removed',
+'ARTICLE_MAIN_INVALIDTAGSFOUND' => 'Dikkat: geçersiz etiketler silinmiştir.',
 'ARTICLE_MAIN_MANUFACTURERID' => 'Üretici',
 'ARTICLE_MAIN_MPN' => 'Üretici-Ürün Numarası',
 'ARTICLE_MAIN_NONE' => '-- yok --',
@@ -251,7 +251,7 @@ $aLang = array(
 'AUCTMASTER_DO_TITLE' => 'İtalat/İhracat',
 'AUCTMASTER_DO_UNKNOWNERROR' => 'Belirsiz hata!',
 'BOTTOMNAVIITEM_ATTENTION' => 'Dikkat: Bu Fonksiyon Kategoriyi silebilir - yapmadan önce mutlaka yedekleyiniz.',
-'BUTTON_DOWNLOAD' => 'Download',
+'BUTTON_DOWNLOAD' => 'İndir',
 'CATEGORY_LIST_MENUSUBITEM' => 'Kategoriler',
 'CATEGORY_MAIN_ACTIVE' => 'Aktif',
 'CATEGORY_MAIN_ALLITEMS' => 'Tüm Ürün',
@@ -277,7 +277,7 @@ $aLang = array(
 'CATEGORY_MAIN_TITLE' => 'Başlık',
 'CATEGORY_MAIN_VAT' => 'Özel KDV',
 'CATEGORY_MALL_ASSIGNONLYPARENTWARNING' => 'You can only assign full category tree to other subshops.',
-'CATEGORY_MALL_CLICKHEREFORPARENT' => 'Click here to edit parent assignment.',
+'CATEGORY_MALL_CLICKHEREFORPARENT' => 'Üst bağlantıyı değistirmek için buraya tıklayınız.',
 'CATEGORY_ORDER_ACTSORT' => 'Güncel Sıralama',
 'CATEGORY_ORDER_DELETESORT' => 'Sıralama sil',
 'CATEGORY_ORDER_NEWSORT' => 'Yeni Sıralama',
@@ -285,7 +285,7 @@ $aLang = array(
 'CATEGORY_ORDER_SORTCATEGORIES' => 'Ürün ayıkla',
 'CATEGORY_PICTURES_UPLOADISDISABLED' => 'Image Yükleme Kapali',
 'CATEGORY_RIGHTS_ALLGROUPS' => 'Bütün Gruplar',
-'CATEGORY_RIGHTS_ALLGROUPS2' => 'All User Groups',
+'CATEGORY_RIGHTS_ALLGROUPS2' => 'Tüm kullanıcı grupları',
 'CATEGORY_RIGHTS_APPLYLEVEL' => 'Apply changes to category and its products only',
 'CATEGORY_RIGHTS_APPLYLEVEL2' => 'Apply changes to category, subcategories and its products',
 'CATEGORY_RIGHTS_APPLYLEVEL3' => 'Apply changes to category and its products only',
@@ -323,7 +323,7 @@ $aLang = array(
 'COUNTRY_MAIN_OXVATSTATUS' => 'KDV uygulaması',
 'COUNTRY_MAIN_OXVATSTATUS_0' => 'KDVsiz',
 'COUNTRY_MAIN_OXVATSTATUS_1' => 'Eğer Vergi Dairesi Numarası Mevcut ise KDV uygulanmaz',
-'CUSTOMERNUM' => 'Cust No.',
+'CUSTOMERNUM' => 'Müşteri no',
 'CUSTOM_TEMPLATE_EXIST_FOR_DELETED_SHOP' => 'Custom templates exist for deleted shop. Delete it manually if needed.',
 'DELIVERYSET_LIST_MENUITEM' => 'Mağaza Ayarları',
 'DELIVERYSET_LIST_MENUSUBITEM' => 'Gönderme Şekilleri',
@@ -393,7 +393,7 @@ $aLang = array(
 'DYNBASE_DO_SUCCESS' => 'Başarı! Dosyanızı dışarıya aktarabilirsiniz',
 'DYNSCREEN_LIST_SERVICE' => 'Servis Bölgesi',
 'DYNSCREEN_LOCAL_TEXT' => 'Some general info about eCommerce services ...',
-'DYNSCREEN_LOCAL_TITLE' => 'eCommerce Services',
+'DYNSCREEN_LOCAL_TITLE' => 'eCommerce Servisler',
 'DYNSCREEN_TITLE' => 'pazarlama',
 'dyn_about' => 'Genel',
 'dyn_efire' => 'OXID eFire',
@@ -458,10 +458,10 @@ $aLang = array(
 'EFIRE_USERDETAILS' => 'Kullanıcı',
 'EFIRE_USERNAME' => 'OXID eFire Externer Transaktions Login',
 'EFIRE_USERPASSHASH' => 'Şifre Prüfsumme (Hash)',
-'EMAIL_PRICEALARM_CUSTOMER_CLICKHERE1' => 'To get directly to the product please click',
+'EMAIL_PRICEALARM_CUSTOMER_CLICKHERE1' => 'Direkt ürüne ulaşmak için lütfen lütfen tıklayınız',
 'EMAIL_PRICEALARM_CUSTOMER_CLICKHERE2' => 'here',
 'EMAIL_PRICEALARM_CUSTOMER_HAVEPRICEALARM' => 'we habe a Price Alert in',
-'EMAIL_PRICEALARM_CUSTOMER_HY' => 'Hallo',
+'EMAIL_PRICEALARM_CUSTOMER_HY' => 'Merhaba',
 'EMAIL_PRICEALARM_CUSTOMER_ITEM1' => 'The Product',
 'EMAIL_PRICEALARM_CUSTOMER_ITEM2' => 'you\'re interested in and you offered a price of',
 'EMAIL_PRICEALARM_CUSTOMER_ITEM3' => 'is now available for',
