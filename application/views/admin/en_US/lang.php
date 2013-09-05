@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: marco (3358)
+ * @translators: marco (3359)
  */
 
 $sLangName  = 'American English';
@@ -424,7 +424,7 @@ $aLang = array(
 'DYN_TRUSTED_PASSWORD' => 'Password (wsPassword)',
 'DYN_TRUSTED_PAYBOX' => 'Paybox',
 'DYN_TRUSTED_PAYPAL' => 'PayPal',
-'DYN_TRUSTED_PREPAYMENT' => 'Prepayment',
+'DYN_TRUSTED_PREPAYMENT' => 'Cash in advance',
 'DYN_TRUSTED_PRZELEWY24' => 'Przelewy24',
 'DYN_TRUSTED_RATINGS' => 'Show feedback button',
 'DYN_TRUSTED_RATINGS_COMMENT' => 'Decide where you would like to invite your customer to leave feedback.',

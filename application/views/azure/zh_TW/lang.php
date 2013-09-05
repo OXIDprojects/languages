@@ -19,10 +19,10 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: marco (3359)
+ * @translators: 
  */
 
-$sLangName  = 'American English';
+$sLangName  = '繁體中文';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
@@ -40,7 +40,7 @@ $aLang = array(
 'DETAILS_LOCATOR_PRODUCT' => 'PRODUCT',
 'DETAILS_PLUSSHIPPING2' => 'shipping costs.',
 'DETAILS_PRICEALARM' => '<b>[!]</b> Price Alert',
-'DETAILS_VPE_MESSAGE_1' => 'This product can only be ordered in packaging units of',
+'DETAILS_VPE_MESSAGE_1' => 'This product can only be ordered in packaging units of ',
 'DETAILS_VPE_MESSAGE_2' => 'purchased.',
 'EMAIL_INVITE_HTML_INVITETOSHOP' => 'An invitation from',
 'EMAIL_INVITE_HTML_INVITETOSHOP2' => 'to visit',
@@ -55,7 +55,7 @@ $aLang = array(
 'EMAIL_ORDER_CUST_HTML_SHIPPINGNET' => 'Shipping costs (w/o tax):',
 'EMAIL_ORDER_CUST_HTML_TAX1' => 'plus tax',
 'EMAIL_ORDER_CUST_HTML_TSPROTECTIONCHARGETAX1' => 'plus tax',
-'EMAIL_ORDER_OWNER_HTML_MESSAGE' => 'Message:',
+'EMAIL_ORDER_OWNER_HTML_MESSAGE' => 'Message: ',
 'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>PAYMENT INFORMATION SWITCHED OFF</b> - To switch them on, please change application/views/[theme]/email_order_owner_html.tpl.',
 'EMAIL_SENDDOWNLOADS_DOWNLOADS_DESC' => 'Download your ordered files here.',
 'EMAIL_SENDDOWNLOADS_GREETING' => 'Hello',
@@ -84,11 +84,11 @@ $aLang = array(
 'FORM_LOGIN_ACCOUNT_FORGOTPWD' => 'Forgot password?',
 'FORM_NEWSLETTER_FIRSTNAME' => 'First name',
 'FORM_PRICEALARM_SEND' => 'Send',
-'FORM_PRIVATESALES_INVITE_FROM' => 'From:',
+'FORM_PRIVATESALES_INVITE_FROM' => 'From: ',
 'FORM_PRIVATESALES_INVITE_MESSAGE1' => 'Hello, I was looking at',
 'FORM_PRIVATESALES_INVITE_MESSAGE2' => 'today and found something that might be interesting for you. Just click on the link below and you will be directed to the shop.',
 'FORM_PRIVATESALES_INVITE_SEND' => 'Send invitation',
-'FORM_PRIVATESALES_INVITE_SENDEREMAIL' => 'Sender\'s password:',
+'FORM_PRIVATESALES_INVITE_SENDEREMAIL' => 'Sender\'s password: ',
 'FORM_RECOMMENDATION_EDIT_LISTTITLE' => 'Headline',
 'FORM_REGISTER_BILLINGADDRESS' => 'Billing address',
 'FORM_REGISTER_COMPLETEMARKEDFIELDS' => '(Please fill in all mandatory fields labeled in bold.)',
@@ -156,13 +156,13 @@ $aLang = array(
 'PAGE_CHECKOUT_WRAPPING_CANCEL' => 'Cancel',
 'PAGE_CHECKOUT_WRAPPING_NONE' => 'NONE',
 'PAGE_DETAILS_THANKYOUMESSAGE1' => 'Thank you.',
-'PAGE_DETAILS_THANKYOUMESSAGE2' => 'appreciates your comments.',
+'PAGE_DETAILS_THANKYOUMESSAGE2' => ' appreciates your comments.',
 'PAGE_DETAILS_THANKYOUMESSAGE3' => 'We will inform you as soon as the price falls below',
 'PAGE_DETAILS_THANKYOUMESSAGE4' => '.',
 'PAGE_INFO_CLEARCOOKIE_CONTENT' => 'You have decided to not accept cookies from our online shop. The cookies have been removed. You can deactivate the usage of cookies in the settings of your browser and visit the online shop with some functional limitations. You can also return to the shop without changing the browser settings and enjoy the full functionality.<br/><br/>Information about cookies at Wikipedia: <a href="http://en.wikipedia.org/wiki/HTTP_cookie"><strong>http://en.wikipedia.org/wiki/HTTP_cookie</strong></a>',
 'PAGE_INFO_CLEARCOOKIE_TITLE' => 'Information about Cookies',
 'PAGE_INFO_CONTACT_THANKYOU1' => 'Thank you.',
-'PAGE_INFO_CONTACT_THANKYOU2' => 'appreciates your comments.',
+'PAGE_INFO_CONTACT_THANKYOU2' => ' appreciates your comments.',
 'PAGE_INFO_NEWS_LATESTNEWSBY' => 'News from',
 'PAGE_WISHLIST_PRODUCTS_PRODUCTS1' => 'These products are on the wish list of',
 'PAGE_WISHLIST_PRODUCTS_PRODUCTS2' => '. If you want to please him/her, purchase one or multiple of these products.',

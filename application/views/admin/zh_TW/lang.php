@@ -19,22 +19,22 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (355), rostav (28)
+ * @translators: 
  */
 
-$sLangName  = 'Ελληνικά';
+$sLangName  = '繁體中文';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACTIONS_LIST_MENUITEM' => 'Πληροφορίες Πελάτη',
-'ACTIONS_LIST_MENUSUBITEM' => 'Προώθηση',
-'ACTIONS_MAIN_ALLARTICLES' => 'Διαθέσιμα προιόντα',
-'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Προωθούμενα προιόντα',
-'ACTIONS_MAIN_NOTSELECTED' => 'Παρακαλώ επιλέξτε κάποιο στοιχείο από την παραπάνω λίστα για να κάνετε αλλαγές',
-'ADMINGB_LIST_AUTHOR' => 'Συγγραφέας',
+'ACTIONS_LIST_MENUITEM' => 'Customer Information',
+'ACTIONS_LIST_MENUSUBITEM' => 'Promotions',
+'ACTIONS_MAIN_ALLARTICLES' => 'All available Products',
+'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Promoted Products',
+'ACTIONS_MAIN_NOTSELECTED' => 'Please select one from above list to make changes',
+'ADMINGB_LIST_AUTHOR' => 'Author',
 'ADMINGB_LIST_ENTRY' => 'Entry',
 'ADMINGB_LIST_MENUITEM' => 'Customer Information',
 'ADMINGB_LIST_MENUSUBITEM' => 'Guestbook',
@@ -90,7 +90,7 @@ $aLang = array(
 'ARTICLE_EXTEND_TEMPLATE' => 'Alt. Template',
 'ARTICLE_EXTEND_TPRICE' => 'RRP',
 'ARTICLE_EXTEND_UNITNAME' => 'Unit',
-'ARTICLE_EXTEND_UNITQUANTITY' => 'Ποσότητα',
+'ARTICLE_EXTEND_UNITQUANTITY' => 'Quantity',
 'ARTICLE_EXTEND_UPDATEMEDIA' => 'Update media',
 'ARTICLE_EXTEND_UPDATEPRICE' => 'Base price:',
 'ARTICLE_EXTEND_UPDATEPRICEA' => 'A:',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (2202), afimage (504), diegotech (7), Espana (5), jsmaster (6), nuelgoz (156)
+ * @translators: admin (2202), afimage (504), diegotech (7), Espana (5), jmatos (31), jsmaster (6), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -99,7 +99,7 @@ $aLang = array(
 'ARTICLE_EXTEND_UPDATEPRICES' => 'Actualizar precios en tiempo definido',
 'ARTICLE_EXTEND_UPDATEPRICETIME' => 'Hora de inicio:',
 'ARTICLE_EXTEND_UPLOADFILE' => 'O cargar el archivo (archivos de gran tamaño deben ser cargados a través de FTP) <br> (nombre del archivo sólo puede contener números de cartas de subrayado (_) y puntos (.))',
-'ARTICLE_EXTEND_UPLOADISDISABLED' => 'This is a demoshop. Uploading files has been switched off due to security reasons.',
+'ARTICLE_EXTEND_UPLOADISDISABLED' => 'Este es una tienda DEMO. Carga de archivos ha sido desactivado por razones de seguridad.',
 'ARTICLE_EXTEND_URLDESC' => 'Texto de la URL externa',
 'ARTICLE_EXTEND_WEIGHT' => 'Cargo',
 'ARTICLE_EXTEND_WEIGHT_UNIT' => 'Cargo Unidad',
@@ -113,7 +113,7 @@ $aLang = array(
 'ARTICLE_FILES_OR' => 'o subir archivo',
 'ARTICLE_FILES_OR_FILENAME' => 'introduzca el nombre o un archivo existente',
 'ARTICLE_FILES_TABLE_FILENAME' => 'NOMBRE DEL ARCHIVO',
-'ARTICLE_FILES_TABLE_PURCHASEDONLY' => 'Purchased only',
+'ARTICLE_FILES_TABLE_PURCHASEDONLY' => 'Sólo compradas',
 'ARTICLE_FILES_TABLE_UPLOADEDFILES' => 'Archivos subidos',
 'ARTICLE_LIST_ALLPRODUCTS' => 'todos los productos',
 'ARTICLE_LIST_MENUSUBITEM' => 'Producto',
@@ -122,7 +122,7 @@ $aLang = array(
 'ARTICLE_MAIN_ACTIVETO' => 'Para',
 'ARTICLE_MAIN_ACTIVFROMTILL' => 'O Activo',
 'ARTICLE_MAIN_ALDPRICE' => 'Alt. Precios',
-'ARTICLE_MAIN_ALLOWCUST' => 'Allow custom editing',
+'ARTICLE_MAIN_ALLOWCUST' => 'Permitir edición personalizada',
 'ARTICLE_MAIN_ARTCOPY' => 'Copia del producto',
 'ARTICLE_MAIN_ARTNUM' => 'Prod.No.',
 'ARTICLE_MAIN_DISTEAN' => 'Hombre. EAN',
@@ -356,13 +356,13 @@ $aLang = array(
 'DELIVERY_RDFA_ASIGN_DELIVERY' => 'Assign delivery method',
 'DELIVERY_RDFA_DELIVERYMODEDIRECTDOWNLOAD' => 'Descargar',
 'DELIVERY_RDFA_DELIVERYMODEFREIGHT' => 'Freight',
-'DELIVERY_RDFA_DELIVERYMODEMAIL' => 'Correo',
+'DELIVERY_RDFA_DELIVERYMODEMAIL' => 'Enviar Correo',
 'DELIVERY_RDFA_DELIVERYMODEOWNFLEET' => 'Own fleet',
 'DELIVERY_RDFA_DELIVERYMODEPICKUP' => 'Recolección',
 'DELIVERY_RDFA_DHL' => 'DHL',
 'DELIVERY_RDFA_FEDERALEXPRESS' => 'FedEx',
 'DELIVERY_RDFA_GENERAL' => 'General delivery methods',
-'DELIVERY_RDFA_PARCELSERVICE' => 'Parcela',
+'DELIVERY_RDFA_PARCELSERVICE' => 'Servicios Parcela',
 'DELIVERY_RDFA_UPS' => 'UPS',
 'DELIVERY_USERS_ALLUSERSINGROUP' => 'Todos los usuarios',
 'DELIVERY_USERS_SETGROUPS' => 'Asignación de grupos de usuarios',
@@ -673,7 +673,7 @@ $aLang = array(
 'GENERAL_ENDDATE' => 'Válido hasta el',
 'GENERAL_ESTART' => 'Inicio Exportación',
 'GENERAL_EXPORTCAMPAIGN' => 'Promoción de parámetros:',
-'GENERAL_EXPORTCUSTOMHEADER' => 'User defined header',
+'GENERAL_EXPORTCUSTOMHEADER' => 'Definido por el usuario principal',
 'GENERAL_EXPORTDELCOST' => 'Por favor, introduzca Gastos de envío:',
 'GENERAL_EXPORTLANGUAGE' => 'Export for language',
 'GENERAL_EXPORTMAINVARS' => 'Variante de exportación del producto de base:',

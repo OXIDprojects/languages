@@ -19,10 +19,10 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: marco (4022)
+ * @translators: 
  */
 
-$sLangName  = 'English';
+$sLangName  = '繁體中文';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING

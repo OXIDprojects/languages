@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (1849), e.mersinlioglu (45), enginistemi (4), glp_i (88), Justian0 (3), marco (2), McDaim (101), mykibarli (20), scaly (10)
+ * @translators: admin (1849), e.mersinlioglu (45), enginistemi (4), glp_i (120), Justian0 (3), marco (2), McDaim (101), mykibarli (20), scaly (10)
  */
 
 $sLangName  = 'Türkçe';
@@ -142,7 +142,7 @@ $aLang = array(
 'COUPON_NOT_ACCEPTED2' => 'Kupon Gecersiz',
 'CREATE_PASSWORD' => 'Şifre oluştur',
 'CREDITCARD' => 'Kredi Karti',
-'CURRENT_PRODUCT' => 'Current product',
+'CURRENT_PRODUCT' => 'Şimdiki ürün',
 'CUSTOMERS_ALSO_BOUGHT' => 'Bu ürünü satın alan müşterilerin diğer aldıkları:',
 'DATE' => 'Tarih',
 'DATE_2' => 'Tarih:',
@@ -151,18 +151,18 @@ $aLang = array(
 'DAYS_2' => 'Günler',
 'DAY_2' => 'Gün',
 'DEDUCTION' => 'Indirimler',
-'DELIVERABLE' => 'Deliverable:',
+'DELIVERABLE' => 'Tedarikte:',
 'DELIVERYTIME' => 'Teslim Süresi',
 'DELIVERY_STATUS' => 'Durum',
 'DELIVERY_STATUS_ANG' => 'Sipariş alındı',
 'DELIVERY_STATUS_AUS' => 'Statü Kapali',
 'DELIVERY_STATUS_BES' => 'Üreticiden sipariş edildi',
 'DELIVERY_STATUS_EIN' => 'Statü Acik',
-'DELIVERY_STATUS_HAL' => 'Waiting for money',
+'DELIVERY_STATUS_HAL' => 'Ödeme bekleniyor',
 'DELIVERY_STATUS_NLB' => 'Tedarik dışı',
 'DELIVERY_STATUS_STO' => 'İptal edildi',
 'DELIVERY_TIME' => 'Süre',
-'DESCRIPTION' => 'Description',
+'DESCRIPTION' => 'Tarif',
 'DETAILS' => 'Detay',
 'DETAILS_2' => 'Detaylar:',
 'DISCOUNT' => 'İndirim',
@@ -177,7 +177,7 @@ $aLang = array(
 'EDIT_TAGS' => 'Edit tags',
 'EMAIL' => 'E-mail',
 'EMAIL_2' => 'E-mail:',
-'EMAIL_ADDRESS' => 'E-mail address',
+'EMAIL_ADDRESS' => 'E-Mail-Adres',
 'EMAIL_ADDRESS_2' => 'E-Mail-Adresi:',
 'ENABLE' => 'Göster',
 'ENTER_COUPON_NUMBER' => 'Kupon kodunuzu giriniz',
@@ -186,13 +186,13 @@ $aLang = array(
 'ENTER_NEW_PASSWORD' => 'Lütfen yeni şifrenizi giriniz.',
 'ERROR' => 'Hata',
 'ERROR_2' => 'Hata.',
-'ERROR_404' => 'The requested page could not be found.',
+'ERROR_404' => 'Aradığınız sayfa bulunamadı.',
 'ERROR_404_POSTURL' => 'bulunamadı.',
 'ERROR_404_PREURL' => 'The requested page ',
 'ERROR_DELIVERY_ADDRESS_WAS_CHANGED_DURING_CHECKOUT' => 'Fatura veya teslimat adresi sipariş sürecinde değiştirildi. Lütfen tekrar kontrol ediniz.',
 'ERROR_MESSAGE_ACCESSRIGHT_ACCESSDENIED' => 'Access denied, no sufficient rights!',
 'ERROR_MESSAGE_ACCESS_DENIED' => 'Access denied.',
-'ERROR_MESSAGE_ARTICLE_ARTICELDOESNOTEXIST' => 'Unfortunately the product "%s" is no longer available!',
+'ERROR_MESSAGE_ARTICLE_ARTICELDOESNOTEXIST' => '"%s" isimli ürün malesef tedarik dışı.',
 'ERROR_MESSAGE_ARTICLE_ARTICELNOTBUYABLE' => 'Ürün satın alınamaz',
 'ERROR_MESSAGE_ARTICLE_NOPRODUCTID' => 'No product id given!',
 'ERROR_MESSAGE_CHECK_EMAIL' => 'E-Mail gönderirken bir hata oldu - lütfen Mail adresini tekrar kontrol ediniz.',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: tarazi (33)
+ * @translators: menhem-it (17), tarazi (33)
  */
 
 $sLangName  = 'العربية';
@@ -32,20 +32,20 @@ $aLang = array(
 'ACCESSORIES' => 'كماليات',
 'ACCOUNT' => 'رقم الحساب',
 'ACCOUNT_INFORMATION' => 'معلومات عن الحساب',
-'ADD' => 'add',
-'ADDITIONAL_INFO' => 'Additional Info:',
-'ADDRESS' => 'Address',
-'ADDRESSES' => 'Addresses',
-'ADDRESSES_2' => 'Addresses:',
-'ADDRESS_2' => 'Address:',
-'ADD_TAGS' => 'Add tags:',
-'ADD_THIS_PAGE_TO' => 'Add this page to',
+'ADD' => 'إضافة',
+'ADDITIONAL_INFO' => 'معلومات إضافية',
+'ADDRESS' => 'عنوان',
+'ADDRESSES' => 'عناوين',
+'ADDRESSES_2' => 'عناوين:',
+'ADDRESS_2' => 'العنوان:',
+'ADD_TAGS' => 'إضافة Tag:',
+'ADD_THIS_PAGE_TO' => 'إضافة هذه الصفحة إلى',
 'ADD_THIS_PAGE_TO_WEBNEWS' => 'Add this page to Webnews',
 'ADD_THIS_PAGE_TO_YIEEHA' => 'Add this page to Yieeha',
-'ADD_TO_CART' => 'add to Cart',
-'ADD_TO_CART_2' => 'add to cart',
+'ADD_TO_CART' => 'أضف إلى سلة التسوق',
+'ADD_TO_CART_2' => 'أضف إلى سلة التسوق',
 'ADD_TO_GIFT_REGISTRY' => 'Add to Gift Registry',
-'ADD_TO_LIST' => 'Add to List',
+'ADD_TO_LIST' => 'أضف إلى قائمة المفضلة',
 'ADD_TO_LISTMANIA_LIST' => 'Add to Listmania List',
 'ADD_TO_WISH_LIST' => 'Add to Wish List',
 'ADD_WRAPPING' => 'Add gift wrap',

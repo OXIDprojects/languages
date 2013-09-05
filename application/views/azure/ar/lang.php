@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: tarazi (33)
+ * @translators: menhem-it (17), tarazi (33)
  */
 
 $sLangName  = 'العربية';
@@ -29,8 +29,8 @@ $sLangName  = 'العربية';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ADD_RECOMM_ADDRECOMMLINK1' => 'There is no Listmania lists at the moment. To create new, click',
-'ADD_RECOMM_ADDRECOMMLINK2' => 'here',
+'ADD_RECOMM_ADDRECOMMLINK1' => 'لا يوجد حاليا أي قوائم المفضلة لديك. لإنشاء قائمة مفضلة جديدة، انقر',
+'ADD_RECOMM_ADDRECOMMLINK2' => 'هنا',
 'allBrands' => 'All Brands',
 'byBrand' => 'By Brand',
 'byManufacturer' => 'By Manufacturer',

@@ -19,30 +19,30 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (1849), e.mersinlioglu (45), enginistemi (4), glp_i (120), Justian0 (3), marco (2), McDaim (101), mykibarli (20), scaly (10)
+ * @translators: 
  */
 
-$sLangName  = 'Türkçe';
+$sLangName  = '繁體中文';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ATTENTION' => 'Dikkat',
-'BUTTON_BEGIN_INSTALL' => 'Install',
-'BUTTON_DB_INSTALL' => 'DB Install',
-'BUTTON_LICENCE' => 'Devam',
-'BUTTON_PROCEED_INSTALL' => 'Devam',
-'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Install DB Demo',
-'BUTTON_RADIO_LICENCE_ACCEPT' => 'Lisansi Kabul Ediyorum',
-'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'Lisans Koşulları\'nı kabul etmiyorum.',
-'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => 'Instal Devam Edemiyor',
-'BUTTON_START_INSTALL' => 'Kuruluma Basla',
-'BUTTON_WRITE_DATA' => 'Bilgileri Giriniz',
-'BUTTON_WRITE_LICENCE' => 'Lisans anahtarını kaydet',
+'ATTENTION' => 'Attention, important',
+'BUTTON_BEGIN_INSTALL' => 'Start installation',
+'BUTTON_DB_INSTALL' => 'Create database now',
+'BUTTON_LICENCE' => 'Continue',
+'BUTTON_PROCEED_INSTALL' => 'Proceed with setup',
+'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Install demodata',
+'BUTTON_RADIO_LICENCE_ACCEPT' => 'I accept license conditions.',
+'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'I do not accept license conditions.',
+'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => 'Do <strong>not</strong> install demodata',
+'BUTTON_START_INSTALL' => 'Restart setup',
+'BUTTON_WRITE_DATA' => 'Save and continue',
+'BUTTON_WRITE_LICENCE' => 'Save license key',
 'ERROR_BAD_DEMODATA' => 'ERROR: Issue while inserting this SQL statements: ',
-'ERROR_BAD_SERIAL_NUMBER' => 'HATA: Yanlış lisans anahtarı!',
+'ERROR_BAD_SERIAL_NUMBER' => 'ERROR: Wrong license key!',
 'ERROR_BAD_SQL' => 'ERROR: Issue while inserting this SQL statements: ',
 'ERROR_CONFIG_FILE_IS_NOT_WRITABLE' => 'ERROR: %s/config.inc.php not writeable!',
 'ERROR_COULD_NOT_CREATE_DB' => 'ERROR: Database not available and also cannot be created!',

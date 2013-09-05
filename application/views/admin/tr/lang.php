@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (1849), e.mersinlioglu (45), enginistemi (4), glp_i (88), Justian0 (3), marco (2), McDaim (101), mykibarli (20), scaly (10)
+ * @translators: admin (1849), e.mersinlioglu (45), enginistemi (4), glp_i (120), Justian0 (3), marco (2), McDaim (101), mykibarli (20), scaly (10)
  */
 
 $sLangName  = 'Türkçe';
@@ -137,7 +137,7 @@ $aLang = array(
 'ARTICLE_MAIN_PARENTNOTBUYABLE' => 'Anaürün satılamaz',
 'ARTICLE_MAIN_PRICE' => 'Fiyat',
 'ARTICLE_MAIN_PRICEA' => 'A:',
-'ARTICLE_MAIN_PRICEB' => 'B: ',
+'ARTICLE_MAIN_PRICEB' => 'B:',
 'ARTICLE_MAIN_PRICEC' => 'C:',
 'ARTICLE_MAIN_SAVE' => 'Kaydet',
 'ARTICLE_MAIN_SEARCHKEYS' => 'Arama Kelimeleri',
@@ -392,7 +392,7 @@ $aLang = array(
 'DYNBASE_DO_LINK' => 'Partner bu dosyayı kendiside alabilir - Lütfen bu Linki veriniz:',
 'DYNBASE_DO_SUCCESS' => 'Başarı! Dosyanızı dışarıya aktarabilirsiniz',
 'DYNSCREEN_LIST_SERVICE' => 'Servis Bölgesi',
-'DYNSCREEN_LOCAL_TEXT' => 'Some general info about eCommerce services ...',
+'DYNSCREEN_LOCAL_TEXT' => 'E-Commerce Servisler hakkında genel bilgiler ...',
 'DYNSCREEN_LOCAL_TITLE' => 'eCommerce Servisler',
 'DYNSCREEN_TITLE' => 'pazarlama',
 'dyn_about' => 'Genel',
@@ -409,7 +409,7 @@ $aLang = array(
 'DYN_TRUSTED_CLICKANDBUY' => 'Click&Buy',
 'DYN_TRUSTED_CREDIT_CARD' => 'Kredikartı',
 'DYN_TRUSTED_DIRECT_DEBIT' => 'Lastschrift/Otomatik Çekim',
-'DYN_TRUSTED_DIRECT_E_BANKING' => 'SOFORT banking',
+'DYN_TRUSTED_DIRECT_E_BANKING' => 'SOFORT bankacılık',
 'DYN_TRUSTED_DISABLED' => 'Sertifika kilitli',
 'DYN_TRUSTED_DOTPAY' => 'Dotpay',
 'DYN_TRUSTED_FINANCING' => 'Ödeme Şekli',
@@ -459,15 +459,15 @@ $aLang = array(
 'EFIRE_USERNAME' => 'OXID eFire Externer Transaktions Login',
 'EFIRE_USERPASSHASH' => 'Şifre Prüfsumme (Hash)',
 'EMAIL_PRICEALARM_CUSTOMER_CLICKHERE1' => 'Direkt ürüne ulaşmak için lütfen lütfen tıklayınız',
-'EMAIL_PRICEALARM_CUSTOMER_CLICKHERE2' => 'here',
+'EMAIL_PRICEALARM_CUSTOMER_CLICKHERE2' => 'burada',
 'EMAIL_PRICEALARM_CUSTOMER_HAVEPRICEALARM' => 'we habe a Price Alert in',
 'EMAIL_PRICEALARM_CUSTOMER_HY' => 'Merhaba',
-'EMAIL_PRICEALARM_CUSTOMER_ITEM1' => 'The Product',
+'EMAIL_PRICEALARM_CUSTOMER_ITEM1' => 'Ürün',
 'EMAIL_PRICEALARM_CUSTOMER_ITEM2' => 'you\'re interested in and you offered a price of',
-'EMAIL_PRICEALARM_CUSTOMER_ITEM3' => 'is now available for',
+'EMAIL_PRICEALARM_CUSTOMER_ITEM3' => 'artık satışta',
 'EMAIL_PRICEALARM_CUSTOMER_ITEM4' => '!',
 'EMAIL_PRICEALARM_CUSTOMER_PRICEALARMIN' => 'Price Alert in',
-'EMAIL_PRICEALARM_CUSTOMER_TEAM1' => 'Your',
+'EMAIL_PRICEALARM_CUSTOMER_TEAM1' => 'Sizin',
 'EMAIL_PRICEALARM_CUSTOMER_TEAM2' => 'Team',
 'ERROR_MESSAGE_SYSTEMCOMPONENT_CLASSNOTFOUND' => 'Class "%s" not found',
 'ERROR_MESSAGE_SYSTEMCOMPONENT_FUNCTIONNOTFOUND' => 'Function "%s" not found',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (2202), afimage (504), diegotech (7), Espana (5), jsmaster (6), nuelgoz (156)
+ * @translators: admin (2202), afimage (504), diegotech (7), Espana (5), jmatos (31), jsmaster (6), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -31,7 +31,7 @@ $aLang = array(
 'charset' => 'utf-8',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'No hay listas Listmanía en este momento. Para crear, haga clic en nuevo',
 'ADD_RECOMM_ADDRECOMMLINK2' => 'aquí',
-'allBrands' => 'All Brands',
+'allBrands' => 'Todas las marcas',
 'byBrand' => 'Por Marca',
 'byManufacturer' => 'Por Marca',
 'byVendor' => 'Por distribuidor',
@@ -59,19 +59,19 @@ $aLang = array(
 'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>PAYMENT INFORMATION SWITCHED OFF</b> - To switch them on, please change application/views/[theme]/email_order_owner_html.tpl.',
 'EMAIL_SENDDOWNLOADS_DOWNLOADS_DESC' => 'Download your ordered files here.',
 'EMAIL_SENDDOWNLOADS_GREETING' => 'Hello',
-'EMAIL_SENDDOWNLOADS_PAYMENT_PENDING' => 'Payment of the order is not yet complete.',
+'EMAIL_SENDDOWNLOADS_PAYMENT_PENDING' => 'El pago de la orden todavía no es completa.',
 'EMAIL_SENDDOWNLOADS_SUBJECT' => 'Download links',
-'EMAIL_SENDEDNOW_HTML_ARTNOMBER' => 'Art.No.:',
+'EMAIL_SENDEDNOW_HTML_ARTNOMBER' => 'Articulo Nr.:',
 'EMAIL_SENDEDNOW_HTML_ORDERNOMBER' => 'Order No.:',
-'EMAIL_SENDEDNOW_HTML_ORDERSHIPPEDTO' => 'The order is shipped to:',
+'EMAIL_SENDEDNOW_HTML_ORDERSHIPPEDTO' => 'La orden es enviada a:',
 'EMAIL_SENDEDNOW_HTML_PRODUCT' => 'Product',
-'EMAIL_SENDEDNOW_HTML_PRODUCTRATING' => 'Product Rating',
+'EMAIL_SENDEDNOW_HTML_PRODUCTRATING' => 'Valoración del producto',
 'EMAIL_SENDEDNOW_HTML_REVIEW' => 'review',
-'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKING' => 'Your shipment tracking URL:',
+'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKING' => 'Su envío URL de seguimiento:',
 'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKINGURL' => 'click here',
-'EMAIL_SENDEDNOW_HTML_TS_RATINGS_RATEUS' => 'Please take a minute to rate our shop.',
+'EMAIL_SENDEDNOW_HTML_TS_RATINGS_RATEUS' => 'Por favor tome un momento para valorar nuestra tienda.',
 'EMAIL_SENDEDNOW_HTML_YUORTEAM1' => 'Your',
-'EMAIL_SENDEDNOW_HTML_YUORTEAM2' => 'Team',
+'EMAIL_SENDEDNOW_HTML_YUORTEAM2' => 'equipo',
 'EMAIL_STOCKREMINDER_SUBJECT' => 'Stock low',
 'EMAIL_SUGGEST_HTML_MENYGREETINGS' => 'Muchos saludos',
 'FOOTER_CATEGORIES' => 'CATEGORÍAS',

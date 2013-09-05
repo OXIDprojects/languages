@@ -19,10 +19,10 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: marco (4022)
+ * @translators: 
  */
 
-$sLangName  = 'English';
+$sLangName  = '繁體中文';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
@@ -188,7 +188,7 @@ $aLang = array(
 'ERROR_2' => 'Error.',
 'ERROR_404' => 'The requested page could not be found.',
 'ERROR_404_POSTURL' => 'could not be found.',
-'ERROR_404_PREURL' => 'The requested page',
+'ERROR_404_PREURL' => 'The requested page ',
 'ERROR_DELIVERY_ADDRESS_WAS_CHANGED_DURING_CHECKOUT' => 'Billing or shipping address have been changed during checkout. Please check again.',
 'ERROR_MESSAGE_ACCESSRIGHT_ACCESSDENIED' => 'Access denied, no sufficient rights!',
 'ERROR_MESSAGE_ACCESS_DENIED' => 'Access denied.',
@@ -298,7 +298,7 @@ $aLang = array(
 'GO' => 'GO!',
 'GO_BUTTON' => 'GO!',
 'GRAND_TOTAL' => 'Grand Total:',
-'GREETING' => 'Hello,',
+'GREETING' => 'Hello, ',
 'GREETING_CARD' => 'Greeting Card',
 'GREETING_MESSAGE' => 'Greeting message',
 'GROSS' => '(gross)',
@@ -426,7 +426,7 @@ $aLang = array(
 'MESSAGE_SUBMIT_BOTTOM' => 'Submit your order at the bottom of this overview',
 'MESSAGE_THANKYOU_FOR_SUBSCRIBING_NEWSLETTERS' => 'thank you for subscribing to our newsletter.',
 'MESSAGE_TO_BE_LOGGED_WRITE_GUESTBOOK' => 'You have to be logged in to write a guestbook entry.',
-'MESSAGE_TRUSTED_SHOPS_SEAL_OF_APPROVAL' => 'is a certified online shop with Trusted Shops Buyer Protection. More...',
+'MESSAGE_TRUSTED_SHOPS_SEAL_OF_APPROVAL' => ' is a certified online shop with Trusted Shops Buyer Protection. More...',
 'MESSAGE_UNAVAILABLE_SHIPPING_METHOD' => 'The shipping method you selected isn\'t available any more. Please choose another shipping method.',
 'MESSAGE_VERIFY_YOUR_EMAIL' => 'Please verify your e-mail address.',
 'MESSAGE_WELCOME_REGISTERED_USER' => 'We welcome you as registered user!',
@@ -459,9 +459,9 @@ $aLang = array(
 'MR' => 'Mr',
 'MRS' => 'Mrs',
 'MY_ACCOUNT' => 'My Account',
-'MY_ACCOUNT_2' => 'My Account -',
+'MY_ACCOUNT_2' => 'My Account - ',
 'MY_ACCOUNT_3' => 'My Account /',
-'MY_ACCOUNT_4' => 'My Account /',
+'MY_ACCOUNT_4' => 'My Account / ',
 'MY_COMPARE' => 'My Product Compare',
 'MY_DOWNLOADS' => 'My Downloads',
 'MY_DOWNLOADS_DESC' => 'Download your ordered files here.',
@@ -509,7 +509,7 @@ $aLang = array(
 'NUMBER_2' => 'No.',
 'OF' => 'OF',
 'OLD_PASSWORD' => 'Old Password:',
-'ONLY_IN_PACKING_UNITS_OF' => 'Only in packaging units of',
+'ONLY_IN_PACKING_UNITS_OF' => 'Only in packaging units of ',
 'OPEN_ACCOUNT' => 'Open account',
 'OPEN_PERSONAL_ACCOUNT' => 'Open personal customer account',
 'OR' => 'or',
@@ -614,7 +614,7 @@ $aLang = array(
 'OXZOOM3' => 'Zoom Picture 3',
 'OXZOOM4' => 'Zoom Picture 4',
 'PAGE' => 'Page',
-'PAGE_2' => 'Page',
+'PAGE_2' => 'Page ',
 'PARTNER_AND_SEAL' => 'Partner and Seal',
 'PASSWORD' => 'Password',
 'PASSWORD_2' => 'Password:',
@@ -633,8 +633,8 @@ $aLang = array(
 'PLEASE_CHOOSE' => 'Please choose',
 'PLEASE_CHOOSE_2' => 'Please choose:',
 'PLEASE_SELECT_STATE' => 'Please select a state',
-'PLUS' => 'plus',
-'PLUS_SHIPPING' => 'incl. VAT, plus',
+'PLUS' => 'plus ',
+'PLUS_SHIPPING' => 'incl. VAT, plus ',
 'PLUS_SHIPPING2' => 'shipping',
 'PLUS_SHIPPING3' => '* plus shipping',
 'POSTAL_CITY' => 'City',
@@ -653,7 +653,7 @@ $aLang = array(
 'PRINT' => 'Print',
 'PROCEED_TO_SCHECKOUT' => 'Proceed to checkout',
 'PRODUCT' => 'Product',
-'PRODUCTS' => 'products',
+'PRODUCTS' => ' products',
 'PRODUCTS_PER_PAGE' => 'Products per page:',
 'PRODUCT_2' => 'Product:',
 'PRODUCT_ATTRIBUTES' => 'Product Attributes',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: tarazi (33)
+ * @translators: menhem-it (17), tarazi (33)
  */
 
 $sLangName  = 'العربية';
@@ -52,7 +52,7 @@ $aLang = array(
 'ARTICLE_ATTRIBUTE_NOATTRIBUTES' => 'Please select one Attribute!',
 'ARTICLE_ATTRIBUTE_NOSELLIST' => 'Available Selection Lists',
 'ARTICLE_ATTRIBUTE_OPENINNEWWINDOW' => 'Create Attribute in new window',
-'ARTICLE_ATTRIBUTE_SAVE' => 'Save',
+'ARTICLE_ATTRIBUTE_SAVE' => 'حفظ',
 'ARTICLE_ATTRIBUTE_SELECTONEATTR' => 'Please select an Attribute:',
 'ARTICLE_ATTRIBUTE_TOOMANYATTRIBUTES' => 'Please select only one Attribute!',
 'ARTICLE_BUNDLE_ALLITEMS' => 'All available Products',
@@ -424,7 +424,7 @@ $aLang = array(
 'DYN_TRUSTED_PASSWORD' => 'Password (wsPassword)',
 'DYN_TRUSTED_PAYBOX' => 'Paybox',
 'DYN_TRUSTED_PAYPAL' => 'PayPal',
-'DYN_TRUSTED_PREPAYMENT' => 'Prepayment',
+'DYN_TRUSTED_PREPAYMENT' => 'Cash in advance',
 'DYN_TRUSTED_PRZELEWY24' => 'Przelewy24',
 'DYN_TRUSTED_RATINGS' => 'Show feedback button',
 'DYN_TRUSTED_RATINGS_COMMENT' => 'Decide where you would like to invite your customer to leave feedback.',
@@ -434,7 +434,7 @@ $aLang = array(
 'DYN_TRUSTED_RATINGS_ERR_WRONG_WSUSERNAME_WSPASSWORD' => 'Internal reply to shop system/developer, no reply from front end.',
 'DYN_TRUSTED_RATINGS_ID' => 'Trusted Shops ID for language ',
 'DYN_TRUSTED_RATINGS_ID_COMMENT' => 'Insert your Trusted Shops ID for Customer Ratings in your OXID eShop. You will receive the Trusted Shops ID from Trusted Shops by e-mail.',
-'DYN_TRUSTED_RATINGS_ORDEREMAIL' => 'In order confirmation e-mail',
+'DYN_TRUSTED_RATINGS_ORDEREMAIL' => 'في تأكيد الطلب عن طريق البريد الإلكتروني',
 'DYN_TRUSTED_RATINGS_ORDERSENDEMAIL' => 'In order sent notification e-mail',
 'DYN_TRUSTED_RATINGS_THANKYOU' => 'On order confirmation page after checkout ',
 'DYN_TRUSTED_RATINGS_WIDGET' => 'Display Rating Widget in eShop frontend',
@@ -852,7 +852,7 @@ $aLang = array(
 'LANGUAGE_NOTRANSLATIONS_WARNING' => 'Attention: No language files were found in templates dir for selected language!',
 'LOGIN_DEMOMODE_NOTIFY' => 'Functionality is limited in demoshop mode',
 'LOGIN_ERROR' => 'Error! Incorrect username and/or password!',
-'LOGIN_LANGUAGE' => 'Language',
+'LOGIN_LANGUAGE' => 'لغة',
 'LOGIN_NO_COOKIE_SUPPORT' => 'Error! Your browser does not support cookies!',
 'LOGIN_PROFILE' => 'Profile',
 'LOGIN_STAGINGMODE_NOTIFY' => 'Functionality is limited in staging mode',
@@ -1027,7 +1027,7 @@ $aLang = array(
 'ORDER_OVERVIEW_LSBLZ' => 'Bank code',
 'ORDER_OVERVIEW_LSKTOINHABER' => 'Account Holder',
 'ORDER_OVERVIEW_LSKTONR' => 'Account No.',
-'ORDER_OVERVIEW_MAKE' => 'Create',
+'ORDER_OVERVIEW_MAKE' => 'إنشاء',
 'ORDER_OVERVIEW_ORDERAMTODAY' => 'Number Orders Today',
 'ORDER_OVERVIEW_ORDERAMTOTAL' => 'Number Order TOTAL',
 'ORDER_OVERVIEW_ORDERSUMTODAY' => 'Sum Revenue Today',
