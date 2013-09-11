@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: jmatos (667), la bete (5), makolab (3191), marco (4), mart (139), pawelch (1660), topconcepts (209)
+ * @translators: jmatos (667), la bete (5), makolab (3208), marco (4), mart (139), pawelch (1660), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -39,7 +39,7 @@ $aLang = array(
 'DETAILS_CHOOSEVARIANT' => 'Proszę wybrać wariant',
 'DETAILS_LOCATOR_PRODUCT' => 'Artykuł',
 'DETAILS_PLUSSHIPPING2' => 'Koszty wysyłki.',
-'DETAILS_PRICEALARM' => '<b>[!]</b> Gorąca cena!',
+'DETAILS_PRICEALARM' => '<b>[!]</b> Alarm cenowy!',
 'DETAILS_VPE_MESSAGE_1' => 'Ten artykuł dostępny tylko w opakowaniu po',
 'DETAILS_VPE_MESSAGE_2' => 'sztuk.',
 'EMAIL_INVITE_HTML_INVITETOSHOP' => 'Zaproszenie od',
@@ -152,7 +152,7 @@ $aLang = array(
 'PAGE_CHECKOUT_THANKYOU_THANKYOU1' => 'Dziękujemy za zamówienie',
 'PAGE_CHECKOUT_THANKYOU_THANKYOU2' => 'w każdej chwili możesz się wypisać z newsletter bez dodatkowych opłat.',
 'PAGE_CHECKOUT_USER' => 'wyślij',
-'PAGE_CHECKOUT_USER_OPTION_REGISTRATION_DESCRIPTION' => 'Własne konto klienta ma następujące zalety:<br>                                                                      - Zarządzanie adresami dostawy<br>                                                                      - Analiza zamówienia<br>                                                                      - Historia zamówień<br>                                                                      - prywatny schowek<br>                                                                      - prywatna lista życzeń<br>                                                                      - Ustawienia na newsletter<br>                                                                      - Promocje i rabaty',
+'PAGE_CHECKOUT_USER_OPTION_REGISTRATION_DESCRIPTION' => 'Własne konto klienta ma następujące zalety:<br>                                                                      - zarządzanie adresami dostawy<br>                                                                      - analiza zamówień<br>                                                                      - historia zamówień<br>                                                                      - prywatny schowek<br>                                                                      - prywatna lista życzeń<br>                                                                      - ustawienia newslettera<br>                                                                      - promocje i rabaty',
 'PAGE_CHECKOUT_WRAPPING_CANCEL' => 'Przerwać',
 'PAGE_CHECKOUT_WRAPPING_NONE' => 'NIC',
 'PAGE_DETAILS_THANKYOUMESSAGE1' => 'Dziękujemy za wiadomość dla',

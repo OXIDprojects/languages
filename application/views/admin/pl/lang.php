@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: jmatos (667), la bete (5), makolab (3191), marco (4), mart (139), pawelch (1660), topconcepts (209)
+ * @translators: jmatos (667), la bete (5), makolab (3208), marco (4), mart (139), pawelch (1660), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -29,7 +29,7 @@ $sLangName  = 'Polski';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACTIONS_LIST_MENUITEM' => 'Informacje o kliencie',
+'ACTIONS_LIST_MENUITEM' => 'Informacje dla klienta',
 'ACTIONS_LIST_MENUSUBITEM' => 'Promocje',
 'ACTIONS_MAIN_ALLARTICLES' => 'Wszystkie dostępne produkty',
 'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Produkty w promocji',
@@ -853,7 +853,7 @@ $aLang = array(
 'LOGIN_NO_COOKIE_SUPPORT' => 'Błąd! Twoja przeglądarka nie obsługuje plików cookie!',
 'LOGIN_PROFILE' => 'Profil',
 'LOGIN_STAGINGMODE_NOTIFY' => 'Funkcjonalność jest ograniczona w trybie staging',
-'LOGIN_START' => 'Zacznij administracje OXID eShop',
+'LOGIN_START' => 'Zaloguj się',
 'LOGIN_TITLE' => 'Login do OXID eSales',
 'mainCategory' => 'Główna kategoria.',
 'MAIN_INFO' => 'Informacja',

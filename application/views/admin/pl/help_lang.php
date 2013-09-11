@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: jmatos (667), la bete (5), makolab (3191), marco (4), mart (139), pawelch (1660), topconcepts (209)
+ * @translators: jmatos (667), la bete (5), makolab (3208), marco (4), mart (139), pawelch (1660), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -34,7 +34,7 @@ $aLang = array(
 'HELP_ARTICLE_EXTEND_EXTURL' => 'W tym polu wpisujemy adres URL pod którym będzie dostępne więcej informacji o produkcie (np. strona producenta). W polu <span class="navipath_or_inputname">Tekst linku zewnętrznego</span> podajesz słowo które zostaje podlinkowane, np. <span class="userinput_or_code">Sprawdź wolne terminy</span>, <span class="userinput_or_code">Więcej informacji</span>.',
 'HELP_ARTICLE_EXTEND_FREESHIPPING' => 'Ustawienie jest dziedziczone z produktu "macierzystego" do wariantów i dotyczy całego produktu.',
 'HELP_ARTICLE_EXTEND_ISCONFIGURABLE' => 'Jeśli produkt jest konfigurowalny, dodatkowe pole tekstowe zostanie wyświetlone na stronie produktu i w koszyku. Tutaj klient może doprecyzować zamawiany produkt.<br><br>Przykład: t-shirts z nadrukowanym tekstem. Wtedy klient może podać tekst który ma zostać wydrukowany.',
-'HELP_ARTICLE_EXTEND_NONMATERIAL' => 'Ustawienie jest dziedziczone z produktu "macierzystego" do wariantów i dotyczy całego produktu.',
+'HELP_ARTICLE_EXTEND_NONMATERIAL' => 'Jest to produkt nadrzędny, dla wariantów. Parametry tego produktu dziedziczone są przez produkty będące wariantami tego produktu.',
 'HELP_ARTICLE_EXTEND_QUESTIONEMAIL' => 'W tym polu podajesz adres alternatywny email na który wysyłane będą zapytania użytkowników o twn produkt.',
 'HELP_ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Jeśli aktywne, wszystkie zniżki generujące ceny ujemne produktów nie będą uwzględniane. Dotyczy rabatów i voucherów.',
 'HELP_ARTICLE_EXTEND_TEMPLATE' => 'Strona produktowa może być wyświetlana wg innego szablonu. Aby tak było, należy podać sćieżkę dostępu i nazwę szablonu który ma być użyty. Więcej info na <a href="http://www.oxid-esales.com/de/resources/help-faq/eshop-manual/display-certain-products-or-categories-another-template" target="_blank">stronie</a>.',

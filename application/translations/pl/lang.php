@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: jmatos (667), la bete (5), makolab (3191), marco (4), mart (139), pawelch (1660), topconcepts (209)
+ * @translators: jmatos (667), la bete (5), makolab (3208), marco (4), mart (139), pawelch (1660), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -97,7 +97,7 @@ $aLang = array(
 'CARD_MASTERCARD' => 'Mastercard',
 'CARD_SECURITY_CODE' => 'Kod bezpieczeństwa CVV2 or CVC2',
 'CARD_SECURITY_CODE_DESCRIPTION' => 'Kod CVV2/CVC2 to trzy cyfrowa liczba nadrukowana tuż powyżej podpisu w na odwrocie karty. <br> Zazwyczaj poprzedza numer karty.',
-'CARD_TO' => 'Karta do:',
+'CARD_TO' => 'Wysyłane do:',
 'CARD_VISA' => 'Visa',
 'CART' => 'Koszyk',
 'CART_2' => 'Koszyk:',
@@ -113,7 +113,7 @@ $aLang = array(
 'CHANGE_PASSWORD' => 'Zmień hasło',
 'CHANGE_PASSWORD_2' => 'Zmień Hasło',
 'CHARGES' => 'Opłaty:',
-'CHECK' => 'Sprawdź',
+'CHECK' => 'Sprawdź',
 'CHECKOUT' => 'Zamówienie',
 'CHECK_YOUR_ORDER_HISTORY' => 'Sprawdz historię zamówień',
 'CHOOSE' => 'Wybierz',
@@ -172,7 +172,7 @@ $aLang = array(
 'DOWNLOADS_EMPTY' => 'Nie zamówiłeś jeszcze żadnych plików.',
 'DOWNLOADS_PAYMENT_PENDING' => 'Zapłata za zamówienie nie jest dokończona.',
 'DOWNLOAD_LINK_EXPIRED_OR_MAX_COUNT_RECEIVED' => 'Link wygasł lub max. liczba pobrań osiągnięta.',
-'DO_NOT_WANT_CREATE_ACCOUNT' => '(Nie chcę aby utworzyć konto klienta).',
+'DO_NOT_WANT_CREATE_ACCOUNT' => '(Nie chcę tworzyć nowego konta).',
 'EDIT' => 'Edytuj',
 'EDIT_TAGS' => 'Edytuj znaczniki',
 'EMAIL' => 'E-mail',
@@ -510,8 +510,8 @@ $aLang = array(
 'OF' => 'OF',
 'OLD_PASSWORD' => 'Stare hasło:',
 'ONLY_IN_PACKING_UNITS_OF' => 'Tylko w jednostkach opakowaniowych',
-'OPEN_ACCOUNT' => 'Otwórz konto',
-'OPEN_PERSONAL_ACCOUNT' => 'Otwórz konto osobiste klienta',
+'OPEN_ACCOUNT' => 'Zarejestruj się',
+'OPEN_PERSONAL_ACCOUNT' => 'Zarejestruj się',
 'OR' => 'lub',
 'ORDERS' => 'Zamówienia:',
 'ORDER_COMPLETED' => 'Zamówienie zrealizowane',
@@ -676,7 +676,7 @@ $aLang = array(
 'RATINGS' => 'Opinie',
 'RATING_2' => 'Ocena:',
 'READY' => 'Gotowe!',
-'READY_FOR_SHIPPING' => 'Wolne miejsca',
+'READY_FOR_SHIPPING' => 'Dostępny',
 'READ_AND_CONFIRM_TERMS' => 'Proszę przeczytać i potwierdzić nasze warunki.',
 'READ_MORE' => 'Czytaj więcej',
 'REASON' => 'Powód:',
@@ -692,7 +692,7 @@ $aLang = array(
 'REDUCED_FROM_2' => 'RRP',
 'REGISTER' => 'Rejestracja',
 'REGISTRATION' => 'Rejestracja',
-'REGISTRATION_DESCRIPTION' => 'Klient z kontem ma swoje Przywileje jak: - Administracja adresem wysyłki <br>Status zamówienia <br>Historia zamówienia <br>Własna Lista życzeń -<br>Lista prezentów <br>Subskrypcja newslettera <br>Specjalne oferty i zniżki',
+'REGISTRATION_DESCRIPTION' => 'Zarejestrowany klient ma takie przywileje jak: - Administracja adresem wysyłki <br>Status zamówienia <br>Historia zamówienia <br>Własna Lista życzeń -<br>Lista prezentów <br>Subskrypcja newslettera <br>Specjalne oferty i zniżki',
 'REMEMBER_ME' => 'Zapamiętaj mnie',
 'REMOVE' => 'Usuń',
 'REMOVE_2' => 'Usunięcie',
@@ -770,8 +770,8 @@ $aLang = array(
 'TITLE' => 'Tytuł',
 'TITLE_2' => 'Tytuł:',
 'TO' => 'Do:',
-'TOP_OF_THE_SHOP' => 'Najlepsze w sklepie',
-'TOP_OF_THE_SHOP_2' => 'Najlepsze w sklepie',
+'TOP_OF_THE_SHOP' => 'Bestsellery',
+'TOP_OF_THE_SHOP_2' => 'Bestsellery',
 'TOP_SHOP_PRODUCTS' => 'Najlepsze artykuły',
 'TOTAL' => 'Razem',
 'TOTAL_GROSS' => 'Produkty całkowicie (brutto):',
@@ -819,7 +819,7 @@ $aLang = array(
 'WEEKS' => 'Tygodni',
 'WEEKS_2' => 'Tygodnie',
 'WEEK_2' => 'Tydzień',
-'WEEK_SPECIAL' => 'Specjalność tygodnia',
+'WEEK_SPECIAL' => 'Oferta tygodnia',
 'WEIGHT' => 'Waga:',
 'WHAT_I_WANTED_TO_SAY' => 'To co chciałem powiedzieć',
 'WHAT_I_WANT_TO_SAY' => 'To co chciałem powiedzieć ...:',
