@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: buby (113)
+ * @translators: AWIDON (746), buby (113)
  */
 
 $sLangName  = 'Hrvatski';
@@ -32,7 +32,7 @@ $aLang = array(
 'ATTENTION' => 'Attention, important',
 'BUTTON_BEGIN_INSTALL' => 'Start installation',
 'BUTTON_DB_INSTALL' => 'Create database now',
-'BUTTON_LICENCE' => 'Continue',
+'BUTTON_LICENCE' => 'Nastaviti',
 'BUTTON_PROCEED_INSTALL' => 'Započmi instalaciju',
 'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Install demodata',
 'BUTTON_RADIO_LICENCE_ACCEPT' => 'I accept license conditions.',
@@ -64,17 +64,17 @@ $aLang = array(
 'ERROR_VIEWS_CANT_CREATE' => 'ERROR: Can\'t create views. Please check your database user privileges.',
 'ERROR_VIEWS_CANT_DROP' => 'ERROR: Can\'t drop views. Please check your database user privileges.',
 'ERROR_VIEWS_CANT_SELECT' => 'ERROR: Can\'t select from views. Please check your database user privileges.',
-'FOOTER_OXID_ESALES' => '© OXID eSales AG 2003 - Y',
+'FOOTER_OXID_ESALES' => '© OXID eSales AG 2003-Y',
 'HEADER_META_MAIN_TITLE' => 'OXID eShop installation wizard',
 'HEADER_TEXT_SETUP_NOT_RUNS_AUTOMATICLY' => 'If setup does not continue in a few seconds, please click ',
-'HERE' => 'here',
+'HERE' => 'tu',
 'LOAD_DYN_CONTENT_NOTICE' => '<p>If checkbox is set, you will see an additional menu in the admin area of your OXID eShop.</p><p>In that menu you get further information about eCommerce services like Google product search.</p> <p>You can change these settings at any time.</p>',
 'MOD_ALLOW_URL_FOPEN' => 'allow_url_fopen or fsockopen to port 80',
 'MOD_BC_MATH' => 'BCMath',
 'MOD_BUG53632' => 'Possible issues on server due to PHP Bugs',
 'MOD_CURL' => 'cURL',
 'MOD_FILE_UPLOADS' => 'File uploads are enabled (file_uploads)',
-'MOD_GD_INFO' => 'GDlib v2 [v1] incl. JPEG support',
+'MOD_GD_INFO' => 'GDlib v2 [v1] ukl. JPEG support',
 'MOD_INI_SET' => 'ini_set allowed',
 'MOD_I_CONV' => 'ICONV',
 'MOD_J_SON' => 'JSON',
@@ -82,10 +82,10 @@ $aLang = array(
 'MOD_MB_STRING' => 'mbstring',
 'MOD_MEMORY_LIMIT' => 'PHP Memory limit (min. 14MB, 30MB recommended)',
 'MOD_MOD_REWRITE' => 'Apache mod_rewrite module',
-'MOD_MYSQL_CONNECT' => 'MySQL client connector for MySQL 5',
+'MOD_MYSQL_CONNECT' => 'MySQL client connector za MySQL 5',
 'MOD_OPEN_SSL' => 'OpenSSL',
 'MOD_PHP4_COMPAT' => 'Zend compatibility mode must be off',
-'MOD_PHP_CONFIG' => 'PHP configuration',
+'MOD_PHP_CONFIG' => 'PHP konfiguracija',
 'MOD_PHP_EXTENNSIONS' => 'PHP extensions',
 'MOD_PHP_VERSION' => 'PHP version at least 5.2.10',
 'MOD_PHP_XML' => 'DOM',
@@ -118,10 +118,7 @@ $aLang = array(
 'STEP_0_ERROR_URL' => 'http://www.oxid-esales.com/en/products/community-edition/system-requirements',
 'STEP_0_TEXT' => '<ul class="req"><li class="pass"> - Your system fits the requirement.</li><li class="pmin"> - The requirement is not or only partly fit. The OXID eShop will work anyway and can be installed..</li><li class="fail"> - Your system doesn\'t fit the requirement. The OXID eShop will not work without it and cannot be installed.</li><li class="null"> - The requirement could  not be checked.</ul>',
 'STEP_0_TITLE' => 'System requirements check',
-'STEP_1_ADDRESS' => 'OXID eSales AG<br>
-                                                    Bertoldstr. 48<br>
-                                                    79098 Freiburg<br>
-                                                    Deutschland<br>',
+'STEP_1_ADDRESS' => 'OXID eSales AG<br> Bertoldstr. 48<br> 79098 Freiburg<br> Deutschland<br>',
 'STEP_1_CHECK_UPDATES' => 'Check for available updates regularly',
 'STEP_1_DESC' => 'Welcome to installation wizard of OXID eShop',
 'STEP_1_TEXT' => 'Please read carefully the following instructions to guarantee a smooth installation.
@@ -143,7 +140,7 @@ $aLang = array(
 'STEP_3_DB_PASSWORD_SHOW' => 'Show password',
 'STEP_3_DB_USER_NAME' => 'Database username',
 'STEP_3_DESC' => 'Database is going to be created and needed tables are written. Please provide some information:',
-'STEP_3_TITLE' => 'Database',
+'STEP_3_TITLE' => 'Baza podataka',
 'STEP_3_UTFINFO' => 'UTF-8 character encoding provides better support for special chars than other character encodings. This is particulary important for multilingual eShops. However, UTF-8 is slightly slower than the standard encoding (ISO 8859-15). <br /> If you plan to provide your eShop in many different languages, you should use UTF-8. If you just want to provide a few languages using related symbol sets (e. g. English, German, French), you don\'t need UTF-8.',
 'STEP_3_UTFMODE' => 'Use UTF-8 character encoding',
 'STEP_3_UTFNOTSUPPORTED' => 'The OXID eShop cannot operate in UTF-8 mode, due to:',
@@ -165,7 +162,7 @@ $aLang = array(
 'STEP_5_DESC' => 'Please confirm license key:',
 'STEP_5_LICENCE_DESC' => 'The provided key is valid for 30 days. After this period all of your changes remain if you insert a valid license key.',
 'STEP_5_LICENCE_KEY' => 'License key',
-'STEP_5_TITLE' => 'OXID eShop license',
+'STEP_5_TITLE' => 'OXID eShop licenc',
 'STEP_6_DESC' => 'Your OXID eShop has been installed successfully.',
 'STEP_6_LINK_TO_SHOP' => 'Continue to your OXID eShop',
 'STEP_6_LINK_TO_SHOP_ADMIN_AREA' => 'Continue to your OXID eShop admin interface',
@@ -179,11 +176,11 @@ $aLang = array(
 'TAB_2_DESC' => 'Confirm license conditions',
 'TAB_2_TITLE' => 'License conditions',
 'TAB_3_DESC' => 'Test database connection, building tables',
-'TAB_3_TITLE' => 'Database',
+'TAB_3_TITLE' => 'Baza podataka',
 'TAB_4_DESC' => 'Configuring directories and selecting admin login',
 'TAB_4_TITLE' => 'Directory & login',
 'TAB_5_DESC' => 'Apply license key',
-'TAB_5_TITLE' => 'License',
+'TAB_5_TITLE' => 'Licenc',
 'TAB_6_DESC' => 'Installation succeeded',
 'TAB_6_TITLE' => 'Finish',
 'USE_DYNAMIC_PAGES' => 'To increase your business success get additional information from OXID\'s server. You find more information in our ',

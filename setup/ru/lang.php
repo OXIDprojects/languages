@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (1341), compisat (26), cyberkatze (8), mantgomery (2), marco (1180), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35)
+ * @translators: admin (1341), compisat (26), cyberkatze (8), mantgomery (2), marco (1180), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -66,7 +66,7 @@ $aLang = array(
 'ERROR_VIEWS_CANT_SELECT' => 'ОШИБКА: нет доступа к Views. Пожалуйста, проверьте Ваши права пользователя для базы данных.',
 'FOOTER_OXID_ESALES' => '© OXID eSales AG 2003 - Y',
 'HEADER_META_MAIN_TITLE' => 'OXID eShop Мастер установки',
-'HEADER_TEXT_SETUP_NOT_RUNS_AUTOMATICLY' => 'If setup does not continue in a few seconds, please click ',
+'HEADER_TEXT_SETUP_NOT_RUNS_AUTOMATICLY' => 'Если установка не начнется через несколько секунд, пожалуйста нажмите',
 'HERE' => 'здесь',
 'LOAD_DYN_CONTENT_NOTICE' => '<p>If checkbox is set, you will see an additional menu in the admin area of your OXID eShop.</p><p>In that menu you get further information about eCommerce services like Google product search.</p> <p>You can change these settings at any time.</p>',
 'MOD_ALLOW_URL_FOPEN' => 'allow_url_fopen or fsockopen to port 80',

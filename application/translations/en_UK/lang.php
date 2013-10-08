@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: marco (4136)
+ * @translators: marco (4137)
  */
 
 $sLangName  = 'British English';
@@ -274,7 +274,7 @@ $aLang = array(
 'FACEBOOK_INVITE' => 'Facebook Invite',
 'FACEBOOK_INVITETEXT' => 'Check this out. Simply click on the button below to check recommended product.',
 'FACEBOOK_INVITE_YOUR_FRIENDS' => 'Invite your Friends',
-'FACEBOOK_LOCALE' => 'en_US',
+'FACEBOOK_LOCALE' => 'en_UK',
 'FACEBOOK_OPEN_WEBSITE' => 'Open website',
 'FAX' => 'Fax:',
 'FIRST_LAST_NAME' => 'First/Last Name:',

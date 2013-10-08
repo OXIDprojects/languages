@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: buby (113)
+ * @translators: AWIDON (746), buby (113)
  */
 
 $sLangName  = 'Hrvatski';
@@ -51,7 +51,7 @@ $aLang = array(
 'SHOP_THEME_bl_showWishlist' => 'Use gift registry',
 'SHOP_THEME_GROUP_display' => 'Display',
 'SHOP_THEME_GROUP_features' => 'Features',
-'SHOP_THEME_GROUP_images' => 'Images',
+'SHOP_THEME_GROUP_images' => 'Slike',
 'SHOP_THEME_iNewBasketItemMessage' => 'Select action when product is added to cart',
 'SHOP_THEME_iNewBasketItemMessage_0' => 'None',
 'SHOP_THEME_iNewBasketItemMessage_1' => 'Display message',
@@ -64,13 +64,13 @@ $aLang = array(
 'SHOP_THEME_sDefaultListDisplayType' => 'Default product list type',
 'SHOP_THEME_sDefaultListDisplayType_grid' => 'Grid',
 'SHOP_THEME_sDefaultListDisplayType_infogrid' => 'Double grid',
-'SHOP_THEME_sDefaultListDisplayType_line' => 'List',
+'SHOP_THEME_sDefaultListDisplayType_line' => 'Lista',
 'SHOP_THEME_sIconsize' => 'Icon size (width*height)',
 'SHOP_THEME_sManufacturerIconsize' => 'Manufacturer\'s/brand logo size',
 'SHOP_THEME_sStartPageListDisplayType' => 'Product list type on Start page',
 'SHOP_THEME_sStartPageListDisplayType_grid' => 'Grid',
 'SHOP_THEME_sStartPageListDisplayType_infogrid' => 'Double grid',
-'SHOP_THEME_sStartPageListDisplayType_line' => 'List',
+'SHOP_THEME_sStartPageListDisplayType_line' => 'Lista',
 'SHOP_THEME_sThumbnailsize' => 'Thumbnail size (width*height)',
 'SHOP_THEME_sZoomImageSize' => 'Zoom picture size (width*height)',
 );

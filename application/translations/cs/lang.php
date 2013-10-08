@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (3161), dave2005 (72), inquisitor8 (298), RSee (1318), SYSKO (8)
+ * @translators: admin (3161), dave2005 (74), inquisitor8 (298), RSee (1318), SYSKO (8)
  */
 
 $sLangName  = 'Česky';
@@ -279,7 +279,7 @@ $aLang = array(
 'FAX' => 'Fax:',
 'FIRST_LAST_NAME' => 'Jméno/Příjmení:',
 'FIRST_NAME' => 'Jméno:',
-'FIRST_NAME_2' => 'Příjmení:',
+'FIRST_NAME_2' => 'Jméno:',
 'FORGOT_PASSWORD' => 'Zapomenuté heslo?',
 'FROM' => 'Od',
 'FROM_2' => 'Od:',
@@ -506,7 +506,7 @@ $aLang = array(
 'NO_REVIEW_AVAILABLE' => 'Nikdo ještě nenapsal recenzi tohoto zboží.',
 'NO_TAGS' => 'Momentálně nejsou žádné štítky/tagy',
 'NUMBER' => 'Číslo:',
-'NUMBER_2' => 'No.',
+'NUMBER_2' => 'Č.',
 'OF' => 'Od',
 'OLD_PASSWORD' => 'Původní heslo:',
 'ONLY_IN_PACKING_UNITS_OF' => 'V balení pouze po',

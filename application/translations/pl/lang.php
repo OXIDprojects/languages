@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: jmatos (667), la bete (5), makolab (3208), marco (4), mart (139), pawelch (1660), topconcepts (209)
+ * @translators: jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -132,7 +132,7 @@ $aLang = array(
 'CONTACTS' => 'Kontakty',
 'CONTINUE_SHOPPING' => 'Kontunuuj zakupy',
 'CONTINUE_TO_NEXT_STEP' => 'Przejdź do następnego kroku',
-'COOKIE_NOTE' => 'Ten sklep internetowy wykorzystuje cookies aby dać Ci najlepsze doświadczanie zakupów online. W ten sposób na przykład informacje o sesji lub ustawienia języka są przechowywane na komputerze. Bez cookies zakres funkcjonalności sklepu\'s jest ograniczona.',
+'COOKIE_NOTE' => 'Ta witryna korzysta z plików cookie. Możesz wyłączyć ten mechanizm w ustawieniach przeglądarki. Więcej informacji na ten temat znajdziesz w naszej Polityce cookie.',
 'COOKIE_NOTE_CLOSE' => 'Zamknij',
 'COOKIE_NOTE_DISAGREE' => 'Jeśli nie zgadzasz proszę kliknij tutaj.',
 'COUNTRY' => 'Kraj:',
@@ -383,7 +383,7 @@ $aLang = array(
 'MESSAGE_INVITE_YOUR_FRIENDS_EMAIL' => 'Proszę podać e-mail swojego znajomego a listowne zaproszenie zostanie wysłane.',
 'MESSAGE_INVITE_YOUR_FRIENDS_INVITATION_SENT' => 'Zaproszenie e-mail zostało wysłane do znajomych. Dziękuję za zaproszenie swoich przyjaciół.',
 'MESSAGE_LOGIN_TO_RATE' => 'Musisz się zalogować aby ocenić!',
-'MESSAGE_LOGIN_TO_WRITE_REVIEW' => 'Musisz być zalogowany aby napisać recenzję.',
+'MESSAGE_LOGIN_TO_WRITE_REVIEW' => 'Musisz być zalogowany aby dodać recenzję.',
 'MESSAGE_MAKE_GIFT_REGISTRY_PUBLISH' => 'Każdy powinien być w stanie wyszukiwać i wyświetlać moją listę prezentów:',
 'MESSAGE_MY_DOWNLOADS_LINK_EXPIRED' => 'Link wygasł, spróbuj teraz.',
 'MESSAGE_NEGATIVE_TOTAL' => 'Negative Total niedozwolone.',
@@ -507,7 +507,7 @@ $aLang = array(
 'NO_TAGS' => 'Nie ma obecnie znaczników',
 'NUMBER' => 'Liczba:',
 'NUMBER_2' => 'Nr.',
-'OF' => 'OF',
+'OF' => 'z',
 'OLD_PASSWORD' => 'Stare hasło:',
 'ONLY_IN_PACKING_UNITS_OF' => 'Tylko w jednostkach opakowaniowych',
 'OPEN_ACCOUNT' => 'Zarejestruj się',
@@ -517,7 +517,7 @@ $aLang = array(
 'ORDER_COMPLETED' => 'Zamówienie zrealizowane',
 'ORDER_DATE' => 'Data zamówienia:',
 'ORDER_EMPTY_HISTORY' => 'Historia zamówień jest pusta',
-'ORDER_HISTORY' => 'Historia zamówienia',
+'ORDER_HISTORY' => 'Historia zamówień',
 'ORDER_IS_CANCELED' => 'Zamówienie zostało anulowane.',
 'ORDER_NO' => 'Nr. zamówienia:',
 'ORDER_NUMBER' => 'Nr. zamówienia:',
@@ -649,7 +649,7 @@ $aLang = array(
 'PRICE_ALERT' => '[!] Alarm cenowy',
 'PRICE_ALERT_AT' => 'Alarm cenowy na',
 'PRICE_ALERT_FOR_PRODUCT' => 'Alarm cenowy na artykuł',
-'PRICE_FROM' => 'z',
+'PRICE_FROM' => 'od',
 'PRINT' => 'Drukuj',
 'PROCEED_TO_SCHECKOUT' => 'Przejdź do kasy',
 'PRODUCT' => 'Produkt',

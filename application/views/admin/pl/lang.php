@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: jmatos (667), la bete (5), makolab (3208), marco (4), mart (139), pawelch (1660), topconcepts (209)
+ * @translators: jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -134,7 +134,7 @@ $aLang = array(
 'ARTICLE_MAIN_MANUFACTURERID' => 'Producent',
 'ARTICLE_MAIN_MPN' => 'MPN',
 'ARTICLE_MAIN_NONE' => '-- brak --',
-'ARTICLE_MAIN_PARENTNOTBUYABLE' => 'Uwaga: Produkt Dominująca nie można kupić.',
+'ARTICLE_MAIN_PARENTNOTBUYABLE' => 'Uwaga: Produkt nadrzędny, bez określenia wariantu, nie jest możliwy do kupienia.',
 'ARTICLE_MAIN_PRICE' => 'Cena',
 'ARTICLE_MAIN_PRICEA' => 'A:',
 'ARTICLE_MAIN_PRICEB' => 'B:',
