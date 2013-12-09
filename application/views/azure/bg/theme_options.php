@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: crashover (330), fifo (9), marco (1), val (933)
+ * @translators: crashover (330), fifo (9), marco (1), Marcus77 (35), val (933)
  */
 
 $sLangName  = 'Български';
@@ -49,7 +49,7 @@ $aLang = array(
 'SHOP_THEME_bl_showOpenId' => 'Use Open ID',
 'SHOP_THEME_bl_showVouchers' => 'Използвай ваучери',
 'SHOP_THEME_bl_showWishlist' => 'Use gift registry',
-'SHOP_THEME_GROUP_display' => 'Display',
+'SHOP_THEME_GROUP_display' => 'Намерени',
 'SHOP_THEME_GROUP_features' => 'Features',
 'SHOP_THEME_GROUP_images' => 'Images',
 'SHOP_THEME_iNewBasketItemMessage' => 'Select action when product is added to cart',

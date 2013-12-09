@@ -19,10 +19,10 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: 
+ * @translators: AWIDON (21)
  */
 
-$sLangName  = '簡體中文';
+$sLangName  = 'Suomi';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
@@ -30,15 +30,15 @@ $sLangName  = '簡體中文';
 $aLang = array(
 'charset' => 'utf-8',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'There is no Listmania lists at the moment. To create new, click',
-'ADD_RECOMM_ADDRECOMMLINK2' => 'here',
-'allBrands' => 'All Brands',
-'byBrand' => 'By Brand',
-'byManufacturer' => 'By Manufacturer',
-'byVendor' => 'By Distributor',
-'DETAILS_ARTNUMBER' => 'Product Nr.:',
+'ADD_RECOMM_ADDRECOMMLINK2' => 'täällä',
+'allBrands' => 'Kaikki tuotemerkit',
+'byBrand' => 'Merkeittäin',
+'byManufacturer' => 'Valmistajittain',
+'byVendor' => 'Toimittajittain',
+'DETAILS_ARTNUMBER' => 'Tuotenro.:',
 'DETAILS_CHOOSEVARIANT' => 'Please select a variant',
-'DETAILS_LOCATOR_PRODUCT' => 'PRODUCT',
-'DETAILS_PLUSSHIPPING2' => 'shipping costs.',
+'DETAILS_LOCATOR_PRODUCT' => 'Tuote',
+'DETAILS_PLUSSHIPPING2' => 'Toimituskulut',
 'DETAILS_PRICEALARM' => '<b>[!]</b> Price Alert',
 'DETAILS_VPE_MESSAGE_1' => 'This product can only be ordered in packaging units of ',
 'DETAILS_VPE_MESSAGE_2' => 'purchased.',
@@ -49,13 +49,13 @@ $aLang = array(
 'EMAIL_ORDER_CUST_HTML_NONE' => 'NONE',
 'EMAIL_ORDER_CUST_HTML_PAYMENTCHARGEVAT1' => 'Payment Charge VAT',
 'EMAIL_ORDER_CUST_HTML_PAYMENTMETHOD' => 'Will be paid by:',
-'EMAIL_ORDER_CUST_HTML_PLUSTAX1' => 'plus tax.',
-'EMAIL_ORDER_CUST_HTML_PLUSTAX21' => 'plus tax.',
+'EMAIL_ORDER_CUST_HTML_PLUSTAX1' => 'plus ALV.',
+'EMAIL_ORDER_CUST_HTML_PLUSTAX21' => 'plus ALV.',
 'EMAIL_ORDER_CUST_HTML_SHIPPINGCARRIER' => 'Will be shipped with',
 'EMAIL_ORDER_CUST_HTML_SHIPPINGNET' => 'Shipping costs (w/o tax):',
-'EMAIL_ORDER_CUST_HTML_TAX1' => 'plus tax',
-'EMAIL_ORDER_CUST_HTML_TSPROTECTIONCHARGETAX1' => 'plus tax',
-'EMAIL_ORDER_OWNER_HTML_MESSAGE' => 'Message: ',
+'EMAIL_ORDER_CUST_HTML_TAX1' => 'plus ALV.',
+'EMAIL_ORDER_CUST_HTML_TSPROTECTIONCHARGETAX1' => 'plus ALV.',
+'EMAIL_ORDER_OWNER_HTML_MESSAGE' => 'Viesti:',
 'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>PAYMENT INFORMATION SWITCHED OFF</b> - To switch them on, please change application/views/[theme]/email_order_owner_html.tpl.',
 'EMAIL_SENDDOWNLOADS_DOWNLOADS_DESC' => 'Download your ordered files here.',
 'EMAIL_SENDDOWNLOADS_GREETING' => 'Hello',
@@ -64,25 +64,25 @@ $aLang = array(
 'EMAIL_SENDEDNOW_HTML_ARTNOMBER' => 'Art.No.:',
 'EMAIL_SENDEDNOW_HTML_ORDERNOMBER' => 'Order No.:',
 'EMAIL_SENDEDNOW_HTML_ORDERSHIPPEDTO' => 'The order is shipped to:',
-'EMAIL_SENDEDNOW_HTML_PRODUCT' => 'Product',
+'EMAIL_SENDEDNOW_HTML_PRODUCT' => 'Tuote',
 'EMAIL_SENDEDNOW_HTML_PRODUCTRATING' => 'Product Rating',
 'EMAIL_SENDEDNOW_HTML_REVIEW' => 'review',
 'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKING' => 'Your shipment tracking URL:',
 'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKINGURL' => 'click here',
 'EMAIL_SENDEDNOW_HTML_TS_RATINGS_RATEUS' => 'Please take a minute to rate our shop.',
-'EMAIL_SENDEDNOW_HTML_YUORTEAM1' => 'Your',
-'EMAIL_SENDEDNOW_HTML_YUORTEAM2' => 'Team',
+'EMAIL_SENDEDNOW_HTML_YUORTEAM1' => 'Sinun',
+'EMAIL_SENDEDNOW_HTML_YUORTEAM2' => 'Tiimi',
 'EMAIL_STOCKREMINDER_SUBJECT' => 'Stock low',
 'EMAIL_SUGGEST_HTML_MENYGREETINGS' => 'Kind regards,',
 'FOOTER_CATEGORIES' => 'CATEGORIES',
-'FOOTER_DISTRIBUTORS' => 'DISTRIBUTORS',
-'FOOTER_INFORMATION' => 'INFORMATION',
-'FOOTER_MANUFACTURERS' => 'BRANDS',
+'FOOTER_DISTRIBUTORS' => 'Tavarantoimittajat',
+'FOOTER_INFORMATION' => 'Tiedot',
+'FOOTER_MANUFACTURERS' => 'Tuotemerkit',
 'FOOTER_SERVICES' => 'SERVICE',
 'FORM_CONTACT_SEND' => 'Send password',
 'FORM_FIELDSET_USER_ACCOUNT_CONFIRMPWD' => 'Repeat password:',
 'FORM_LOGIN_ACCOUNT_FORGOTPWD' => 'Forgot password?',
-'FORM_NEWSLETTER_FIRSTNAME' => 'First name',
+'FORM_NEWSLETTER_FIRSTNAME' => 'Etunimi',
 'FORM_PRICEALARM_SEND' => 'Send',
 'FORM_PRIVATESALES_INVITE_FROM' => 'From: ',
 'FORM_PRIVATESALES_INVITE_MESSAGE1' => 'Hello, I was looking at',

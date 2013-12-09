@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (1100)
+ * @translators: admin (1100), vendingtechnik (81)
  */
 
 $sLangName  = 'Português do Brasil';
@@ -29,7 +29,7 @@ $sLangName  = 'Português do Brasil';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ATTENTION' => 'Attention, important',
+'ATTENTION' => 'Por favor, observe',
 'BUTTON_BEGIN_INSTALL' => 'Start installation',
 'BUTTON_DB_INSTALL' => 'Create database now',
 'BUTTON_LICENCE' => 'Continue',
@@ -44,15 +44,15 @@ $aLang = array(
 'ERROR_BAD_DEMODATA' => 'ERROR: Issue while inserting this SQL statements: ',
 'ERROR_BAD_SERIAL_NUMBER' => 'ERROR: Wrong license key!',
 'ERROR_BAD_SQL' => 'ERROR: Issue while inserting this SQL statements: ',
-'ERROR_CONFIG_FILE_IS_NOT_WRITABLE' => 'ERROR: %s/config.inc.php not writeable!',
+'ERROR_CONFIG_FILE_IS_NOT_WRITABLE' => 'ERRO: %s/cnfig.inc.php não gravável!',
 'ERROR_COULD_NOT_CREATE_DB' => 'ERROR: Database not available and also cannot be created!',
 'ERROR_COULD_NOT_FIND_FILE' => 'Setup could not find "%s"!',
 'ERROR_COULD_NOT_OPEN_CONFIG_FILE' => 'Could not open %s for reading! Please consult our FAQ, forum or contact OXID Support staff!',
 'ERROR_COULD_NOT_READ_FILE' => 'Setup could not open "%s" for reading!',
 'ERROR_COULD_NOT_WRITE_TO_FILE' => 'Setup could not write to "%s"!',
 'ERROR_DB_ALREADY_EXISTS' => 'ERROR: Seems there is already OXID eShop installed in database %s. Please delete it prior continuing!',
-'ERROR_DB_CONNECT' => 'ERROR: No database connection possible!',
-'ERROR_FILL_ALL_FIELDS' => 'ERROR: Please fill in all needed fields!',
+'ERROR_DB_CONNECT' => 'ERRO: Uma conexão para o banco de dados nao e possível!',
+'ERROR_FILL_ALL_FIELDS' => 'ERRO: Por favor, preencha todos os campos obrigatórios!',
 'ERROR_MYSQL_VERSION_DOES_NOT_FIT_REQUIREMENTS' => 'MySQL version does not fit system requiremens',
 'ERROR_NOT_AVAILABLE' => 'ERROR: %s not found!',
 'ERROR_NOT_WRITABLE' => 'ERROR: %s not writeable!',
@@ -60,7 +60,7 @@ $aLang = array(
 'ERROR_PASSWORDS_DO_NOT_MATCH' => 'Passwords do not match!',
 'ERROR_PASSWORD_TOO_SHORT' => 'Password is too short!',
 'ERROR_SETUP_CANCELLED' => 'Setup has been cancelled because you didn\'t accept the license conditions.',
-'ERROR_USER_NAME_DOES_NOT_MATCH_PATTERN' => 'Please enter a valid e-mail address!',
+'ERROR_USER_NAME_DOES_NOT_MATCH_PATTERN' => 'Por favor preencha uma endereço de Email válido!',
 'ERROR_VIEWS_CANT_CREATE' => 'ERROR: Can\'t create views. Please check your database user privileges.',
 'ERROR_VIEWS_CANT_DROP' => 'ERROR: Can\'t drop views. Please check your database user privileges.',
 'ERROR_VIEWS_CANT_SELECT' => 'ERROR: Can\'t select from views. Please check your database user privileges.',

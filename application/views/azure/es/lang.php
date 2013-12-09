@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (2202), afimage (504), diegotech (7), Espana (5), jmatos (31), jsmaster (6), nuelgoz (156)
+ * @translators: admin (2202), afimage (504), diegotech (7), djraptor (249), Espana (5), jmatos (31), jsmaster (6), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -56,23 +56,23 @@ $aLang = array(
 'EMAIL_ORDER_CUST_HTML_TAX1' => 'más IVA',
 'EMAIL_ORDER_CUST_HTML_TSPROTECTIONCHARGETAX1' => 'más IVA',
 'EMAIL_ORDER_OWNER_HTML_MESSAGE' => 'Mensaje:',
-'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>PAYMENT INFORMATION SWITCHED OFF</b> - To switch them on, please change application/views/[theme]/email_order_owner_html.tpl.',
-'EMAIL_SENDDOWNLOADS_DOWNLOADS_DESC' => 'Download your ordered files here.',
-'EMAIL_SENDDOWNLOADS_GREETING' => 'Hello',
+'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>INFORMACIÓN DE PAGO DESHABILITADO</b> - Para habilitarlo, cambia application/views/[theme]/email_order_owner_html.tpl.',
+'EMAIL_SENDDOWNLOADS_DOWNLOADS_DESC' => 'Descarga tus ficheros perdidos aquí.',
+'EMAIL_SENDDOWNLOADS_GREETING' => 'Hola',
 'EMAIL_SENDDOWNLOADS_PAYMENT_PENDING' => 'El pago de la orden todavía no es completa.',
-'EMAIL_SENDDOWNLOADS_SUBJECT' => 'Download links',
+'EMAIL_SENDDOWNLOADS_SUBJECT' => 'Enlaces de descarga',
 'EMAIL_SENDEDNOW_HTML_ARTNOMBER' => 'Articulo Nr.:',
-'EMAIL_SENDEDNOW_HTML_ORDERNOMBER' => 'Order No.:',
+'EMAIL_SENDEDNOW_HTML_ORDERNOMBER' => 'Pedido Nº:',
 'EMAIL_SENDEDNOW_HTML_ORDERSHIPPEDTO' => 'La orden es enviada a:',
-'EMAIL_SENDEDNOW_HTML_PRODUCT' => 'Product',
+'EMAIL_SENDEDNOW_HTML_PRODUCT' => 'Producto',
 'EMAIL_SENDEDNOW_HTML_PRODUCTRATING' => 'Valoración del producto',
-'EMAIL_SENDEDNOW_HTML_REVIEW' => 'review',
+'EMAIL_SENDEDNOW_HTML_REVIEW' => 'reseña',
 'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKING' => 'Su envío URL de seguimiento:',
-'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKINGURL' => 'click here',
+'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKINGURL' => 'click aquí',
 'EMAIL_SENDEDNOW_HTML_TS_RATINGS_RATEUS' => 'Por favor tome un momento para valorar nuestra tienda.',
-'EMAIL_SENDEDNOW_HTML_YUORTEAM1' => 'Your',
+'EMAIL_SENDEDNOW_HTML_YUORTEAM1' => 'Tu',
 'EMAIL_SENDEDNOW_HTML_YUORTEAM2' => 'equipo',
-'EMAIL_STOCKREMINDER_SUBJECT' => 'Stock low',
+'EMAIL_STOCKREMINDER_SUBJECT' => 'Bajo stock',
 'EMAIL_SUGGEST_HTML_MENYGREETINGS' => 'Muchos saludos',
 'FOOTER_CATEGORIES' => 'CATEGORÍAS',
 'FOOTER_DISTRIBUTORS' => 'DISTRIBUIDORES',
@@ -93,9 +93,9 @@ $aLang = array(
 'FORM_REGISTER_BILLINGADDRESS' => 'Dirección de facturación',
 'FORM_REGISTER_COMPLETEMARKEDFIELDS' => '(Por favor, complete todos los campos marcados con * class=req> span </ span>)',
 'FORM_REGISTER_IAGREETORIGHTOFWITHDRAWAL1' => 'Se me ha informado acerca de mi',
-'FORM_REGISTER_IAGREETORIGHTOFWITHDRAWAL3' => 'informed.',
+'FORM_REGISTER_IAGREETORIGHTOFWITHDRAWAL3' => 'informado.',
 'FORM_REGISTER_IAGREETOTERMS1' => 'Estoy de acuerdo con la',
-'FORM_REGISTER_IAGREETOTERMS3' => 'read and accept them.',
+'FORM_REGISTER_IAGREETOTERMS3' => 'leer y aceptarlos.',
 'FORM_SUGGEST_MESSAGE1' => 'Hola yo estaba mirando',
 'FORM_SUGGEST_MESSAGE2' => 'algo que se encuentra hoy y que pueden ser interesantes para usted. Basta con hacer clic en el enlace a continuación y que será dirigido a la tienda.',
 'FORM_USER_BILLINGADDRESS' => 'Dirección de facturación',
@@ -104,7 +104,7 @@ $aLang = array(
 'FORM_WISHLIST_SUGGEST_BUYFORME1' => 'Hola he creado una lista de regalos en',
 'FORM_WISHLIST_SUGGEST_BUYFORME2' => '. Estupendo si pudiera comprar algo para mí.',
 'FORM_WISHLIST_SUGGEST_ERRWRONGEMAIL' => 'Ha ocurrido un error enviando el correo electrónico - por favor consulte la dirección de email.',
-'fullDateFormat' => 'Y-m-d H:i:s',
+'fullDateFormat' => 'd-m-Y H:i:s',
 'grid' => 'Grid',
 'infogrid' => 'Doble rejilla',
 'line' => 'Línea',

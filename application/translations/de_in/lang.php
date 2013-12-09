@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (495), dsb (1), marco (4437), simoneschuppe (4), Thielo (1)
+ * @translators: admin (495), AWIDON (1), dsb (1), marco (4437), simoneschuppe (4), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';
@@ -343,7 +343,7 @@ $aLang = array(
 'LIST_BY' => 'eine Liste von',
 'LOADING' => 'Laden...',
 'LOGIN' => 'Anmelden',
-'LOGIN_ALREADY_CUSTOMER' => 'Falls Du schon Kunde bei uns bist, melde Dich bitte hier mit Deienr E-Mail-Adresse und Deinem Passwort an:',
+'LOGIN_ALREADY_CUSTOMER' => 'Falls Du schon Kunde bei uns bist, melde Dich bitte hier mit Deiner E-Mail-Adresse und Deinem Passwort an:',
 'LOGIN_DESCRIPTION' => 'Bitte mit E-Mail-Adresse/Kundennummer und Passwort einloggen.',
 'LOGIN_TO_ACCESS_GIFT_REGISTRY' => 'Für Wunschzettel bitte einloggen.',
 'LOGIN_TO_ACCESS_LISTMANIA' => 'Für die Lieblingsliste bitte einloggen.',

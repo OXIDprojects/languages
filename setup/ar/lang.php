@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: menhem-it (17), tarazi (33)
+ * @translators: menhem-it (146), tarazi (33)
  */
 
 $sLangName  = 'العربية';
@@ -29,21 +29,21 @@ $sLangName  = 'العربية';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ATTENTION' => 'Attention, important',
+'ATTENTION' => 'يرجى الملاحظة',
 'BUTTON_BEGIN_INSTALL' => 'Start installation',
-'BUTTON_DB_INSTALL' => 'Create database now',
+'BUTTON_DB_INSTALL' => 'الآن إنشاء قاعدة بيانات',
 'BUTTON_LICENCE' => 'Continue',
-'BUTTON_PROCEED_INSTALL' => 'Proceed with setup',
-'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Install demodata',
+'BUTTON_PROCEED_INSTALL' => 'بدء الإعداد',
+'BUTTON_RADIO_INSTALL_DB_DEMO' => 'تثبيت البيانات التجريبي',
 'BUTTON_RADIO_LICENCE_ACCEPT' => 'I accept license conditions.',
 'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'I do not accept license conditions.',
 'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => 'Do <strong>not</strong> install demodata',
 'BUTTON_START_INSTALL' => 'Restart setup',
-'BUTTON_WRITE_DATA' => 'Save and continue',
+'BUTTON_WRITE_DATA' => 'تخزين البيانات الآن',
 'BUTTON_WRITE_LICENCE' => 'Save license key',
 'ERROR_BAD_DEMODATA' => 'ERROR: Issue while inserting this SQL statements: ',
-'ERROR_BAD_SERIAL_NUMBER' => 'ERROR: Wrong license key!',
-'ERROR_BAD_SQL' => 'ERROR: Issue while inserting this SQL statements: ',
+'ERROR_BAD_SERIAL_NUMBER' => 'خطأ: الرقم التسلسلي خاطئة!',
+'ERROR_BAD_SQL' => 'خطأ: (بيانات التجريبي ) مشاكل مع أوامر SQL التالية :',
 'ERROR_CONFIG_FILE_IS_NOT_WRITABLE' => 'ERROR: %s/config.inc.php not writeable!',
 'ERROR_COULD_NOT_CREATE_DB' => 'ERROR: Database not available and also cannot be created!',
 'ERROR_COULD_NOT_FIND_FILE' => 'Setup could not find "%s"!',
@@ -58,7 +58,7 @@ $aLang = array(
 'ERROR_NOT_WRITABLE' => 'ERROR: %s not writeable!',
 'ERROR_OPENING_SQL_FILE' => 'ERROR: Can not open SQL file %s!',
 'ERROR_PASSWORDS_DO_NOT_MATCH' => 'Passwords do not match!',
-'ERROR_PASSWORD_TOO_SHORT' => 'Password is too short!',
+'ERROR_PASSWORD_TOO_SHORT' => 'كلمة المرور قصيرة جدا',
 'ERROR_SETUP_CANCELLED' => 'Setup has been cancelled because you didn\'t accept the license conditions.',
 'ERROR_USER_NAME_DOES_NOT_MATCH_PATTERN' => 'Please enter a valid e-mail address!',
 'ERROR_VIEWS_CANT_CREATE' => 'ERROR: Can\'t create views. Please check your database user privileges.',
@@ -179,7 +179,7 @@ $aLang = array(
 'TAB_2_DESC' => 'Confirm license conditions',
 'TAB_2_TITLE' => 'License conditions',
 'TAB_3_DESC' => 'Test database connection, building tables',
-'TAB_3_TITLE' => 'Database',
+'TAB_3_TITLE' => 'قاعدة بيانات',
 'TAB_4_DESC' => 'Configuring directories and selecting admin login',
 'TAB_4_TITLE' => 'Directory & login',
 'TAB_5_DESC' => 'Apply license key',

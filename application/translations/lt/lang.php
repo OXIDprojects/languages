@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (19), akasauskas (14), gvidas123 (1), linasg (3), muslimukas (5), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
+ * @translators: abejingas (188), agladutis (19), akasauskas (14), gvidas123 (1), linasg (3), muslimukas (8), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
  */
 
 $sLangName  = 'Lietuvių';
@@ -79,11 +79,11 @@ $aLang = array(
 'BASKET' => 'Krepšelis',
 'BASKET_2' => 'Peržiūrėti',
 'BASKET_EMPTY' => 'Krepšelis yra tuščias.',
-'BASKET_TOTAL_GIFTCARD_COSTS' => 'Greeting Card',
+'BASKET_TOTAL_GIFTCARD_COSTS' => 'Sveikinimų atvirukas',
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Greeting Card (net)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
 'BASKET_TOTAL_PLUS_VAT' => 'su PVM',
-'BASKET_TOTAL_WRAPPING_COSTS' => 'Gift Wrapping',
+'BASKET_TOTAL_WRAPPING_COSTS' => 'Dovanos pakavimas',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Gift Wrapping (net)',
 'BIC' => 'BIC:',
 'BILLING_ADDRESS' => 'Sąskaitos adresas',
@@ -837,7 +837,7 @@ Patiktinkite adresus.',
 'WRITE_PRODUCT_REVIEW' => 'Palikti atiliepimą apie prekę',
 'WRITE_REVIEW' => 'Palikti atsiliepimą.',
 'WRITE_REVIEW_2' => 'Palikti atsiliepimą!',
-'YEAR' => 'Year',
+'YEAR' => 'Metai',
 'YES' => 'Taip',
 'YOUR_EMAIL_ADDRESS' => 'Jūsų el. pašto adresas:',
 'YOUR_GREETING_CARD' => 'Jūsų sveikinimo atvirukas:',

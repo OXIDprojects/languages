@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (3161), dave2005 (74), inquisitor8 (298), RSee (1318), SYSKO (8)
+ * @translators: admin (3161), dave2005 (76), inquisitor8 (298), RSee (1318), SYSKO (8)
  */
 
 $sLangName  = 'Česky';
@@ -957,7 +957,7 @@ $aLang = array(
 'NEWSLETTER_PREVIEW_HTML' => 'HTML',
 'NEWSLETTER_PREVIEW_PLAINTEXT' => 'Prostý text',
 'NEWSLETTER_SELECTION_SELMAILRESAVER' => 'Vybrání příjemci emailu',
-'NEWSLETTER_SELECTION_SENDNEWS' => 'Odeslat Novniky',
+'NEWSLETTER_SELECTION_SENDNEWS' => 'Odeslat novinky',
 'NEWSLETTER_SELECTION_USEDGROUP' => 'Použité uživatelské skupiny:',
 'NEWSLETTER_SEND_SEND1' => 'Odeslat',
 'NEWSLETTER_SEND_SEND2' => 'všem',

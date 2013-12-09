@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: crashover (330), fifo (9), marco (1), val (933)
+ * @translators: crashover (330), fifo (9), marco (1), Marcus77 (35), val (933)
  */
 
 $sLangName  = 'Български';
@@ -81,7 +81,7 @@ $aLang = array(
 'FOOTER_SERVICES' => 'SERVICE',
 'FORM_CONTACT_SEND' => 'Send password',
 'FORM_FIELDSET_USER_ACCOUNT_CONFIRMPWD' => 'Repeat password:',
-'FORM_LOGIN_ACCOUNT_FORGOTPWD' => 'Forgot password?',
+'FORM_LOGIN_ACCOUNT_FORGOTPWD' => 'Забравена парола',
 'FORM_NEWSLETTER_FIRSTNAME' => 'First name',
 'FORM_PRICEALARM_SEND' => 'Изпрати',
 'FORM_PRIVATESALES_INVITE_FROM' => 'От:',
@@ -98,7 +98,7 @@ $aLang = array(
 'FORM_REGISTER_IAGREETOTERMS3' => 'read and accept them.',
 'FORM_SUGGEST_MESSAGE1' => 'Hello, I was looking at',
 'FORM_SUGGEST_MESSAGE2' => 'today and found something that might be interesting for you. Just click on the link below and you will be directed to the shop.',
-'FORM_USER_BILLINGADDRESS' => 'Billing address',
+'FORM_USER_BILLINGADDRESS' => 'Адрес за получаване на фактура',
 'FORM_USER_PASSWORD_CONFIRMPASSWORD' => 'Repeat password:',
 'FORM_WISHLIST_SEARCH_SEARCH' => 'Search now',
 'FORM_WISHLIST_SUGGEST_BUYFORME1' => 'Hi, I created a Gift Registry at',
@@ -120,9 +120,9 @@ $aLang = array(
 'PAGE_CHECKOUT_BASKETCONTENTS_COUPONNOTACCEPTED2' => 'has been refused.',
 'PAGE_CHECKOUT_BASKETCONTENTS_GRANDTOTAL' => 'Sub total',
 'PAGE_CHECKOUT_BASKETCONTENTS_PAYMENTTAX1' => 'Surcharge VAT',
-'PAGE_CHECKOUT_BASKETCONTENTS_PAYMENTTAX2' => '% Amount',
+'PAGE_CHECKOUT_BASKETCONTENTS_PAYMENTTAX2' => '% Сума',
 'PAGE_CHECKOUT_BASKETCONTENTS_PLUSTAX1' => 'plus tax',
-'PAGE_CHECKOUT_BASKETCONTENTS_PLUSTAX2' => '% Amount',
+'PAGE_CHECKOUT_BASKETCONTENTS_PLUSTAX2' => '% Сума',
 'PAGE_CHECKOUT_BASKETCONTENTS_REASON' => 'Reason',
 'PAGE_CHECKOUT_BASKETCONTENTS_TAX1' => '+',
 'PAGE_CHECKOUT_BASKETCONTENTS_TAX2' => '% ДДС',
@@ -139,7 +139,7 @@ $aLang = array(
 'PAGE_CHECKOUT_PAYMENT_ACCOUNTNUMBER' => 'Bank account number:',
 'PAGE_CHECKOUT_PAYMENT_COMLETEALLFIELDS' => 'Please fill all fields properly!',
 'PAGE_CHECKOUT_PAYMENT_EMPTY_TEXT' => '<p>Currently we have no shipping method set up for this country.</p> <p>We are aiming to find a possible delivery method and we will inform you as soon as possible via e-mail about the result, including further information about delivery costs.</p>',
-'PAGE_CHECKOUT_PAYMENT_INCLUDEVAT' => 'incl. VAT',
+'PAGE_CHECKOUT_PAYMENT_INCLUDEVAT' => 'С ДДС',
 'PAGE_CHECKOUT_PAYMENT_PLUSCODCHARGE1' => 'plus',
 'PAGE_CHECKOUT_PAYMENT_PLUSCODCHARGE2' => 'COD Charge',
 'PAGE_CHECKOUT_PAYMENT_TSPROTECTIONTEXT' => 'The Trusted Shops buyer protection secures your online purchase. I agree with the transfer and',

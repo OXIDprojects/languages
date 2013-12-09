@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (1100)
+ * @translators: admin (1100), vendingtechnik (81)
  */
 
 $sLangName  = 'Português do Brasil';
@@ -31,7 +31,7 @@ $aLang = array(
 'charset' => 'utf-8',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'De momento, não existem listas Listmania. Para criar uma, clique',
 'ADD_RECOMM_ADDRECOMMLINK2' => 'aqui',
-'allBrands' => 'All Brands',
+'allBrands' => 'Todas as Marcas',
 'byBrand' => 'Por marca',
 'byManufacturer' => 'Por marca',
 'byVendor' => 'Por distribuidor',
@@ -49,16 +49,16 @@ $aLang = array(
 'EMAIL_ORDER_CUST_HTML_NONE' => 'NENHUM',
 'EMAIL_ORDER_CUST_HTML_PAYMENTCHARGEVAT1' => 'Taxa de Iva para pagamento',
 'EMAIL_ORDER_CUST_HTML_PAYMENTMETHOD' => 'Will be paid by:',
-'EMAIL_ORDER_CUST_HTML_PLUSTAX1' => 'plus tax.',
-'EMAIL_ORDER_CUST_HTML_PLUSTAX21' => 'plus tax.',
+'EMAIL_ORDER_CUST_HTML_PLUSTAX1' => 'acrescido ICMS',
+'EMAIL_ORDER_CUST_HTML_PLUSTAX21' => 'acrescido ICMS',
 'EMAIL_ORDER_CUST_HTML_SHIPPINGCARRIER' => 'Will be shipped with',
-'EMAIL_ORDER_CUST_HTML_SHIPPINGNET' => 'Shipping costs (w/o tax):',
-'EMAIL_ORDER_CUST_HTML_TAX1' => 'plus tax',
-'EMAIL_ORDER_CUST_HTML_TSPROTECTIONCHARGETAX1' => 'plus tax',
+'EMAIL_ORDER_CUST_HTML_SHIPPINGNET' => 'Frete (líquido):',
+'EMAIL_ORDER_CUST_HTML_TAX1' => 'acrescido ICMS',
+'EMAIL_ORDER_CUST_HTML_TSPROTECTIONCHARGETAX1' => 'acrescido ICMS',
 'EMAIL_ORDER_OWNER_HTML_MESSAGE' => 'Message: ',
 'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>PAYMENT INFORMATION SWITCHED OFF</b> - To switch them on, please change application/views/[theme]/email_order_owner_html.tpl.',
 'EMAIL_SENDDOWNLOADS_DOWNLOADS_DESC' => 'Download your ordered files here.',
-'EMAIL_SENDDOWNLOADS_GREETING' => 'Hello',
+'EMAIL_SENDDOWNLOADS_GREETING' => 'Bon Dia',
 'EMAIL_SENDDOWNLOADS_PAYMENT_PENDING' => 'Payment of the order is not yet complete.',
 'EMAIL_SENDDOWNLOADS_SUBJECT' => 'Download links',
 'EMAIL_SENDEDNOW_HTML_ARTNOMBER' => 'Art.No.:',
@@ -70,9 +70,9 @@ $aLang = array(
 'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKING' => 'Your shipment tracking URL:',
 'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKINGURL' => 'click here',
 'EMAIL_SENDEDNOW_HTML_TS_RATINGS_RATEUS' => 'Please take a minute to rate our shop.',
-'EMAIL_SENDEDNOW_HTML_YUORTEAM1' => 'Your',
-'EMAIL_SENDEDNOW_HTML_YUORTEAM2' => 'Team',
-'EMAIL_STOCKREMINDER_SUBJECT' => 'Stock low',
+'EMAIL_SENDEDNOW_HTML_YUORTEAM1' => 'Seu',
+'EMAIL_SENDEDNOW_HTML_YUORTEAM2' => 'Equipe',
+'EMAIL_STOCKREMINDER_SUBJECT' => 'Estoque baixo',
 'EMAIL_SUGGEST_HTML_MENYGREETINGS' => 'Kind regards,',
 'FOOTER_CATEGORIES' => 'CATEGORIAS',
 'FOOTER_DISTRIBUTORS' => 'DISTRIBUIDORES',

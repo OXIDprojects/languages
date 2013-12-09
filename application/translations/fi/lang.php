@@ -19,10 +19,10 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: 
+ * @translators: AWIDON (21)
  */
 
-$sLangName  = '簡體中文';
+$sLangName  = 'Suomi';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
@@ -30,7 +30,7 @@ $sLangName  = '簡體中文';
 $aLang = array(
 'charset' => 'utf-8',
 'ACCESSORIES' => 'Accessories',
-'ACCOUNT' => 'Account',
+'ACCOUNT' => 'Tili',
 'ACCOUNT_INFORMATION' => 'Account information',
 'ADD' => 'add',
 'ADDITIONAL_INFO' => 'Additional Info:',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (1100)
+ * @translators: admin (1100), vendingtechnik (81)
  */
 
 $sLangName  = 'Português do Brasil';
@@ -56,7 +56,7 @@ $aLang = array(
 'ALREADY_CUSTOMER' => 'Já sou um cliente',
 'APPLAY' => 'Aplicar',
 'ARTNUM' => 'Número do produto',
-'ART_NUMBER' => 'Art. No.:',
+'ART_NUMBER' => 'cód. do prod:',
 'ATENTION_GREETING_CARD' => 'Cartão saudação:',
 'AUTHOR' => 'Autor',
 'AVAILABLE_ON' => 'Disponível em',
@@ -82,7 +82,7 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS' => 'Greeting Card',
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Greeting Card (net)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
-'BASKET_TOTAL_PLUS_VAT' => 'plus VAT',
+'BASKET_TOTAL_PLUS_VAT' => 'acrescido ICMS',
 'BASKET_TOTAL_WRAPPING_COSTS' => 'Gift Wrapping',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Gift Wrapping (net)',
 'BIC' => 'BIC:',
@@ -133,7 +133,7 @@ $aLang = array(
 'CONTINUE_SHOPPING' => 'Continuar a comprar',
 'CONTINUE_TO_NEXT_STEP' => 'Continuar para o próximo passo',
 'COOKIE_NOTE' => 'This online shop is using cookies to give you the best shopping expierience. Thereby for example the session information or language setting are stored on your computer. Without cookies the range of the online shop\'s functionality is limited.',
-'COOKIE_NOTE_CLOSE' => 'Close',
+'COOKIE_NOTE_CLOSE' => 'Fechar',
 'COOKIE_NOTE_DISAGREE' => 'If you do not agree, please click here.',
 'COUNTRY' => 'País:',
 'COUPON' => 'Cupão',
@@ -175,8 +175,8 @@ $aLang = array(
 'DO_NOT_WANT_CREATE_ACCOUNT' => '(Não pretendo criar uma conta cliente.)',
 'EDIT' => 'editar',
 'EDIT_TAGS' => 'Editar tags',
-'EMAIL' => 'E-mail',
-'EMAIL_2' => 'E-mail:',
+'EMAIL' => 'E-Mail',
+'EMAIL_2' => 'E-Mail:',
 'EMAIL_ADDRESS' => 'Endereço de E-mail',
 'EMAIL_ADDRESS_2' => 'Endereço de  E-mail:',
 'ENABLE' => 'Permitir',
@@ -213,7 +213,7 @@ $aLang = array(
 'ERROR_MESSAGE_GUESTBOOKENTRY_ERRMAXIMUMNOMBEREXCEEDED' => 'Erro: Excedeu o número máximo de comentários por dia.',
 'ERROR_MESSAGE_GUESTBOOKENTRY_ERRREVIEWCONTAINSNOTEXT' => 'Erro: O seu comentário não tem texto.',
 'ERROR_MESSAGE_GUESTBOOKENTRY_ERRUNDEFINEDSHOP' => 'Erro: Loja indefinida.',
-'ERROR_MESSAGE_INCORRECT_DATE' => 'Incorrect date',
+'ERROR_MESSAGE_INCORRECT_DATE' => 'Data errada',
 'ERROR_MESSAGE_INPUT_EMPTYPASS' => 'Por favor, introduza a password.',
 'ERROR_MESSAGE_INPUT_INVALIDAMOUNT' => 'Por favor, introduza uma quantia válida para este produto!',
 'ERROR_MESSAGE_INPUT_NOTALLFIELDS' => 'Especifique um valor para este campo obrigatório.',

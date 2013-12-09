@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: AWIDON (746), buby (113)
+ * @translators: AWIDON (752), buby (113)
  */
 
 $sLangName  = 'Hrvatski';
@@ -30,7 +30,7 @@ $sLangName  = 'Hrvatski';
 $aLang = array(
 'charset' => 'utf-8',
 'ADD_RECOMM_ADDRECOMMLINK1' => 'There is no Listmania lists at the moment. To create new, click',
-'ADD_RECOMM_ADDRECOMMLINK2' => 'Ovdje',
+'ADD_RECOMM_ADDRECOMMLINK2' => 'ovdje',
 'allBrands' => 'Označi sve',
 'byBrand' => 'By Brand',
 'byManufacturer' => 'By Manufacturer',
@@ -49,12 +49,12 @@ $aLang = array(
 'EMAIL_ORDER_CUST_HTML_NONE' => 'Nema',
 'EMAIL_ORDER_CUST_HTML_PAYMENTCHARGEVAT1' => 'Payment Charge VAT',
 'EMAIL_ORDER_CUST_HTML_PAYMENTMETHOD' => 'Will be paid by:',
-'EMAIL_ORDER_CUST_HTML_PLUSTAX1' => 'plus PDV',
-'EMAIL_ORDER_CUST_HTML_PLUSTAX21' => 'plus PDV',
+'EMAIL_ORDER_CUST_HTML_PLUSTAX1' => 'plus PDV.',
+'EMAIL_ORDER_CUST_HTML_PLUSTAX21' => 'plus PDV.',
 'EMAIL_ORDER_CUST_HTML_SHIPPINGCARRIER' => 'Will be shipped with',
 'EMAIL_ORDER_CUST_HTML_SHIPPINGNET' => 'Shipping costs (w/o tax):',
-'EMAIL_ORDER_CUST_HTML_TAX1' => 'plus PDV',
-'EMAIL_ORDER_CUST_HTML_TSPROTECTIONCHARGETAX1' => 'plus PDV',
+'EMAIL_ORDER_CUST_HTML_TAX1' => 'plus PDV.',
+'EMAIL_ORDER_CUST_HTML_TSPROTECTIONCHARGETAX1' => 'plus PDV.',
 'EMAIL_ORDER_OWNER_HTML_MESSAGE' => 'Message: ',
 'EMAIL_ORDER_OWNER_HTML_PAYMENTINFOOFF' => '<b>PAYMENT INFORMATION SWITCHED OFF</b> - To switch them on, please change application/views/[theme]/email_order_owner_html.tpl.',
 'EMAIL_SENDDOWNLOADS_DOWNLOADS_DESC' => 'Download your ordered files here.',
@@ -70,7 +70,7 @@ $aLang = array(
 'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKING' => 'Your shipment tracking URL:',
 'EMAIL_SENDEDNOW_HTML_SHIPMENTTRACKINGURL' => 'click here',
 'EMAIL_SENDEDNOW_HTML_TS_RATINGS_RATEUS' => 'Please take a minute to rate our shop.',
-'EMAIL_SENDEDNOW_HTML_YUORTEAM1' => 'Your',
+'EMAIL_SENDEDNOW_HTML_YUORTEAM1' => 'Vas',
 'EMAIL_SENDEDNOW_HTML_YUORTEAM2' => 'Tim',
 'EMAIL_STOCKREMINDER_SUBJECT' => 'Stock low',
 'EMAIL_SUGGEST_HTML_MENYGREETINGS' => 'Kind regards,',

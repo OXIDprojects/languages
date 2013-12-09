@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: menhem-it (17), tarazi (33)
+ * @translators: menhem-it (146), tarazi (33)
  */
 
 $sLangName  = 'العربية';
@@ -40,16 +40,16 @@ $aLang = array(
 'ADDRESS_2' => 'العنوان:',
 'ADD_TAGS' => 'إضافة Tag:',
 'ADD_THIS_PAGE_TO' => 'إضافة هذه الصفحة إلى',
-'ADD_THIS_PAGE_TO_WEBNEWS' => 'Add this page to Webnews',
-'ADD_THIS_PAGE_TO_YIEEHA' => 'Add this page to Yieeha',
+'ADD_THIS_PAGE_TO_WEBNEWS' => 'إضافة هذه الصفحة إلى Webnews',
+'ADD_THIS_PAGE_TO_YIEEHA' => 'إضافة هذه الصفحة إلى Yieeha',
 'ADD_TO_CART' => 'أضف إلى سلة التسوق',
 'ADD_TO_CART_2' => 'أضف إلى سلة التسوق',
 'ADD_TO_GIFT_REGISTRY' => 'Add to Gift Registry',
 'ADD_TO_LIST' => 'أضف إلى قائمة المفضلة',
-'ADD_TO_LISTMANIA_LIST' => 'Add to Listmania List',
-'ADD_TO_WISH_LIST' => 'Add to Wish List',
-'ADD_WRAPPING' => 'Add gift wrap',
-'ADD_YOUR_COMMENTS' => 'Add your comments',
+'ADD_TO_LISTMANIA_LIST' => 'أضف إلى قائمة Listmania',
+'ADD_TO_WISH_LIST' => 'أضف إلى قائمة المفضلة',
+'ADD_WRAPPING' => 'إضافة لف الهدايا',
+'ADD_YOUR_COMMENTS' => 'أضف تعليقاتك',
 'ALL' => 'All',
 'ALL_LISTMANIA' => 'all Listmania',
 'ALREADY_ADDED_TAG' => 'You already tagged this text',
