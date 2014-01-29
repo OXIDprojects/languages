@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (320), dsb (1), FlashLight (13)
+ * @translators: dsb (1), FlashLight (13)
  */
 
 $sLangName  = 'Slovenščina';

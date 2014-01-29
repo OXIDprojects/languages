@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (1217), bRanzo (210), DC-NICO (41)
+ * @translators: bRanzo (210), DC-NICO (41), ET (163)
  */
 
 $sLangName  = 'Italiano';
@@ -218,7 +218,7 @@ $aLang = array(
 'HELP_SHOP_RDFA_GEO_LONGITUDE' => 'The longitude of the store as part of geo position. Please enter numbers only.',
 'HELP_SHOP_RDFA_GLN' => 'Global Location Number (GLN) for the company. The Global Location Number is a thirteen-digit number used to identify parties and physical locations.',
 'HELP_SHOP_RDFA_ISIC' => 'The International Standard of Industrial Classification of All Economic Activities (ISIC) code for your company. See http://unstats.un.org/unsd/cr/registry/isic-4.asp.',
-'HELP_SHOP_RDFA_LOGO_URL' => 'The Web address (URL) of a logo or image.',
+'HELP_SHOP_RDFA_LOGO_URL' => 'L\'indirizzo Web (URL) di un logo o immagine.',
 'HELP_SHOP_RDFA_NAICS' => 'North American Industry Classification System (NAICS) code for your company. See http://www.census.gov/eos/www/naics/.',
 'HELP_SHOP_RDFA_RATING_MAX' => 'Possible maximum value refer to the scale used for ratings in your shop. This value is not the highest current rating of a product!',
 'HELP_SHOP_RDFA_RATING_MIN' => 'Possible minimum value refer to the scale used for ratings in your shop. This value is not the lowest current rating of a product!',
@@ -237,7 +237,7 @@ $aLang = array(
 'HELP_SHOP_SYSTEM_DISABLENAVBARS' => 'If this setting is checked, most navigation elements aren\'t shown during checkout. Thereby users aren\'t distracted unnecessarily during checkout.',
 'HELP_SHOP_SYSTEM_INLINEIMGEMAIL' => 'If the setting is checked, the pictures in e-mails are sent together with the e-mail. If the setting is unchecked, the pictures are downloaded by the e-mail program when the e-mail is opened.',
 'HELP_SHOP_SYSTEM_ISERVERTIMESHIFT' => 'The server the eShop is running on can be in a different time zone. With this setting the time shift can be adjusted: Enter the amount of hours that are to be added/subtracted from the server time, e. g. <kdb>+2</kdb> or <kdb>-2</kdb>',
-'HELP_SHOP_SYSTEM_LDAP' => 'Please edit file core/oxldap.php.',
+'HELP_SHOP_SYSTEM_LDAP' => 'Modificare il file core/oxldap.php.',
 'HELP_SHOP_SYSTEM_OTHERCOUNTRYORDER' => 'Here you can set if orders can be made in countries for which no shipping costs are defined:<ul><li>If the setting is checked, users can order: The users are notified that they are informed about the shipping costs manually.</li><li>If the setting is unchecked, users from countries for which no shipping costs are defined cannot order.</li></ul>',
 'HELP_SHOP_SYSTEM_SHOP_LOCATION' => 'Please choose the market to which shop is focused. According to it, additional eCommerce Services will be loaded from OXID server. Do not forget to enable option "Load additional Information from OXID server" in Master Settings -> Core Settings -> Settings -> Administration',
 'HELP_SHOP_SYSTEM_SHOWVARIANTREVIEWS' => 'This setting affects how reviews for variants are handled: If the setting is checked, remarks from variants are also shown at the parent product.',

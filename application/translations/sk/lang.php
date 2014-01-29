@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (3114), DominikS (403)
+ * @translators: DominikS (404)
  */
 
 $sLangName  = 'Slovenčina';
@@ -808,7 +808,7 @@ $aLang = array(
 'VALID_UNTIL' => 'Platné do:',
 'VAT' => 'DPH',
 'VAT_ID_NUMBER' => 'Kód DPH:',
-'VAT_MESSAGE_ID_NOT_VALID' => 'VAT ID is invalid',
+'VAT_MESSAGE_ID_NOT_VALID' => 'IČ DPH je neplatné',
 'VENDOR' => 'Dodávateľ',
 'VENDOR_S' => 'Dodávateľ: %s',
 'VERIFICATION_CODE' => 'Overovací kód',

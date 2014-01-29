@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (1217), bRanzo (210), DC-NICO (41)
+ * @translators: bRanzo (210), DC-NICO (41), ET (163)
  */
 
 $sLangName  = 'Italiano';
@@ -167,7 +167,7 @@ $aLang = array(
 'PAGE_WISHLIST_PRODUCTS_PRODUCTS1' => 'These products are on the wish list of',
 'PAGE_WISHLIST_PRODUCTS_PRODUCTS2' => '. If you want to please him/her, purchase one or multiple of these products.',
 'searchResult' => 'Search result for "%s"',
-'simpleDateFormat' => 'Y-m-d',
+'simpleDateFormat' => 'd-m-Y',
 'usrRegistered' => 'User will be registered after he provided his password',
 'view' => 'View',
 'WIDGET_FOOTER_MANUFACTURERS_MORE' => 'More ...',

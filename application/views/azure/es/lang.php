@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (2202), afimage (504), diegotech (7), djraptor (249), Espana (5), jmatos (31), jsmaster (6), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (418), Espana (5), ET (212), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -167,12 +167,12 @@ $aLang = array(
 'PAGE_WISHLIST_PRODUCTS_PRODUCTS1' => 'Estos productos están en la lista de deseos de',
 'PAGE_WISHLIST_PRODUCTS_PRODUCTS2' => '. Si quieres agradar a Dios / ella una compra o varios de estos productos.',
 'searchResult' => 'Resultado de la búsqueda para% s',
-'simpleDateFormat' => 'Y-m-d',
+'simpleDateFormat' => 'd-m-Y',
 'usrRegistered' => 'El usuario será registrado después de que él siempre su contraseña',
 'view' => 'Ver',
-'WIDGET_FOOTER_MANUFACTURERS_MORE' => 'More ...',
+'WIDGET_FOOTER_MANUFACTURERS_MORE' => 'Más ...',
 'WIDGET_LOGINBOX_LOGIN' => 'Iniciar sesión',
-'WIDGET_PRODUCT_PRODUCT_DETAILS' => 'Product details',
+'WIDGET_PRODUCT_PRODUCT_DETAILS' => 'Detalles del producto',
 'WIDGET_SERVICES_GUESTBOOK' => 'Libro de visitas',
 'WIDGET_SERVICES_HOME' => 'Inicio',
 'WIDGET_TRUSTEDSHOPS_ITEM_ALTTEXT' => 'Más información ...',

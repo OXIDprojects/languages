@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: admin (1217), bRanzo (210), DC-NICO (41)
+ * @translators: bRanzo (210), DC-NICO (41), ET (163)
  */
 
 $sLangName  = 'Italiano';
@@ -74,29 +74,29 @@ $aLang = array(
 'MOD_BUG53632' => 'Possibili problemi relativi al bug 53562 di PHP!',
 'MOD_CURL' => 'cURL',
 'MOD_FILE_UPLOADS' => 'l\'upload di files è abilitato (file_uploads)',
-'MOD_GD_INFO' => 'GDlib v2 con supporto JPEG',
-'MOD_INI_SET' => 'ini_set allowed',
+'MOD_GD_INFO' => 'GDlib v2 [v1] con supporto JPEG',
+'MOD_INI_SET' => 'ini_set consentito',
 'MOD_I_CONV' => 'ICONV',
 'MOD_J_SON' => 'JSON',
 'MOD_LIB_XML2' => 'libxml2',
 'MOD_MB_STRING' => 'mbstring',
 'MOD_MEMORY_LIMIT' => 'PHP Memory limit (min. 14MB, 30MB recommended)',
 'MOD_MOD_REWRITE' => 'modulo mod_rewrite di Apache',
-'MOD_MYSQL_CONNECT' => 'MySQL client connector for MySQL 5',
+'MOD_MYSQL_CONNECT' => 'MySQL connettore del cliente per MySQL 5',
 'MOD_OPEN_SSL' => 'OpenSSL',
 'MOD_PHP4_COMPAT' => 'Zend compatibility mode must be off',
 'MOD_PHP_CONFIG' => 'configurazione PHP',
 'MOD_PHP_EXTENNSIONS' => 'estensioni PHP',
-'MOD_PHP_VERSION' => 'PHP version at least 5.2.10',
+'MOD_PHP_VERSION' => 'PHP versione almeno 5.2.10',
 'MOD_PHP_XML' => 'DOM',
 'MOD_REGISTER_GLOBALS' => 'il parametro register_globals dev\'essere impostato su OFF',
-'MOD_REQUEST_URI' => 'REQUEST_URI set',
-'MOD_SERVER_CONFIG' => 'Server configuration',
+'MOD_REQUEST_URI' => 'REQUEST_URI insieme',
+'MOD_SERVER_CONFIG' => 'Configurazione del server',
 'MOD_SERVER_PERMISSIONS' => 'Files/folders access rights',
-'MOD_SESSION_AUTOSTART' => 'session.auto_start must be off',
+'MOD_SESSION_AUTOSTART' => 'session.auto_start deve essere spento',
 'MOD_SOAP' => 'SOAP',
 'MOD_TOKENIZER' => 'Tokenizer',
-'MOD_UNICODE_SUPPORT' => 'UTF-8 support',
+'MOD_UNICODE_SUPPORT' => 'Supporto UTF-8',
 'MOD_ZEND_OPTIMIZER' => 'Zend Optimizer or Zend Guard Loader installed',
 'MOD_ZEND_PLATFORM_OR_SERVER' => 'Zend Platform or Zend Server installed',
 'PRIVACY_POLICY' => 'privacy statements',
@@ -107,9 +107,9 @@ $aLang = array(
 'SELECT_SETUP_LANG' => 'Installation language',
 'SELECT_SETUP_LANG_HINT' => '. If needed, activate easily more languages in admin.',
 'SELECT_SETUP_LANG_SUBMIT' => 'Select',
-'SELECT_SHOP_LANG' => 'Shop language',
+'SELECT_SHOP_LANG' => 'Negozio lingua',
 'SELECT_SHOP_LANG_HINT' => 'If needed, activate easily more languages in admin.',
-'SELECT_SHOP_LOCATION' => 'Your market',
+'SELECT_SHOP_LOCATION' => 'Vostro mercato',
 'SELECT_SHOP_LOCATION_HINT' => 'Please choose the market to which shop is focused. According to it, additional eCommerce Services will be loaded from OXID server, if you allow that.',
 'SETUP_CONFIG_PERMISSIONS' => 'Due to security reasons put your config.inc.php file to read-only mode!',
 'SETUP_DIR_DELETE_NOTICE' => 'Per motivi di sicurezza ti invitiamo ad eliminare la directory <strong>setup</strong>',
@@ -118,15 +118,16 @@ $aLang = array(
 'STEP_0_ERROR_URL' => 'http://www.oxid-esales.com/en/products/community-edition/system-requirements',
 'STEP_0_TEXT' => '<ul class="req"><li class="pass"> - Il sistema soddisfa tutti i requisiti.</li><li class="pmin"> - Il sistema soddisfa parzialmente i requisiti. Tuttavia OXID eShop può essere installato ed usato...</li><li class="fail"> - Il sistema non soddisfa i requisiti. OXID eShop non può funzionare e non verrà avviata l\'installazione.</li><li class="null"> - Impossibile eseguire il controllo dei requisiti.</ul>',
 'STEP_0_TITLE' => 'Controllo dei requisiti di sistema',
-'STEP_1_ADDRESS' => 'OXID eSales AG<br> 
-Bertoldstr. 48<br> 
-79098 Freiburg<br>                                                    Deutschland<br>\'',
+'STEP_1_ADDRESS' => 'OXID eSales AG<br>
+                                                    Bertoldstr. 48<br>
+                                                    79098 Freiburg<br>
+                                                    Deutschland<br>',
 'STEP_1_CHECK_UPDATES' => 'Controlla regolarmente gli aggiornamenti',
 'STEP_1_DESC' => 'Benvenuto al processo di installazione di OXID eShop',
 'STEP_1_TEXT' => 'Please read carefully the following instructions to guarantee a smooth installation.
                                                     Wishes for best success in using your OXID eShop by',
-'STEP_1_TITLE' => 'Welcome',
-'STEP_2_TITLE' => 'License conditions',
+'STEP_1_TITLE' => 'Benvenuti',
+'STEP_2_TITLE' => 'Condizioni di licenza',
 'STEP_3_1_CREATING_TABLES' => 'Creating tables, applying data ...',
 'STEP_3_1_DB_CONNECT_IS_OK' => 'Database connection successfully tested ...',
 'STEP_3_1_DB_CREATE_IS_OK' => 'Database %s successfully created ...',
@@ -151,7 +152,7 @@ Bertoldstr. 48<br>
 'STEP_4_1_DATA_WAS_WRITTEN' => 'Check and writing data successful. Please wait ...',
 'STEP_4_1_TITLE' => 'Directories - being created ...',
 'STEP_4_ADMIN_LOGIN_NAME' => 'Administrator e-mail (used as login name)',
-'STEP_4_ADMIN_PASS' => 'Administrator password',
+'STEP_4_ADMIN_PASS' => 'Password amministratore',
 'STEP_4_ADMIN_PASS_CONFIRM' => 'Confirm Administrator password',
 'STEP_4_ADMIN_PASS_MINCHARS' => 'freely selectable, min. 6 chars',
 'STEP_4_DESC' => 'Please provide neccesary data for running OXID eShop:',
@@ -164,7 +165,7 @@ Bertoldstr. 48<br>
 'STEP_5_DESC' => 'Please confirm license key:',
 'STEP_5_LICENCE_DESC' => 'The provided key is valid for 30 days. After this period all of your changes remain if you insert a valid license key.',
 'STEP_5_LICENCE_KEY' => 'License key',
-'STEP_5_TITLE' => 'OXID eShop license',
+'STEP_5_TITLE' => 'Licenza di Oxid eshop',
 'STEP_6_DESC' => 'OXID eShop installato correttamente',
 'STEP_6_LINK_TO_SHOP' => 'Vai al tuo eShop OXID',
 'STEP_6_LINK_TO_SHOP_ADMIN_AREA' => 'Vai all\'interfaccia di amministrazione',
@@ -174,7 +175,7 @@ Bertoldstr. 48<br>
 'TAB_0_DESC' => 'Checking if your system fits the requirements',
 'TAB_0_TITLE' => 'System Requirements',
 'TAB_1_DESC' => 'Welcome to OXID eShop installation wizard',
-'TAB_1_TITLE' => 'Welcome',
+'TAB_1_TITLE' => 'Benvenuti',
 'TAB_2_DESC' => 'Confirm license conditions',
 'TAB_2_TITLE' => 'License conditions',
 'TAB_3_DESC' => 'Test database connection, building tables',
@@ -184,6 +185,6 @@ Bertoldstr. 48<br>
 'TAB_5_DESC' => 'Apply license key',
 'TAB_5_TITLE' => 'License',
 'TAB_6_DESC' => 'Installation succeeded',
-'TAB_6_TITLE' => 'Finish',
+'TAB_6_TITLE' => 'Finitura',
 'USE_DYNAMIC_PAGES' => 'Per far crescere il tuo successo scarica informazioni aggiuntive dai server di OXID. Potrai trovare ulteriori informazioni sul nostro',
 );

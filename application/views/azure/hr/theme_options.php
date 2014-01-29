@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: AWIDON (752), buby (113)
+ * @translators: AWIDON (752), buby (114), ondrej123 (327)
  */
 
 $sLangName  = 'Hrvatski';
@@ -64,7 +64,7 @@ $aLang = array(
 'SHOP_THEME_sDefaultListDisplayType' => 'Default product list type',
 'SHOP_THEME_sDefaultListDisplayType_grid' => 'Grid',
 'SHOP_THEME_sDefaultListDisplayType_infogrid' => 'Double grid',
-'SHOP_THEME_sDefaultListDisplayType_line' => 'Lista',
+'SHOP_THEME_sDefaultListDisplayType_line' => 'Redovi',
 'SHOP_THEME_sIconsize' => 'Icon size (width*height)',
 'SHOP_THEME_sManufacturerIconsize' => 'Manufacturer\'s/brand logo size',
 'SHOP_THEME_sStartPageListDisplayType' => 'Product list type on Start page',
