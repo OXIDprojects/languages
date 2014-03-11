@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (418), Espana (5), ET (212), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (896), Espana (5), ET (212), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -46,15 +46,15 @@ $aLang = array(
 'SHOP_THEME_bl_showCompareList' => 'Utilice la lista de comparación',
 'SHOP_THEME_bl_showGiftWrapping' => 'El uso de regalo',
 'SHOP_THEME_bl_showListmania' => 'Utilice Listmanía',
-'SHOP_THEME_bl_showOpenId' => 'Use Open ID',
+'SHOP_THEME_bl_showOpenId' => 'Usar Open ID',
 'SHOP_THEME_bl_showVouchers' => 'Use cupones',
 'SHOP_THEME_bl_showWishlist' => 'Utilice registro de regalo',
 'SHOP_THEME_GROUP_display' => 'Mostrar',
 'SHOP_THEME_GROUP_features' => 'Características',
-'SHOP_THEME_GROUP_images' => 'Imágenesa',
+'SHOP_THEME_GROUP_images' => 'Imágenes',
 'SHOP_THEME_iNewBasketItemMessage' => 'Seleccione la acción cuando el producto es añadido a la cesta',
 'SHOP_THEME_iNewBasketItemMessage_0' => 'Ninguno',
-'SHOP_THEME_iNewBasketItemMessage_1' => 'Pantalla de mensajes',
+'SHOP_THEME_iNewBasketItemMessage_1' => 'Mostrar mensaje',
 'SHOP_THEME_iNewBasketItemMessage_2' => 'Abrir ventana emergente',
 'SHOP_THEME_iNewBasketItemMessage_3' => 'Abrir la cesta',
 'SHOP_THEME_iTopNaviCatCount' => 'Cantidad de categorías que se muestra en la parte superior',
@@ -62,15 +62,15 @@ $aLang = array(
 'SHOP_THEME_sCatPromotionsize' => 'Categoría tamaño de la imagen para la promoción en la página inicial (altura * anchura)',
 'SHOP_THEME_sCatThumbnailsize' => 'Categoría tamaño de la imagen (ancho * alto)',
 'SHOP_THEME_sDefaultListDisplayType' => 'producto de la lista de visualización por defecto de tipo',
-'SHOP_THEME_sDefaultListDisplayType_grid' => 'Grid',
+'SHOP_THEME_sDefaultListDisplayType_grid' => 'Rejilla',
 'SHOP_THEME_sDefaultListDisplayType_infogrid' => 'Doble rejilla',
 'SHOP_THEME_sDefaultListDisplayType_line' => 'Lista',
 'SHOP_THEME_sIconsize' => 'tamaño del icono (ancho * alto)',
 'SHOP_THEME_sManufacturerIconsize' => 'Fabricante  tamaño de logotipo de la marca / / Comprobar si esto es realmente fabricante o si se parece más a la marca',
-'SHOP_THEME_sStartPageListDisplayType' => 'Product list type on Start page',
-'SHOP_THEME_sStartPageListDisplayType_grid' => 'Grid',
-'SHOP_THEME_sStartPageListDisplayType_infogrid' => 'Double grid',
-'SHOP_THEME_sStartPageListDisplayType_line' => 'List',
+'SHOP_THEME_sStartPageListDisplayType' => 'Tipo de lista de productos en página de inicio',
+'SHOP_THEME_sStartPageListDisplayType_grid' => 'Rejilla',
+'SHOP_THEME_sStartPageListDisplayType_infogrid' => 'Doble rejilla',
+'SHOP_THEME_sStartPageListDisplayType_line' => 'Lista',
 'SHOP_THEME_sThumbnailsize' => 'tamaño de las miniaturas (ancho * alto)',
 'SHOP_THEME_sZoomImageSize' => 'Ampliar tamaño de la imagen (ancho * alto)',
 );

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: menhem-it (146), tarazi (33)
+ * @translators: menhem-it (152), tarazi (33)
  */
 
 $sLangName  = 'العربية';
@@ -43,13 +43,13 @@ $aLang = array(
 'SHOP_THEME_blShowBirthdayFields' => 'Display input fields for date of birth when users enter their personal data',
 'SHOP_THEME_blShowFinalStep' => 'Show order confirmation after order is finished (5th Step in Checkout)',
 'SHOP_THEME_blShowListDisplayType' => 'Display product list type selector',
-'SHOP_THEME_bl_showCompareList' => 'Use compare list',
+'SHOP_THEME_bl_showCompareList' => 'استخدام قائمة المقارنة',
 'SHOP_THEME_bl_showGiftWrapping' => 'Use gift wrapping',
 'SHOP_THEME_bl_showListmania' => 'Use listmania',
 'SHOP_THEME_bl_showOpenId' => 'Use Open ID',
 'SHOP_THEME_bl_showVouchers' => 'Use vouchers',
 'SHOP_THEME_bl_showWishlist' => 'Use gift registry',
-'SHOP_THEME_GROUP_display' => 'Display',
+'SHOP_THEME_GROUP_display' => 'عرض',
 'SHOP_THEME_GROUP_features' => 'Features',
 'SHOP_THEME_GROUP_images' => 'Images',
 'SHOP_THEME_iNewBasketItemMessage' => 'Select action when product is added to cart',

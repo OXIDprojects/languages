@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: menhem-it (146), tarazi (33)
+ * @translators: menhem-it (152), tarazi (33)
  */
 
 $sLangName  = 'العربية';
@@ -40,7 +40,7 @@ $aLang = array(
 'DETAILS_LOCATOR_PRODUCT' => 'المنتج',
 'DETAILS_PLUSSHIPPING2' => 'تكاليف الشحن',
 'DETAILS_PRICEALARM' => 'تنبيه السعر <B>! </ B>',
-'DETAILS_VPE_MESSAGE_1' => 'This product can only be ordered in packaging units of ',
+'DETAILS_VPE_MESSAGE_1' => 'هذا المنتج يمكن شراء فقط في وحدات التعبئة والتغليف',
 'DETAILS_VPE_MESSAGE_2' => 'purchased.',
 'EMAIL_INVITE_HTML_INVITETOSHOP' => 'دعوة من',
 'EMAIL_INVITE_HTML_INVITETOSHOP2' => 'لزيارة',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (418), Espana (5), ET (212), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (896), Espana (5), ET (212), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -114,7 +114,7 @@ $aLang = array(
 'PAGE_ACCOUNT_REGISTER_OPENACCOUNT' => 'Abrir una cuenta',
 'PAGE_ACCOUNT_USER_USERTITLE' => 'Billings y configuración de envío',
 'PAGE_ACCOUNT_WISHLIST_SENDSUCCESSFULLY1' => 'Su lista de regalos se ha enviado correctamente a:',
-'PAGE_ACCOUNT_WISHLIST_SENDSUCCESSFULLY2' => 'dispatched!',
+'PAGE_ACCOUNT_WISHLIST_SENDSUCCESSFULLY2' => 'enviado!',
 'PAGE_CHECKOUT_BASKETCONTENTS_ARTNOMBER' => 'Art.:',
 'PAGE_CHECKOUT_BASKETCONTENTS_COUPONNOTACCEPTED1' => 'Su cupón',
 'PAGE_CHECKOUT_BASKETCONTENTS_COUPONNOTACCEPTED2' => 'no podía ser aceptada.',
@@ -148,7 +148,7 @@ $aLang = array(
 'PAGE_CHECKOUT_PAYMENT_TSPROTECTIONTEXT4' => 'Condiciones',
 'PAGE_CHECKOUT_PAYMENT_TSPROTECTIONTEXT5' => 'para la protección del comprador.',
 'PAGE_CHECKOUT_THANKYOU_REGISTEREDYOUORDERNO1' => 'Se registraron su solicitud con el número:',
-'PAGE_CHECKOUT_THANKYOU_REGISTEREDYOUORDERNO2' => 'registered with us.',
+'PAGE_CHECKOUT_THANKYOU_REGISTEREDYOUORDERNO2' => 'registrarte con nosotros',
 'PAGE_CHECKOUT_THANKYOU_THANKYOU1' => 'Gracias por su pedido',
 'PAGE_CHECKOUT_THANKYOU_THANKYOU2' => 'en',
 'PAGE_CHECKOUT_USER' => 'Dirección',
@@ -159,8 +159,8 @@ $aLang = array(
 'PAGE_DETAILS_THANKYOUMESSAGE2' => 'agradece sus comentarios.',
 'PAGE_DETAILS_THANKYOUMESSAGE3' => 'Le informaremos tan pronto como el precio cae por debajo',
 'PAGE_DETAILS_THANKYOUMESSAGE4' => '.',
-'PAGE_INFO_CLEARCOOKIE_CONTENT' => 'You have decided to not accept cookies from our online shop. The cookies have been removed. You can deactivate the usage of cookies in the settings of your browser and visit the online shop with some functional limitations. You can also return to the shop without changing the browser settings and enjoy the full functionality.<br/><br/>Information about cookies at Wikipedia: <a href="http://en.wikipedia.org/wiki/HTTP_cookie"><strong>http://en.wikipedia.org/wiki/HTTP_cookie</strong></a>',
-'PAGE_INFO_CLEARCOOKIE_TITLE' => 'Information about Cookies',
+'PAGE_INFO_CLEARCOOKIE_CONTENT' => 'Has decidido no aceptar cookies desde nuestra tienda online. Las cookies han sido eliminadas. Puedes desactivar el uso de cookies in la configuración de tu navegador y visitar la tienda con algunas limitaciones funcionales. También puedes volver a la tienda sin cambiar la configuración del navegador y disfrutar de la funcionalidad completa<br/><br/>Información sobre cookies en  Wikipedia: <a href="http://es.wikipedia.org/wiki/Cookie_(inform%C3%A1tica)"><stronghttp://es.wikipedia.org/wiki/Cookie_(inform%C3%A1tica)</strong></a>',
+'PAGE_INFO_CLEARCOOKIE_TITLE' => 'Información sobre cookies',
 'PAGE_INFO_CONTACT_THANKYOU1' => 'Gracias.',
 'PAGE_INFO_CONTACT_THANKYOU2' => 'agradece sus comentarios.',
 'PAGE_INFO_NEWS_LATESTNEWSBY' => 'Las últimas noticias y novedades en',

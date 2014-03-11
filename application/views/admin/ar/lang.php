@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: menhem-it (146), tarazi (33)
+ * @translators: menhem-it (152), tarazi (33)
  */
 
 $sLangName  = 'العربية';
@@ -35,7 +35,7 @@ $aLang = array(
 'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'المنتجات المروجة',
 'ACTIONS_MAIN_NOTSELECTED' => 'الرجاء اختيار واحد من القائمة لإجراء تغييرات',
 'ADMINGB_LIST_AUTHOR' => 'الكاتب',
-'ADMINGB_LIST_ENTRY' => 'Entry',
+'ADMINGB_LIST_ENTRY' => 'تدوين',
 'ADMINGB_LIST_MENUITEM' => 'Customer Information',
 'ADMINGB_LIST_MENUSUBITEM' => 'Guestbook',
 'ADMINGB_TITLE' => '[OXID Guestbook]',

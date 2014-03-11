@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (418), Espana (5), ET (212), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (896), Espana (5), ET (212), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -138,13 +138,13 @@ $aLang = array(
 'HELP_SHOP_CACHE_LAYOUT_CACHE_AGE' => 'Defina tiempo de vida de la disposición de la página en segundos. Esto será enviado en las cabeceras HTTP, especificando el valor de cabecera "Age".',
 'HELP_SHOP_CACHE_LIFETIME' => 'Aquí puede ajustar los segundos que se guarda el contenido almacenado en caché. El valor predeterminado es 36.000 segundos.',
 'HELP_SHOP_CACHE_REVERSE_PROXY_ENABLED' => 'Activa un cacheo HTTP con proxy inverso. Nota: No use "Cacheo de Contenido Dinámico" al mismo tiempo, podría reducir el rendimiento.',
-'HELP_SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_BIGGEST_NET' => 'El porcentaje de VAT de los productos, que tiene un valor neto en el carrito, es usado para el cálculo.',
-'HELP_SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_PROPORTIONAL' => 'El proncentaje de productos en el carrito con el mismo porcentaje de VAT es usado para el cálculo.',
+'HELP_SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_BIGGEST_NET' => 'El porcentaje de IVA de los productos, que tiene un valor neto en el carrito, es usado para el cálculo.',
+'HELP_SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_PROPORTIONAL' => 'El proncentaje de productos en el carrito con el mismo porcentaje de IVA es usado para el cálculo.',
 'HELP_SHOP_CONFIG_ALTVATIDCHECKINTERFACEWSDL' => 'Aquí puede introducir una dirección URL alternativa para la comprobación de identificación en línea IVA.',
 'HELP_SHOP_CONFIG_ATTENTION' => 'Atención: Incluso si el cifrado se utiliza la tarjeta de crédito por lo general los contratos de prohibir esta estrictamente!',
 'HELP_SHOP_CONFIG_BASKETEXCLUDE' => 'Permite a los productos insertar sólo de uno (root) categoría si cambio de categoría es.usuario detectado se le pide que para finalizar (vaya a la caja) o seguir comprando.(Cesta se limpian en este caso). Con esta función en relación con el.debidamente organizada estructura de categorías se puede implementar cestas dividir a los diferentes suministradores.',
 'HELP_SHOP_CONFIG_BASKETRESERVATION' => 'Al desactivar esta opción reduce eShop stock de productos exactamente en el momento.cuando la orden es confirmada por el cliente y finaliza la compra ha terminado. <br>.Con esta opción activada esta funcionalidad cambios: existencias del producto se reduce.y está siendo <b> reservados </ b> cuando el producto se pone en la cesta. Reservar es.cancelarse cuando el contenido de la cesta se compra o se termina la cesta.',
-'HELP_SHOP_CONFIG_BASKETRESERVATIONTIMEOUT' => 'Después de este tiempo de espera de los productos reservados se devuelven a la cesta de valores y de los clientes s  se borra.',
+'HELP_SHOP_CONFIG_BASKETRESERVATIONTIMEOUT' => 'Después de este tiempo de espera de los productos reservados se devuelven a la cesta de valores y se borra de los clientes.',
 'HELP_SHOP_CONFIG_BIDIRECTCROSS' => 'Con crossselling puede ofrecer productos de adaptación de un producto: Si, por ejemplo a un coche de los neumáticos se asignan como crossselling producto de los neumáticos se muestran con el coche. <br>.Si crossselling bidireccional se activa funciona en ambas direcciones: El coche se muestra con los neumáticos también.',
 'HELP_SHOP_CONFIG_DELETERATINGLOGS' => 'Si la tasa de usuarios de un producto que no se puede calificar el producto de nuevo. Aquí se puede establecer el número de usuarios después de muchos días se les permitirá calificar un producto nuevo. Dejar en blanco para desactivar - los productos pueden ser valorados una sola vez por usuario.',
 'HELP_SHOP_CONFIG_DISABLEONLINEVATIDCHECK' => 'La verificación en línea de identificación del IVA se ejecuta si un cliente de un país extranjero dentro de la UE entra en una identificación del IVA con el pedido. Si el ID de IVA es válido, sin el IVA se calcula para este fin. <br>.Si la verificación está desactivada la normal del IVA para el país, según se calcula siempre.',
@@ -222,7 +222,7 @@ $aLang = array(
 'HELP_SHOP_RDFA_RATING_MIN' => 'Posible valor mínimo referido a la escala usada para porcentajes en tu tienda. Este valor no es el porcentaje más bajo actual de un producto!',
 'HELP_SHOP_RDFA_SHOW_PRODUCTSTOCK' => 'Si está opción está activada significa que el stock real del producto es mostrado.',
 'HELP_SHOP_RDFA_SUBMIT_URL' => 'Envía la URL de tu tienda a GR-NotifyPage. Esta URL es guardada y redirigida a motores de búsqueda y puntos finales de Linked Open Commerce & Semantic Web.',
-'HELP_SHOP_RDFA_VAT' => 'Esta opción indica cuando el impuesto (VAT) es incluido en el precio y en los costes de entrega/pago o no.',
+'HELP_SHOP_RDFA_VAT' => 'Esta opción indica cuando el impuesto (IVA) es incluido en el precio y en los costes de entrega/pago o no.',
 'HELP_SHOP_SEO_IDSSEPARATOR' => 'El separador se utiliza si los nombres de categoría y nombres de productos constan de varias palabras. El separador se utiliza en lugar de espacios por ejemplo, www.youreshop.com / categoría-nombre-de-<br> varias palabras.Si se introduce sin separador - se utiliza.',
 'HELP_SHOP_SEO_RESERVEDWORDS' => 'Algunas direcciones URL se definen en eShop OXID como www.youreshop.com / administrador para acceder a eShop admin. Si una categoría fue nombrado class=filename_filepath_or_italic> <span admin </ span> la dirección de SEO se www.youreshop.com / admin también - el no podía categoría  t acceder. Por lo tanto el sufijo SEO se adjunta a estas direcciones URL. Se pueden definir aquí las URL que se sufijo automáticamente.',
 'HELP_SHOP_SEO_SAFESEOPREF' => 'Si varios productos tienen el mismo nombre y se encuentran en la misma categoría que tendría la misma dirección de SEO. Para evitar este sufijo el SEO se adjunta. Si no hay ningún sufijo SEO se define class=filename_filepath_or_italic> <span óxido </ span> se utiliza.Algunos caracteres especiales como diéresis alemanas deberían ser retirados de las direcciones URL. Pueden causar problemas. Aquí puede definir la forma en que se sustituyen. La sintaxis es <code> carácter especialPara el alemán las sustituciones se han introducido ya.',
