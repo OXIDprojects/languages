@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ilya (5), mantgomery (2), marco (1211), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ilya (5), mantgomery (2), marco (1212), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -1768,7 +1768,7 @@ $aLang = array(
 'tbclroles_beobject' => 'Objects',
 'tbclroles_beuser' => 'Users',
 'tbclroles_femain' => 'Main',
-'tbclroles_feuser' => 'Users',
+'tbclroles_feuser' => 'Пользователи',
 'tbclselectlist_main' => 'Главная',
 'tbclselectlist_mall' => 'Mall',
 'tbclshop_cache' => 'Caching',
