@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dsb (5), marco (4012)
+ * @translators: dsb (5), marco (10406)
  */
 
 $sLangName  = 'Deutsch';
@@ -34,14 +34,13 @@ $aLang = array(
 'HELP_SHOP_THEME_sCatIconsize' => 'In der Kategorieübersicht werden die Kategoriebilder von Unterkategorien in der hier definierten Größe angezeigt.',
 'HELP_SHOP_THEME_sCatPromotionsize' => 'Kategorien, die auf der Startseite beworben werden, benötigen eine eigens dafür vorgesehene Größgenangabe. Stellen Sie diese hier ein.',
 'HELP_SHOP_THEME_sCatThumbnailsize' => 'In der Kategorieübersicht wird das Bild der ausgewählten Kategorie in der hier definierten Größe angezeigt.',
-'HELP_SHOP_THEME_sIconsize' => 'Icons sind die kleinsten Bilder eines Artikels. Sie werden z. B. <br><ul><li>im Warenkorb angezeigt</li><li>angezeigt, wenn Artikel in der Seitenleiste aufgelistet werden (z.B. bei den Aktionen <span class="filename_filepath_or_italic">Top of the Shop</span> und <span class="filename_filepath_or_italic">Schnäppchen</span>).</li></ul>Damit die Harmonie des eShops nicht durch zu große Icons gestört wird, werden zu große Icons automatisch verkleinert. Die maximale Größe können Sie hier eingeben.<br>',
+'HELP_SHOP_THEME_sIconsize' => 'Artikel-Icons sind die kleinsten Bilder eines Artikels. Sie werden z. B. <br><ul><li>im Warenkorb angezeigt</li><li>angezeigt, wenn Artikel in der Seitenleiste aufgelistet werden (z.B. bei den Aktionen <span class="filename_filepath_or_italic">Top of the Shop</span> und <span class="filename_filepath_or_italic">Schnäppchen</span>).</li></ul>Damit die Harmonie des eShops nicht durch zu große Icons gestört wird, werden zu große Icons automatisch verkleinert. Die maximale Größe können Sie hier eingeben.<br>',
 'HELP_SHOP_THEME_sManufacturerIconsize' => 'Dieses Logo wird auf der Startseite in der Markenlogo-übersicht angezeigt.',
-'HELP_SHOP_THEME_sThumbnailsize' => 'Thumbnails sind kleine Bilder eines Artikels. Sie werden z. B. <br><ul><li>in Artikellisten angezeigt. Artikellisten sind z. B. Kategorieansichten (alle Artikel in einer Kategorie werden aufgelistet) und die Suchergebnisse.</li><li>in Aktionen angezeigt, die in der Mitte der Startseite angezeigt werden, z. B. <span class="filename_filepath_or_italic">Die Dauerbrenner</span> und <span class="filename_filepath_or_italic">Frisch eingetroffen!</span>.</li></ul>Damit das Design des eShops nicht durch zu große Thumbnails gestört wird, werden zu große Thumbnails automatisch verkleinert. Die maximale Größe können Sie hier eingeben.',
+'HELP_SHOP_THEME_sThumbnailsize' => 'Artikel-Thumbnails sind kleine Bilder eines Artikels. Sie werden z. B. <br><ul><li>in Artikellisten angezeigt. Artikellisten sind z. B. Kategorieansichten (alle Artikel in einer Kategorie werden aufgelistet) und die Suchergebnisse.</li><li>in Aktionen angezeigt, die in der Mitte der Startseite angezeigt werden, z. B. <span class="filename_filepath_or_italic">Die Dauerbrenner</span> und <span class="filename_filepath_or_italic">Frisch eingetroffen!</span>.</li></ul>Damit das Design des eShops nicht durch zu große Thumbnails gestört wird, werden zu große Thumbnails automatisch verkleinert. Die maximale Größe können Sie hier eingeben.',
 'SHOP_THEME_aDetailImageSizes' => 'Größe der Artikelbilder  (Bild 1-12) in Pixeln (Breite*Höhe)',
 'SHOP_THEME_aNrofCatArticles' => 'Anzahl der Artikel, die in einer Artikelliste pro Seite angezeigt werden können<br><br>Warnung: Eine große Anzahl von Artikeln pro Seite (über 100) kann die Geschwindigkeit des Shops erheblich beeinflussen!',
 'SHOP_THEME_aNrofCatArticlesInGrid' => 'Für Galerie: Anzahl der Artikel, die in einer Artikelliste pro Seite angezeigt werden können<br><br>Warnung: Eine große Anzahl von Artikeln pro Seite (über 100) kann die Geschwindigkeit des Shops erheblich beeinflussen!',
 'SHOP_THEME_blShowBirthdayFields' => 'Eingabefeld für das Geburtsdatum anzeigen, wenn Benutzer ihre Daten eingeben',
-'SHOP_THEME_blShowFinalStep' => 'Bestellbestätigung anzeigen, wenn die Bestellung abgeschlossen ist (fünfter Bestellschritt)',
 'SHOP_THEME_blShowListDisplayType' => 'Produktlistentyp in Produktlisten anzeigen',
 'SHOP_THEME_bl_showCompareList' => 'Artikelvergleich aktivieren',
 'SHOP_THEME_bl_showGiftWrapping' => 'Geschenkverpackungen aktivieren',
@@ -58,19 +57,19 @@ $aLang = array(
 'SHOP_THEME_iNewBasketItemMessage_2' => 'Popup öffnen',
 'SHOP_THEME_iNewBasketItemMessage_3' => 'Warenkorb öffnen',
 'SHOP_THEME_iTopNaviCatCount' => 'Anzahl der Kategorien, die oben angezeigt werden (weitere Kategorien werden ebenfalls oben unter "mehr" aufgelistet)',
-'SHOP_THEME_sCatIconsize' => 'Größe des Kategoriebildes einer Unterkategorie in Pixeln (Breite*Höhe)',
+'SHOP_THEME_sCatIconsize' => 'Größe des Kategorie-Icons einer Unterkategorie in Pixeln (Breite*Höhe)',
 'SHOP_THEME_sCatPromotionsize' => 'Größe des Kategoriebildes für die Startseite in Pixeln (Breite*Höhe)',
-'SHOP_THEME_sCatThumbnailsize' => 'Größe des Kategoriebildes in Pixeln (Breite*Höhe)',
+'SHOP_THEME_sCatThumbnailsize' => 'Größe des Kategorie-Thumbnails in Pixeln (Breite*Höhe)',
 'SHOP_THEME_sDefaultListDisplayType' => 'Standard für Produktlistentyp',
 'SHOP_THEME_sDefaultListDisplayType_grid' => 'Galerie',
 'SHOP_THEME_sDefaultListDisplayType_infogrid' => 'Galerie zweispaltig',
 'SHOP_THEME_sDefaultListDisplayType_line' => 'Liste',
-'SHOP_THEME_sIconsize' => 'Größe des Icons in Pixeln (Breite*Höhe)',
+'SHOP_THEME_sIconsize' => 'Größe des Artikel-Icons in Pixeln (Breite*Höhe)',
 'SHOP_THEME_sManufacturerIconsize' => 'Größe des Hersteller-/Markenlogos in Pixeln (Breite*Höhe)',
 'SHOP_THEME_sStartPageListDisplayType' => 'Produktlistentyp auf der Startseite',
 'SHOP_THEME_sStartPageListDisplayType_grid' => 'Galerie',
 'SHOP_THEME_sStartPageListDisplayType_infogrid' => 'Galerie zweispaltig',
 'SHOP_THEME_sStartPageListDisplayType_line' => 'Liste',
-'SHOP_THEME_sThumbnailsize' => 'Größe des Thumbnails in Pixeln (Breite*Höhe)',
-'SHOP_THEME_sZoomImageSize' => 'Größe der Zoom-Bilder (Zoom 1-4) in Pixeln (Breite*Höhe)',
+'SHOP_THEME_sThumbnailsize' => 'Größe des Artikel-Thumbnails in Pixeln (Breite*Höhe)',
+'SHOP_THEME_sZoomImageSize' => 'Größe der Artikel-Zoom-Bilder (Zoom 1-4) in Pixeln (Breite*Höhe)',
 );

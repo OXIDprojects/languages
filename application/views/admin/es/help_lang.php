@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (896), Espana (5), ET (212), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (896), Espana (5), ET (212), jmatos (31), jsmaster (6), marco (2997), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -146,6 +146,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_BASKETRESERVATION' => 'Al desactivar esta opción reduce eShop stock de productos exactamente en el momento.cuando la orden es confirmada por el cliente y finaliza la compra ha terminado. <br>.Con esta opción activada esta funcionalidad cambios: existencias del producto se reduce.y está siendo <b> reservados </ b> cuando el producto se pone en la cesta. Reservar es.cancelarse cuando el contenido de la cesta se compra o se termina la cesta.',
 'HELP_SHOP_CONFIG_BASKETRESERVATIONTIMEOUT' => 'Después de este tiempo de espera de los productos reservados se devuelven a la cesta de valores y se borra de los clientes.',
 'HELP_SHOP_CONFIG_BIDIRECTCROSS' => 'Con crossselling puede ofrecer productos de adaptación de un producto: Si, por ejemplo a un coche de los neumáticos se asignan como crossselling producto de los neumáticos se muestran con el coche. <br>.Si crossselling bidireccional se activa funciona en ambas direcciones: El coche se muestra con los neumáticos también.',
+'HELP_SHOP_CONFIG_DEBIT_OLD_BANK_INFORMATION_NOT_ALLOWED' => 'Only IBAN and BIC can be entered during the checkout. Bank account number and the bank code can only be entered if this check box is not activated.',
 'HELP_SHOP_CONFIG_DELETERATINGLOGS' => 'Si la tasa de usuarios de un producto que no se puede calificar el producto de nuevo. Aquí se puede establecer el número de usuarios después de muchos días se les permitirá calificar un producto nuevo. Dejar en blanco para desactivar - los productos pueden ser valorados una sola vez por usuario.',
 'HELP_SHOP_CONFIG_DISABLEONLINEVATIDCHECK' => 'La verificación en línea de identificación del IVA se ejecuta si un cliente de un país extranjero dentro de la UE entra en una identificación del IVA con el pedido. Si el ID de IVA es válido, sin el IVA se calcula para este fin. <br>.Si la verificación está desactivada la normal del IVA para el país, según se calcula siempre.',
 'HELP_SHOP_CONFIG_DOWNLOADS' => 'Tienda con productos descargables. Activa aquí, los productos pueden ser pedidos y descargados.',
@@ -175,6 +176,8 @@ $aLang = array(
 'HELP_SHOP_CONFIG_SHOP_CONFIG_FACEBOOKCONFIRM' => 'Para proteger la privacidad del cliente, mostrar los plugins sociales en facebook debe ser explícitamente confirmado. Sólo después de los datos de confirmación es compartido con Facebook.',
 'HELP_SHOP_CONFIG_SHOP_CONFIG_FBSECRETKEY' => 'Para garantizar una conexión segura entre su sitio y facebook debe.introducir Secure Key que se obtiene al registrar su sitio web para.Facebook. Leer en los <a href=http://wiki.oxidforge.org/Tutorials/Connecting_website_to_facebook target=_blank> target=_blank tutorial </ a>.cómo conectar su sitio web en Facebook.',
 'HELP_SHOP_CONFIG_SHOWTAGS' => 'Si no está marcado, no se mostrarán etiquetas en la eShop. Páginas que pueden ser llamadas via etiqueta URL, no son accesibles.',
+'HELP_SHOP_CONFIG_SHOWTSCODMESSAGE' => 'In the 4th step of the checkout process the CMS page "oxtscodmessage" is additionally displayed.',
+'HELP_SHOP_CONFIG_SHOWTSINTERNATIONALFEESMESSAGE' => 'In the 4th step of the checkout process the CMS page "oxtsinternationalfees" is additionally displayed.',
 'HELP_SHOP_CONFIG_SORTFIELDS' => 'Aquí puede definir los campos de base de datos que pueden ser utilizados para clasificar las listas de productos. Introduzca un campo por fila. <br>.Las entradas más comunes son:.<ul> oxtitle <li> = Título </ li>.<li> oxprice = Precio </ li>.oxvarminprice <li> = El precio más bajo si las variantes con diferentes precios se utilizan. </ li>.<li> oxartnum = número del producto </ li>.<li> oxrating = Clasificación de los productos </ li>.<li> oxstock = archivo </ li> </ ul>',
 'HELP_SHOP_CONFIG_STOCKOFFDEFAULTMESSAGE' => 'Para cada producto, usted puede configurar un mensaje de si el producto no está en stock. <br>.Si este valor está activo se muestra un mensaje si no hay mensaje específico de un producto es introducido. El mensaje predeterminado <span class=filename_filepath_or_italic> Este artículo no está en stock y debe ser pedido </ span> se muestra.',
 'HELP_SHOP_CONFIG_STOCKONDEFAULTMESSAGE' => 'Para cada producto, usted puede configurar un mensaje de si el producto está en stock. <br>.Si este valor está activo se muestra un mensaje si no hay mensaje específico de un producto es introducido. El mensaje predeterminado class=filename_filepath_or_italic> <span Listo para el envío </ span> se muestra.',

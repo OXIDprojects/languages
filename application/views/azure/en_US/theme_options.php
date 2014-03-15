@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: marco (3359)
+ * @translators: marco (6356)
  */
 
 $sLangName  = 'American English';
@@ -41,7 +41,6 @@ $aLang = array(
 'SHOP_THEME_aNrofCatArticles' => 'Number of products which can be shown in a product lists (category pages, search results)<br><br>Attention: A large number of products per page (above 100) can cause performance loss!',
 'SHOP_THEME_aNrofCatArticlesInGrid' => 'Grid view: Number of products which can be shown in a product lists (category pages, search results)<br><br>Attention: A large number of products per page (above 100) can cause performance loss!',
 'SHOP_THEME_blShowBirthdayFields' => 'Display input fields for date of birth when users enter their personal data',
-'SHOP_THEME_blShowFinalStep' => 'Show order confirmation after order is finished (5th Step in Checkout)',
 'SHOP_THEME_blShowListDisplayType' => 'Display product list type selector',
 'SHOP_THEME_bl_showCompareList' => 'Use compare list',
 'SHOP_THEME_bl_showGiftWrapping' => 'Use gift wrapping',

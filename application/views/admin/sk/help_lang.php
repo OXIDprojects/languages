@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404)
+ * @translators: DominikS (404), marco (2379)
  */
 
 $sLangName  = 'Slovenčina';
@@ -146,6 +146,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_BASKETRESERVATION' => 'Ak je táto voľba neaktívna, eShop zmenší počet produktov na sklade až v okamihu, kedy je objednávka potvrdená zákazníkom a dokončená platba.(dokončenie kroku 4)<br><br> Aktivovaním sa funkcionalita mení: Množstvo na sklade sa zníži a produkt je <b>rezervovaný</b> v okamihu, keď je vložený do košíka. Rezervácia sa zruší v prípade, že bol obsah košíka objednaný, alebo platnosť košíku skončila.',
 'HELP_SHOP_CONFIG_BASKETRESERVATIONTIMEOUT' => 'Po vypršaní doby sa rezvervované produkty opäť uvoľnia na sklad a zákazníkovi sa košík vyprázdní.',
 'HELP_SHOP_CONFIG_BIDIRECTCROSS' => 'Pomocou krížového predaja môžete ponúknuť doplnkový tovar k výrobku (napr. ak sú k autu ako krížový predaj priradené pneumatiky, tak sa pneumatiky zobrazia pri kúpe auta). <br /> Pokiaľ je aktivovaný obojsmerný krížový predaj, automobil sa zobrazí s pneumatikami, a opačne.',
+'HELP_SHOP_CONFIG_DEBIT_OLD_BANK_INFORMATION_NOT_ALLOWED' => 'Only IBAN and BIC can be entered during the checkout. Bank account number and the bank code can only be entered if this check box is not activated.',
 'HELP_SHOP_CONFIG_DELETERATINGLOGS' => 'Užívateľ nemôže jeden výrobok hodnotiť viackrát. Tu môžete určiť, po akej dobe môže užívateľ výrobok znova ohodnotit. Pokiaľ nezadáte žiadnu hodnotu, výrobok môže byť hodnotený len jedenkrát.',
 'HELP_SHOP_CONFIG_DISABLEONLINEVATIDCHECK' => 'Ak zadá pri objednaní zákazník z cudzej krajiny v EÚ DPH, je DPH započítané k objednávke. Ak nie je DPH ID validný, DPH sadzba nie je k objednáva pripočítaná.<br />Ak je voľba zakázaná, je vždy započítaná všeobecná DPH sadzba.',
 'HELP_SHOP_CONFIG_DOWNLOADS' => 'Shop with downloadable products. Activate here, that products can be ordered and downloaded.',
@@ -175,6 +176,8 @@ $aLang = array(
 'HELP_SHOP_CONFIG_SHOP_CONFIG_FACEBOOKCONFIRM' => 'To protect customer privacy, the display of the Facebook social plugins must be explicitly confirmed. Only after confirmation data is shared with Facebook.',
 'HELP_SHOP_CONFIG_SHOP_CONFIG_FBSECRETKEY' => 'Abý ste zaistili bezpečné spojenie medzi vašou stránkou a Facebookom, musíte zadať Secure Key, ktorý získáte pri registrácii vášho webu do FacebookuPrečítajte si <a href="http://wiki.oxidforge.org/Tutorials/Connecting_website_to_facebook" target="_blank" target="_blank">návod</a> ako prepojiť web s Facebookom.',
 'HELP_SHOP_CONFIG_SHOWTAGS' => 'If not checked, no tags will be displayed in eShop. Pages that could be called via tag URL, are not accessible.',
+'HELP_SHOP_CONFIG_SHOWTSCODMESSAGE' => 'In the 4th step of the checkout process the CMS page "oxtscodmessage" is additionally displayed.',
+'HELP_SHOP_CONFIG_SHOWTSINTERNATIONALFEESMESSAGE' => 'In the 4th step of the checkout process the CMS page "oxtsinternationalfees" is additionally displayed.',
 'HELP_SHOP_CONFIG_SORTFIELDS' => 'Tu môžete zadať parametre, podľa ktorých budú výrobky triedené do zoznamov. Do každého riadku zadávajte len jeden parameter.<br />Najčastejšie parametre:<ul><li>oxtitle = Titul</li><li>oxprice = Cena</li><li>oxvarminprice = Najnižšia cena, pokiaľ sú povolené rôzné ceny variánt.</li><li>oxartnum = Číslo výrobku</li><li>oxrating = Hodnotenie</li><li>oxstock = Skladové zásoby</li></ul>',
 'HELP_SHOP_CONFIG_STOCKOFFDEFAULTMESSAGE' => 'Môžete nastaviť upozornenie pre každý výrobok, ktorého skladové zásoby sú vypredané.<br />Pokiaľ je tato voľba aktívna, u všetkých výrobkov sa zobrazí základné upozornenie <i>Zásoby sa minuli a tovar musí byť doobjednaný</i>.',
 'HELP_SHOP_CONFIG_STOCKONDEFAULTMESSAGE' => 'Môžete nastaviť upozornenie pre každý výrobok, ktorý sa objeví na sklade.<br />Pokiaľ je táto volba aktívna, pre všetky výrobky sa zobrazí základné upozornenie <i>Pripravený na odoslanie</i>',
@@ -248,11 +251,7 @@ $aLang = array(
 'HELP_USER_EXTEND_EMAILFAILED' => 'Pokiaľ nemôžete odoslať email zákazníkovi, aktivujte túto voľbu. Zákazníkovi už nebudú odosielané ďalšie emaily',
 'HELP_USER_EXTEND_NEWSLETTER' => 'Táto voľba zobrazí, či užívateľ odoberá Novinky.',
 'HELP_USER_MAIN_HASPASSWORD' => 'Tu môžete rozoznať, či je užívateľ, ktorý si objednáva tovar, zaregistrovaný:<ul><li>Pokiaľ je zvolené heslo, uživatel je zaregistrovaný.</li><li>Pokiaľ heslo zvolené nie je, užívatel nie je zaregistrovaný.</li></ul>',
-'HELP_USER_PAYMENT_METHODS' => 'On this tab you can:
-<ul>
-   <li>Browse and manage existing user payment methods.</li>
-   <li>Create new payment methods and set default values, for example direct debit.</li>
-</ul>',
+'HELP_USER_PAYMENT_METHODS' => 'On this tab you can:<ul><li>Browse and manage existing user payment methods.<li>Create new payment methods and set default values, for example direct debit.</li></ul>',
 'HELP_VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Tu môžete rozhodnút, či môžu užívatelia používať kupóny rôznych sérií naraz.',
 'HELP_VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Tu môžete rozhodnút, či môžu užívatelia používať kupóny jednej série jednotlivo',
 'HELP_VOUCHERSERIE_MAIN_CALCULATEONCE' => 'If you assign products or categories to your coupon, deactivate this option to calculate this coupon to each product per cart position. Activate if the coupon shall be valid only once per cart position.',

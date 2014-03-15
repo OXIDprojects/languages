@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: topconcepts (182)
+ * @translators: marco (60), topconcepts (182)
  */
 
 $sLangName  = 'Norsk Bokmål';
@@ -41,7 +41,6 @@ $aLang = array(
 'SHOP_THEME_aNrofCatArticles' => 'Antall produkter som kan vises i en produktliste (kategorisider, søkeresultater)<br><br>Oppmerksomhet: Et stort antall produkter per side (over 100) kan føre til redusert ytelse!',
 'SHOP_THEME_aNrofCatArticlesInGrid' => 'Rutenettvisning: Antall produkter som kan vises i en produktliste (kategorisider, søkeresultater)<br><br>Oppmerksomhet: Et stort antall produkter per side (over 100) kan føre til redusert ytelse!',
 'SHOP_THEME_blShowBirthdayFields' => 'Vis felt for fødselsdato når brukere taster inn sine personlige data',
-'SHOP_THEME_blShowFinalStep' => 'Vis ordrebekreftelsen etter bestilling er ferdig (Femte steg i Gå til kassen)',
 'SHOP_THEME_blShowListDisplayType' => 'Vis produktlistetype på produktlister',
 'SHOP_THEME_bl_showCompareList' => 'Bruk sammenlingningsliste',
 'SHOP_THEME_bl_showGiftWrapping' => 'Bruk gaveinnpakning',

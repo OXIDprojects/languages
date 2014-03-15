@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dave2005 (76), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (8)
+ * @translators: dave2005 (76), inquisitor8 (298), marco (3148), ondrej123 (2), RSee (1318), SYSKO (8)
  */
 
 $sLangName  = 'Česky';
@@ -41,7 +41,6 @@ $aLang = array(
 'SHOP_THEME_aNrofCatArticles' => 'Počet produktů, které se zobrazí na stránce s přehledem produktů (stránky kategorií, výsledky vyhledávání)<br><br>Pozor: větší množství produktů na stránce (více než 100) může způsobit snížení odezvy (rychlosti) eShopu!',
 'SHOP_THEME_aNrofCatArticlesInGrid' => 'Galerie: Počet produktů, které se zobrazí na stránce s přehledem produktů (stránky kategorií, výsledky vyhledávání)<br><br>Pozor: větší množství produktů na stránce (více než 100) může způsobit snížení odezvy (rychlosti) eShopu!',
 'SHOP_THEME_blShowBirthdayFields' => 'Zobrazit pole pro zadání data narození v registračním formuláři',
-'SHOP_THEME_blShowFinalStep' => 'Po dokončení objednávky zobrazit potvrzení (5. krok v průvodci objednáním)',
 'SHOP_THEME_blShowListDisplayType' => 'Zobrazit výběr typu zobrazení seznamu produktů',
 'SHOP_THEME_bl_showCompareList' => 'Povolit porovnávání produktů',
 'SHOP_THEME_bl_showGiftWrapping' => 'Povolit dárkové balení produktů',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dave2005 (76), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (8)
+ * @translators: dave2005 (76), inquisitor8 (298), marco (3148), ondrej123 (2), RSee (1318), SYSKO (8)
  */
 
 $sLangName  = 'Česky';
@@ -80,7 +80,6 @@ $aLang = array(
 'MOD_J_SON' => 'JSON',
 'MOD_LIB_XML2' => 'LIB XML2',
 'MOD_MB_STRING' => 'mbstring',
-'MOD_MEMORY_LIMIT' => 'PHP Memory limit (odporúčané min. 14MB, 30MB)',
 'MOD_MOD_REWRITE' => 'Apache mod_rewrite modul',
 'MOD_MYSQL_CONNECT' => 'MySQL modul for MySQL 5',
 'MOD_OPEN_SSL' => 'OpenSSL',
@@ -100,12 +99,10 @@ $aLang = array(
 'MOD_ZEND_OPTIMIZER' => 'Zend Optimizer instalován',
 'MOD_ZEND_PLATFORM_OR_SERVER' => 'Zend Platform instalován',
 'PRIVACY_POLICY' => 'ochrany osobních údajů',
-'SELECT_COUNTRY_LANG' => 'Vyberte zemi',
 'SELECT_DELIVERY_COUNTRY' => 'Hlavní země dodání',
 'SELECT_DELIVERY_COUNTRY_HINT' => 'Pokud bude potřeba, aktivujte více zemí pro doručení v administraci eShopu.',
 'SELECT_PLEASE_CHOOSE' => 'Prosím vyberte',
 'SELECT_SETUP_LANG' => 'Vyberte jazyk pro instalaci',
-'SELECT_SETUP_LANG_HINT' => '. Pokud bude potřeba, aktivujte si více jazyků v administraci eShopu.',
 'SELECT_SETUP_LANG_SUBMIT' => 'Vybrat',
 'SELECT_SHOP_LANG' => 'Jazyk obchodu',
 'SELECT_SHOP_LANG_HINT' => 'Pokud je třeba, aktivujte další jazyky v administračním rozhraní',

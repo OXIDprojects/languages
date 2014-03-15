@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: AWIDON (1), dsb (1), marco (4437), simoneschuppe (4), Thielo (1)
+ * @translators: AWIDON (1), dsb (1), marco (7585), simoneschuppe (4), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';
@@ -41,7 +41,6 @@ $aLang = array(
 'SHOP_THEME_aNrofCatArticles' => 'Anzahl der Artikel, die in einer Artikelliste pro Seite angezeigt werden können<br><br>Warnung: Eine große Anzahl von Artikeln pro Seite (über 100) kann die Geschwindigkeit des Shops erheblich beeinflussen!',
 'SHOP_THEME_aNrofCatArticlesInGrid' => 'Für Galerie: Anzahl der Artikel, die in einer Artikelliste pro Seite angezeigt werden können<br><br>Warnung: Eine große Anzahl von Artikeln pro Seite (über 100) kann die Geschwindigkeit des Shops erheblich beeinflussen!',
 'SHOP_THEME_blShowBirthdayFields' => 'Eingabefeld für das Geburtsdatum anzeigen, wenn Benutzer ihre Daten eingeben',
-'SHOP_THEME_blShowFinalStep' => 'Bestellbestätigung anzeigen, wenn die Bestellung abgeschlossen ist (fünfter Bestellschritt)',
 'SHOP_THEME_blShowListDisplayType' => 'Produktlistentyp in Produktlisten anzeigen',
 'SHOP_THEME_bl_showCompareList' => 'Artikelvergleich aktivieren',
 'SHOP_THEME_bl_showGiftWrapping' => 'Geschenkverpackungen aktivieren',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ilya (5), mantgomery (2), marco (1212), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ilya (5), mantgomery (2), marco (3059), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -80,7 +80,6 @@ $aLang = array(
 'MOD_J_SON' => 'JSON',
 'MOD_LIB_XML2' => 'LIB XML2',
 'MOD_MB_STRING' => 'mbstring',
-'MOD_MEMORY_LIMIT' => 'PHP Memory limit (min. 14MB, 30MB recommended)',
 'MOD_MOD_REWRITE' => 'Apache mod_rewrite module',
 'MOD_MYSQL_CONNECT' => 'MySQL client connector for MySQL 5',
 'MOD_OPEN_SSL' => 'OpenSSL',
@@ -100,12 +99,10 @@ $aLang = array(
 'MOD_ZEND_OPTIMIZER' => 'Zend Optimizer or Zend Guard Loader installed',
 'MOD_ZEND_PLATFORM_OR_SERVER' => 'Zend Platform or Zend Server installed',
 'PRIVACY_POLICY' => 'Заявление о конфиденциальности',
-'SELECT_COUNTRY_LANG' => 'Пожалуйста, выбираете ваша страна',
 'SELECT_DELIVERY_COUNTRY' => 'Главная страна доставки',
 'SELECT_DELIVERY_COUNTRY_HINT' => 'If needed, activate easily more delivery countries in admin.',
 'SELECT_PLEASE_CHOOSE' => 'Выбираете, пожалуйста',
 'SELECT_SETUP_LANG' => 'Язык для установки',
-'SELECT_SETUP_LANG_HINT' => '. If needed, activate easily more languages in admin.',
 'SELECT_SETUP_LANG_SUBMIT' => 'Выбираете',
 'SELECT_SHOP_LANG' => 'Язык магазина',
 'SELECT_SHOP_LANG_HINT' => 'If needed, activate easily more languages in admin.',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: alexraimondo (1), chatard (115), Phenix (202), Rainbow40 (2), vikapera (376)
+ * @translators: alexraimondo (1), chatard (115), marco (2990), Phenix (202), Rainbow40 (2), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -80,7 +80,6 @@ $aLang = array(
 'MOD_J_SON' => 'Module JSON',
 'MOD_LIB_XML2' => 'Module LIB XML2',
 'MOD_MB_STRING' => 'Module mbstring',
-'MOD_MEMORY_LIMIT' => 'PHP Memory limit (min. 14MB, 30MB recommandé)',
 'MOD_MOD_REWRITE' => 'Module apache mod_rewrite',
 'MOD_MYSQL_CONNECT' => 'Module MySQL pour MySQL 5',
 'MOD_OPEN_SSL' => 'Module OpenSSL',
@@ -100,12 +99,10 @@ $aLang = array(
 'MOD_ZEND_OPTIMIZER' => 'Module Zend Optimizer ou Zend Guard Loader installé',
 'MOD_ZEND_PLATFORM_OR_SERVER' => 'Module Zend Platform ou Zend Server installé',
 'PRIVACY_POLICY' => 'déclaration de confidentialité',
-'SELECT_COUNTRY_LANG' => 'Veuillez choisir un pays',
 'SELECT_DELIVERY_COUNTRY' => 'Pays de livraison par défaut',
 'SELECT_DELIVERY_COUNTRY_HINT' => 'Si nécessaire, vous pouvez activer d\'autres pays de destination dans le back-office.',
 'SELECT_PLEASE_CHOOSE' => 'Veuillez choisir',
 'SELECT_SETUP_LANG' => 'Veuillez choisir une langue',
-'SELECT_SETUP_LANG_HINT' => '. Si nécessaire, activez simplement d\'autres langues dans le back-office.',
 'SELECT_SETUP_LANG_SUBMIT' => 'Selectionner',
 'SELECT_SHOP_LANG' => 'Langue de la boutique',
 'SELECT_SHOP_LANG_HINT' => 'Si besoin, activez facilement plus de langues dans l\'administration.',

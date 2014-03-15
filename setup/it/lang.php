@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), ET (163)
+ * @translators: bRanzo (210), DC-NICO (41), ET (163), marco (953)
  */
 
 $sLangName  = 'Italiano';
@@ -80,7 +80,6 @@ $aLang = array(
 'MOD_J_SON' => 'JSON',
 'MOD_LIB_XML2' => 'libxml2',
 'MOD_MB_STRING' => 'mbstring',
-'MOD_MEMORY_LIMIT' => 'PHP Memory limit (min. 14MB, 30MB recommended)',
 'MOD_MOD_REWRITE' => 'modulo mod_rewrite di Apache',
 'MOD_MYSQL_CONNECT' => 'MySQL connettore del cliente per MySQL 5',
 'MOD_OPEN_SSL' => 'OpenSSL',
@@ -100,12 +99,10 @@ $aLang = array(
 'MOD_ZEND_OPTIMIZER' => 'Zend Optimizer or Zend Guard Loader installed',
 'MOD_ZEND_PLATFORM_OR_SERVER' => 'Zend Platform or Zend Server installed',
 'PRIVACY_POLICY' => 'privacy statements',
-'SELECT_COUNTRY_LANG' => 'Please choose your country',
 'SELECT_DELIVERY_COUNTRY' => 'Main delivery country',
 'SELECT_DELIVERY_COUNTRY_HINT' => 'If needed, activate easily more delivery countries in admin.',
 'SELECT_PLEASE_CHOOSE' => 'Please choose',
 'SELECT_SETUP_LANG' => 'Installation language',
-'SELECT_SETUP_LANG_HINT' => '. If needed, activate easily more languages in admin.',
 'SELECT_SETUP_LANG_SUBMIT' => 'Select',
 'SELECT_SHOP_LANG' => 'Negozio lingua',
 'SELECT_SHOP_LANG_HINT' => 'If needed, activate easily more languages in admin.',

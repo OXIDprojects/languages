@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: crashover (330), fifo (9), marco (1), Marcus77 (35), val (933)
+ * @translators: crashover (330), fifo (9), marco (1118), Marcus77 (35), val (933)
  */
 
 $sLangName  = 'Български';
@@ -80,7 +80,6 @@ $aLang = array(
 'MOD_J_SON' => 'JSON',
 'MOD_LIB_XML2' => 'LIB XML2',
 'MOD_MB_STRING' => 'mbstring',
-'MOD_MEMORY_LIMIT' => 'Лимит на PHP памет (мин. 14MB, 30MB препоръчително)',
 'MOD_MOD_REWRITE' => 'Apache mod_rewrite модул',
 'MOD_MYSQL_CONNECT' => 'MySQL client connector за MySQL 5',
 'MOD_OPEN_SSL' => 'OpenSSL',
@@ -100,12 +99,10 @@ $aLang = array(
 'MOD_ZEND_OPTIMIZER' => 'Инсталиран Zend Optimizer или Zend Guard Loader',
 'MOD_ZEND_PLATFORM_OR_SERVER' => 'Инсталирана Zend платформа или Zend сървър',
 'PRIVACY_POLICY' => 'декларация за конфиденциалност',
-'SELECT_COUNTRY_LANG' => 'Изберете държава',
 'SELECT_DELIVERY_COUNTRY' => 'Основна държава за доставка',
 'SELECT_DELIVERY_COUNTRY_HINT' => 'Ако е необходимо, активирайте повече държави за доставка в админ панела.',
 'SELECT_PLEASE_CHOOSE' => 'Моля изберете',
 'SELECT_SETUP_LANG' => 'Език на инсталатора',
-'SELECT_SETUP_LANG_HINT' => 'Ако е необходимо, активирайте повече езици в админ панела.',
 'SELECT_SETUP_LANG_SUBMIT' => 'Избери',
 'SELECT_SHOP_LANG' => 'език на магазина',
 'SELECT_SHOP_LANG_HINT' => 'Ако е необходимо, активирайте повече езици в админ панела.',

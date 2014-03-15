@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: marco (4137)
+ * @translators: marco (7134)
  */
 
 $sLangName  = 'British English';
@@ -147,6 +147,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_BASKETRESERVATION' => 'When disabling this option eShop reduces product stock exactly at timewhen order is confirmed by customer and checkout is finished.<br><br> With this option enabled this functionality changes: Product stock reduces and is being <b>reserved</b> when product is put into the basket. Reservation is canceled when the basket content is bought or the basket expires.',
 'HELP_SHOP_CONFIG_BASKETRESERVATIONTIMEOUT' => 'After this timeout the reserved products are returned to stock and customer\'s basket is cleared.',
 'HELP_SHOP_CONFIG_BIDIRECTCROSS' => 'With crossselling you can offer fitting products for a product: If e.g. to a car tires are assigned as crossselling product, the tires are shown with the car.<br>If bidirectional crossselling is activated, it works in both directions: The car is shown with the tires, too.',
+'HELP_SHOP_CONFIG_DEBIT_OLD_BANK_INFORMATION_NOT_ALLOWED' => 'Only IBAN and BIC can be entered during the checkout. Bank account number and the bank code can only be entered if this check box is not activated.',
 'HELP_SHOP_CONFIG_DELETERATINGLOGS' => 'If users rate a product, they cannot rate the product again. Here you can set after how many days users are allowed to rate a product again. Leave empty to disable - products can be rated only once per user.',
 'HELP_SHOP_CONFIG_DISABLEONLINEVATIDCHECK' => 'The online VAT ID check is executed if a customer from a foreign country inside the EU enters a VAT ID when ordering. If the VAT ID is valid, no VAT is calculated for this order.<br>If the check is disabled, the normal VAT for the according country is always calculated.',
 'HELP_SHOP_CONFIG_DOWNLOADS' => 'Shop with downloadable products. Activate here, that products can be ordered and downloaded.',
@@ -176,6 +177,8 @@ $aLang = array(
 'HELP_SHOP_CONFIG_SHOP_CONFIG_FACEBOOKCONFIRM' => 'To protect customer privacy, the display of the Facebook social plugins must be explicitly confirmed. Only after confirmation data is shared with Facebook.',
 'HELP_SHOP_CONFIG_SHOP_CONFIG_FBSECRETKEY' => 'To ensure secure connection between your site and facebook, you must enter Secure Key which you get when registering your website to Facebook. Read in <a href="http://wiki.oxidforge.org/Tutorials/Connecting_website_to_facebook" target="_blank">tutorial</a> how to connect your website to Facebook.',
 'HELP_SHOP_CONFIG_SHOWTAGS' => 'If not checked, no tags will be displayed in eShop. Pages that could be called via tag URL, are not accessible.',
+'HELP_SHOP_CONFIG_SHOWTSCODMESSAGE' => 'In the 4th step of the checkout process the CMS page "oxtscodmessage" is additionally displayed.',
+'HELP_SHOP_CONFIG_SHOWTSINTERNATIONALFEESMESSAGE' => 'In the 4th step of the checkout process the CMS page "oxtsinternationalfees" is additionally displayed.',
 'HELP_SHOP_CONFIG_SORTFIELDS' => 'Here you can define the database fields which can be used for sorting product lists. Enter one field per row.<br>The most common entries are:<ul><li>oxtitle = Title</li><li>oxprice = Price</li><li>oxvarminprice = The lowest price if variants with different prices are used.</li><li>oxartnum = Product numbers</li><li>oxrating = Rating of the products</li><li>oxstock = Stock</li></ul>',
 'HELP_SHOP_CONFIG_STOCKOFFDEFAULTMESSAGE' => 'For each product you can set up a message if the product is not in stock.<br>If this setting is active, a message is shown if no specific message for for a product is entered. The default message <span class="filename_filepath_or_italic">This item is not in stock and must be back-ordered</span> is shown.',
 'HELP_SHOP_CONFIG_STOCKONDEFAULTMESSAGE' => 'For each product you can set up a message if the product is on stock.<br>If this setting is active, a message is shown if no specific message for for a product is entered. The default message <span class="filename_filepath_or_italic">Ready for delivery</span> is shown.',

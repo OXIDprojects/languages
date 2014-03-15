@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: HolgerGremminger (69), marco (934), Palmer (73), rhinosmedia (4), topconcepts (118)
+ * @translators: HolgerGremminger (69), marco (1763), Palmer (73), rhinosmedia (4), topconcepts (118)
  */
 
 $sLangName  = 'Svenska';
@@ -41,7 +41,6 @@ $aLang = array(
 'SHOP_THEME_aNrofCatArticles' => 'Antal artiklar som kan visas i en artikellista per sida <br><br>OBS: Ett stort antal artiklar per sida (mer än 100) kan minska butikens hastighet avsevärt!',
 'SHOP_THEME_aNrofCatArticlesInGrid' => 'Till galeri: Antal artiklar som kan visas i en artikellista per sida <br><br>OBS: Ett stort antal artiklar per sida (mer än 100) kan minska butikens hastighet avsevärt!',
 'SHOP_THEME_blShowBirthdayFields' => 'Visa fältet för födelsedatum när användaren fyller i sina uppgifter',
-'SHOP_THEME_blShowFinalStep' => 'Visa orderbekräftelse när odern är avslutad (steg fem på odern)',
 'SHOP_THEME_blShowListDisplayType' => 'Visa produktlistatyp på produktlistor',
 'SHOP_THEME_bl_showCompareList' => 'Aktivera jämför artiklar',
 'SHOP_THEME_bl_showGiftWrapping' => 'Aktivera presentförpackning',

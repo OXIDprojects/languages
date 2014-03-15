@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: e.mersinlioglu (45), enginistemi (4), esen.baytekin (905), glp_i (120), Justian0 (3), marco (2), McDaim (101), mykibarli (20), scaly (10)
+ * @translators: e.mersinlioglu (45), enginistemi (4), esen.baytekin (905), glp_i (120), Justian0 (3), marco (2218), McDaim (101), mykibarli (20), scaly (10)
  */
 
 $sLangName  = 'Türkçe';
@@ -41,7 +41,6 @@ $aLang = array(
 'SHOP_THEME_aNrofCatArticles' => 'Tablo görünümü: Ürün listelerinde gösterilecek ürün sayısı (kategori sayfaları, arama sonuçları) <br> Dikkat: Gösterilen ürün sayısı sayfa başı 100\'ün üzerinde olduğunda performans kaybına neden olabilir!',
 'SHOP_THEME_aNrofCatArticlesInGrid' => 'Tablo görünümü: Ürün listelerinde gösterilecek ürün sayısı (kategori sayfaları, arama sonuçları) <br> Dikkat: Gösterilen ürün sayısı sayfa başı 100\'ün üzerinde olduğunda performans kaybına neden olabilir!',
 'SHOP_THEME_blShowBirthdayFields' => 'Kişisel bilgi girişinde Doğum Tarihi alanını göster',
-'SHOP_THEME_blShowFinalStep' => 'Sipariş sonlandığında "Sipariş Onayı"nı göster (Ödeme 5. Aşama)',
 'SHOP_THEME_blShowListDisplayType' => 'Ürün liste türü seçeneğini göster',
 'SHOP_THEME_bl_showCompareList' => 'Karşılaştırma Listesi seçeneğini kullan',
 'SHOP_THEME_bl_showGiftWrapping' => 'Hediye Paketi seçeneğini kullan',

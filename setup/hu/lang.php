@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: koikaam (227)
+ * @translators: koikaam (227), marco (207)
  */
 
 $sLangName  = 'Magyar';
@@ -46,10 +46,10 @@ $aLang = array(
 'ERROR_BAD_SQL' => 'HIBA: (Tábla)Probléma az, hogy az SQL HIBÁS:',
 'ERROR_CONFIG_FILE_IS_NOT_WRITABLE' => 'HIBA: %s/config.inc.php"." nem írható!',
 'ERROR_COULD_NOT_CREATE_DB' => 'HIBA: Az adatbázis %s nem elérhető és nem hozható létre!',
-'ERROR_COULD_NOT_FIND_FILE' => 'A beállított adatokat \"%s\" nem találom!',
+'ERROR_COULD_NOT_FIND_FILE' => 'A beállított adatokat "%s" nem találom!',
 'ERROR_COULD_NOT_OPEN_CONFIG_FILE' => 'A config.inc.php -t nem lehet megnyitni. Kérem a GYIK-ben, illetve a Fórumon olvasson utána, vagy az OXID Segítséggel lépjen kapcsolatba.',
-'ERROR_COULD_NOT_READ_FILE' => 'A beállított adatokat \"%s\" nem lehet megnyitni!',
-'ERROR_COULD_NOT_WRITE_TO_FILE' => 'A beállított adatokat \"%s\" nem lehet írni!',
+'ERROR_COULD_NOT_READ_FILE' => 'A beállított adatokat "%s" nem lehet megnyitni!',
+'ERROR_COULD_NOT_WRITE_TO_FILE' => 'A beállított adatokat "%s" nem lehet írni!',
 'ERROR_DB_ALREADY_EXISTS' => 'HIBA: Úgy tűnik, mintha a %s már létezne. Kérem törölje!',
 'ERROR_DB_CONNECT' => 'HIBA: Nem lehetséges kapcsolódni az adatbázishoz!',
 'ERROR_FILL_ALL_FIELDS' => 'HIBA: Kérem töltse ki a szükséges mezőket!',
@@ -64,7 +64,7 @@ $aLang = array(
 'ERROR_VIEWS_CANT_CREATE' => 'HIBA: Ezt a nézetet nem lehet létrehozni. Kérem ellenőrizze a felhasználói jogokat az adatbázisban!',
 'ERROR_VIEWS_CANT_DROP' => 'HIBA: Ezt a nézetet nem lehet törölni! Kérem ellenőrizze a felhasználói jogokat az adatbázisban!',
 'ERROR_VIEWS_CANT_SELECT' => 'HIBA: Ehhez a nézethez nem lehet hozzáférni. Kérem ellenőrizze a felhasználói jogokat az adatbázisban!',
-'FOOTER_OXID_ESALES' => '&copy; OXID eShop',
+'FOOTER_OXID_ESALES' => '© OXID eShop',
 'HEADER_META_MAIN_TITLE' => 'OXID eShop telepítése',
 'HEADER_TEXT_SETUP_NOT_RUNS_AUTOMATICLY' => 'Ha a telepítés nem indul el automatikusan néhány másodpercen belül, akkor kattintson!',
 'HERE' => 'ide',
@@ -80,7 +80,6 @@ $aLang = array(
 'MOD_J_SON' => 'JSON',
 'MOD_LIB_XML2' => 'LIB XML2',
 'MOD_MB_STRING' => 'mbstring',
-'MOD_MEMORY_LIMIT' => 'PHP Memória limit (min. 14MB, 30MB ajánlott)',
 'MOD_MOD_REWRITE' => 'Apache mod_rewrite modul',
 'MOD_MYSQL_CONNECT' => 'MySQL Client Connector a MySQL 5-höz',
 'MOD_OPEN_SSL' => 'OpenSSL',
@@ -100,12 +99,10 @@ $aLang = array(
 'MOD_ZEND_OPTIMIZER' => 'Zend Optimizer vagy Zend Guard Loader telepítve van.',
 'MOD_ZEND_PLATFORM_OR_SERVER' => 'Zend Platform vagy Zend Server telepítve van.',
 'PRIVACY_POLICY' => 'Adatvédelem',
-'SELECT_COUNTRY_LANG' => 'Ország nyelve',
 'SELECT_DELIVERY_COUNTRY' => 'Lakóhely',
 'SELECT_DELIVERY_COUNTRY_HINT' => 'Aktivizáljon további lakóhelyeket az adminisztrációs felületen, ha szükséges.',
 'SELECT_PLEASE_CHOOSE' => 'Kérem töltse ki',
 'SELECT_SETUP_LANG' => 'Az eShop nyelve',
-'SELECT_SETUP_LANG_HINT' => 'Aktiváljon további nyelveket az adminisztrációs feleöltelet, ha szükséges.',
 'SELECT_SETUP_LANG_SUBMIT' => 'Kiválasztás',
 'SELECT_SHOP_LANG' => 'Az eShop nyelve',
 'SELECT_SHOP_LANG_HINT' => 'Aktiváljon további nyelveket az adminisztrációs feleöltelet, ha szükséges.',

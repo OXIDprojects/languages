@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (19), akasauskas (14), gvidas123 (1), linasg (3), muslimukas (8), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
+ * @translators: abejingas (188), agladutis (19), akasauskas (14), gvidas123 (1), linasg (3), marco (2392), muslimukas (8), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
  */
 
 $sLangName  = 'Lietuvių';
@@ -146,6 +146,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_BASKETRESERVATION' => 'Jei parinktas požymis "neaktyvus", el. parduotuvė sumažina prekės likutį tuo metu kai užsakymas yra patvirtintas pirkėjo ir pirkimo procesas yra baigtas.<br><br> Jei parinktas požymis "aktyvus", funkcionalumas pasikeičia: Prekės likutis mažėja ir yra <b>rezervuojamas</b> kai prekė yra patalpinama į krepšelį. Rezervacija panaikinama kai prekė nuperkama ar baigiasi krepšelio rezervacija.',
 'HELP_SHOP_CONFIG_BASKETRESERVATIONTIMEOUT' => 'Praėjus rezervacijos laikui prekės likutis atstatomas ir pirkėjo krepšelis išvalomas.',
 'HELP_SHOP_CONFIG_BIDIRECTCROSS' => 'Naudojant kryžminį prekių pardavimą, galite nurodyti suderinamas prekes: Pvz.: jei automobilio padangos yra priskiriamos kaip kryžminės prekės, tai padangos yra rodomos prie automobilio.<br />Jei kryžminis pardavimas aktyvuotas, tai veikia dviejuose direktorijose: automobilis yra rodomas ir prie padangų taip pat.',
+'HELP_SHOP_CONFIG_DEBIT_OLD_BANK_INFORMATION_NOT_ALLOWED' => 'Only IBAN and BIC can be entered during the checkout. Bank account number and the bank code can only be entered if this check box is not activated.',
 'HELP_SHOP_CONFIG_DELETERATINGLOGS' => 'Vartotojas gali įvertinti prekę tik vieną kartą. Čia galite nurodyti, po kurio laiko vartotojas vėl galės įvertinti prekę. Palikus tuščią - prekės gali būti įvertintos vartotojo tik vieną kartą.',
 'HELP_SHOP_CONFIG_DISABLEONLINEVATIDCHECK' => 'Vartotojui iš kitos EU šalies įvedus PVM ID užsakymo metu yra atliekamas PVM ID patikrinamas online. Jei PVM ID yra galiojantis, PVM nėra skaičiuojamas užsakymui.<br />Jei patikrinimas online neveikia, PVM visada skaičiuojamas pagal šalį.',
 'HELP_SHOP_CONFIG_DOWNLOADS' => 'Shop with downloadable products. Activate here, that products can be ordered and downloaded.',
@@ -175,6 +176,8 @@ $aLang = array(
 'HELP_SHOP_CONFIG_SHOP_CONFIG_FACEBOOKCONFIRM' => 'Norint apsaugoti pirkėjo privatumą, the display of the Facebook social plugins must be explicitly confirmed. Tik po patvirtinimo duomenys bus matomi su Facebook.',
 'HELP_SHOP_CONFIG_SHOP_CONFIG_FBSECRETKEY' => 'Norėdami užtikrinti saugų prisijungimą svetainės ir facebook, jūs privalote įvesti Saugos raktą, kurį gausite kai registruosite savo svetainę Facebook prieigai. Kaip susieti svetainę su Facebook rasite <a href="http://wiki.oxidforge.org/Tutorials/Connecting_website_to_facebook" target="_blank" target="_blank"></a>.',
 'HELP_SHOP_CONFIG_SHOWTAGS' => 'Jei  nepažymėta, žymės nebus rodomos parduotuvėje. Puslapiai į kuriuos kreipiamąsi per URL, nėra prieinami.',
+'HELP_SHOP_CONFIG_SHOWTSCODMESSAGE' => 'In the 4th step of the checkout process the CMS page "oxtscodmessage" is additionally displayed.',
+'HELP_SHOP_CONFIG_SHOWTSINTERNATIONALFEESMESSAGE' => 'In the 4th step of the checkout process the CMS page "oxtsinternationalfees" is additionally displayed.',
 'HELP_SHOP_CONFIG_SORTFIELDS' => 'Čia galite nurodyti laukus, pagal kuriuos bus rikiuojamos prekės sąraše. Vienoje eilutėje įveskite tik vieną lauką.<br />Dažniausiai naudojami laukai:<ul><li>oxtitle = Pavadinimas</li><li>oxprice = Kaina</li><li>oxvarminprice = Mažesnė kaina, jei naudojami variantai su skirtingomis kainomis.</li><li>oxartnum = Prekės kodas</li><li>oxrating = Prekės įvertinimas</li><li>oxstock = Likutis</li></ul>',
 'HELP_SHOP_CONFIG_STOCKOFFDEFAULTMESSAGE' => 'Kiekvienai prekei galite nustatyti pranešimą, jei prekės likutis pasibaigęs.<br />Jei varnelė uždėta, pranešimas bus rodomas, jei nėra įvesta kitų pranešimų šiai prekei. Standartinis pranešimas <i>Jei išpirkta, neužsakoma</i>.',
 'HELP_SHOP_CONFIG_STOCKONDEFAULTMESSAGE' => 'Kiekvienai prekei galite nustatyti pranešimą, kai prekės likutis yra pakankamas<br />Jei varnelė uždėta, pranešimas bus rodomas, jei nėra įvesta kitų pranešimų šiai prekei. Standartinis pranešimas <i>Paruošta siuntimui</i>.',
@@ -248,11 +251,7 @@ $aLang = array(
 'HELP_USER_EXTEND_EMAILFAILED' => 'Jei vartotojo suvestas el. pašto adresas neteisingas ir jums grąžinami el. laiškai, pažymėkite šį nustatymą. Jokios naujienos tokiam vartotojui nebus siunčiamos. Bus siunčiami tik kiti el. laiškai(užsakymo, slaptažodžio priminimo).',
 'HELP_USER_EXTEND_NEWSLETTER' => 'Šis parametras rodo, ar vartotojas užsiprenumeravęs naujienas.',
 'HELP_USER_MAIN_HASPASSWORD' => 'Čia galite matyti ar vartotojas užsiregistravo atlikdamas užsakymą:<ul><li>Jei slaptažodis yra, vartotojas registruotas.</li><li>Jei slaptažodžio nėra, vartotojas užsisakė be registracijos.</li></ul>',
-'HELP_USER_PAYMENT_METHODS' => 'On this tab you can:
-<ul>
-   <li>Browse and manage existing user payment methods.</li>
-   <li>Create new payment methods and set default values, for example direct debit.</li>
-</ul>',
+'HELP_USER_PAYMENT_METHODS' => 'On this tab you can:<ul><li>Browse and manage existing user payment methods.<li>Create new payment methods and set default values, for example direct debit.</li></ul>',
 'HELP_VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Čia galite pasirinkti ar vartotojams leisti naudoti kuponus kartu su kitos serijos kuponais užsakyme.',
 'HELP_VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Čia galite pasirinkti kuriems vartotojams leisti naudoti keletą tos pačios serijos kuponų užsakyme.',
 'HELP_VOUCHERSERIE_MAIN_CALCULATEONCE' => 'Jei kuponui priskirsite prekes ar kategorijas, dekatyvuokite šį nustatymą, norėdami taikyti šį kuponą kiekvienai prekei krepšelyje. Aktyvuokite, jei kuponas turi galioti tik kartą krepšeliui.',

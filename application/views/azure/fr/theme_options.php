@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: alexraimondo (1), chatard (115), Phenix (202), Rainbow40 (2), vikapera (376)
+ * @translators: alexraimondo (1), chatard (115), marco (2990), Phenix (202), Rainbow40 (2), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -41,7 +41,6 @@ $aLang = array(
 'SHOP_THEME_aNrofCatArticles' => 'Nombre de produits à afficher par page dans les listes dans la liste de séléction (categories, résulats de recherche)<br><br>Attention: performances impactées si valeur > 100',
 'SHOP_THEME_aNrofCatArticlesInGrid' => 'Grille: Nombre de produits à afficher par page dans les listes dans la liste de séléction (categories, résulats de recherche)<br><br>Attention: performances impactées si valeur > 100',
 'SHOP_THEME_blShowBirthdayFields' => 'Afficher le champ date de naissance lors de l\'enregistrement des clients',
-'SHOP_THEME_blShowFinalStep' => 'Afficher une confirmation de commande une fois la commande terminée (5ème étape de commande)',
 'SHOP_THEME_blShowListDisplayType' => 'Afficher le sélecteur de présentation des listes de produits',
 'SHOP_THEME_bl_showCompareList' => 'Utiliser les listes de comparaison',
 'SHOP_THEME_bl_showGiftWrapping' => 'Utiliser les emballages cadeau',

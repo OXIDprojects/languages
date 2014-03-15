@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), topconcepts (209)
+ * @translators: jmatos (667), la bete (5), makolab (3214), marco (3001), mart (139), pawelch (1660), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -41,7 +41,6 @@ $aLang = array(
 'SHOP_THEME_aNrofCatArticles' => 'Liczba produktów na stronę, które mogą być wyświetlone w liście (strona kategorii, wyniki wyszukiwania)<br><br>Uwaga: Duża liczba produktów na jedną stronę (ponad 100) może spowodować spadek wydajności wyświetlania.',
 'SHOP_THEME_aNrofCatArticlesInGrid' => 'Widok siatki: liczba produktów na stronę, które mogą być wyświetlone w liście (strona kategorii, wyniki wyszukiwania)<br><br>Uwaga: Duża liczba produktów na jedną stronę (ponad 100) może spowodować spadek wydajności wyświetlania.',
 'SHOP_THEME_blShowBirthdayFields' => 'Wyświetl pole na datę urodzenia w formularzu danych osobowych użytkownika',
-'SHOP_THEME_blShowFinalStep' => 'Wyświetl potwierdzenie złożenia zamówienia w ostatnim kroku (piąty krok procesu składania zamówienia).',
 'SHOP_THEME_blShowListDisplayType' => 'Wyświetl możliwość zmiany sposobu prezentacji listy produktów.',
 'SHOP_THEME_bl_showCompareList' => 'Użyj porównywarki',
 'SHOP_THEME_bl_showGiftWrapping' => 'Użyj opcji pakowania na prezent',

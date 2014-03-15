@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: e.mersinlioglu (45), enginistemi (4), esen.baytekin (905), glp_i (120), Justian0 (3), marco (2), McDaim (101), mykibarli (20), scaly (10)
+ * @translators: e.mersinlioglu (45), enginistemi (4), esen.baytekin (905), glp_i (120), Justian0 (3), marco (2218), McDaim (101), mykibarli (20), scaly (10)
  */
 
 $sLangName  = 'Türkçe';
@@ -84,7 +84,6 @@ Istediğiniz zaman bu ayarları değiştirebilirsiniz.</p>',
 'MOD_J_SON' => 'JSON',
 'MOD_LIB_XML2' => 'LIB XML2',
 'MOD_MB_STRING' => 'mbstring',
-'MOD_MEMORY_LIMIT' => 'PHP Memory limit (Önerilen min. 14MB, 30MB)',
 'MOD_MOD_REWRITE' => 'Apache mod_rewrite modül',
 'MOD_MYSQL_CONNECT' => 'MySQL 5 için MySQL istemci konektörü',
 'MOD_OPEN_SSL' => 'OpenSSL',
@@ -104,12 +103,10 @@ Istediğiniz zaman bu ayarları değiştirebilirsiniz.</p>',
 'MOD_ZEND_OPTIMIZER' => 'Zend Optimizer veya Zend Guard Loader yüklenmiş',
 'MOD_ZEND_PLATFORM_OR_SERVER' => 'Zend Platform veya Zend Server yüklü',
 'PRIVACY_POLICY' => 'gizlilik politikası',
-'SELECT_COUNTRY_LANG' => 'Lütfen ülkenizi seçin',
 'SELECT_DELIVERY_COUNTRY' => 'Ana teslimat ülkesi',
 'SELECT_DELIVERY_COUNTRY_HINT' => 'Gerektiğinde Admin arayüzünden kolayca daha fazla teslimat ülkesi etkinleştirebilirsiniz.',
 'SELECT_PLEASE_CHOOSE' => 'Lütfen seçiniz',
 'SELECT_SETUP_LANG' => 'Kurulum dili',
-'SELECT_SETUP_LANG_HINT' => '. Gerektiğinde Admin arayüzünden kolayca daha fazla dil etkinleştirebilirsiniz.',
 'SELECT_SETUP_LANG_SUBMIT' => 'Seç',
 'SELECT_SHOP_LANG' => 'Mağaza dili',
 'SELECT_SHOP_LANG_HINT' => 'Gerektiğinde Admin arayüzünden kolayca daha fazla dil etkinleştirebilirsiniz.',

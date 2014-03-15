@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (19), akasauskas (14), gvidas123 (1), linasg (3), muslimukas (8), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
+ * @translators: abejingas (188), agladutis (19), akasauskas (14), gvidas123 (1), linasg (3), marco (2392), muslimukas (8), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
  */
 
 $sLangName  = 'Lietuvių';
@@ -41,7 +41,6 @@ $aLang = array(
 'SHOP_THEME_aNrofCatArticles' => 'Prekių sąraše galimas prekių atvaizdavimo skaičius (kategorijos puslapiai, paieškos rezultatai)<br><br>Dėmesio: Didelis prekių skaičius puslapyje (apie 100) gali sulėtinti svetainės krovimąsi!',
 'SHOP_THEME_aNrofCatArticlesInGrid' => 'Tinklelio vaizdas: Prekių sąraše matomas galimas prekių atvaizdavimo skaičius (kategorijos puslapiai, paieškos rezultatai)<br><br>Dėmesio: Didelis prekių skaičius puslapyje (apie 100) gali sulėtinti svetainės krovimąsi!',
 'SHOP_THEME_blShowBirthdayFields' => 'Rodyti gimimo datos įvedimo laukelius, kai vartotojas įveda savo duomenis',
-'SHOP_THEME_blShowFinalStep' => 'Rodyti užsakymo patvirtinimą kai užsakymas yra baigtas (penktame žingsnyje Patvirtinime)',
 'SHOP_THEME_blShowListDisplayType' => 'Rodyti prekių sąrašo atvaizdavimo pasirinkimą vartotojui',
 'SHOP_THEME_bl_showCompareList' => 'Naudoti prekių palyginimą',
 'SHOP_THEME_bl_showGiftWrapping' => 'Naudoti įpakavimą',

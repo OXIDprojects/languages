@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404)
+ * @translators: DominikS (404), marco (2379)
  */
 
 $sLangName  = 'Slovenčina';
@@ -80,7 +80,6 @@ $aLang = array(
 'MOD_J_SON' => 'JSON',
 'MOD_LIB_XML2' => 'LIB XML2',
 'MOD_MB_STRING' => 'mbstring',
-'MOD_MEMORY_LIMIT' => 'PHP Memory limit (odporúčané min. 14MB, 30MB)',
 'MOD_MOD_REWRITE' => 'Apache mod_rewrite module',
 'MOD_MYSQL_CONNECT' => 'MySQL client connector for MySQL 5',
 'MOD_OPEN_SSL' => 'OpenSSL',
@@ -100,12 +99,10 @@ $aLang = array(
 'MOD_ZEND_OPTIMIZER' => 'Zend Optimizer alebo Zend Guard Loader nainštalovaný',
 'MOD_ZEND_PLATFORM_OR_SERVER' => 'Zend Platform alebo Zend Server nainštalovaný',
 'PRIVACY_POLICY' => 'ochrana osobných údajov',
-'SELECT_COUNTRY_LANG' => 'Please choose your country',
 'SELECT_DELIVERY_COUNTRY' => 'Main delivery country',
 'SELECT_DELIVERY_COUNTRY_HINT' => 'If needed, activate easily more delivery countries in admin.',
 'SELECT_PLEASE_CHOOSE' => 'Prosím vyberte',
 'SELECT_SETUP_LANG' => 'jazyk pre inštalačný proces',
-'SELECT_SETUP_LANG_HINT' => '. If needed, activate easily more languages in admin.',
 'SELECT_SETUP_LANG_SUBMIT' => 'Vybrať',
 'SELECT_SHOP_LANG' => 'Jazyk obchodu',
 'SELECT_SHOP_LANG_HINT' => 'V prípade potreby je neskôr možné v administrácii e-shopu jednoducho aktivovať ďalšie jazyky.',

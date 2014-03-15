@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (896), Espana (5), ET (212), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (896), Espana (5), ET (212), jmatos (31), jsmaster (6), marco (2997), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -80,7 +80,6 @@ $aLang = array(
 'MOD_J_SON' => 'JSON',
 'MOD_LIB_XML2' => 'libxml2',
 'MOD_MB_STRING' => 'mbstring',
-'MOD_MEMORY_LIMIT' => 'Límite de memoria PHP (mín. 14MB, 30MB recomendados)',
 'MOD_MOD_REWRITE' => 'Módulo mod_rewrite de Apache',
 'MOD_MYSQL_CONNECT' => 'MySQL conector de cliente para MySQL 5',
 'MOD_OPEN_SSL' => 'OpenSSL',
@@ -100,12 +99,10 @@ $aLang = array(
 'MOD_ZEND_OPTIMIZER' => 'Optimizador Zend o Zend Guard Loader instalado',
 'MOD_ZEND_PLATFORM_OR_SERVER' => 'Plataforma Zend o Servidor Zend instalado',
 'PRIVACY_POLICY' => 'condiciones de privacidad',
-'SELECT_COUNTRY_LANG' => 'Por favor, elige tu país',
 'SELECT_DELIVERY_COUNTRY' => 'País de envío principal',
 'SELECT_DELIVERY_COUNTRY_HINT' => 'Si es necesario, activa más paises de envío en admin.',
 'SELECT_PLEASE_CHOOSE' => 'Por favor, elige',
 'SELECT_SETUP_LANG' => 'Idioma de instalación',
-'SELECT_SETUP_LANG_HINT' => '.Si fuera necesario, activa más idiomas en admin.',
 'SELECT_SETUP_LANG_SUBMIT' => 'Selecciona',
 'SELECT_SHOP_LANG' => 'Idioma de la tienda',
 'SELECT_SHOP_LANG_HINT' => 'Si fuera necesario, activa más idiomas en admin.',
