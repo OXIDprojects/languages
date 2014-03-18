@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dave2005 (76), inquisitor8 (298), marco (3148), ondrej123 (2), RSee (1318), SYSKO (8)
+ * @translators: dave2005 (76), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (9)
  */
 
 $sLangName  = 'Česky';

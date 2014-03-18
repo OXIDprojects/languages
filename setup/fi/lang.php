@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: AWIDON (21), marco (1)
+ * @translators: AWIDON (21)
  */
 
 $sLangName  = 'Suomi';

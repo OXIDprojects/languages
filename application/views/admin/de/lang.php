@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dsb (5), marco (10406)
+ * @translators: dsb (5), marco (4010)
  */
 
 $sLangName  = 'Deutsch';
@@ -51,7 +51,7 @@ $aLang = array(
 'ARTICLE_ATTRIBUTE_NOATTRIBUTE' => 'Nicht ben. Attribute',
 'ARTICLE_ATTRIBUTE_NOATTRIBUTES' => 'Bitte wählen Sie ein Attribut!',
 'ARTICLE_ATTRIBUTE_NOSELLIST' => 'Nicht ben. Ausw.listen',
-'ARTICLE_ATTRIBUTE_OPENINNEWWINDOW' => 'Create Attribute in new window',
+'ARTICLE_ATTRIBUTE_OPENINNEWWINDOW' => 'Neues Attribut in neuem Fenster öffnen',
 'ARTICLE_ATTRIBUTE_SAVE' => 'Speichern',
 'ARTICLE_ATTRIBUTE_SELECTONEATTR' => 'Bitte wählen Sie ein Attribut:',
 'ARTICLE_ATTRIBUTE_TOOMANYATTRIBUTES' => 'Bitte nur ein Attribut auswählen!',
@@ -500,7 +500,7 @@ $aLang = array(
 'EXCEPTION_UNSPECIFIED_PARENT_VERSIONS' => 'Kompatible Versionsnummer des Eltern-Themes konnte nicht gefunden werden',
 'EXCEPTION_USER_NOVALIDLOGIN' => 'Falsche E-Mail oder Passwort!',
 'EXCEPTION_USER_USEREXISTS' => 'Dieser Benutzer existiert bereits!',
-'FAVORITES_DESC' => 'favorites description ...',
+'FAVORITES_DESC' => 'Beschreibung der Favoriten ...',
 'fullDateFormat' => 'd.m.Y H:i:s',
 'GENERAL_ACTIVE' => 'Aktiv',
 'GENERAL_ACTIVFROMTILL' => 'Oder aktiv',

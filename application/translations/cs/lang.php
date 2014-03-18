@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dave2005 (76), inquisitor8 (298), marco (3148), ondrej123 (2), RSee (1318), SYSKO (8)
+ * @translators: dave2005 (76), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (9)
  */
 
 $sLangName  = 'Česky';
@@ -277,7 +277,7 @@ $aLang = array(
 'IBAN' => 'IBAN:',
 'IF_DIFFERENT_FROM_BILLING_ADDRESS' => 'If different from billing address.',
 'IMPRESSUM' => 'O nás',
-'INCLUDE_VAT' => 'incl. VAT',
+'INCLUDE_VAT' => 's DPH',
 'INCL_TAX_AND_PLUS_SHIPPING' => '* všechny ceny včetně DPH a dopravy',
 'infogrid' => 'Double grid',
 'INFORMATION' => 'Informace',

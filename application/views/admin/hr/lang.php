@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: AWIDON (752), buby (114), marco (937), ondrej123 (327)
+ * @translators: AWIDON (752), buby (114), ondrej123 (327)
  */
 
 $sLangName  = 'Hrvatski';

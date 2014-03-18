@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: hodota (32), marco (1907)
+ * @translators: hodota (32)
  */
 
 $sLangName  = '日本語';

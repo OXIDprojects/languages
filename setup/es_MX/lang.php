@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: jsmaster (11), marco (9)
+ * @translators: jsmaster (11)
  */
 
 $sLangName  = 'Español de México';
