@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ilya (5), mantgomery (2), marco (1211), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ilya (5), mantgomery (2), marco (1216), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -239,8 +239,8 @@ $aLang = array(
 'ATTRIBUTE_MAIN_ITEMSWITHATTR' => 'Товары с этим атрибутом',
 'ATTRIBUTE_MAIN_SORTING' => 'Сортировка',
 'AUCTMASTER_DO_EXPORTEND' => 'Экспорт завешён.',
-'AUCTMASTER_DO_EXPORTFILE1' => 'Невозможно создать файл экспорта',
-'AUCTMASTER_DO_EXPORTFILE2' => 'не пишите!',
+'AUCTMASTER_DO_EXPORTFILE1' => 'Не возможно создать файл экспорта',
+'AUCTMASTER_DO_EXPORTFILE2' => '',
 'AUCTMASTER_DO_EXPORTING1' => 'Идёт процесс экспортирования',
 'AUCTMASTER_DO_EXPORTING2' => 'Всего',
 'AUCTMASTER_DO_EXPORTNOTSTARTED' => 'Экспорт ещё не начат..',
@@ -348,7 +348,7 @@ $aLang = array(
 'DELIVERY_MAIN_ORDER' => 'Порядок обработки',
 'DELIVERY_MAIN_PARAM' => 'Способ оплаты',
 'DELIVERY_MAIN_PRICE' => 'Стоимость (надбавка/скидка)',
-'DELIVERY_RDFA_ADVICE_END' => 'соответствоваeт',
+'DELIVERY_RDFA_ADVICE_END' => '',
 'DELIVERY_RDFA_ADVICE_START' => '<b>Hint:</b> Please choose only those delivery methods, pre-defined in GoodRelations, that comply with your shipping method',
 'DELIVERY_RDFA_ASIGN_DELIVERY' => 'Назначите варианты доставки',
 'DELIVERY_RDFA_DELIVERYMODEDIRECTDOWNLOAD' => 'Cкачиваемыйние файл',
@@ -384,7 +384,7 @@ $aLang = array(
 'DISCOUNT_USERS_SETGROUPS' => 'Assigned User Groups',
 'DISCOUNT_USERS_SETUSER' => 'Assigned Users',
 'DYNBASE_ADDCATTOCAMPAIGN' => 'Add category to campaign parameter',
-'DYNBASE_DO_DOWNLOAD' => 'Скачать',
+'DYNBASE_DO_DOWNLOAD' => '',
 'DYNBASE_DO_HERE' => 'здесь',
 'DYNBASE_DO_LINK' => 'The Partner can also pick-up this file himself - please note following Link: ',
 'DYNBASE_DO_SUCCESS' => 'Success! Your Export File can be downloaded',

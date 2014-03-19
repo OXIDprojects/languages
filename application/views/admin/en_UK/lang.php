@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: marco (4137)
+ * @translators: marco (4141)
  */
 
 $sLangName  = 'British English';
@@ -240,7 +240,7 @@ $aLang = array(
 'ATTRIBUTE_MAIN_SORTING' => 'Sorting',
 'AUCTMASTER_DO_EXPORTEND' => 'Export completed.',
 'AUCTMASTER_DO_EXPORTFILE1' => 'Not able to write to export file',
-'AUCTMASTER_DO_EXPORTFILE2' => 'don\'t write!',
+'AUCTMASTER_DO_EXPORTFILE2' => '',
 'AUCTMASTER_DO_EXPORTING1' => 'Export running. Export',
 'AUCTMASTER_DO_EXPORTING2' => 'of overall',
 'AUCTMASTER_DO_EXPORTNOTSTARTED' => 'Export not yet started.',
@@ -348,7 +348,7 @@ $aLang = array(
 'DELIVERY_MAIN_ORDER' => 'Order of Rule Processing',
 'DELIVERY_MAIN_PARAM' => 'Payment Method',
 'DELIVERY_MAIN_PRICE' => 'Price Surcharge/Discount',
-'DELIVERY_RDFA_ADVICE_END' => 'according to',
+'DELIVERY_RDFA_ADVICE_END' => '',
 'DELIVERY_RDFA_ADVICE_START' => '<b>Hint:</b> Please choose only those delivery methods, pre-defined in GoodRelations, that comply with your delivery method',
 'DELIVERY_RDFA_ASIGN_DELIVERY' => 'Assign delivery method',
 'DELIVERY_RDFA_DELIVERYMODEDIRECTDOWNLOAD' => 'Download',
@@ -384,7 +384,7 @@ $aLang = array(
 'DISCOUNT_USERS_SETGROUPS' => 'Assigned User Groups',
 'DISCOUNT_USERS_SETUSER' => 'Assigned Users',
 'DYNBASE_ADDCATTOCAMPAIGN' => 'Add category to campaign parameter',
-'DYNBASE_DO_DOWNLOAD' => 'download.',
+'DYNBASE_DO_DOWNLOAD' => '',
 'DYNBASE_DO_HERE' => 'here',
 'DYNBASE_DO_LINK' => 'The Partner can also pick-up this file himself - please note following Link:',
 'DYNBASE_DO_SUCCESS' => 'Success! Your Export File can be downloaded',
@@ -1171,7 +1171,7 @@ $aLang = array(
 'PAYMENT_MAIN_SELECTED' => 'Selected',
 'PAYMENT_MAIN_TILL' => 'to',
 'PAYMENT_OVERVIEW_HOWMANYPAYMENTS' => 'How many purchases were paid with this payment method',
-'PAYMENT_RDFA_ADVICE_END' => 'comply',
+'PAYMENT_RDFA_ADVICE_END' => '',
 'PAYMENT_RDFA_ADVICE_START' => '<b>Hint:</b> Please choose only those payment methods, pre-defined in GoodRelations, that comply with your payment method',
 'PAYMENT_RDFA_AMERICANEXPRESS' => 'American Express',
 'PAYMENT_RDFA_ASIGN_PAYMENT' => 'Assign payment',
