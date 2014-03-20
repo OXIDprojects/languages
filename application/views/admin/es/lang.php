@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1098), Espana (5), ET (212), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1101), Espana (5), ET (212), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -1139,14 +1139,14 @@ $aLang = array(
 'OXDIAG_SERVERINFO_NOT_DETECTED' => 'no detectado',
 'OXDIAG_SHOP_DOES_NOT_FIT' => 'La tienda OXID no se adapta al 100%',
 'OXDIAG_SHOP_ORIGINAL' => 'Esta OXID eShop no ha sido modificada y es completamente original',
-'OXDIAG_SRVINF_NOTALL' => 'Cannot request all values, due to disabled <i>exec</i> command on server.',
-'OXDIAG_SRVINF_NOTE' => 'Note: This information is gathered for the current runtime frontend server. Should you have more than one frontend server running, you may access those directly in order to gather their information.',
+'OXDIAG_SRVINF_NOTALL' => 'No se puede obtener todos los valores, debido a que está desactivado el comando <i>exec</i> en el servidor.',
+'OXDIAG_SRVINF_NOTE' => 'Nota: Esta información es recolectada de la ejecución del servidor frontal. Deberías tener más de un servidor central corriendo, puedes acceder directamente en orden para recolectar sus informaciones.',
 'OXDIAG_STORE_ANALYSIS' => 'Resultados de tienda',
 'OXDIAG_SUMMARY' => 'Resumen',
 'OXDIAG_UNKNOWN' => 'Desconocido',
 'OXDIAG_VERSION' => 'Versión',
 'OXDIAG_VERSIONCHECKER' => 'Comprobador de versión',
-'OXDIAG_VERSIONMISMATCHHINTS' => 'Apparently one or more updates went wrong. See details link for more information about more details for each file. A left over file which is not any longer included in OXID eShop could also be a <u>possible</u> reason for version mismatch. Find information about update in our <a href="http://www.oxid-esales.com/en/support-services/documentation-and-help/oxid-eshop/installation/oxid-eshop-update-installation" target=_blank>Documentation and help</a>.',
+'OXDIAG_VERSIONMISMATCHHINTS' => 'Aparentemente una o mas actualizaciones fueron erróneas. Mire el enlace de detalles para más información sobre más detalles para cada fichero. Un fichero sobrante el cual no se encuentra ya incluido en OXID eShop puede ser también una <u>posible</u> razón de discordancia de versiones. Encuentre información sobre la actualización en nuestra <a href="http://www.oxid-esales.com/en/support-services/documentation-and-help/oxid-eshop/installation/oxid-eshop-update-installation" target=_blank>Documentación y ayuda</a>.',
 'OXDIAG_VERSION_MISMATCH' => 'Desajuste de versión',
 'PAGENAVISNIPPET_FROM' => 'de',
 'PAYMENT_COUNTRY_ALLCOUNTRIES' => 'Todos los países',
