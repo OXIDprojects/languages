@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), ET (163)
+ * @translators: bRanzo (210), DC-NICO (41), ET (175)
  */
 
 $sLangName  = 'Italiano';
@@ -49,7 +49,7 @@ $aLang = array(
 'ARTICLE_ATTRIBUTE_ITEMSATTRIBUTE' => 'Attributi Del Prodotto',
 'ARTICLE_ATTRIBUTE_ITEMSSELLIST' => 'l\'articolo ha queti selezioni',
 'ARTICLE_ATTRIBUTE_NOATTRIBUTE' => 'Attributi Disponibili',
-'ARTICLE_ATTRIBUTE_NOATTRIBUTES' => 'Please select one Attribute!',
+'ARTICLE_ATTRIBUTE_NOATTRIBUTES' => 'Si prega di selezionare un attributo!',
 'ARTICLE_ATTRIBUTE_NOSELLIST' => 'Liste di Selezione Disponibili',
 'ARTICLE_ATTRIBUTE_OPENINNEWWINDOW' => 'Crea Attributi (Nuova Finestra)',
 'ARTICLE_ATTRIBUTE_SAVE' => 'Salva',
@@ -65,7 +65,7 @@ $aLang = array(
 'ARTICLE_CROSSSELLING_CROSSSELLING' => 'Prodotti in multivendita',
 'ARTICLE_CROSSSELLING_EXTRAS' => 'Accessori per Prodotti',
 'ARTICLE_EXTEND_ALLCATS' => 'Tutte le Categorie',
-'ARTICLE_EXTEND_ARTEXTRA' => 'Bundled Product',
+'ARTICLE_EXTEND_ARTEXTRA' => 'Prodotto in bundle',
 'ARTICLE_EXTEND_ARTINCATS' => 'il Prodotto è in queste Categorie',
 'ARTICLE_EXTEND_BLFIXEDPRICE' => 'Disattiva allerta prezzo',
 'ARTICLE_EXTEND_BPRICE' => 'Prezzo di Acquisto',
@@ -155,23 +155,23 @@ $aLang = array(
 'ARTICLE_PICTURES_CUSTOM_PICTURES' => 'Custom pictures',
 'ARTICLE_PICTURES_ICON' => 'Icon',
 'ARTICLE_PICTURES_ICONUPLOAD' => 'Icon caricare',
-'ARTICLE_PICTURES_PIC1' => 'Picture 1',
+'ARTICLE_PICTURES_PIC1' => 'Foto 1',
 'ARTICLE_PICTURES_PIC1UPLOAD' => 'Immagine 1 caricare',
-'ARTICLE_PICTURES_PIC2' => 'Picture 2',
+'ARTICLE_PICTURES_PIC2' => 'Foto 2',
 'ARTICLE_PICTURES_PIC2UPLOAD' => 'Immagine 2 caricare',
-'ARTICLE_PICTURES_PIC3' => 'Picture 3',
+'ARTICLE_PICTURES_PIC3' => 'Foto 3',
 'ARTICLE_PICTURES_PIC3UPLOAD' => 'Immagine 3 caricare',
-'ARTICLE_PICTURES_PIC4' => 'Picture 4',
+'ARTICLE_PICTURES_PIC4' => 'Foto 4',
 'ARTICLE_PICTURES_PIC4UPLOAD' => 'Immagine 4 caricare',
-'ARTICLE_PICTURES_PIC5' => 'Picture 5',
+'ARTICLE_PICTURES_PIC5' => 'Foto 5',
 'ARTICLE_PICTURES_PIC5UPLOAD' => 'Immagine 5 caricare',
-'ARTICLE_PICTURES_PIC6' => 'Picture 6',
+'ARTICLE_PICTURES_PIC6' => 'Foto 6',
 'ARTICLE_PICTURES_PIC6UPLOAD' => 'Immagine 6 caricare',
-'ARTICLE_PICTURES_PIC7' => 'Picture 7',
+'ARTICLE_PICTURES_PIC7' => 'Foto 7',
 'ARTICLE_PICTURES_PIC7UPLOAD' => 'Immagine 7 caricare',
 'ARTICLE_PICTURES_PREVIEW' => 'Preview',
 'ARTICLE_PICTURES_SAVE' => 'Salvare',
-'ARTICLE_PICTURES_THUMB' => 'Thumbnail',
+'ARTICLE_PICTURES_THUMB' => 'Miniatura',
 'ARTICLE_PICTURES_THUMBUPLOAD' => 'Thumbn. caricare',
 'ARTICLE_PICTURES_UPLOADISDISABLED' => 'This is a demoshop. Uploading or deleting images has been switched off due to security reasons.',
 'ARTICLE_PICTURES_ZOOM1' => 'Zoom 1',
@@ -183,7 +183,7 @@ $aLang = array(
 'ARTICLE_PICTURES_ZOOM4' => 'Zoom 4',
 'ARTICLE_PICTURES_ZOOM4UPLOAD' => 'Zoom 4 upload: ',
 'ARTICLE_REVIEW_ACTIVE' => 'Attivo',
-'ARTICLE_REVIEW_DELETE' => 'Delete',
+'ARTICLE_REVIEW_DELETE' => 'Eliminare',
 'ARTICLE_REVIEW_POSTEDFROM' => 'Posto da:',
 'ARTICLE_REVIEW_SAVE' => 'Save',
 'ARTICLE_REVIEW_TEXT' => 'Tessto:',

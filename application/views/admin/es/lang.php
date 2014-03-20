@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1101), Espana (5), ET (212), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1101), Espana (5), ET (218), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -157,17 +157,17 @@ $aLang = array(
 'ARTICLE_PICTURES_ICONUPLOAD' => 'Icono subir:',
 'ARTICLE_PICTURES_PIC1' => 'Foto 1',
 'ARTICLE_PICTURES_PIC1UPLOAD' => 'Imagen 1 subir:',
-'ARTICLE_PICTURES_PIC2' => 'Imagen 2',
+'ARTICLE_PICTURES_PIC2' => 'Foto 2',
 'ARTICLE_PICTURES_PIC2UPLOAD' => 'Imagen 2 subir:',
-'ARTICLE_PICTURES_PIC3' => 'Imagen 3',
+'ARTICLE_PICTURES_PIC3' => 'Foto 3',
 'ARTICLE_PICTURES_PIC3UPLOAD' => 'Imagen 3 subir:',
-'ARTICLE_PICTURES_PIC4' => 'Imagen 4',
+'ARTICLE_PICTURES_PIC4' => 'Foto 4',
 'ARTICLE_PICTURES_PIC4UPLOAD' => 'Imagen 4 subir:',
-'ARTICLE_PICTURES_PIC5' => 'Imagen 5',
+'ARTICLE_PICTURES_PIC5' => 'Foto 5',
 'ARTICLE_PICTURES_PIC5UPLOAD' => 'Imagen 5 subir:',
-'ARTICLE_PICTURES_PIC6' => 'Imagen 6',
+'ARTICLE_PICTURES_PIC6' => 'Foto 6',
 'ARTICLE_PICTURES_PIC6UPLOAD' => 'Imagen 6 subir:',
-'ARTICLE_PICTURES_PIC7' => 'Imagen 7',
+'ARTICLE_PICTURES_PIC7' => 'Foto 7',
 'ARTICLE_PICTURES_PIC7UPLOAD' => 'Imagen 7 subir:',
 'ARTICLE_PICTURES_PREVIEW' => 'Prevista',
 'ARTICLE_PICTURES_SAVE' => 'Guardar',

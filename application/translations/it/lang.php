@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), ET (163)
+ * @translators: bRanzo (210), DC-NICO (41), ET (175)
  */
 
 $sLangName  = 'Italiano';
@@ -45,7 +45,7 @@ $aLang = array(
 'ADD_WRAPPING' => 'Aggiungi confezione die regalo',
 'ADD_YOUR_COMMENTS' => 'Aggiungi i tuoi commenti',
 'ALL' => 'Tutti',
-'ALL_BRANDS' => 'All Brands',
+'ALL_BRANDS' => 'Tutte le marche',
 'ALL_LISTMANIA' => 'Tutte Promemorie',
 'ALREADY_ADDED_TAG' => 'Tag giá messo',
 'ALREADY_CUSTOMER' => 'Sono giá cliente',
