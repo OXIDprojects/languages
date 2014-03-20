@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: AWIDON (752), buby (114), ondrej123 (327)
+ * @translators: AWIDON (752), buby (118), ondrej123 (327)
  */
 
 $sLangName  = 'Hrvatski';
@@ -77,7 +77,7 @@ $aLang = array(
 'BIRTHDATE' => 'Datum rođenja:',
 'BLOCK_PRICE' => 'Cijena po količini',
 'BRAND' => 'Marka',
-'BY_BRAND' => 'By Brand',
+'BY_BRAND' => 'Po Proizvođaću',
 'BY_MANUFACTURER' => 'By Manufacturer',
 'BY_VENDOR' => 'By Distributor',
 'CANCEL' => 'Poništi',
@@ -130,8 +130,8 @@ $aLang = array(
 'DEDUCTION' => 'Odbitak',
 'DELIVERABLE' => 'Raspoloživo:',
 'DELIVERYTIME' => 'Datum isporuke:',
-'DELIVERYTIME_DAY' => '%s day',
-'DELIVERYTIME_DAYS' => '%s days',
+'DELIVERYTIME_DAY' => '%s Dan',
+'DELIVERYTIME_DAYS' => '%s Dana',
 'DELIVERYTIME_DELIVERYTIME' => 'Delivery time',
 'DELIVERYTIME_MONTH' => '%s month',
 'DELIVERYTIME_MONTHS' => '%s months',

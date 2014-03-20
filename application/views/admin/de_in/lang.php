@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: AWIDON (1), dsb (1), marco (4437), simoneschuppe (4), Thielo (1)
+ * @translators: AWIDON (1), dsb (1), marco (4482), simoneschuppe (4), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';
@@ -393,10 +393,10 @@ $aLang = array(
 'DYNSCREEN_LOCAL_TITLE' => 'eCommerce Services',
 'DYNSCREEN_TITLE' => 'marketing',
 'dyn_about' => 'Allgemein',
-'DYN_ECONDA_ACTIVE' => 'Activate Econda Webcontrolling?',
-'DYN_ECONDA_ATTENTION' => 'Please note: ',
-'DYN_ECONDA_COPY' => '',
-'DYN_ECONDA_FILETO' => 'You have to copy the file "emos2.js" which you receive from Econda into the directory ',
+'DYN_ECONDA_ACTIVE' => 'ECONDA Webcontrolling aktivieren',
+'DYN_ECONDA_ATTENTION' => 'Bitte beachte:',
+'DYN_ECONDA_COPY' => 'kopieren',
+'DYN_ECONDA_FILETO' => 'Du musst dazu die Datei "emos2.js", die Du von ECONDA erhälst, in das Verzeichnis',
 'dyn_efire' => 'OXID eFire',
 'dyn_interface' => 'Interface',
 'dyn_menu' => 'Servicebereich',

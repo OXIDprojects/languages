@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1063), Espana (5), ET (212), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1098), Espana (5), ET (212), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -438,7 +438,7 @@ $aLang = array(
 'NO_ENTRY_AVAILABLE' => 'Entradas no disponibles.',
 'NO_GREETING_CARD' => 'No hay tarjeta de felicitación',
 'NO_ITEMS_FOUND' => 'Por desgracia ningunos artículos encontrado',
-'NO_LISTMANIA_LIST' => 'There is no Listmania lists at the moment. To create a new list, please ',
+'NO_LISTMANIA_LIST' => 'No hay listas Listmania en el momento. Para crear una nueva lista, por favor',
 'NO_LISTMANIA_LIST_FOUND' => 'No se han encontrado listas Listmania',
 'NO_RATINGS' => 'Sin clasificación.',
 'NO_REVIEW_AVAILABLE' => 'No hay reseña disponible para este item.',
@@ -458,7 +458,7 @@ $aLang = array(
 'ORDER_HISTORY' => 'Historial de Pedidos',
 'ORDER_IS_CANCELED' => 'El encargo era anulado',
 'ORDER_NUMBER' => 'Número de encargo',
-'ORDER_SHIPPED_TO' => 'The order is shipped to',
+'ORDER_SHIPPED_TO' => 'El pedido es enviado a',
 'OUR_BRANDS' => 'Nuestras<br>Marcas',
 'OUR_REGULAR_PRICE' => '(Nuestro precio normal.)',
 'OXACTIVE' => 'aktivo',
