@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1108), Espana (5), ET (218), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1118), Espana (5), ET (218), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -925,7 +925,7 @@ $aLang = array(
 'mxshow' => 'Estadísticas y Mant Login.',
 'mxstat' => 'Estadísticas',
 'mxsysinfo' => 'Sistema de Información',
-'mxsysreq' => 'Sistema de salud',
+'mxsysreq' => 'Comprobación del sistema',
 'mxtheme' => 'Temas',
 'mxtools' => 'Herramientas',
 'mxuadmin' => 'Administrar usuario',
@@ -1071,7 +1071,7 @@ $aLang = array(
 'OXDIAG_CHKVERS_FULLREP' => 'Ejecuta comprobación de versión para reporte completo',
 'OXDIAG_COLLECT_CHKVERS' => 'Ejecuta <i>Comprobador de versión</i>',
 'OXDIAG_COLLECT_CHKVERS_DURATION' => 'Esto puede acaparar el tiempo de ejecución del módulo o puede fallar la ejecución.',
-'OXDIAG_COLLECT_HEALTH' => 'Recoger estado de salud del sistema',
+'OXDIAG_COLLECT_HEALTH' => 'Recoger estado de comprobación del sistema',
 'OXDIAG_COLLECT_MODULES' => 'Recorrer módulos',
 'OXDIAG_COLLECT_PHP' => 'Recoger configuración PHP (parámetros seleccionados)',
 'OXDIAG_COLLECT_SERVER' => 'Recoger información del sistema (si es posible)',
@@ -1091,7 +1091,7 @@ $aLang = array(
 'OXDIAG_FORM_LIST_ALL_FILES' => 'Lista todos los ficheros (tambien aquellos que estaban OK)',
 'OXDIAG_FORM_START_CHECK' => 'Empieza a comprobar esta eShop ahora puede llevar algo de tiempo)',
 'OXDIAG_GOTO' => 'Ir a',
-'OXDIAG_HEALTH' => 'Salud del sistema',
+'OXDIAG_HEALTH' => 'Comprobación del sistema',
 'OXDIAG_HEALTH_FAIL' => 'FALLO',
 'OXDIAG_HEALTH_MIN' => 'MIN',
 'OXDIAG_HEALTH_OK' => 'OK',
@@ -1707,11 +1707,11 @@ $aLang = array(
 'SYSREQ_BUG53632' => 'Posibles problemas en servidor debido a bugs de PHP',
 'SYSREQ_CURL' => 'cURL',
 'SYSREQ_DESCRIPTION_COLL' => 'Colaciones en algunas columnas no coinciden',
-'SYSREQ_DESCRIPTION_FAIL' => 'Sistema de salud está roto o la seguridad se ve comprometida. Este eShop OXID no funcionará correctamente en todos los casos y se comporte extraña.',
-'SYSREQ_DESCRIPTION_NULL' => 'la salud del sistema no es capaz de no ser revisado.',
-'SYSREQ_DESCRIPTION_PASS' => 'Sistema de salud es bueno.',
-'SYSREQ_DESCRIPTION_PMIN' => 'Sistema de salud podría ser roto.',
-'SYSREQ_DESCRIPTION_REQ' => 'Estado del sistema de salud',
+'SYSREQ_DESCRIPTION_FAIL' => 'Comprobación del sistema está roto o la seguridad se ve comprometida. Este eShop OXID no funcionará correctamente en todos los casos y se comporte extraña.',
+'SYSREQ_DESCRIPTION_NULL' => 'la comprobación del sistema no es capaz de no ser revisado.',
+'SYSREQ_DESCRIPTION_PASS' => 'Comprobación del sistema es bueno.',
+'SYSREQ_DESCRIPTION_PMIN' => 'Comprobación del sistema podría ser roto.',
+'SYSREQ_DESCRIPTION_REQ' => 'Estado de la comprobación del sistema',
 'SYSREQ_FILE_UPLOADS' => 'Subida de ficheros están activadas (file_uploads)',
 'SYSREQ_GD_INFO' => 'GDlib v2 [v1] incl. JPEG apoyo',
 'SYSREQ_INI_SET' => 'ini_set permitido',
@@ -1719,7 +1719,7 @@ $aLang = array(
 'SYSREQ_J_SON' => 'JSON',
 'SYSREQ_LIB_XML2' => 'LIB xml2',
 'SYSREQ_LIST_MENUITEM' => 'Servicio',
-'SYSREQ_LIST_MENUSUBITEM' => 'Sistema de salud',
+'SYSREQ_LIST_MENUSUBITEM' => 'Comprobación del sistema',
 'SYSREQ_MB_STRING' => 'mbstring',
 'SYSREQ_MEMORY_LIMIT' => 'PHP límite de memoria (min. 30 MB 14 MB recomendado)',
 'SYSREQ_MEMORY_LIMIT_EE' => 'Memoria límite de PHP (min. 32MB, recomendado 60MB)',
