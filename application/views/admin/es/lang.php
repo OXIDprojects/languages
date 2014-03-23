@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1118), Espana (5), ET (218), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1126), Espana (5), ET (218), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -71,17 +71,17 @@ $aLang = array(
 'ARTICLE_EXTEND_BPRICE' => 'Precio de Compra',
 'ARTICLE_EXTEND_DEFAULT' => 'Establecer como categoría principal',
 'ARTICLE_EXTEND_DESCRIPTION' => 'Descripción',
-'ARTICLE_EXTEND_DIMENSIONS_UNIT' => 'Articulo extiende su unidad de dimensión',
+'ARTICLE_EXTEND_DIMENSIONS_UNIT' => 'm',
 'ARTICLE_EXTEND_ENTERURL' => 'Introduzca <br> existentes URL medios de comunicación (externa película PDF mp3 o YouTube!)',
 'ARTICLE_EXTEND_ERRORSAVINGTPRICE' => 'Atención: el precio PVP debe ser mayor que el precio normal.',
 'ARTICLE_EXTEND_EXTURL' => 'URL externa',
 'ARTICLE_EXTEND_FILE' => 'Archivo',
 'ARTICLE_EXTEND_FILEUPLOAD' => 'Carga de archivos:',
 'ARTICLE_EXTEND_FREESHIPPING' => 'El envío gratuito',
-'ARTICLE_EXTEND_HEIGHT' => 'ARTÍCULO AMPLÍA ALTURA',
+'ARTICLE_EXTEND_HEIGHT' => 'Alt:',
 'ARTICLE_EXTEND_ISCONFIGURABLE' => 'Producto pueden ser modificadas',
 'ARTICLE_EXTEND_ISSEARCH' => 'Búsqueda',
-'ARTICLE_EXTEND_LENGTH' => 'ARTÍCULO AMPLÍA LONGITUD',
+'ARTICLE_EXTEND_LENGTH' => 'Long:',
 'ARTICLE_EXTEND_MASS' => 'Dimensiones',
 'ARTICLE_EXTEND_MEDIAURLS' => 'Media URL',
 'ARTICLE_EXTEND_NONMATERIAL' => 'Producto inmaterial',
@@ -527,7 +527,7 @@ $aLang = array(
 'GENERAL_AJAX_SORT_OXPRICE' => 'Precio',
 'GENERAL_AJAX_SORT_OXSORT' => 'Posición',
 'GENERAL_AJAX_SORT_OXSTOCK' => 'Archivo',
-'GENERAL_AJAX_SORT_OXSTREET' => 'La calle',
+'GENERAL_AJAX_SORT_OXSTREET' => 'Calle',
 'GENERAL_AJAX_SORT_OXSTREETNR' => 'N º de calles.',
 'GENERAL_AJAX_SORT_OXTITLE' => 'Título',
 'GENERAL_AJAX_SORT_OXUNNUM3' => 'Único N º',
@@ -772,7 +772,7 @@ $aLang = array(
 'GENERAL_STANDARD' => 'Norma',
 'GENERAL_STARTLISTING' => 'Lista de Inicio de exportación',
 'GENERAL_STATE' => 'Estado',
-'GENERAL_STREET' => 'La calle',
+'GENERAL_STREET' => 'Calle',
 'GENERAL_STREETNUM' => 'Calle Calle',
 'GENERAL_SUM' => 'Cantidad',
 'GENERAL_SUMTOTAL' => 'La suma total de',
@@ -924,7 +924,7 @@ $aLang = array(
 'mxshopsett' => 'Configuración de Tienda',
 'mxshow' => 'Estadísticas y Mant Login.',
 'mxstat' => 'Estadísticas',
-'mxsysinfo' => 'Sistema de Información',
+'mxsysinfo' => 'Información de sistema',
 'mxsysreq' => 'Comprobación del sistema',
 'mxtheme' => 'Temas',
 'mxtools' => 'Herramientas',
@@ -1477,7 +1477,7 @@ $aLang = array(
 'SHOP_MAIN_SHOPNAME' => 'Nombre eShop',
 'SHOP_MAIN_SHOPPARENT' => 'Tienda Padre',
 'SHOP_MAIN_SMTPPASSWORD' => 'Contraseña SMTP',
-'SHOP_MAIN_SMTPPWUNSET' => 'Escriba - a desarmado',
+'SHOP_MAIN_SMTPPWUNSET' => 'Escriba "-" para desactivar',
 'SHOP_MAIN_SMTPSERVER' => 'Servidor SMTP',
 'SHOP_MAIN_SMTPUSER' => 'SMTP del usuario',
 'SHOP_MAIN_VATNUMBER' => 'Impuesto sobre las Ventas ID',
@@ -1748,7 +1748,7 @@ $aLang = array(
 'SYSREQ_ZEND_PLATFORM_OR_SERVER' => 'Zend Platform o Zend Server instalado',
 'SYSTEMINFO_DEMOMODE' => 'MODO DEMO',
 'SYSTEMINFO_MENUITEM' => 'Servicio',
-'SYSTEMINFO_MENUSUBITEM' => 'Sistema de Información',
+'SYSTEMINFO_MENUSUBITEM' => 'Información de sistema',
 'SYSTEMINFO_VALUE' => 'Valor',
 'SYSTEMINFO_VARIABLE' => 'Variable',
 'tbclactions_main' => 'Principales',
