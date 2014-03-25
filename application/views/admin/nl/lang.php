@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: gvlimpt (97), hoekie (28), marco (932), topconcepts (111)
+ * @translators: ET (9), gvlimpt (97), hoekie (28), marco (932), topconcepts (111)
  */
 
 $sLangName  = 'Nederlands';
@@ -34,7 +34,7 @@ $aLang = array(
 'ACTIONS_MAIN_ALLARTICLES' => 'Alle producten',
 'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Promoted Products',
 'ACTIONS_MAIN_NOTSELECTED' => 'Selecteer één van bovenstaande acties voor bewerking',
-'ADMINGB_LIST_AUTHOR' => 'Author',
+'ADMINGB_LIST_AUTHOR' => 'Auteur',
 'ADMINGB_LIST_ENTRY' => 'Entry',
 'ADMINGB_LIST_MENUITEM' => 'Klanteninformatie',
 'ADMINGB_LIST_MENUSUBITEM' => 'Gastenboek',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), topconcepts (209)
+ * @translators: ET (6), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -447,7 +447,7 @@ $aLang = array(
 'DYN_TRUSTED_TSPAYMENT' => 'Metoda płatności w Trusted Shops',
 'DYN_TRUSTED_T_PAY' => 'T-Pay',
 'DYN_TRUSTED_USER' => 'Nazwa użytkownika (wsUser)',
-'editor_language' => 'en-us',
+'editor_language' => 'pl-PL',
 'EDITOR_PLAINTEXT_HINT' => '<b>Uwaga: </b> Jeśli trzeba zachować podziały wierszy tekstu (np. zwykły tekst e-mail) prosimy użyć zakładkę "Kod HTML" zamiast "Design".',
 'EFIRE_CONNECTORINSTRUCTION' => 'Wpisz "Login Externer Transaktions" i "Externes Transaktions Passwort", które wcześniej zostały wpisane OXID eFire opcji ("Einstellungen").',
 'EFIRE_DOWNLOADER' => 'Downloader',

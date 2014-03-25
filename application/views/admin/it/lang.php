@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), ET (175)
+ * @translators: bRanzo (210), DC-NICO (41), ET (182)
  */
 
 $sLangName  = 'Italiano';
@@ -462,7 +462,7 @@ $aLang = array(
 'EMAIL_PRICEALARM_CUSTOMER_CLICKHERE1' => 'To get directly to the product please click ',
 'EMAIL_PRICEALARM_CUSTOMER_CLICKHERE2' => 'here',
 'EMAIL_PRICEALARM_CUSTOMER_HAVEPRICEALARM' => 'we have a Price Alert in',
-'EMAIL_PRICEALARM_CUSTOMER_HY' => 'Hallo,',
+'EMAIL_PRICEALARM_CUSTOMER_HY' => 'Ciao,',
 'EMAIL_PRICEALARM_CUSTOMER_ITEM1' => 'The Product',
 'EMAIL_PRICEALARM_CUSTOMER_ITEM2' => 'you\'re interested in and you offered a price of',
 'EMAIL_PRICEALARM_CUSTOMER_ITEM3' => 'is now available for',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), ET (175)
+ * @translators: bRanzo (210), DC-NICO (41), ET (182)
  */
 
 $sLangName  = 'Italiano';
@@ -130,12 +130,12 @@ $aLang = array(
 'DEDUCTION' => 'Sconto',
 'DELIVERABLE' => 'Disponibile:',
 'DELIVERYTIME' => 'Tempo di consegna:',
-'DELIVERYTIME_DAY' => '%s day',
+'DELIVERYTIME_DAY' => '%s giorno',
 'DELIVERYTIME_DAYS' => '%s days',
 'DELIVERYTIME_DELIVERYTIME' => 'Delivery time',
 'DELIVERYTIME_MONTH' => '%s month',
 'DELIVERYTIME_MONTHS' => '%s months',
-'DELIVERYTIME_WEEK' => '%s week',
+'DELIVERYTIME_WEEK' => '%s settimana',
 'DELIVERYTIME_WEEKS' => '%s weeks',
 'DELIVERY_STATUS' => 'Stato della consegna',
 'DELIVERY_STATUS_ANG' => 'Ordine in elaborazione',
@@ -163,7 +163,7 @@ $aLang = array(
 'ELLIPSIS' => '...',
 'EMAIL' => 'Indirizzo E-Mail',
 'EMAIL_ADDRESS' => 'Indirizzo E-Mail',
-'EMAIL_SENDDOWNLOADS_GREETING' => 'Hello',
+'EMAIL_SENDDOWNLOADS_GREETING' => 'Ciao',
 'ENABLE' => 'Visualizza',
 'ENTER_COUPON_NUMBER' => 'Digitare numero buono',
 'ENTER_EMAIL_OR_NAME' => 'Digitare indirizzo E-Mail o cognome:',

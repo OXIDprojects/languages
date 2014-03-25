@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), topconcepts (209)
+ * @translators: ET (6), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -45,7 +45,7 @@ $aLang = array(
 'ADD_WRAPPING' => 'Dodaj pakowanie prezentu',
 'ADD_YOUR_COMMENTS' => 'Dodaj swój komentarz',
 'ALL' => 'Wszystko',
-'ALL_BRANDS' => 'All Brands',
+'ALL_BRANDS' => 'Wszystkich marek',
 'ALL_LISTMANIA' => 'Cała Listmania',
 'ALREADY_ADDED_TAG' => 'Już oznakowany tekst',
 'ALREADY_CUSTOMER' => 'Już jestem klientem',
@@ -135,7 +135,7 @@ $aLang = array(
 'DELIVERYTIME_DELIVERYTIME' => 'Delivery time',
 'DELIVERYTIME_MONTH' => '%s month',
 'DELIVERYTIME_MONTHS' => '%s months',
-'DELIVERYTIME_WEEK' => '%s week',
+'DELIVERYTIME_WEEK' => '%s tydzień',
 'DELIVERYTIME_WEEKS' => '%s weeks',
 'DELIVERY_STATUS' => 'Status dostawy',
 'DELIVERY_STATUS_ANG' => 'Zamówienie otrzymane',
@@ -163,7 +163,7 @@ $aLang = array(
 'ELLIPSIS' => '...',
 'EMAIL' => 'E-mail',
 'EMAIL_ADDRESS' => 'adres E-mail',
-'EMAIL_SENDDOWNLOADS_GREETING' => 'Hello',
+'EMAIL_SENDDOWNLOADS_GREETING' => 'Cześć',
 'ENABLE' => 'Włącz',
 'ENTER_COUPON_NUMBER' => 'Wprowadź numer kuponu',
 'ENTER_EMAIL_OR_NAME' => 'Wpisz adres e-mail lub nazwisko:',

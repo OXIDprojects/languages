@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: alexraimondo (1), chatard (115), Phenix (202), Rainbow40 (2), vikapera (376)
+ * @translators: alexraimondo (1), chatard (318), ET (8), Phenix (202), Rainbow40 (2), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -146,7 +146,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_BASKETRESERVATION' => 'Lorsque cette fonctionnalité est désactivée, eShop diminue la quantité en stock du produit immédiatement lorsque la commande est confirmée et le processus de commande terminé.<br><br> Lorsque activée, cette fonctionnalité permet : la réduction du stock de produit temporairement <b>réservé</b> lors de la mise au panier. La réservation est annulée lorsque la commande est passée ou à l\'expiration du panier.',
 'HELP_SHOP_CONFIG_BASKETRESERVATIONTIMEOUT' => 'Après ce délai, les produits réservés retournent dans le stock et le panier du client est vidé.',
 'HELP_SHOP_CONFIG_BIDIRECTCROSS' => 'Avec le Cross-selling vous pouvez proposer des produits complémentaires à un produit: Si par exemple des pneus sont définis comme produits complémentaires à une voiture, les pneus sont affichés avec la voiture.<br>Si le Cross-selling bidirectionnel est activé, il fonctionnera dans les deux sens.',
-'HELP_SHOP_CONFIG_DEBIT_OLD_BANK_INFORMATION_NOT_ALLOWED' => 'Only IBAN and BIC can be entered during the checkout. Bank account number and the bank code can only be entered if this check box is not activated.',
+'HELP_SHOP_CONFIG_DEBIT_OLD_BANK_INFORMATION_NOT_ALLOWED' => 'Seuls IBAN et BIC peuvent être entrés pendant la vérification. Le numéro de compte bancaire et le code banque ne peuvent être saisis si cette case à cocher n\'est pas activée.',
 'HELP_SHOP_CONFIG_DELETERATINGLOGS' => 'Si un utilisateur note un  produit, il ne peut plus le noter une seconde fois. Vous pouvez définir ici un délai entre deux notations produit pour un utilisateur. Laisser vide pour désactiver - Une seule notation produit par utilisateur sera alors possible.',
 'HELP_SHOP_CONFIG_DISABLEONLINEVATIDCHECK' => 'La validation en ligne du numéro de TVA est effectuée si un client de la zone EURO renseigne un numéro de TVA lors d\'une commande. Si le numéro de TVA renseigné est valide, la TVA ne sera pas calculée sur la commande.<br>Si cette fonction n\'est pas activée, le taux de TVA applicable est utilisé.',
 'HELP_SHOP_CONFIG_DOWNLOADS' => 'Boutique avec produits téléchargeables. Activez ici le fait que les produits peuvent être commandés et téléchargés.',
@@ -176,8 +176,8 @@ $aLang = array(
 'HELP_SHOP_CONFIG_SHOP_CONFIG_FACEBOOKCONFIRM' => 'Afin de protéger la confidentialité des données client, l\'affichage des plugins sociaux Facebook doit être explicitement confirmée. Les données seront partagées avec Facebook uniquement après confirmation.',
 'HELP_SHOP_CONFIG_SHOP_CONFIG_FBSECRETKEY' => 'Pour assurer la sécurité des connexions avec Facebook, vous devez saisir la clé de sécurité obtenue lors de l\'enregistrement de votre site auprès de Facebook. Voir le <a href="http://wiki.oxidforge.org/Tutorials/Connecting_website_to_facebook" target="_blank" target="_blank">tutoriel</a> Comment se connecter avec Facebook.',
 'HELP_SHOP_CONFIG_SHOWTAGS' => 'Si désactivé, aucun tag ne sera affiché sur la boutique. Les pages accessibles via les URL tag ne seront pas accessibles.',
-'HELP_SHOP_CONFIG_SHOWTSCODMESSAGE' => 'In the 4th step of the checkout process the CMS page "oxtscodmessage" is additionally displayed.',
-'HELP_SHOP_CONFIG_SHOWTSINTERNATIONALFEESMESSAGE' => 'In the 4th step of the checkout process the CMS page "oxtsinternationalfees" is additionally displayed.',
+'HELP_SHOP_CONFIG_SHOWTSCODMESSAGE' => 'Dans la 4ème étape du processus de vérification la page "oxtscodmessage" est en outre affichée.',
+'HELP_SHOP_CONFIG_SHOWTSINTERNATIONALFEESMESSAGE' => 'Au cours de la 4ème étape du processus de validation la page "oxtsinternationalfees" est en outre affichée.',
 'HELP_SHOP_CONFIG_SORTFIELDS' => 'Ici, vous pouvez définir les champs utilisés pour les tris dans les listes produits. Saisissez un champ par ligne.<br>Les champs fréquemment définis sont:<ul><li>oxtitle = Titre</li><li>oxprice = Prix</li><li>oxvarminprice = Prix minimum si utilisation prix par variante.</li><li>oxartnum = Réf produit</li><li>oxrating = Notation</li><li>oxstock = Stock</li></ul>',
 'HELP_SHOP_CONFIG_STOCKOFFDEFAULTMESSAGE' => 'Pour chaque produit, vous pouvez définir un message si le produit n\'est pas en stock.<br>Lorsque ce paramètre est activé, un message générique est affiché si aucun message spécifique n\'a été défini. Le message générique <span class="filename_filepath_or_italic">Produit en rupture de stock. En cours de réapprovisionnement</span> est affiché.',
 'HELP_SHOP_CONFIG_STOCKONDEFAULTMESSAGE' => 'Pour chaque produit, vous pouvez définir un message si le produit est en stock.<br>Lorsque ce paramètre est activé, un message générique est affiché si aucun message spécifique n\'a été défini. Le message générique <span class="filename_filepath_or_italic">Produit en stock</span> est affiché.',
@@ -238,7 +238,7 @@ $aLang = array(
 'HELP_SHOP_SYSTEM_DISABLENAVBARS' => 'Si cette fonction est activée, la plupart des éléments de navigation ne seront pas affichés pendant le passage de commande. Le but est ici de ne pas distraire inutilement l\'utilisateur.',
 'HELP_SHOP_SYSTEM_INLINEIMGEMAIL' => 'Lorsque ce paramètre est activé, les images sont envoyées dans l\'email. Lorsque désactivé, les images sont téléchargées par le client de messagerie à l\'ouverture du message.',
 'HELP_SHOP_SYSTEM_ISERVERTIMESHIFT' => 'Le serveur hébergeant la solution peut utiliser un fuseau horaire différent. Ce paramètre vous permet de définir un décalage horaire: Saisissez le nombre d\'heures à ajouter/retrancher de l\'heure du serveur. ex: <kdb>+2</kdb> ou <kdb>-2</kdb>',
-'HELP_SHOP_SYSTEM_LDAP' => 'Please edit file core/oxldap.php.',
+'HELP_SHOP_SYSTEM_LDAP' => 'S.V.P. éditer le fichier core/oxldap.php.',
 'HELP_SHOP_SYSTEM_OTHERCOUNTRYORDER' => 'Définissez ici si des commandes peuvent être passées dans des pays pour lesquels aucun mode de livraison n\'a été défini:<ul><li>Si cette fonction est activée, les utilisateurs peuvent commander: Les utilisateurs seront notifiés manuellement des coûts de transport pour leur commande.</li><li>Si cette fonction est désactivée, les utilisateurs de pays pour lesquels aucun mode de livraison n\'a été défini ne pourront pas commander.</li></ul>',
 'HELP_SHOP_SYSTEM_SHOP_LOCATION' => 'S\'il vous plaît choisissez le marché autour duquel votre boutique se concentre. En fonction de cela, d\'autres services de commerce électronique seront chargés à partir du serveur OXID. N\'oubliez pas de cocher l\'option "Afficher les information des serveurs OXID " dans Configuration Générale->Système->Paramètres->Administration.',
 'HELP_SHOP_SYSTEM_SHOWVARIANTREVIEWS' => 'Ce paramètre défini le mode de gestion des commentaires client avec les variantes produit: Si activé, les commentaires des variantes sont affichées également sur le produit principal.',

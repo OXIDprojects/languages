@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dave2005 (76), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (9)
+ * @translators: dave2005 (76), ET (4), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (9)
  */
 
 $sLangName  = 'Česky';
@@ -135,7 +135,7 @@ $aLang = array(
 'DELIVERYTIME_DELIVERYTIME' => 'Delivery time',
 'DELIVERYTIME_MONTH' => '%s month',
 'DELIVERYTIME_MONTHS' => '%s months',
-'DELIVERYTIME_WEEK' => '%s week',
+'DELIVERYTIME_WEEK' => '%s týden',
 'DELIVERYTIME_WEEKS' => '%s weeks',
 'DELIVERY_STATUS' => 'Stav dodání',
 'DELIVERY_STATUS_ANG' => 'Objednávka přijata',
@@ -163,7 +163,7 @@ $aLang = array(
 'ELLIPSIS' => '...',
 'EMAIL' => 'Email',
 'EMAIL_ADDRESS' => 'Emailová adresa',
-'EMAIL_SENDDOWNLOADS_GREETING' => 'Hello',
+'EMAIL_SENDDOWNLOADS_GREETING' => 'Dobrý den',
 'ENABLE' => 'Povolit',
 'ENTER_COUPON_NUMBER' => 'Zadání čísla poukázky',
 'ENTER_EMAIL_OR_NAME' => 'Zadejte emailovou adresu nebo příjmení:',

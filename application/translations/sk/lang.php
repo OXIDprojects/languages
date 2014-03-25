@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404)
+ * @translators: DominikS (404), ET (4)
  */
 
 $sLangName  = 'Slovenčina';
@@ -135,7 +135,7 @@ $aLang = array(
 'DELIVERYTIME_DELIVERYTIME' => 'Delivery time',
 'DELIVERYTIME_MONTH' => '%s month',
 'DELIVERYTIME_MONTHS' => '%s months',
-'DELIVERYTIME_WEEK' => '%s week',
+'DELIVERYTIME_WEEK' => '%s týždeň',
 'DELIVERYTIME_WEEKS' => '%s weeks',
 'DELIVERY_STATUS' => 'Stav dodania',
 'DELIVERY_STATUS_ANG' => 'Objednávka prijatá',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: gvlimpt (97), hoekie (28), marco (932), topconcepts (111)
+ * @translators: ET (9), gvlimpt (97), hoekie (28), marco (932), topconcepts (111)
  */
 
 $sLangName  = 'Nederlands';
@@ -45,7 +45,7 @@ $aLang = array(
 'ADD_WRAPPING' => 'als cadeau verpakken',
 'ADD_YOUR_COMMENTS' => 'uw bericht',
 'ALL' => 'Alle',
-'ALL_BRANDS' => 'All Brands',
+'ALL_BRANDS' => 'Alle merken',
 'ALL_LISTMANIA' => 'alle favorieten',
 'ALREADY_ADDED_TAG' => 'Tag werd al gebruikt',
 'ALREADY_CUSTOMER' => 'Ik ben al klant',
@@ -130,7 +130,7 @@ $aLang = array(
 'DEDUCTION' => 'Korting',
 'DELIVERABLE' => 'Leverbaar:',
 'DELIVERYTIME' => 'Levertijd:',
-'DELIVERYTIME_DAY' => '%s day',
+'DELIVERYTIME_DAY' => '%s dag',
 'DELIVERYTIME_DAYS' => '%s days',
 'DELIVERYTIME_DELIVERYTIME' => 'Delivery time',
 'DELIVERYTIME_MONTH' => '%s month',
@@ -163,7 +163,7 @@ $aLang = array(
 'ELLIPSIS' => '...',
 'EMAIL' => 'E-mail',
 'EMAIL_ADDRESS' => 'E-mailadres',
-'EMAIL_SENDDOWNLOADS_GREETING' => 'Hello',
+'EMAIL_SENDDOWNLOADS_GREETING' => 'Hallo',
 'ENABLE' => 'activeren',
 'ENTER_COUPON_NUMBER' => 'Actiecode invullen',
 'ENTER_EMAIL_OR_NAME' => 'E-mailadres of Achetrnaam invullen:',

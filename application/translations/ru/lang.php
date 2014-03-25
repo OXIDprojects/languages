@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ilya (5), mantgomery (2), marco (1216), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ET (6), ilya (5), mantgomery (2), marco (1216), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -135,7 +135,7 @@ $aLang = array(
 'DELIVERYTIME_DELIVERYTIME' => 'Delivery time',
 'DELIVERYTIME_MONTH' => '%s month',
 'DELIVERYTIME_MONTHS' => '%s months',
-'DELIVERYTIME_WEEK' => '%s week',
+'DELIVERYTIME_WEEK' => '%s Неделя',
 'DELIVERYTIME_WEEKS' => '%s weeks',
 'DELIVERY_STATUS' => 'Статус доставки',
 'DELIVERY_STATUS_ANG' => 'Принято, идёт обработка',
@@ -163,7 +163,7 @@ $aLang = array(
 'ELLIPSIS' => '...',
 'EMAIL' => 'E-Mail',
 'EMAIL_ADDRESS' => 'Электронный адрес',
-'EMAIL_SENDDOWNLOADS_GREETING' => 'Hello',
+'EMAIL_SENDDOWNLOADS_GREETING' => 'Привет',
 'ENABLE' => 'Активировать/Сообщить',
 'ENTER_COUPON_NUMBER' => 'Ввести номер купона',
 'ENTER_EMAIL_OR_NAME' => 'Введите логин или электронный адрес:',

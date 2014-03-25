@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dsb (1), FlashLight (13)
+ * @translators: dsb (1), ET (5), FlashLight (13)
  */
 
 $sLangName  = 'Slovenščina';
@@ -34,7 +34,7 @@ $aLang = array(
 'ACTIONS_MAIN_ALLARTICLES' => 'All available Products',
 'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Promoted Products',
 'ACTIONS_MAIN_NOTSELECTED' => 'Please select one from above list to make changes',
-'ADMINGB_LIST_AUTHOR' => 'Author',
+'ADMINGB_LIST_AUTHOR' => 'Avtor',
 'ADMINGB_LIST_ENTRY' => 'Entry',
 'ADMINGB_LIST_MENUITEM' => 'Customer Information',
 'ADMINGB_LIST_MENUSUBITEM' => 'Guestbook',
