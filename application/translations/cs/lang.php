@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dave2005 (76), ET (4), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (9)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (4), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (9)
  */
 
 $sLangName  = 'Česky';
@@ -45,7 +45,7 @@ $aLang = array(
 'ADD_WRAPPING' => 'Přidat dárkové balení',
 'ADD_YOUR_COMMENTS' => 'Přidat vaše komentáře',
 'ALL' => 'Vše',
-'ALL_BRANDS' => 'All Brands',
+'ALL_BRANDS' => 'Všechny značky',
 'ALL_LISTMANIA' => 'všechny Listmania',
 'ALREADY_ADDED_TAG' => 'Již jsi tento text označil(a)',
 'ALREADY_CUSTOMER' => 'Již jsem zákazníkem',
@@ -68,7 +68,7 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Blahopřání (netto)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => '+ DPH (úměrně vypočítané)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Dárkové balení (netto)',
-'BETA_NOTE' => 'Welcome to Release Candidate ',
+'BETA_NOTE' => 'Vítejte na Release Candidate',
 'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
 'BETA_NOTE_MIDDLE' => ' of OXID eShop ',
 'BIC' => 'BIC:',
