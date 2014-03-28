@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1222), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1226), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -744,7 +744,7 @@ $aLang = array(
 'GENERAL_REQUIRED_MISS' => 'El campo obligatorio no se encuentra',
 'GENERAL_RETURN' => 'Ingresos mes del año pasado pasado la semana pasada',
 'GENERAL_REVIEW' => 'Información general',
-'GENERAL_SALUTATION_MR' => 'El Sr.',
+'GENERAL_SALUTATION_MR' => 'Sr.',
 'GENERAL_SALUTATION_MRS' => 'Sra.',
 'GENERAL_SAVE' => 'Guardar',
 'GENERAL_SAVEIN' => 'Copiar a',
@@ -881,7 +881,7 @@ $aLang = array(
 'MODULE_EXTENSIONISDELETED' => 'Hay modulos que están registrados en eShop, pero el directorio del módulo está desaparecido.',
 'MODULE_STANDALONEFILE' => 'Este módulo es un único fichero php. Este módulo debería ser guardado dentro de un directorio!',
 'MODULE_VERSION' => 'Versión',
-'MR' => 'El Sr.',
+'MR' => 'Sr.',
 'MRS' => 'Sra.',
 'mxactions' => 'Promociones',
 'mxarticles' => 'Productos',

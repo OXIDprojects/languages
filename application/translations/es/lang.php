@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1222), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1226), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -166,7 +166,7 @@ $aLang = array(
 'EMAIL_SENDDOWNLOADS_GREETING' => 'Hola',
 'ENABLE' => 'indicar',
 'ENTER_COUPON_NUMBER' => 'El código de Bonos',
-'ENTER_EMAIL_OR_NAME' => 'Correo electrónico o Apellido:',
+'ENTER_EMAIL_OR_NAME' => 'Correo electrónico o Apellido',
 'ENTER_NEW_PASSWORD' => 'Por favor, introduzca la contraseña nueva.',
 'ERROR' => 'Error',
 'ERROR_404' => 'La página solicitada no pudo ser encontrada',
@@ -380,7 +380,7 @@ $aLang = array(
 'MESSAGE_STOCK_LOW' => 'Bajo Stock: Este producto ha alcanzado el límite de stock especificado.',
 'MESSAGE_SUBMIT_BOTTOM' => 'Envía tu pedido abajo de esta visión general',
 'MESSAGE_THANKYOU_FOR_SUBSCRIBING_NEWSLETTERS' => 'gracias por suscribirte a nuestro boletín.',
-'MESSAGE_TO_BE_LOGGED_WRITE_GUESTBOOK' => 'Te has identificado para escribir una entrada en el libro de visitas.',
+'MESSAGE_TO_BE_LOGGED_WRITE_GUESTBOOK' => 'Ingresa para escribir una entrada en el libro de visitas.',
 'MESSAGE_TRUSTED_SHOPS_SEAL_OF_APPROVAL' => 'es una tienda online certificada con Trusted Shops Buyer Protection. Más...',
 'MESSAGE_UNAVAILABLE_SHIPPING_METHOD' => 'El método de envío seleccionado no está disponible. Por favor, elija otro método de envío.',
 'MESSAGE_VERIFY_YOUR_EMAIL' => 'Por favor, verifica tu dirección de correo electrónico.',
