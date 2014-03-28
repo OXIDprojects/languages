@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: marco (3369)
+ * @translators: marco (3371)
  */
 
 $sLangName  = 'American English';
@@ -273,7 +273,7 @@ $aLang = array(
 'HITS_FOR' => 'Hits for',
 'HOME' => 'Home',
 'IBAN' => 'IBAN:',
-'IF_DIFFERENT_FROM_BILLING_ADDRESS' => 'If different from billing address.',
+'IF_DIFFERENT_FROM_BILLING_ADDRESS' => 'If different from invoice address.',
 'IMPRESSUM' => 'About Us',
 'INCLUDE_VAT' => 'incl. VAT',
 'INCL_TAX_AND_PLUS_SHIPPING' => '* All prices incl. VAT, plus shipping',
