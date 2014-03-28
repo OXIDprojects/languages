@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dsb (5), marco (4015)
+ * @translators: dsb (5), marco (4020)
  */
 
 $sLangName  = 'Deutsch';
@@ -239,8 +239,7 @@ $aLang = array(
 'ATTRIBUTE_MAIN_ITEMSWITHATTR' => 'Artikel mit diesem Attribut',
 'ATTRIBUTE_MAIN_SORTING' => 'Sortierung',
 'AUCTMASTER_DO_EXPORTEND' => 'Export beendet.',
-'AUCTMASTER_DO_EXPORTFILE1' => 'Konnte Exportdatei',
-'AUCTMASTER_DO_EXPORTFILE2' => 'nicht schreiben!',
+'AUCTMASTER_DO_EXPORTFILE1' => 'Konnte Exportdatei %s nicht schreiben',
 'AUCTMASTER_DO_EXPORTING1' => 'Export läuft. Exportiere',
 'AUCTMASTER_DO_EXPORTING2' => 'von insgesamt',
 'AUCTMASTER_DO_EXPORTNOTSTARTED' => 'Export noch nicht gestartet.',
@@ -348,8 +347,7 @@ $aLang = array(
 'DELIVERY_MAIN_ORDER' => 'Reihenfolge der Regelberechnung',
 'DELIVERY_MAIN_PARAM' => 'Kostenart',
 'DELIVERY_MAIN_PRICE' => 'Preis Auf-/Abschlag',
-'DELIVERY_RDFA_ADVICE_END' => 'entsprechen',
-'DELIVERY_RDFA_ADVICE_START' => '<b>Hinweis:</b> Bitte wählen Sie nur die in GoodRelations vordefinierten Versandarten aus, die Ihrer Versandart',
+'DELIVERY_RDFA_ADVICE_START' => '<b>Hinweis:</b> Bitte wählen Sie nur die in GoodRelations vordefinierten Versandarten aus, die Ihrer Versandart <b>%s</b> entsprechen',
 'DELIVERY_RDFA_ASIGN_DELIVERY' => 'Versandarten zuordnen',
 'DELIVERY_RDFA_DELIVERYMODEDIRECTDOWNLOAD' => 'Download',
 'DELIVERY_RDFA_DELIVERYMODEFREIGHT' => 'Fracht',
@@ -384,10 +382,8 @@ $aLang = array(
 'DISCOUNT_USERS_SETGROUPS' => 'Zugeordnete Benutzergruppen',
 'DISCOUNT_USERS_SETUSER' => 'Zugeordnete Benutzer',
 'DYNBASE_ADDCATTOCAMPAIGN' => 'Hauptkategorie zum Kampagnenparameter hinzufügen',
-'DYNBASE_DO_DOWNLOAD' => 'herunterladen.',
-'DYNBASE_DO_HERE' => 'hier',
 'DYNBASE_DO_LINK' => 'Der Partner kann diese Datei auch selbst abholen - bitte teilen Sie folgenden Link mit:',
-'DYNBASE_DO_SUCCESS' => 'Erfolg! Sie können Ihre Exportdatei',
+'DYNBASE_DO_SUCCESS' => 'Erfolg! Sie können Ihre Exportdatei <a href="%s" target="_blank">hier</a> herunterladen.',
 'DYNSCREEN_LIST_SERVICE' => 'Servicebereich',
 'DYNSCREEN_LOCAL_TEXT' => 'Some general info about eCommerce services ...',
 'DYNSCREEN_LOCAL_TITLE' => 'eCommerce Services',
@@ -395,8 +391,7 @@ $aLang = array(
 'dyn_about' => 'Allgemein',
 'DYN_ECONDA_ACTIVE' => 'ECONDA Webcontrolling aktivieren',
 'DYN_ECONDA_ATTENTION' => 'Bitte beachten Sie:',
-'DYN_ECONDA_COPY' => 'kopieren',
-'DYN_ECONDA_FILETO' => 'Sie müssen dazu die Datei "emos2.js", die Sie von ECONDA erhalten, in das Verzeichnis',
+'DYN_ECONDA_FILETO' => 'Sie müssen dazu die Datei "emos2.js", die Sie von ECONDA erhalten, in das Verzeichnis %s kopieren',
 'dyn_efire' => 'OXID eFire',
 'dyn_interface' => 'Interface',
 'dyn_menu' => 'Servicebereich',
@@ -1169,8 +1164,7 @@ $aLang = array(
 'PAYMENT_MAIN_SELECTED' => 'Ausgewählt',
 'PAYMENT_MAIN_TILL' => 'bis',
 'PAYMENT_OVERVIEW_HOWMANYPAYMENTS' => 'Wieviel Einkäufe wurden mit dieser Zahlungsart gemacht',
-'PAYMENT_RDFA_ADVICE_END' => 'entsprechen',
-'PAYMENT_RDFA_ADVICE_START' => '<b>Hinweis:</b> Bitte wählen Sie nur die in GoodRelations vordefinierten Zahlungsarten aus, die Ihrer Zahlungsart',
+'PAYMENT_RDFA_ADVICE_START' => '<b>Hinweis:</b> Bitte wählen Sie nur die in GoodRelations vordefinierten Zahlungsarten aus, die Ihrer Zahlungsart <b>%s</b> entsprechen.',
 'PAYMENT_RDFA_AMERICANEXPRESS' => 'American Express',
 'PAYMENT_RDFA_ASIGN_PAYMENT' => 'Zahlungsart zuordnen',
 'PAYMENT_RDFA_BYBANKTRANSFERINADVANCE' => 'Vorauskasse',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1226), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1227), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -240,7 +240,6 @@ $aLang = array(
 'ATTRIBUTE_MAIN_SORTING' => 'Clasificación',
 'AUCTMASTER_DO_EXPORTEND' => 'Exportación completado.',
 'AUCTMASTER_DO_EXPORTFILE1' => 'No se puede escribir en archivo de exportación',
-'AUCTMASTER_DO_EXPORTFILE2' => '¡No escriba!',
 'AUCTMASTER_DO_EXPORTING1' => 'De exportación en ejecución. Exportación',
 'AUCTMASTER_DO_EXPORTING2' => 'del total de',
 'AUCTMASTER_DO_EXPORTNOTSTARTED' => 'De exportación no se han iniciado.',
@@ -348,7 +347,6 @@ $aLang = array(
 'DELIVERY_MAIN_ORDER' => 'Orden de procesamiento de reglas',
 'DELIVERY_MAIN_PARAM' => 'Forma de pago',
 'DELIVERY_MAIN_PRICE' => 'Precio Recargo / Descuento',
-'DELIVERY_RDFA_ADVICE_END' => 'según',
 'DELIVERY_RDFA_ADVICE_START' => '<b>Sugerencia:</b> Por favor, elija sólo los métodos de entrega, pre-definidos en las buenas relaciones, que cumplan con su método de envío',
 'DELIVERY_RDFA_ASIGN_DELIVERY' => 'Asignar método de envío',
 'DELIVERY_RDFA_DELIVERYMODEDIRECTDOWNLOAD' => 'Descargar',
@@ -384,8 +382,6 @@ $aLang = array(
 'DISCOUNT_USERS_SETGROUPS' => 'Asignación de grupos de usuarios',
 'DISCOUNT_USERS_SETUSER' => 'Asignación de usuario',
 'DYNBASE_ADDCATTOCAMPAIGN' => 'Añadir categoría a la campaña de parámetro',
-'DYNBASE_DO_DOWNLOAD' => 'descargar.',
-'DYNBASE_DO_HERE' => 'aquí',
 'DYNBASE_DO_LINK' => 'El socio también puede recoger este mismo archivo - por favor tenga en cuenta los siguientes enlaces:',
 'DYNBASE_DO_SUCCESS' => 'Éxito! Su archivo de exportación puede ser descargado',
 'DYNSCREEN_LIST_SERVICE' => 'Servicio de Área',
@@ -395,7 +391,6 @@ $aLang = array(
 'dyn_about' => 'General',
 'DYN_ECONDA_ACTIVE' => 'Activa Econda Webcontrolling?',
 'DYN_ECONDA_ATTENTION' => 'Nota:',
-'DYN_ECONDA_COPY' => 'Copia',
 'DYN_ECONDA_FILETO' => 'Tienes que copiar el fichero "emos2.js" el cuál recibirás desde Econda en el directorio',
 'dyn_efire' => 'OXID eFire',
 'dyn_interface' => 'Interfaz',
@@ -1171,7 +1166,6 @@ $aLang = array(
 'PAYMENT_MAIN_SELECTED' => 'Seleccionados',
 'PAYMENT_MAIN_TILL' => 'a',
 'PAYMENT_OVERVIEW_HOWMANYPAYMENTS' => 'Como muchas compras se pagaron con este método de pago',
-'PAYMENT_RDFA_ADVICE_END' => 'cumple con los requisitos',
 'PAYMENT_RDFA_ADVICE_START' => '<b>Sugerencia</b> Elige sólo estos métodos de pagos, predefinidos en GoodRelations, que cumplen con los requisitos de tu método de pago',
 'PAYMENT_RDFA_AMERICANEXPRESS' => 'American Express',
 'PAYMENT_RDFA_ASIGN_PAYMENT' => 'Assignar pago',

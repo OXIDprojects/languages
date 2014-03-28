@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (6), ilya (5), mantgomery (2), marco (1222), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ET (6), ilya (5), mantgomery (2), marco (1224), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -239,8 +239,7 @@ $aLang = array(
 'ATTRIBUTE_MAIN_ITEMSWITHATTR' => 'Товары с этим атрибутом',
 'ATTRIBUTE_MAIN_SORTING' => 'Сортировка',
 'AUCTMASTER_DO_EXPORTEND' => 'Экспорт завешён.',
-'AUCTMASTER_DO_EXPORTFILE1' => 'Не возможно создать файл экспорта',
-'AUCTMASTER_DO_EXPORTFILE2' => '',
+'AUCTMASTER_DO_EXPORTFILE1' => 'Не возможно создать файл экспорта %s',
 'AUCTMASTER_DO_EXPORTING1' => 'Идёт процесс экспортирования',
 'AUCTMASTER_DO_EXPORTING2' => 'Всего',
 'AUCTMASTER_DO_EXPORTNOTSTARTED' => 'Экспорт ещё не начат..',
@@ -348,8 +347,7 @@ $aLang = array(
 'DELIVERY_MAIN_ORDER' => 'Порядок обработки',
 'DELIVERY_MAIN_PARAM' => 'Способ оплаты',
 'DELIVERY_MAIN_PRICE' => 'Стоимость (надбавка/скидка)',
-'DELIVERY_RDFA_ADVICE_END' => '',
-'DELIVERY_RDFA_ADVICE_START' => '<b>Hint:</b> Please choose only those delivery methods, pre-defined in GoodRelations, that comply with your shipping method',
+'DELIVERY_RDFA_ADVICE_START' => '<b>Hint:</b> Please choose only those delivery methods, pre-defined in GoodRelations, that comply with your shipping method %s',
 'DELIVERY_RDFA_ASIGN_DELIVERY' => 'Назначите варианты доставки',
 'DELIVERY_RDFA_DELIVERYMODEDIRECTDOWNLOAD' => 'Cкачиваемыйние файл',
 'DELIVERY_RDFA_DELIVERYMODEFREIGHT' => 'Груз',
@@ -384,10 +382,8 @@ $aLang = array(
 'DISCOUNT_USERS_SETGROUPS' => 'Assigned User Groups',
 'DISCOUNT_USERS_SETUSER' => 'Assigned Users',
 'DYNBASE_ADDCATTOCAMPAIGN' => 'Add category to campaign parameter',
-'DYNBASE_DO_DOWNLOAD' => '',
-'DYNBASE_DO_HERE' => 'здесь',
 'DYNBASE_DO_LINK' => 'The Partner can also pick-up this file himself - please note following Link: ',
-'DYNBASE_DO_SUCCESS' => 'Success! Your Export File can be downloaded',
+'DYNBASE_DO_SUCCESS' => 'Успех! Пожалуйста, скачите ваш експорт файл <a href="%s" target="_blank">здесь</a>',
 'DYNSCREEN_LIST_SERVICE' => 'зона обслуживания',
 'DYNSCREEN_LOCAL_TEXT' => 'Некоторые общие сведения об услугах электронной коммерции...',
 'DYNSCREEN_LOCAL_TITLE' => 'Услуги электронной коммерции',
@@ -395,8 +391,7 @@ $aLang = array(
 'dyn_about' => 'Основное',
 'DYN_ECONDA_ACTIVE' => 'Activate Econda Webcontrolling?',
 'DYN_ECONDA_ATTENTION' => 'Please note: ',
-'DYN_ECONDA_COPY' => '',
-'DYN_ECONDA_FILETO' => 'You have to copy the file "emos2.js" which you receive from Econda into the directory ',
+'DYN_ECONDA_FILETO' => 'You have to copy the file "emos2.js" which you receive from Econda into the directory %s',
 'dyn_efire' => 'OXID eFire',
 'dyn_interface' => 'Интерфейс',
 'dyn_menu' => 'Раздел служб',
@@ -1168,8 +1163,7 @@ $aLang = array(
 'PAYMENT_MAIN_SELECTED' => 'Selected',
 'PAYMENT_MAIN_TILL' => 'до',
 'PAYMENT_OVERVIEW_HOWMANYPAYMENTS' => 'How many purchases were paid with this payment method',
-'PAYMENT_RDFA_ADVICE_END' => '',
-'PAYMENT_RDFA_ADVICE_START' => '<b>Hint:</b> Please choose only those payment methods, pre-defined in GoodRelations, that comply with your payment method',
+'PAYMENT_RDFA_ADVICE_START' => '<b>Hint:</b> Please choose only those payment methods, pre-defined in GoodRelations, that comply with your payment method <b>%s</b>.',
 'PAYMENT_RDFA_AMERICANEXPRESS' => 'American Express',
 'PAYMENT_RDFA_ASIGN_PAYMENT' => 'Assign payment',
 'PAYMENT_RDFA_BYBANKTRANSFERINADVANCE' => 'Cash in advance',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1226), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1227), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -242,8 +242,6 @@ $aLang = array(
 'FIRST_LAST_NAME' => 'Nombre/Apellidos:',
 'FIRST_NAME' => 'Nombre',
 'FORGOT_PASSWORD' => 'Ha olvidado la contraseña?',
-'FORM_FIELDSET_USER_BILLING_ADDITIONALINFO_TOOLTIP' => '',
-'FORM_FIELDSET_USER_SHIPPING_ADDITIONALINFO2_TOOLTIP' => '',
 'FOR_MORE_INFORMATION' => 'para más información.',
 'FROM' => 'De',
 'fullDateFormat' => 'd-m-Y H:i:s',
@@ -701,7 +699,7 @@ $aLang = array(
 'STOCK' => 'Stock',
 'STOCK_LOW' => 'Stock bajo',
 'STREET_AND_STREETNO' => 'Dirección',
-'SUBJECT' => 'Sujeto',
+'SUBJECT' => 'Asunto',
 'SUBMIT' => 'Enviar',
 'SUBMIT_COUPON' => 'Enviar cupón',
 'SUBMIT_ORDER' => 'De pago encargan',

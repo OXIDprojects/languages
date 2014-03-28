@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: marco (4023)
+ * @translators: marco (4028)
  */
 
 $sLangName  = 'English';
@@ -242,8 +242,6 @@ $aLang = array(
 'FIRST_LAST_NAME' => 'First/last Name',
 'FIRST_NAME' => 'First name',
 'FORGOT_PASSWORD' => 'Forgot password?',
-'FORM_FIELDSET_USER_BILLING_ADDITIONALINFO_TOOLTIP' => '',
-'FORM_FIELDSET_USER_SHIPPING_ADDITIONALINFO2_TOOLTIP' => '',
 'FOR_MORE_INFORMATION' => 'for more information.',
 'FROM' => 'From',
 'fullDateFormat' => 'Y-m-d H:i:s',

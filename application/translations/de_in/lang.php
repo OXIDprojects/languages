@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: AWIDON (1), dsb (1), marco (4482), simoneschuppe (4), Thielo (1)
+ * @translators: AWIDON (1), dsb (1), marco (4487), simoneschuppe (4), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';
@@ -242,8 +242,6 @@ $aLang = array(
 'FIRST_LAST_NAME' => 'Name:',
 'FIRST_NAME' => 'Vorname:',
 'FORGOT_PASSWORD' => 'Passwort vergessen?',
-'FORM_FIELDSET_USER_BILLING_ADDITIONALINFO_TOOLTIP' => '',
-'FORM_FIELDSET_USER_SHIPPING_ADDITIONALINFO2_TOOLTIP' => '',
 'FOR_MORE_INFORMATION' => 'für mehr Informationen.',
 'FROM' => 'Von',
 'fullDateFormat' => 'd.m.Y H:i:s',
