@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1227), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1268), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -110,7 +110,7 @@ $aLang = array(
 'COMPANY' => 'Empresa:',
 'COMPARE' => 'Comparar',
 'COMPLETE_MARKED_FIELDS' => 'Por favor, rellena todos los campos obligatorios etiquetados en negrita.',
-'COMPLETE_ORDER' => 'Orden completa',
+'COMPLETE_ORDER' => 'Pedido completo',
 'CONFIRM_PASSWORD' => 'contraseña confirman',
 'CONTACT' => 'Contacto',
 'CONTINUE_SHOPPING' => 'Continuar Comprando',
@@ -377,7 +377,7 @@ $aLang = array(
 'MESSAGE_SORRY_NO_GIFT_REGISTRY' => 'Lo siento, registro de regalos no encontrado!',
 'MESSAGE_STOCK_LOW' => 'Bajo Stock: Este producto ha alcanzado el límite de stock especificado.',
 'MESSAGE_SUBMIT_BOTTOM' => 'Envía tu pedido abajo de esta visión general',
-'MESSAGE_THANKYOU_FOR_SUBSCRIBING_NEWSLETTERS' => 'gracias por suscribirte a nuestro boletín.',
+'MESSAGE_THANKYOU_FOR_SUBSCRIBING_NEWSLETTERS' => 'Gracias por suscribirte a nuestro boletín.',
 'MESSAGE_TO_BE_LOGGED_WRITE_GUESTBOOK' => 'Ingresa para escribir una entrada en el libro de visitas.',
 'MESSAGE_TRUSTED_SHOPS_SEAL_OF_APPROVAL' => 'es una tienda online certificada con Trusted Shops Buyer Protection. Más...',
 'MESSAGE_UNAVAILABLE_SHIPPING_METHOD' => 'El método de envío seleccionado no está disponible. Por favor, elija otro método de envío.',
@@ -416,7 +416,7 @@ $aLang = array(
 'MY_WISH_LIST' => 'Mi Lista de Deseos',
 'NEWEST_SHOP_PRODUCTS' => 'Nuevo en la tienda',
 'NEWLIST' => 'Nueva lista Listmania',
-'NEWS' => 'News',
+'NEWS' => 'Noticias',
 'NEWSLETTER' => 'Boletín',
 'NEWSLETTER_EMAIL_NOT_EXIST' => 'Dirección de e-mail desconocido!',
 'NEWSLETTER_SETTINGS' => 'Preferencias Newsletter',

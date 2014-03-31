@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (6), ilya (5), mantgomery (2), marco (1226), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1226), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -566,7 +566,7 @@ $aLang = array(
 'PAGE_TITLE_ORDER' => 'Order',
 'PAGE_TITLE_PAYMENT' => 'Payment Methods',
 'PAGE_TITLE_REGISTER' => 'Register',
-'PAGE_TITLE_THANKYOU' => 'Thank You',
+'PAGE_TITLE_THANKYOU' => 'Спасибо',
 'PAGE_TITLE_USER' => 'Shipping Address',
 'PAGE_TITLE_WISHLIST' => 'Wishlist',
 'PARTNERS' => 'Partners',

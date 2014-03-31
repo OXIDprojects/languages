@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (4), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (9)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (9)
  */
 
 $sLangName  = 'Česky';
@@ -1112,14 +1112,14 @@ $aLang = array(
 'OXDIAG_MODIFIEDHINTS2' => 'Since OXID eShop 4.2.0 it\'s possible to use <a href="http://www.oxidforge.org/wiki/Downloads/4.2.0#New_Features" target=_blank>your own templates without changing shipped ones</a>.',
 'OXDIAG_MODULES' => 'Modules',
 'OXDIAG_MODULES_ID' => 'ID',
-'OXDIAG_MODULES_NAME' => 'Name',
+'OXDIAG_MODULES_NAME' => 'Jméno',
 'OXDIAG_MODULES_STATE' => 'Status',
 'OXDIAG_MODULES_VENDOR' => 'Vendor',
 'OXDIAG_MODULES_VERSION' => 'Version',
 'OXDIAG_NUMBER_OF_INVESTIGATED_FILES' => 'Number of investigated files in total',
 'OXDIAG_OBSOLETE' => 'Obsolete',
 'OXDIAG_OK' => 'OK',
-'OXDIAG_PHPINFO' => 'PHP information',
+'OXDIAG_PHPINFO' => 'PHP informace',
 'OXDIAG_PHPINFO_EXTENSIONS' => 'PHP extensions',
 'OXDIAG_PHPINFO_OFF' => 'Off',
 'OXDIAG_PHPINFO_PARAM' => 'Parameter',

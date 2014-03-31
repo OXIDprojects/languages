@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: ET (9), gvlimpt (97), hoekie (28), marco (932), topconcepts (111)
+ * @translators: ET (30), gvlimpt (97), hoekie (28), marco (932), topconcepts (111)
  */
 
 $sLangName  = 'Nederlands';
@@ -70,7 +70,7 @@ $aLang = array(
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Geschenkpapier (netto)',
 'BETA_NOTE' => 'Welcome to Release Candidate ',
 'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
-'BETA_NOTE_MIDDLE' => ' of OXID eShop ',
+'BETA_NOTE_MIDDLE' => 'van OXID eShop',
 'BIC' => 'BIC:',
 'BILLING_ADDRESS' => 'Factuuradres',
 'BILLING_SHIPPING_SETTINGS' => 'Factuur- en Verzendsinstellingen',
@@ -566,7 +566,7 @@ $aLang = array(
 'PAGE_TITLE_ORDER' => 'Order',
 'PAGE_TITLE_PAYMENT' => 'Payment Methods',
 'PAGE_TITLE_REGISTER' => 'Register',
-'PAGE_TITLE_THANKYOU' => 'Thank You',
+'PAGE_TITLE_THANKYOU' => 'Bedankt',
 'PAGE_TITLE_USER' => 'Shipping Address',
 'PAGE_TITLE_WISHLIST' => 'Wishlist',
 'PARTNERS' => 'Partners',

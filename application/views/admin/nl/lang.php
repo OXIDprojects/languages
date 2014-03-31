@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: ET (9), gvlimpt (97), hoekie (28), marco (932), topconcepts (111)
+ * @translators: ET (30), gvlimpt (97), hoekie (28), marco (932), topconcepts (111)
  */
 
 $sLangName  = 'Nederlands';
@@ -337,7 +337,7 @@ $aLang = array(
 'DELIVERY_COUNTRIES_SETCOUNTRIES' => 'Assigned Countries',
 'DELIVERY_LIST_MENUITEM' => 'Shop Settings',
 'DELIVERY_LIST_MENUSUBITEM' => 'Shipping Cost Rules',
-'DELIVERY_MAIN_AND' => 'and',
+'DELIVERY_MAIN_AND' => 'en',
 'DELIVERY_MAIN_CONDITION' => 'Condition',
 'DELIVERY_MAIN_COUNTRULES' => 'Calculation Rules: ',
 'DELIVERY_MAIN_FINALIZE' => 'Don\'t calculate further Rules if this Rule matches',
@@ -684,7 +684,7 @@ $aLang = array(
 'GENERAL_FIELDS_MODIFY' => 'Save Field',
 'GENERAL_FILE' => 'File',
 'GENERAL_FILTERING' => 'Use * in beginning as wildcard sign',
-'GENERAL_FON' => 'Phone',
+'GENERAL_FON' => 'Telefoon',
 'GENERAL_FROM' => 'From',
 'GENERAL_FROMCATEGORY' => 'From Category: ',
 'GENERAL_IBRUTTO' => 'Product Gross Price',
@@ -707,7 +707,7 @@ $aLang = array(
 'GENERAL_LINK_EXPIRATION_TIME_UNREGISTERED' => 'Maximum count of downloads for not registered users',
 'GENERAL_LIST_FIRST' => 'first',
 'GENERAL_LIST_LAST' => 'last',
-'GENERAL_LIST_NEXT' => 'next',
+'GENERAL_LIST_NEXT' => 'volgende',
 'GENERAL_LIST_PREV' => 'previous',
 'GENERAL_MANUEL' => 'Manual',
 'GENERAL_MANUELL' => 'manual',
@@ -1109,14 +1109,14 @@ $aLang = array(
 'OXDIAG_MODIFIEDHINTS2' => 'Since OXID eShop 4.2.0 it\'s possible to use <a href="http://www.oxidforge.org/wiki/Downloads/4.2.0#New_Features" target=_blank>your own templates without changing shipped ones</a>.',
 'OXDIAG_MODULES' => 'Modules',
 'OXDIAG_MODULES_ID' => 'ID',
-'OXDIAG_MODULES_NAME' => 'Name',
+'OXDIAG_MODULES_NAME' => 'Naam',
 'OXDIAG_MODULES_STATE' => 'Status',
 'OXDIAG_MODULES_VENDOR' => 'Vendor',
 'OXDIAG_MODULES_VERSION' => 'Version',
 'OXDIAG_NUMBER_OF_INVESTIGATED_FILES' => 'Number of investigated files in total',
 'OXDIAG_OBSOLETE' => 'Obsolete',
 'OXDIAG_OK' => 'OK',
-'OXDIAG_PHPINFO' => 'PHP information',
+'OXDIAG_PHPINFO' => 'PHP informatie',
 'OXDIAG_PHPINFO_EXTENSIONS' => 'PHP extensions',
 'OXDIAG_PHPINFO_OFF' => 'Off',
 'OXDIAG_PHPINFO_PARAM' => 'Parameter',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), ET (182)
+ * @translators: bRanzo (210), DC-NICO (41), ET (205)
  */
 
 $sLangName  = 'Italiano';
@@ -70,14 +70,14 @@ $aLang = array(
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Costo Imballaggio (escl. IVA)',
 'BETA_NOTE' => 'Welcome to Release Candidate ',
 'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
-'BETA_NOTE_MIDDLE' => ' of OXID eShop ',
+'BETA_NOTE_MIDDLE' => 'di OXID eShop',
 'BIC' => 'BIC:',
 'BILLING_ADDRESS' => 'Indirizzo di Fatturazione',
 'BILLING_SHIPPING_SETTINGS' => 'Impostazoni Fatturazione e Spedizione',
 'BIRTHDATE' => 'Compleanna:',
 'BLOCK_PRICE' => 'Blocca il prezzo',
 'BRAND' => 'Marca',
-'BY_BRAND' => 'By Brand',
+'BY_BRAND' => 'Di marca',
 'BY_MANUFACTURER' => 'By Manufacturer',
 'BY_VENDOR' => 'By Distributor',
 'CANCEL' => 'Cancella',
@@ -566,7 +566,7 @@ $aLang = array(
 'PAGE_TITLE_ORDER' => 'Order',
 'PAGE_TITLE_PAYMENT' => 'Payment Methods',
 'PAGE_TITLE_REGISTER' => 'Register',
-'PAGE_TITLE_THANKYOU' => 'Thank You',
+'PAGE_TITLE_THANKYOU' => 'Grazie',
 'PAGE_TITLE_USER' => 'Shipping Address',
 'PAGE_TITLE_WISHLIST' => 'Wishlist',
 'PARTNERS' => 'Partners',

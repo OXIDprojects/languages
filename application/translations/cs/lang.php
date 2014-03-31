@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (4), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (9)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (9)
  */
 
 $sLangName  = 'Česky';
@@ -70,14 +70,14 @@ $aLang = array(
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Dárkové balení (netto)',
 'BETA_NOTE' => 'Vítejte na Release Candidate',
 'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
-'BETA_NOTE_MIDDLE' => ' of OXID eShop ',
+'BETA_NOTE_MIDDLE' => 'o OXID eShop',
 'BIC' => 'BIC:',
 'BILLING_ADDRESS' => 'Fakturační adresa',
 'BILLING_SHIPPING_SETTINGS' => 'Nastavení fakturačních údajů a dodacích adres',
 'BIRTHDATE' => 'Datum narození:',
 'BLOCK_PRICE' => 'Cena dle množství',
 'BRAND' => 'Značka',
-'BY_BRAND' => 'By Brand',
+'BY_BRAND' => 'Podle značky',
 'BY_MANUFACTURER' => 'By Manufacturer',
 'BY_VENDOR' => 'By Distributor',
 'CANCEL' => 'Zrušit',
@@ -566,7 +566,7 @@ $aLang = array(
 'PAGE_TITLE_ORDER' => 'Order',
 'PAGE_TITLE_PAYMENT' => 'Payment Methods',
 'PAGE_TITLE_REGISTER' => 'Register',
-'PAGE_TITLE_THANKYOU' => 'Thank You',
+'PAGE_TITLE_THANKYOU' => 'Děkuju',
 'PAGE_TITLE_USER' => 'Shipping Address',
 'PAGE_TITLE_WISHLIST' => 'Wishlist',
 'PARTNERS' => 'Partners',

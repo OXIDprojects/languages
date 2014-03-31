@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: alexraimondo (1), chatard (318), ET (8), Phenix (202), Rainbow40 (2), vikapera (376)
+ * @translators: alexraimondo (1), chatard (318), ET (10), Phenix (202), Rainbow40 (2), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -309,7 +309,7 @@ $aLang = array(
 'CONTENT_MAIN_TERMVER' => 'Version',
 'CONTENT_MAIN_TITLE' => '[OXID Gestion des contenus]',
 'CONTENT_MAIN_USEDIDENTCODE' => 'Identifiant déjà utilisé!',
-'COUNTRY_LIST_ISO' => 'ISO 1',
+'COUNTRY_LIST_ISO' => 'ISO 3',
 'COUNTRY_LIST_MENUITEM' => 'Configuration générale',
 'COUNTRY_LIST_MENUSUBITEM' => 'Pays',
 'COUNTRY_MAIN_ISO2' => 'ISO 2',
@@ -1116,7 +1116,7 @@ $aLang = array(
 'OXDIAG_NUMBER_OF_INVESTIGATED_FILES' => 'Nombre total de fichiers instruits',
 'OXDIAG_OBSOLETE' => 'Obsolète',
 'OXDIAG_OK' => 'OK',
-'OXDIAG_PHPINFO' => 'information PHP',
+'OXDIAG_PHPINFO' => 'Information PHP',
 'OXDIAG_PHPINFO_EXTENSIONS' => 'extensions PHP',
 'OXDIAG_PHPINFO_OFF' => 'Désactivé',
 'OXDIAG_PHPINFO_PARAM' => 'Paramètre',

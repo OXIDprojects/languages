@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dsb (1), ET (5), FlashLight (13)
+ * @translators: dsb (1), ET (26), FlashLight (13)
  */
 
 $sLangName  = 'Slovenščina';
@@ -70,7 +70,7 @@ $aLang = array(
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Gift Wrapping (net)',
 'BETA_NOTE' => 'Welcome to Release Candidate ',
 'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
-'BETA_NOTE_MIDDLE' => ' of OXID eShop ',
+'BETA_NOTE_MIDDLE' => 'o OXID eShop',
 'BIC' => 'BIC',
 'BILLING_ADDRESS' => 'Billing address',
 'BILLING_SHIPPING_SETTINGS' => 'Billing and shipping settings',
@@ -566,7 +566,7 @@ $aLang = array(
 'PAGE_TITLE_ORDER' => 'Order',
 'PAGE_TITLE_PAYMENT' => 'Payment Methods',
 'PAGE_TITLE_REGISTER' => 'Register',
-'PAGE_TITLE_THANKYOU' => 'Thank You',
+'PAGE_TITLE_THANKYOU' => 'Hvala',
 'PAGE_TITLE_USER' => 'Shipping Address',
 'PAGE_TITLE_WISHLIST' => 'Wishlist',
 'PARTNERS' => 'Partners',

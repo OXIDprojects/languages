@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: ET (6), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), topconcepts (209)
+ * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -499,7 +499,7 @@ $aLang = array(
 'fullDateFormat' => 'R-m-d H:i:s',
 'GENERAL_ACTIVE' => 'Aktywny',
 'GENERAL_ACTIVFROMTILL' => 'LUB Aktywny',
-'GENERAL_ACTIVTITLE' => '-',
+'GENERAL_ACTIVTITLE' => 'A',
 'GENERAL_ADMIN_TITLE' => '[Administrcja OXID eShop]',
 'GENERAL_AJAX_ASSIGNALL' => 'Przypisz wszystkie',
 'GENERAL_AJAX_DESCRIPTION' => 'Przeciągnij elementy między listami aby dopisać/cofnąć',
@@ -1109,14 +1109,14 @@ $aLang = array(
 'OXDIAG_MODIFIEDHINTS2' => 'Since OXID eShop 4.2.0 it\'s possible to use <a href="http://www.oxidforge.org/wiki/Downloads/4.2.0#New_Features" target=_blank>your own templates without changing shipped ones</a>.',
 'OXDIAG_MODULES' => 'Modules',
 'OXDIAG_MODULES_ID' => 'ID',
-'OXDIAG_MODULES_NAME' => 'Name',
+'OXDIAG_MODULES_NAME' => 'Nazwa',
 'OXDIAG_MODULES_STATE' => 'Status',
 'OXDIAG_MODULES_VENDOR' => 'Vendor',
 'OXDIAG_MODULES_VERSION' => 'Version',
 'OXDIAG_NUMBER_OF_INVESTIGATED_FILES' => 'Number of investigated files in total',
 'OXDIAG_OBSOLETE' => 'Obsolete',
 'OXDIAG_OK' => 'OK',
-'OXDIAG_PHPINFO' => 'PHP information',
+'OXDIAG_PHPINFO' => 'PHP informacje',
 'OXDIAG_PHPINFO_EXTENSIONS' => 'PHP extensions',
 'OXDIAG_PHPINFO_OFF' => 'Off',
 'OXDIAG_PHPINFO_PARAM' => 'Parameter',

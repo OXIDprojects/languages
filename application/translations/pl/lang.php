@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: ET (6), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), topconcepts (209)
+ * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -70,14 +70,14 @@ $aLang = array(
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Pakowanie prezentu(netto)',
 'BETA_NOTE' => 'Welcome to Release Candidate ',
 'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
-'BETA_NOTE_MIDDLE' => ' of OXID eShop ',
+'BETA_NOTE_MIDDLE' => 'z OXID eShop',
 'BIC' => 'BIC:',
 'BILLING_ADDRESS' => 'Adres rozliczeniowy',
 'BILLING_SHIPPING_SETTINGS' => 'Ustawienia rozliczenia i wysyłki',
 'BIRTHDATE' => 'Data urodzenia:',
 'BLOCK_PRICE' => 'Kwota blokady',
 'BRAND' => 'Autor',
-'BY_BRAND' => 'By Brand',
+'BY_BRAND' => 'Przez marek',
 'BY_MANUFACTURER' => 'By Manufacturer',
 'BY_VENDOR' => 'By Distributor',
 'CANCEL' => 'Auluj',
@@ -566,7 +566,7 @@ $aLang = array(
 'PAGE_TITLE_ORDER' => 'Order',
 'PAGE_TITLE_PAYMENT' => 'Payment Methods',
 'PAGE_TITLE_REGISTER' => 'Register',
-'PAGE_TITLE_THANKYOU' => 'Thank You',
+'PAGE_TITLE_THANKYOU' => 'Dziękujemy',
 'PAGE_TITLE_USER' => 'Shipping Address',
 'PAGE_TITLE_WISHLIST' => 'Wishlist',
 'PARTNERS' => 'Partners',

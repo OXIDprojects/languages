@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1227), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1268), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -101,7 +101,7 @@ $aLang = array(
 'HELP_DYN_TRUSTED_PASSWORD' => 'Una contraseña (wsPassword) para el servicio web de Trusted Shops es necesario si se ofrecen las tiendas de confianza Protección de comprador de excelencia a sus clientes. Protección del comprador clásico no requiere una contraseña.',
 'HELP_DYN_TRUSTED_RATINGS_ID' => 'Usted recibirá su confianza Tiendas de identificación para añadir al Cliente en el email de confirmación de pedido. Si ya eres miembro de Trusted Shops por favor utilice su conocida Trusted Shops ID. La luz verde indica que las calificaciones de los clientes se han verificado y activado después de guardar la configuración.',
 'HELP_DYN_TRUSTED_RATINGS_ORDEREMAIL' => 'Habilitar el botón Escriba un comentario! en el correo electrónico de confirmación de pedido con posterioridad a una orden de cambio de esta opción.',
-'HELP_DYN_TRUSTED_RATINGS_ORDERSENDEMAIL' => 'Habilitar el botón Escriba un comentario! en la Orden de correo electrónico enviado desde el envío de la orden.',
+'HELP_DYN_TRUSTED_RATINGS_ORDERSENDEMAIL' => 'Habilitar el botón Escriba un comentario! en el correo de "Pedido Enviado" después del envío del pedido.',
 'HELP_DYN_TRUSTED_RATINGS_THANKYOU' => 'Habilitar el botón Escriba un comentario! Orden en la página después de completar una orden de cambio de esta opción.',
 'HELP_DYN_TRUSTED_RATINGS_WIDGET' => 'Habilitar el Cliente añadir widgets al cambiar esta opción.',
 'HELP_DYN_TRUSTED_TESTMODUS' => 'Entorno de pruebas (Sandbox) en. Después de la terminación de la certificación de Trusted Shops le enviará datos de acceso por correo electrónico.',
@@ -256,8 +256,8 @@ $aLang = array(
    <li>Explorar y administrar métodos de pago existentes para usuarios.</li>
    <li>Crear nuevos métodos de pado y definir los valores por defecto, por ejemplo, Débito Directo.</li>
 </ul>',
-'HELP_VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Aquí se puede establecer si los usuarios se les permite usar los cupones junto con los cupones de la serie de otro cupón en una sola orden.',
-'HELP_VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Aquí se puede establecer si los usuarios se les permite usar cupones de varias de esta serie de cupones en una sola orden.',
+'HELP_VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Aquí se puede establecer si los usuarios se les permite usar los cupones junto con cupones de otras series de cupones en un mismo pedido.',
+'HELP_VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Aquí se puede establecer si los usuarios se les permite usar varios cupones de esta serie de cupones en sólo pedido.',
 'HELP_VOUCHERSERIE_MAIN_CALCULATEONCE' => 'Si asignas productos o categorías a tu cupón, desactiva esta opción para calcular este cupón a cada producto por posición de carrito. Activa si el cupón puede ser válido una vez por carrito.',
 'HELP_VOUCHERSERIE_MAIN_DISCOUNT' => 'En <span class=navipath_or_inputname> descuento </ span> se especifica la magnitud del descuento. Puede utilizar la lista de selección después de que el campo de entrada para especificar si el descuento se aplica como descuento en términos absolutos o como porcentaje de descuento.<ul>.<li> class=userinput_or_code> abs </ span>: El descuento es un descuento absoluta por ejemplo, 5 euros. </ Li>.<span class=userinput_or_code>% </ span>: El descuento es un porcentaje de descuento por ejemplo, 10 por ciento del precio de compra. </ Li>.</ Ul>',
 'HELP_VOUCHERSERIE_MAIN_RANDOMNUM' => 'Si este valor está activo un número al azar se calcula para cada cupón.',

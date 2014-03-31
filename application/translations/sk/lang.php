@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (4)
+ * @translators: DominikS (404), ET (12)
  */
 
 $sLangName  = 'Slovenčina';
@@ -70,7 +70,7 @@ $aLang = array(
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Darčekové balenie (net)',
 'BETA_NOTE' => 'Welcome to Release Candidate ',
 'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
-'BETA_NOTE_MIDDLE' => ' of OXID eShop ',
+'BETA_NOTE_MIDDLE' => 'od OXID eShop',
 'BIC' => 'BIC',
 'BILLING_ADDRESS' => 'Fakturačná adresa',
 'BILLING_SHIPPING_SETTINGS' => 'Nastavenie fakturačných údajov a dodacích adries',
@@ -566,7 +566,7 @@ $aLang = array(
 'PAGE_TITLE_ORDER' => 'Order',
 'PAGE_TITLE_PAYMENT' => 'Payment Methods',
 'PAGE_TITLE_REGISTER' => 'Register',
-'PAGE_TITLE_THANKYOU' => 'Thank You',
+'PAGE_TITLE_THANKYOU' => 'Dakujem',
 'PAGE_TITLE_USER' => 'Shipping Address',
 'PAGE_TITLE_WISHLIST' => 'Wishlist',
 'PARTNERS' => 'Partners',
