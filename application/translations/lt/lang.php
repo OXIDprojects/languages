@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (19), akasauskas (14), gvidas123 (1), linasg (3), muslimukas (8), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
+ * @translators: abejingas (188), agladutis (24), akasauskas (14), gvidas123 (1), linasg (3), mantas.vaitkunas (1), muslimukas (8), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
  */
 
 $sLangName  = 'Lietuvių';
@@ -45,7 +45,7 @@ $aLang = array(
 'ADD_WRAPPING' => 'Pridėti dovanų pakavimą',
 'ADD_YOUR_COMMENTS' => 'Pridėti komentarą',
 'ALL' => 'Visi',
-'ALL_BRANDS' => 'All Brands',
+'ALL_BRANDS' => 'Visos Rūšys',
 'ALL_LISTMANIA' => 'visos mėgstamiausios',
 'ALREADY_ADDED_TAG' => 'Jūs jau pažymėjote šį tekstą',
 'ALREADY_CUSTOMER' => 'Aš jau registruotas',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (19), akasauskas (14), gvidas123 (1), linasg (3), muslimukas (8), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
+ * @translators: abejingas (188), agladutis (24), akasauskas (14), gvidas123 (1), linasg (3), mantas.vaitkunas (1), muslimukas (8), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
  */
 
 $sLangName  = 'Lietuvių';
@@ -131,7 +131,7 @@ $aLang = array(
 'ARTICLE_MAIN_MANUFACTURERID' => 'Gamintojas',
 'ARTICLE_MAIN_MPN' => 'GPK',
 'ARTICLE_MAIN_NONE' => '-- nėra --',
-'ARTICLE_MAIN_PARENTNOTBUYABLE' => 'Attention: Parent Product can not be purchased.',
+'ARTICLE_MAIN_PARENTNOTBUYABLE' => 'Dėmesio: Tėviniai Produktai negali būti perkami.',
 'ARTICLE_MAIN_PRICE' => 'Kaina',
 'ARTICLE_MAIN_PRICEA' => 'A:',
 'ARTICLE_MAIN_PRICEB' => 'B:',
@@ -202,7 +202,8 @@ $aLang = array(
 'ARTICLE_STOCK_DAYS' => 'Dienų',
 'ARTICLE_STOCK_DELIVERY' => 'Pristatymo data',
 'ARTICLE_STOCK_DELTIME' => 'Pristatymo laikas',
-'ARTICLE_STOCK_ERRORSCALEPRICE' => 'Attention: Scale price must be lower than normal price.',
+'ARTICLE_STOCK_ERRORSCALEPRICE' => 'Dėmesio: 
+Attention: Diferencijuojama kaina turi būti mažesnė nei normali kaina.',
 'ARTICLE_STOCK_MAXDELTIME' => 'iki',
 'ARTICLE_STOCK_MINDELTIME' => 'Nuo',
 'ARTICLE_STOCK_MONTHS' => 'Mėnesių',

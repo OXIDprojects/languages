@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (19), akasauskas (14), gvidas123 (1), linasg (3), muslimukas (8), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
+ * @translators: abejingas (188), agladutis (24), akasauskas (14), gvidas123 (1), linasg (3), mantas.vaitkunas (1), muslimukas (8), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
  */
 
 $sLangName  = 'Lietuvių';
@@ -33,14 +33,14 @@ $aLang = array(
 'BUTTON_BEGIN_INSTALL' => 'Pradėti diegimą',
 'BUTTON_DB_INSTALL' => 'Sukurti duomenų bazę',
 'BUTTON_LICENCE' => 'Tęsti',
-'BUTTON_PROCEED_INSTALL' => 'Proceed with setup',
+'BUTTON_PROCEED_INSTALL' => 'Tęsti diegimą',
 'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Įdiegti demonstracinius duomenis',
 'BUTTON_RADIO_LICENCE_ACCEPT' => 'Su licencijos sąlygomis sutinku.',
 'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'Nesutinku su sąlygomis',
 'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => '<strong>Neįdiegti</strong> demonstracinės parduotuvės duomenų',
 'BUTTON_START_INSTALL' => 'Restart setup',
 'BUTTON_WRITE_DATA' => 'Išsaugoti ir tęsti',
-'BUTTON_WRITE_LICENCE' => 'Save license key',
+'BUTTON_WRITE_LICENCE' => 'Išsaugoti licenzijos raktą',
 'ERROR_BAD_DEMODATA' => 'ERROR: Issue while inserting this SQL statements: ',
 'ERROR_BAD_SERIAL_NUMBER' => 'ERROR: Wrong license key!',
 'ERROR_BAD_SQL' => 'ERROR: Issue while inserting this SQL statements: ',
@@ -51,7 +51,7 @@ $aLang = array(
 'ERROR_COULD_NOT_READ_FILE' => 'Setup could not open "%s" for reading!',
 'ERROR_COULD_NOT_WRITE_TO_FILE' => 'Setup could not write to "%s"!',
 'ERROR_DB_ALREADY_EXISTS' => 'ERROR: Seems there is already OXID eShop installed in database %s. Please delete it prior continuing!',
-'ERROR_DB_CONNECT' => 'ERROR: No database connection possible!',
+'ERROR_DB_CONNECT' => 'KLAIDA: Nepavyko prisijungti prie duomenų bazės!',
 'ERROR_FILL_ALL_FIELDS' => 'ERROR: Please fill in all needed fields!',
 'ERROR_MYSQL_VERSION_DOES_NOT_FIT_REQUIREMENTS' => 'MySQL version does not fit system requiremens',
 'ERROR_NOT_AVAILABLE' => 'ERROR: %s not found!',

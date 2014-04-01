@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: e.mersinlioglu (45), enginistemi (4), esen.baytekin (905), glp_i (120), Justian0 (3), marco (2), McDaim (101), mykibarli (20), scaly (10)
+ * @translators: e.mersinlioglu (45), enginistemi (4), esen.baytekin (905), glp_i (120), Justian0 (3), marco (2), McDaim (101), mykibarli (20), scaly (10), three13_de (127)
  */
 
 $sLangName  = 'Türkçe';
@@ -45,7 +45,7 @@ $aLang = array(
 'ADD_WRAPPING' => 'Hediye olarak paketle',
 'ADD_YOUR_COMMENTS' => 'Yorum Ekle',
 'ALL' => 'Hepsi',
-'ALL_BRANDS' => 'All Brands',
+'ALL_BRANDS' => 'Tüm Markalar',
 'ALL_LISTMANIA' => 'Tüm Favori listeleri',
 'ALREADY_ADDED_TAG' => 'Etiket kullanımda',
 'ALREADY_CUSTOMER' => 'Kayitli Müsteri',
@@ -68,7 +68,7 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Tebrik Kartı (net)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'artı KDV (oranlanmış hesaplanır)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Hediye paketi (net)',
-'BETA_NOTE' => 'Welcome to Release Candidate ',
+'BETA_NOTE' => 'Sürüm adayına hoşgeldiniz',
 'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
 'BETA_NOTE_MIDDLE' => ' of OXID eShop ',
 'BIC' => 'BIC',
@@ -222,11 +222,11 @@ $aLang = array(
 'ERROR_MESSAGE_VOUCHER_NOTVALIDUSERGROUP' => 'Hediye kuponu bu kullanıcı grubu için geçerli değil!',
 'ERROR_MESSAGE_VOUCHER_NOVOUCHER' => 'Geçersiz Hediye Çeki!',
 'ERROR_MESSAGE_WRONG_DOWNLOAD_LINK' => 'İndirme linki doğru değil.',
-'EXCEPTION_CONNECTION_NODB' => 'No connection to the database!',
-'EXCEPTION_CURL_ERROR' => 'cURL error: %s',
+'EXCEPTION_CONNECTION_NODB' => 'Veritabanına bağlanamadı!',
+'EXCEPTION_CURL_ERROR' => 'cURL hatası: %s',
 'EXCEPTION_NOTALLOWEDTYPE' => 'File type not allowed. Please edit config.inc.php to allow this kind of files.',
 'EXCEPTION_NOT_VALID_CURL_CONSTANT' => 'Not valid cURL constant name: %s',
-'EXCEPTION_SYSTEMCOMPONENT_TEMPLATENOTFOUND' => 'Template "%s" not found',
+'EXCEPTION_SYSTEMCOMPONENT_TEMPLATENOTFOUND' => 'Template "%s" bulunamadı',
 'EXPIRES_IN' => 'Bitiş tarihi:',
 'FACEBOOK_COMMENTS' => 'Facebook comments',
 'FACEBOOK_ENABLEINFOLINK' => 'Veri iletimi hakkında bilgi görüntüleme.',
