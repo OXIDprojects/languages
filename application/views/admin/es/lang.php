@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1317), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1320), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -1826,10 +1826,10 @@ $aLang = array(
 'tbclshop_license' => 'Licencia',
 'tbclshop_main' => 'Principales',
 'tbclshop_mall' => 'Centro comercial',
-'tbclshop_performance' => 'Lleve a cabo.',
+'tbclshop_performance' => 'Rendimiento',
 'tbclshop_rdfa' => 'RDFa',
 'tbclshop_seo' => 'SEO',
-'tbclshop_system' => 'Sistema de',
+'tbclshop_system' => 'Sistema',
 'tbclstatistic_main' => 'Principales',
 'tbclstatistic_service' => 'El man.',
 'tbclsysreq_main' => 'Principales',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1317), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1320), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -201,7 +201,7 @@ $aLang = array(
 'HELP_SHOP_PERF_LOADPRICE' => 'Si desactiva este ajuste no se calculan los precios de los productos: No se muestran los precios.',
 'HELP_SHOP_PERF_LOADREVIEWS' => 'Los usuarios pueden calificar y comentar los productos. Si esta opción está activada las revisiones existentes y comentarios se cargan y se muestran con el producto.',
 'HELP_SHOP_PERF_LOADSELECTLISTSINALIST' => 'Normalmente las listas de selección sólo se muestran en la vista detallada de un producto. Si se activa esta opción las listas de selección también se muestran en las listas de productos (por ejemplo, resultados de búsqueda de las categorías).',
-'HELP_SHOP_PERF_NEWESTARTICLES' => 'Una lista de los más nuevos productos se muestran en la <span class=filename_filepath_or_italic> llegado! </ Span>. Aquí se puede establecer cómo se genera la lista:.<ul> <li> class=userinput_or_code> inactivo </ span>: La lista no se muestra </ li>..<span class=userinput_or_code> instrucciones </ span>: Puede definir los productos en <span class=navipath_or_inputname> Información del cliente - Promociones -> </ span> <span en la promoción class=filename_filepath_or_italic> Recién llegado! </ span>. </ li>.<li> class=userinput_or_code> automática </ span>: Los productos se calculan de forma automática </ li> </ ul>.',
+'HELP_SHOP_PERF_NEWESTARTICLES' => 'Una lista de los más nuevos productos se muestran en  <span class="filename_filepath_or_italic"> Novedades </ Span>. Aquí se puede establecer cómo se genera la lista:.<ul> <li> <span class="userinput_or_code"> inactivo </ span>: La lista no se muestra </ li>..<span class="userinput_or_code"> instrucciones </ span>: Puede definir los productos en <span class="navipath_or_inputname"> Información del cliente - Promociones -> </ span> en la promoción <span class="filename_filepath_or_italic"> Novedades </ span>. </ li>.<li> <span class="userinput_or_code"> automática </ span>: Los productos se calculan de forma automática </ li> </ ul>.',
 'HELP_SHOP_PERF_PARSELONGDESCINSMARTY' => 'Si este valor está activo las descripciones de los productos y las categorías se analizan a través de Smarty: Puede utilizar las etiquetas Smarty (por ejemplo, para el uso de variables) <br>',
 'HELP_SHOP_PERF_SEO_CACHE' => 'Activado SEO cache incrementa el rendimiento, pero requiere mucho espacio en disco en el directorio /tmp.',
 'HELP_SHOP_PERF_TOPSELLER' => 'Una lista de los productos más vendidos a menudo se muestra en el <span class=filename_filepath_or_italic>  Principio de la tienda </ span>. Aquí se puede establecer cómo se genera la lista:.<ul> <li> <span class=userinput_or_code> inactivo </ span>: La lista no se muestra </ li>..<span class=userinput_or_code> manual</ span>: Puede definir los productos en <span class=navipath_or_inputname> Información del cliente - Promociones> -> </ span> en el promoción <span class=filename_filepath_or_italic>   Arriba Tienda </ span>. </ li>.<li> <span class=userinput_or_code> automática </ span>: Los productos se calculan de forma automática </ li> </ ul>.',
