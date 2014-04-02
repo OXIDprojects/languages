@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1320), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1325), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -984,7 +984,7 @@ $aLang = array(
 'ORDER_ARTICLE_PARAMS' => 'Parámetro',
 'ORDER_ARTICLE_SEARCH' => 'Búsqueda',
 'ORDER_ARTICLE_SEARCH_NOITEMSFOUND' => 'Disculpa, no hay elementos que se encuentran.',
-'ORDER_ARTICLE_STORNO' => 'El pedido es cancelado',
+'ORDER_ARTICLE_STORNO' => 'El pedido está cancelado',
 'ORDER_ARTICLE_UPDATE_STOCK' => 'Actualizar',
 'ORDER_ARTICLE_YOUWANTTODELETE' => '¿Estás seguro que quieres eliminar este producto?',
 'ORDER_ARTICLE_YOUWANTTOSTORNO' => '¿Estás seguro que desea cancelar este producto?',
@@ -1038,7 +1038,7 @@ $aLang = array(
 'ORDER_OVERVIEW_PDF_STANDART' => 'Factura',
 'ORDER_OVERVIEW_PDF_TYPE' => 'Tipo PDF',
 'ORDER_OVERVIEW_PROTECTION' => 'Trusted Shops protección del comprador',
-'ORDER_OVERVIEW_STORNO' => 'El pedido es cancelado',
+'ORDER_OVERVIEW_STORNO' => 'El pedido está cancelado',
 'ORDER_OVERVIEW_TILLORDERNUM' => 'a Nº de Pedido',
 'ORDER_OVERVIEW_VATID' => 'Identificación del IVA:',
 'ORDER_OVERVIEW_VATIDCHECKFAIL' => 'Validación de IVA ID fallida',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1320), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1325), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -126,7 +126,7 @@ $aLang = array(
 'HELP_PAYMENT_MAIN_ADDSUMRULES' => 'Cuando se calcula el suplemento o reducción, el valor del carrito se usa como base. Define cuales costes serán incluidos cuando se calcula el valor del carrito.',
 'HELP_PAYMENT_MAIN_AMOUNT' => 'Usted puede utilizar <span class=navipath_or_inputname> precio de compra </ span> para especificar que el método de pago sólo es válida para los precios de compra determinados. El class=navipath_or_inputname> <span de </ span> <span class=navipath_or_inputname> a </ span> Los campos le permiten establecer un rango. <br>.Si la forma de pago es válida para cualquier precio de compra debe especificar una condición que siempre se cumple: Escriba <span class=userinput_or_code> 0 </ span> en el class=navipath_or_inputname> <span de </ span> y <span class = userinput_or_code> 99999999> </ span en el class=navipath_or_inputname> <span a </ campo span>.',
 'HELP_PAYMENT_MAIN_FROMBONI' => 'Usted puede utilizar <span class=navipath_or_inputname> Min. Calificación Crediticia </ span> para especificar que las formas de pago están disponibles únicamente para usuarios que tienen un índice de crédito ciertos o superior. Usted puede entrar en la calificación crediticia para cada usuario en <span class=navipath_or_inputname> usuario Administrar -> Usuarios -> extendido </ span>.',
-'HELP_PAYMENT_MAIN_SELECTED' => 'Usted puede utilizar class=navipath_or_inputname> <span seleccionados </ span> para definir la forma de pago es ser seleccionado como el método por defecto si el usuario puede elegir entre varias formas de pago.',
+'HELP_PAYMENT_MAIN_SELECTED' => 'Usted puede utilizar <span class=navipath_or_inputname> <span Seleccionado </ span> para definir la forma de pago es ser seleccionado como el método por defecto si el usuario puede elegir entre varias formas de pago.',
 'HELP_PAYMENT_MAIN_SORT' => 'En class=navipath_or_inputname> <span clasificación </ span> se puede especificar el orden en que los métodos de pago se van a mostrar a los usuarios: La forma de pago con el menor número de clase se muestra en la parte superior.',
 'HELP_PROMOTIONS_BANNER_PICTUREANDLINK' => 'Sube la imagen del banner e introduce la URL que usará cuando se haga click en él. Si el producto está asignado al banner y la URL no es introducida, el link al producto asignado se usará cuando se haga click en el banner.',
 'HELP_REVERSE_PROXY_GET_BACKEND' => 'Área administrados es mostrada sin Proxy inverso. Cabecera no puede ser recibida.',

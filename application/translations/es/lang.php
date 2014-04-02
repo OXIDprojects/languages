@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1320), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1325), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -454,7 +454,7 @@ $aLang = array(
 'ORDER_DATE' => 'Fecha de pedido',
 'ORDER_EMPTY_HISTORY' => 'Historial de Pedidos está vacío',
 'ORDER_HISTORY' => 'Historial de Pedidos',
-'ORDER_IS_CANCELED' => 'El pedido es cancelado.',
+'ORDER_IS_CANCELED' => 'El pedido está cancelado.',
 'ORDER_NUMBER' => 'Nº Pedido',
 'ORDER_SHIPPED_TO' => 'El pedido es enviado a',
 'OUR_BRANDS' => 'Nuestras<br>Marcas',
@@ -676,7 +676,7 @@ $aLang = array(
 'SHIPPING_ADDRESS' => 'Dirección de envío',
 'SHIPPING_ADDRESSES' => 'Las direcciones de entrega',
 'SHIPPING_CARRIER' => 'Despachar',
-'SHIPPING_COST' => 'Devoluciones',
+'SHIPPING_COST' => 'Coste de envío',
 'SHIPPING_NET' => 'Rendimientos netos',
 'SHIPPING_VAT2' => '% Importe',
 'SHOPLUPE' => 'Shoplupe',
