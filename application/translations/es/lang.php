@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1325), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1337), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -151,7 +151,7 @@ $aLang = array(
 'DETAILS_CHOOSEVARIANT' => 'Por favor, seleccione una variante',
 'DETAILS_VPE_MESSAGE' => 'Este producto sólo puede ser pedido en paquetes de %s unidades',
 'DISCOUNT' => 'Descuento',
-'DISPLAY_BASKET' => 'La cesta de mercancías muestran',
+'DISPLAY_BASKET' => 'Mostrar Carro',
 'DISTRIBUTORS' => 'Distribuidores',
 'DOWNLOADS_EMPTY' => 'Usted no ha pedido ningún archivo.',
 'DOWNLOADS_PAYMENT_PENDING' => 'El pago del pedido aún no esta completado.',
@@ -431,7 +431,7 @@ $aLang = array(
 'NONE' => 'No',
 'NOTE' => 'Nota',
 'NOTREGISTERED_ACCOUNTINFO' => 'Información del cliente',
-'NOT_SHIPPED_YET' => 'aún no expide',
+'NOT_SHIPPED_YET' => 'No enviado aún',
 'NOW_ONLY' => 'Ahora sólo',
 'NO_ENTRY_AVAILABLE' => 'Entradas no disponibles.',
 'NO_GREETING_CARD' => 'No hay tarjeta de felicitación',
@@ -669,13 +669,13 @@ $aLang = array(
 'SEND_GIFT_REGISTRY' => 'Enviar regalo',
 'SEND_INVITE_TO' => 'Envía invitación a:',
 'SERVICES' => 'Servicio',
-'SHIPMENT_TO' => 'La entrega a',
+'SHIPMENT_TO' => 'Entrega a',
 'SHIPMENT_TRACKING' => 'Tu URL de seguimiento de envío',
 'SHIPPED' => 'Enviado',
 'SHIPPING' => 'envío',
 'SHIPPING_ADDRESS' => 'Dirección de envío',
 'SHIPPING_ADDRESSES' => 'Las direcciones de entrega',
-'SHIPPING_CARRIER' => 'Despachar',
+'SHIPPING_CARRIER' => 'Envío',
 'SHIPPING_COST' => 'Coste de envío',
 'SHIPPING_NET' => 'Rendimientos netos',
 'SHIPPING_VAT2' => '% Importe',
@@ -739,9 +739,9 @@ $aLang = array(
 'TRUSTED_SHOP_REGISTRATION_MESSAGE' => 'Como un servicio adicional podemos ofrecerte Protección del comprador en tiendas autentificadas. Cubrimos todos los costes para esta garantía. Sólo tienes que registrarte!',
 'TRUSTED_SHOP_SEAL_OF_APPROVAL' => 'Sello de aprobación de tienda autentificada - Click para verificar.',
 'TRUSTED_SHOP_UNAVAILABLE_PROTECTION' => 'Protección del comprador en tiendas autentificadas no puede añadirse a tu carro por razones técnicas. Puedes finalizar tu pedido sin protección para el comprador. Si tienes alguna pregunta contacta service@trustedshops.co.uk.',
-'UNIT_PRICE' => 'Precio de partido individual',
+'UNIT_PRICE' => 'Precio Unitario',
 'UNSUBSCRIBE' => 'Anular',
-'UPDATE' => 'actualizar',
+'UPDATE' => 'Actualizar',
 'UPDATE_SHIPPING_CARRIER' => 'Tipos de expedición actualizan',
 'UPDATE_YOUR_BILLING_SHIPPING_SETTINGS' => 'Direcciones de cálculo y direcciones de suministro trabajan',
 'USED_COUPONS' => 'siguiente bonos hacerse usar',

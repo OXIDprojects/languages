@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1325), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1337), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -1660,7 +1660,7 @@ $aLang = array(
 'SHOP_SYSTEM_VARIANTPARENTBUYABLE' => 'Padres Los productos se pueden comprar',
 'SHOP_SYSTEM_VARIANTSSELECTION' => 'Mostrar las variantes en las listas de asignación en eShop admin',
 'SHOWLIST_CNT' => 'Cnt',
-'SHOWLIST_NORESULTS' => 'No hay entradas! No hay partido o cadena de búsqueda no válido!',
+'SHOWLIST_NORESULTS' => 'No hay entradas! No hay coincidencia o cadena de búsqueda no válido!',
 'SHOWLIST_SQL' => 'SQL',
 'SHOWLIST_SUM' => 'Suma',
 'SHOWLIST_TITLE' => '[Lista OXID]',
@@ -1725,7 +1725,7 @@ $aLang = array(
 'SYSREQ_MYSQL_CONNECT' => 'MySQL módulo para MySQL 5',
 'SYSREQ_MYSQL_VERSION' => 'MySQL versión 5',
 'SYSREQ_OPEN_SSL' => 'OpenSSL',
-'SYSREQ_PHP4_COMPAT' => 'el modo de compatibilidad Zend debe estar apagado',
+'SYSREQ_PHP4_COMPAT' => 'Modo de compatibilidad Zend debe estar apagado',
 'SYSREQ_PHP_CONFIG' => 'Configuración de PHP',
 'SYSREQ_PHP_EXTENNSIONS' => 'Extensiones de PHP',
 'SYSREQ_PHP_VERSION' => 'PHP versión 5.2.0 por lo menos',
