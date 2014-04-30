@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1337), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1338), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -313,7 +313,7 @@ $aLang = array(
 'LOGIN_TO_ACCESS_LISTMANIA' => 'Por favor, ingresa para acceder a tu lista Listmania.',
 'LOGIN_TO_ACCESS_WISH_LIST' => 'Inicie sesión para acceder su lista',
 'LOGIN_WITH' => 'Login con',
-'LOGOUT' => 'Logout',
+'LOGOUT' => 'Desconectarse',
 'LOW_STOCK' => 'Solo algunos artículos en stock - pida rápidamente!',
 'MANUFACTURER' => 'Fabricante',
 'MANUFACTURERS' => 'Marcas',

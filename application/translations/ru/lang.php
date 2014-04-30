@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1248), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1254), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -556,15 +556,15 @@ $aLang = array(
 'PAGE_TITLE_ACCOUNT_ORDER' => 'My Order History',
 'PAGE_TITLE_ACCOUNT_PASSWORD' => 'Change Password',
 'PAGE_TITLE_ACCOUNT_RECOMMLIST' => 'Listmania',
-'PAGE_TITLE_ACCOUNT_USER' => 'Shipping address',
-'PAGE_TITLE_ACCOUNT_WISHLIST' => 'My Wishlist',
+'PAGE_TITLE_ACCOUNT_USER' => 'Адрес доставки',
+'PAGE_TITLE_ACCOUNT_WISHLIST' => 'Мой список пожеланий',
 'PAGE_TITLE_BASKET' => 'Корзина',
 'PAGE_TITLE_COMPARE' => 'Product Compare',
 'PAGE_TITLE_CONTACT' => 'Контакт',
 'PAGE_TITLE_GUESTBOOK' => 'Гостевая книга',
 'PAGE_TITLE_LINKS' => 'Ссылки',
 'PAGE_TITLE_ORDER' => 'Заказ',
-'PAGE_TITLE_PAYMENT' => 'Payment Methods',
+'PAGE_TITLE_PAYMENT' => 'Методы оплаты',
 'PAGE_TITLE_REGISTER' => 'Зарегистрироваться',
 'PAGE_TITLE_THANKYOU' => 'Спасибо',
 'PAGE_TITLE_USER' => 'Адрес доставки',
@@ -588,7 +588,7 @@ $aLang = array(
 'PLUS_SHIPPING' => 'с НДС, плюс',
 'PLUS_SHIPPING2' => 'Стоимость пересылки',
 'PLUS_SHIPPING3' => '* включая стоимость пересылки',
-'PLUS_VAT' => 'plus VAT',
+'PLUS_VAT' => 'плюс НДС',
 'POSTAL_CITY' => 'Почтовый адрес',
 'POSTAL_CODE' => 'Почтовый индекс',
 'POSTAL_CODE_AND_CITY' => 'Индекс, Населенный пункт',
@@ -612,7 +612,7 @@ $aLang = array(
 'PRODUCT_IMAGES' => 'Изображения',
 'PRODUCT_NO' => 'Арт. номер:',
 'PRODUCT_POST_CARD_FROM' => 'Открытка с товаром от',
-'PRODUCT_RATING' => 'Product Rating',
+'PRODUCT_RATING' => 'Рейтинг товаров',
 'PRODUCT_REVIEW' => 'Оценить продукцию',
 'PROPORTIONALLY_CALCULATED' => 'Пропорционально рассчитан',
 'PUBLIC_GIFT_REGISTRIES' => 'Публичный список желаний',
@@ -712,7 +712,7 @@ $aLang = array(
 'TAGS' => 'Тэги',
 'TERMS_AND_CONDITIONS' => 'Общие условия заключения торговых сделок',
 'THANK_YOU' => 'Спасибо',
-'THANK_YOU_FOR_ORDER' => 'Thank you for your order in',
+'THANK_YOU_FOR_ORDER' => 'Спасибо за ваш заказ в',
 'THANK_YOU_MESSAGE' => 'Thank you. %s appreciates your comments.',
 'TIME' => 'Время:',
 'TITLE' => 'Обращение',

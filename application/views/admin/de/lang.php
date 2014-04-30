@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dsb (5), marco (4020)
+ * @translators: dsb (5), marco (4024)
  */
 
 $sLangName  = 'Deutsch';
@@ -1432,6 +1432,10 @@ $aLang = array(
 'SHOP_LICENSE_DEMO' => 'Demoversion',
 'SHOP_LICENSE_ENTERPRISE' => 'Enterprise',
 'SHOP_LICENSE_ERPINTERFACE' => 'ERP Schnittstelle',
+'SHOP_LICENSE_ERROR_GRACE_EXPIRED' => 'Der Lizenzkey Ihres OXID eShop ist endgültig abgelaufen. Bitte geben Sie einen gültigen Lizenzkey.',
+'SHOP_LICENSE_ERROR_incorrect_mandate_amount' => 'Die Anzahl der lizensierten Subshops wurde überschritten. Aus diesem Grund wurde ein stiller Countdown von 7 Tagen gestartet. Nach Ablauf der Frist wird der OXID eShop offline gehen. Bitte geben Sie einen gültigen Lizenzkey.',
+'SHOP_LICENSE_ERROR_serial_expired' => 'Der Lizenzkey Ihres OXID eShop ist abgelaufen. Aus diesem Grund wurde ein stiller Countdown von 7 Tagen gestartet. Nach Ablauf der Frist wird der OXID eShop offline gehen. Bitte geben Sie einen gültigen Lizenzkey.',
+'SHOP_LICENSE_ERROR_shop_unlicensed' => 'Es ist ein Problem mit dem Lizenzkey Ihres OXID eShop aufgetreten. Aus diesem Grund wurde ein stiller Countdown von 7 Tagen gestartet. Nach Ablauf der Frist wird der OXID eShop offline gehen. Bitte geben Sie den gültigen Lizenzkey.',
 'SHOP_LICENSE_MALL' => 'Mall mode',
 'SHOP_LICENSE_NEWSERIAL' => 'Seriennr. hinzufügen',
 'SHOP_LICENSE_ONLINECHECK' => 'Auf aktuellere Version prüfen',

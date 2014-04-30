@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1337), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
+ * @translators: afimage (504), diegotech (7), djraptor (1338), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156)
  */
 
 $sLangName  = 'Español';
@@ -1434,6 +1434,10 @@ $aLang = array(
 'SHOP_LICENSE_DEMO' => 'Versión Demo',
 'SHOP_LICENSE_ENTERPRISE' => 'Empresa',
 'SHOP_LICENSE_ERPINTERFACE' => 'Interfaz ERP',
+'SHOP_LICENSE_ERROR_GRACE_EXPIRED' => 'The license key of your OXID eShop has been finally expired. Please enter the valid license key.',
+'SHOP_LICENSE_ERROR_incorrect_mandate_amount' => 'The number of the licensed sub-shops has been exceeded. For this reason, a hidden countdown of 7 days has been started. After this period the OXID eShop will go offline. Please enter a valid license key.',
+'SHOP_LICENSE_ERROR_serial_expired' => 'The license key of your OXID eShop has been expired. For this reason, a hidden countdown of 7 days has been started. After this period the OXID eShop will go offline. Please enter a valid license key.',
+'SHOP_LICENSE_ERROR_shop_unlicensed' => 'A problem with the license key of your OXID eShop has been occurred. For this reason, a hidden countdown of 7 days has been started. After this period the OXID eShop will go offline. Please enter the valid license key.',
 'SHOP_LICENSE_MALL' => 'Modo centro comercial',
 'SHOP_LICENSE_NEWSERIAL' => 'Añadir claves de licencia',
 'SHOP_LICENSE_ONLINECHECK' => 'Compruebe la versión actual',

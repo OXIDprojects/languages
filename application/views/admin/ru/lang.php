@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1248), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1254), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -1431,6 +1431,10 @@ $aLang = array(
 'SHOP_LICENSE_DEMO' => 'Demo-Version',
 'SHOP_LICENSE_ENTERPRISE' => 'Enterprise',
 'SHOP_LICENSE_ERPINTERFACE' => 'ERP Interface',
+'SHOP_LICENSE_ERROR_GRACE_EXPIRED' => 'The license key of your OXID eShop has been finally expired. Please enter the valid license key.',
+'SHOP_LICENSE_ERROR_incorrect_mandate_amount' => 'The number of the licensed sub-shops has been exceeded. For this reason, a hidden countdown of 7 days has been started. After this period the OXID eShop will go offline. Please enter a valid license key.',
+'SHOP_LICENSE_ERROR_serial_expired' => 'The license key of your OXID eShop has been expired. For this reason, a hidden countdown of 7 days has been started. After this period the OXID eShop will go offline. Please enter a valid license key.',
+'SHOP_LICENSE_ERROR_shop_unlicensed' => 'A problem with the license key of your OXID eShop has been occurred. For this reason, a hidden countdown of 7 days has been started. After this period the OXID eShop will go offline. Please enter the valid license key.',
 'SHOP_LICENSE_MALL' => 'Mall mode',
 'SHOP_LICENSE_NEWSERIAL' => 'Add License Keys',
 'SHOP_LICENSE_ONLINECHECK' => 'Проверить текущую версию',
