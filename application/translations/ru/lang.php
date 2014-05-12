@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1254), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1260), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), vanilla thunder (35), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -68,9 +68,9 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Поздравительная открытка (без НДС)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'плюс НДС (пропорционально расчетный)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Подарочная упаковка (без НДС)',
-'BETA_NOTE' => 'Welcome to Release Candidate ',
+'BETA_NOTE' => 'Добро пожаловать на релиз-кандидат',
 'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
-'BETA_NOTE_MIDDLE' => 'OXID eShop',
+'BETA_NOTE_MIDDLE' => 'Интернет-магазинa ОКСИД',
 'BIC' => 'БИК',
 'BILLING_ADDRESS' => 'Расчётные реквизиты',
 'BILLING_SHIPPING_SETTINGS' => 'Настройки расчёта и доставки',
@@ -78,8 +78,8 @@ $aLang = array(
 'BLOCK_PRICE' => 'Оптовая цена',
 'BRAND' => 'Марка',
 'BY_BRAND' => 'По марке',
-'BY_MANUFACTURER' => 'By Manufacturer',
-'BY_VENDOR' => 'By Distributor',
+'BY_MANUFACTURER' => 'По производителя',
+'BY_VENDOR' => 'По поставщикам',
 'CANCEL' => 'Покончить',
 'CARD_MASTERCARD' => 'Mastercard',
 'CARD_SECURITY_CODE' => 'Контрольное число',
@@ -119,7 +119,7 @@ $aLang = array(
 'COOKIE_NOTE_DISAGREE' => 'Если вы не согласны, пожалуйста, нажмите здесь.',
 'COUNTRY' => 'Страна:',
 'COUPON' => 'Талон',
-'COUPON_NOT_ACCEPTED' => 'Your coupon "%s" couldn\'t be accepted.',
+'COUPON_NOT_ACCEPTED' => 'Ваш купон «%s» не мог быть принят.',
 'CREATE_PASSWORD' => 'Придумайте пароль',
 'CREDITCARD' => 'Кредитная карта:',
 'CURRENT_PRODUCT' => 'Выбранный/данный товар',
@@ -131,7 +131,7 @@ $aLang = array(
 'DELIVERABLE' => 'Подлежит доставке:',
 'DELIVERYTIME' => 'Срок доставки:',
 'DELIVERYTIME_DAY' => '%s день',
-'DELIVERYTIME_DAYS' => '%s дней',
+'DELIVERYTIME_DAYS' => '%s дня',
 'DELIVERYTIME_DELIVERYTIME' => 'Срок поставки',
 'DELIVERYTIME_MONTH' => '%s месяц',
 'DELIVERYTIME_MONTHS' => '%s месяца',

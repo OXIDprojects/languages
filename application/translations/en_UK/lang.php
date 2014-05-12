@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: marco (4153)
+ * @translators: marco (4168)
  */
 
 $sLangName  = 'British English';
@@ -68,18 +68,18 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Greeting Card (excl. VAT)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Gift Wrapping (excl. VAT)',
-'BETA_NOTE' => 'Welcome to Release Candidate ',
+'BETA_NOTE' => 'Welcome to the release candidate',
 'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
-'BETA_NOTE_MIDDLE' => ' of OXID eShop ',
+'BETA_NOTE_MIDDLE' => 'of OXID eShop',
 'BIC' => 'BIC:',
 'BILLING_ADDRESS' => 'Billing Address',
 'BILLING_SHIPPING_SETTINGS' => 'Billing and delivery Settings',
 'BIRTHDATE' => 'Birthdate:',
 'BLOCK_PRICE' => 'Block price',
 'BRAND' => 'Brand',
-'BY_BRAND' => 'By Brand',
-'BY_MANUFACTURER' => 'By Manufacturer',
-'BY_VENDOR' => 'By Distributor',
+'BY_BRAND' => 'By brand',
+'BY_MANUFACTURER' => 'By manufacturer',
+'BY_VENDOR' => 'By distributor',
 'CANCEL' => 'Cancel',
 'CARD_MASTERCARD' => 'Mastercard',
 'CARD_SECURITY_CODE' => 'CVV2 or CVC2 security code:',
@@ -105,7 +105,7 @@ $aLang = array(
 'CLICK_HERE' => 'click here.',
 'CLICK_HERE_TO_WRITE_ENTRY' => 'Click here to write an entry',
 'CLOSE' => 'Close',
-'COD_CHARGE' => 'COD Charge',
+'COD_CHARGE' => 'COD charge',
 'COLON' => ':',
 'COMPANY' => 'Company:',
 'COMPARE' => 'compare',
@@ -132,7 +132,7 @@ $aLang = array(
 'DELIVERYTIME' => 'Delivery time:',
 'DELIVERYTIME_DAY' => '%s day',
 'DELIVERYTIME_DAYS' => '%s days',
-'DELIVERYTIME_DELIVERYTIME' => 'Delivery time',
+'DELIVERYTIME_DELIVERYTIME' => 'Shipping time',
 'DELIVERYTIME_MONTH' => '%s month',
 'DELIVERYTIME_MONTHS' => '%s months',
 'DELIVERYTIME_WEEK' => '%s week',
