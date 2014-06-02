@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dsb (5), marco (4024)
+ * @translators: dsb (5), marco (4025)
  */
 
 $sLangName  = 'Deutsch';
@@ -29,7 +29,7 @@ $sLangName  = 'Deutsch';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACCESSORIES' => 'Zubehör',
+'ACCESSORIES' => 'Zubehoer',
 'ACCOUNT' => 'Konto',
 'ACCOUNT_INFORMATION' => 'Kontoinformationen',
 'ADD' => 'hinzufügen',
