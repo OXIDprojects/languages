@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1260), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), usmaxx (21), vanilla thunder (47), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1263), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), usmaxx (21), vanilla thunder (47), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -223,7 +223,7 @@ $aLang = array(
 'ERROR_MESSAGE_VOUCHER_NOVOUCHER' => 'Купон недействителен!',
 'ERROR_MESSAGE_WRONG_DOWNLOAD_LINK' => 'Неправильно указанная ссылка на загрузку.',
 'EXCEPTION_CONNECTION_NODB' => 'Нет связи с базой данных!',
-'EXCEPTION_CURL_ERROR' => 'cURL error: %s',
+'EXCEPTION_CURL_ERROR' => 'cURL ошибка: %s',
 'EXCEPTION_NOTALLOWEDTYPE' => 'Этот тип файла не поддерживается. Пожалуйста, измените в config.inc.php допуск для этого типа файлов.',
 'EXCEPTION_NOT_VALID_CURL_CONSTANT' => 'Not valid cURL constant name: %s',
 'EXCEPTION_SYSTEMCOMPONENT_TEMPLATENOTFOUND' => 'Шаблон "%s" не найден',
@@ -683,7 +683,7 @@ $aLang = array(
 'SHOP_SUGGEST_BUY_FOR_ME' => 'Hi, I created a Gift Registry at %s . Great if you could buy something for me.',
 'SHOP_SUGGEST_MESSAGE' => 'Hello, I was looking at %s today and found something that might be interesting for you. Just click on the link below and you will be directed to the shop.',
 'SIMILAR_PRODUCTS' => 'Похожие товары',
-'simpleDateFormat' => 'Ymd',
+'simpleDateFormat' => 'd/m/Y',
 'SOCIAL_BOOKMARKS' => 'Закладки',
 'SORT_BY' => 'Сортировка:',
 'SPECIFICATION' => 'Спецификация',

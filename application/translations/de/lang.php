@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dsb (5), marco (4028)
+ * @translators: dsb (5), marco (4029)
  */
 
 $sLangName  = 'Deutsch';
@@ -135,7 +135,7 @@ $aLang = array(
 'DELIVERYTIME_DELIVERYTIME' => 'Lieferzeit',
 'DELIVERYTIME_MONTH' => '%s Monat',
 'DELIVERYTIME_MONTHS' => '%s Monate',
-'DELIVERYTIME_WEEK' => '%s Wochen',
+'DELIVERYTIME_WEEK' => '%s Woche',
 'DELIVERYTIME_WEEKS' => '%s Wochen',
 'DELIVERY_STATUS' => 'Lieferstatus',
 'DELIVERY_STATUS_ANG' => 'Angenommen, wird bearbeitet',
