@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: rostav (28)
+ * @translators: dotoree (148), rostav (28)
  */
 
 $sLangName  = 'Ελληνικά';
@@ -30,16 +30,16 @@ $sLangName  = 'Ελληνικά';
 $aLang = array(
 'charset' => 'utf-8',
 'ATTENTION' => 'Attention, important',
-'BUTTON_BEGIN_INSTALL' => 'Start installation',
+'BUTTON_BEGIN_INSTALL' => 'Έναρξη εγκατάστασης',
 'BUTTON_DB_INSTALL' => 'Create database now',
-'BUTTON_LICENCE' => 'Continue',
+'BUTTON_LICENCE' => 'Συνέχεια',
 'BUTTON_PROCEED_INSTALL' => 'Proceed with setup',
 'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Install demodata',
 'BUTTON_RADIO_LICENCE_ACCEPT' => 'I accept license conditions.',
 'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'I do not accept license conditions.',
 'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => 'Do <strong>not</strong> install demodata',
 'BUTTON_START_INSTALL' => 'Restart setup',
-'BUTTON_WRITE_DATA' => 'Save and continue',
+'BUTTON_WRITE_DATA' => 'Αποθήκευση και συνέχεια',
 'BUTTON_WRITE_LICENCE' => 'Save license key',
 'ERROR_BAD_DEMODATA' => 'ERROR: Issue while inserting this SQL statements: ',
 'ERROR_BAD_SERIAL_NUMBER' => 'ERROR: Wrong license key!',
