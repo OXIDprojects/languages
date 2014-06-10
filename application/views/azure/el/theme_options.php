@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dotoree (148), rostav (28)
+ * @translators: dotoree (1051), rostav (28)
  */
 
 $sLangName  = 'Ελληνικά';
@@ -48,11 +48,11 @@ $aLang = array(
 'SHOP_THEME_bl_showOpenId' => 'Use Open ID',
 'SHOP_THEME_bl_showVouchers' => 'Use vouchers',
 'SHOP_THEME_bl_showWishlist' => 'Use gift registry',
-'SHOP_THEME_GROUP_display' => 'Display',
-'SHOP_THEME_GROUP_features' => 'Features',
-'SHOP_THEME_GROUP_images' => 'Images',
+'SHOP_THEME_GROUP_display' => 'Εμφάνιση',
+'SHOP_THEME_GROUP_features' => 'Χαρακτηριστικά',
+'SHOP_THEME_GROUP_images' => 'Εικόνες',
 'SHOP_THEME_iNewBasketItemMessage' => 'Select action when product is added to cart',
-'SHOP_THEME_iNewBasketItemMessage_0' => 'None',
+'SHOP_THEME_iNewBasketItemMessage_0' => 'Κανένα',
 'SHOP_THEME_iNewBasketItemMessage_1' => 'Display message',
 'SHOP_THEME_iNewBasketItemMessage_2' => 'Open popup',
 'SHOP_THEME_iNewBasketItemMessage_3' => 'Open basket',
@@ -63,13 +63,13 @@ $aLang = array(
 'SHOP_THEME_sDefaultListDisplayType' => 'Default product list type',
 'SHOP_THEME_sDefaultListDisplayType_grid' => 'Grid',
 'SHOP_THEME_sDefaultListDisplayType_infogrid' => 'Double grid',
-'SHOP_THEME_sDefaultListDisplayType_line' => 'List',
+'SHOP_THEME_sDefaultListDisplayType_line' => 'Λίστα',
 'SHOP_THEME_sIconsize' => 'Product icon size (width*height)',
 'SHOP_THEME_sManufacturerIconsize' => 'Manufacturer\'s/brand logo size',
 'SHOP_THEME_sStartPageListDisplayType' => 'Product list type on Start page',
 'SHOP_THEME_sStartPageListDisplayType_grid' => 'Grid',
 'SHOP_THEME_sStartPageListDisplayType_infogrid' => 'Double grid',
-'SHOP_THEME_sStartPageListDisplayType_line' => 'List',
+'SHOP_THEME_sStartPageListDisplayType_line' => 'Λίστα',
 'SHOP_THEME_sThumbnailsize' => 'Product thumbnail size (width*height)',
 'SHOP_THEME_sZoomImageSize' => 'Product zoom picture size (width*height)',
 );

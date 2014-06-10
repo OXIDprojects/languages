@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dotoree (148), rostav (28)
+ * @translators: dotoree (1051), rostav (28)
  */
 
 $sLangName  = 'Ελληνικά';
@@ -29,11 +29,11 @@ $sLangName  = 'Ελληνικά';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ATTENTION' => 'Attention, important',
+'ATTENTION' => 'Προσοχή, σημαντικό',
 'BUTTON_BEGIN_INSTALL' => 'Έναρξη εγκατάστασης',
-'BUTTON_DB_INSTALL' => 'Create database now',
+'BUTTON_DB_INSTALL' => 'Δημιουργία βάσης δεδομένων τώρα',
 'BUTTON_LICENCE' => 'Συνέχεια',
-'BUTTON_PROCEED_INSTALL' => 'Proceed with setup',
+'BUTTON_PROCEED_INSTALL' => 'Συνεχίστε με την εγκατάσταση',
 'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Install demodata',
 'BUTTON_RADIO_LICENCE_ACCEPT' => 'I accept license conditions.',
 'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'I do not accept license conditions.',
@@ -52,12 +52,12 @@ $aLang = array(
 'ERROR_COULD_NOT_WRITE_TO_FILE' => 'Setup could not write to "%s"!',
 'ERROR_DB_ALREADY_EXISTS' => 'ERROR: Seems there is already OXID eShop installed in database %s. Please delete it prior continuing!',
 'ERROR_DB_CONNECT' => 'ERROR: No database connection possible!',
-'ERROR_FILL_ALL_FIELDS' => 'ERROR: Please fill in all needed fields!',
+'ERROR_FILL_ALL_FIELDS' => 'ΣΦΑΛΜΑ: Παρακαλούμε συμπληρώστε όλα τα πεδία που απαιτούνται!',
 'ERROR_MYSQL_VERSION_DOES_NOT_FIT_REQUIREMENTS' => 'MySQL version does not fit system requiremens',
 'ERROR_NOT_AVAILABLE' => 'ERROR: %s not found!',
 'ERROR_NOT_WRITABLE' => 'ERROR: %s not writeable!',
 'ERROR_OPENING_SQL_FILE' => 'ERROR: Can not open SQL file %s!',
-'ERROR_PASSWORDS_DO_NOT_MATCH' => 'Passwords do not match!',
+'ERROR_PASSWORDS_DO_NOT_MATCH' => 'Οι κωδικοί δεν ταιριάζουν!',
 'ERROR_PASSWORD_TOO_SHORT' => 'Password is too short!',
 'ERROR_SETUP_CANCELLED' => 'Setup has been cancelled because you didn\'t accept the license conditions.',
 'ERROR_USER_NAME_DOES_NOT_MATCH_PATTERN' => 'Please enter a valid e-mail address!',
@@ -67,7 +67,7 @@ $aLang = array(
 'FOOTER_OXID_ESALES' => '© OXID eSales AG 2003 - Y',
 'HEADER_META_MAIN_TITLE' => 'OXID eShop installation wizard',
 'HEADER_TEXT_SETUP_NOT_RUNS_AUTOMATICLY' => 'If setup does not continue in a few seconds, please click ',
-'HERE' => 'here',
+'HERE' => 'εδώ',
 'LOAD_DYN_CONTENT_NOTICE' => '<p>If checkbox is set, you will see an additional menu in the admin area of your OXID eShop.</p><p>In that menu you get further information about eCommerce services like Google product search.</p> <p>You can change these settings at any time.</p>',
 'MOD_ALLOW_URL_FOPEN' => 'allow_url_fopen or fsockopen to port 80',
 'MOD_BC_MATH' => 'BCMath',
@@ -85,17 +85,17 @@ $aLang = array(
 'MOD_OPEN_SSL' => 'OpenSSL',
 'MOD_PHP4_COMPAT' => 'Zend compatibility mode must be off',
 'MOD_PHP_CONFIG' => 'PHP configuration',
-'MOD_PHP_EXTENNSIONS' => 'PHP extensions',
+'MOD_PHP_EXTENNSIONS' => 'Επεκτάσεις PHP',
 'MOD_PHP_VERSION' => 'PHP version at least 5.2.10',
 'MOD_PHP_XML' => 'DOM',
 'MOD_REGISTER_GLOBALS' => 'register_globals must be off',
 'MOD_REQUEST_URI' => 'REQUEST_URI set',
-'MOD_SERVER_CONFIG' => 'Server configuration',
+'MOD_SERVER_CONFIG' => 'Παραμετροποίηση διακομιστή',
 'MOD_SERVER_PERMISSIONS' => 'Files/folders access rights',
 'MOD_SESSION_AUTOSTART' => 'session.auto_start must be off',
 'MOD_SOAP' => 'SOAP',
 'MOD_TOKENIZER' => 'Tokenizer',
-'MOD_UNICODE_SUPPORT' => 'UTF-8 support',
+'MOD_UNICODE_SUPPORT' => 'Υποστήριξη UTF-8',
 'MOD_ZEND_OPTIMIZER' => 'Zend Optimizer or Zend Guard Loader installed',
 'MOD_ZEND_PLATFORM_OR_SERVER' => 'Zend Platform or Zend Server installed',
 'PRIVACY_POLICY' => 'privacy statements',
@@ -103,7 +103,7 @@ $aLang = array(
 'SELECT_DELIVERY_COUNTRY_HINT' => 'If needed, activate easily more delivery countries in admin.',
 'SELECT_PLEASE_CHOOSE' => 'Please choose',
 'SELECT_SETUP_LANG' => 'Installation language',
-'SELECT_SETUP_LANG_SUBMIT' => 'Select',
+'SELECT_SETUP_LANG_SUBMIT' => 'Επιλογή',
 'SELECT_SHOP_LANG' => 'Shop language',
 'SELECT_SHOP_LANG_HINT' => 'If needed, activate easily more languages in admin.',
 'SELECT_SHOP_LOCATION' => 'Your market',
@@ -114,7 +114,7 @@ $aLang = array(
 'STEP_0_ERROR_TEXT' => 'Your system does not fit system requirements',
 'STEP_0_ERROR_URL' => 'http://www.oxid-esales.com/en/products/community-edition/system-requirements',
 'STEP_0_TEXT' => '<ul class="req"><li class="pass"> - Your system fits the requirement.</li><li class="pmin"> - The requirement is not or only partly fit. The OXID eShop will work anyway and can be installed..</li><li class="fail"> - Your system doesn\'t fit the requirement. The OXID eShop will not work without it and cannot be installed.</li><li class="null"> - The requirement could  not be checked.</ul>',
-'STEP_0_TITLE' => 'System requirements check',
+'STEP_0_TITLE' => 'Έλεγχος απαιτήσεων συστήματος',
 'STEP_1_ADDRESS' => 'OXID eSales AG<br>
                                                     Bertoldstr. 48<br>
                                                     79098 Freiburg<br>
@@ -167,7 +167,7 @@ $aLang = array(
 'STEP_6_LINK_TO_SHOP' => 'Continue to your OXID eShop',
 'STEP_6_LINK_TO_SHOP_ADMIN_AREA' => 'Continue to your OXID eShop admin interface',
 'STEP_6_TITLE' => 'OXID eShop successfully installed',
-'STEP_6_TO_SHOP' => 'To Shop',
+'STEP_6_TO_SHOP' => 'Στο κατάστημα',
 'STEP_6_TO_SHOP_ADMIN' => 'To admin interface',
 'TAB_0_DESC' => 'Checking if your system fits the requirements',
 'TAB_0_TITLE' => 'System Requirements',
@@ -180,7 +180,7 @@ $aLang = array(
 'TAB_4_DESC' => 'Configuring directories and selecting admin login',
 'TAB_4_TITLE' => 'Directory & login',
 'TAB_5_DESC' => 'Apply license key',
-'TAB_5_TITLE' => 'License',
+'TAB_5_TITLE' => 'Άδεια',
 'TAB_6_DESC' => 'Installation succeeded',
 'TAB_6_TITLE' => 'Finish',
 'USE_DYNAMIC_PAGES' => 'To increase your business success get additional information from OXID\'s server. You find more information in our ',
