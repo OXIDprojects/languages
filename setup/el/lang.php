@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dotoree (1051), rostav (28)
+ * @translators: dotoree (1297), rostav (28)
  */
 
 $sLangName  = 'Ελληνικά';
@@ -35,17 +35,17 @@ $aLang = array(
 'BUTTON_LICENCE' => 'Συνέχεια',
 'BUTTON_PROCEED_INSTALL' => 'Συνεχίστε με την εγκατάσταση',
 'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Install demodata',
-'BUTTON_RADIO_LICENCE_ACCEPT' => 'I accept license conditions.',
-'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'I do not accept license conditions.',
+'BUTTON_RADIO_LICENCE_ACCEPT' => 'Αποδέχομαι τους όρους της άδειας.',
+'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'Δεν αποδέχομαι τους όρους της άδειας.',
 'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => 'Do <strong>not</strong> install demodata',
 'BUTTON_START_INSTALL' => 'Restart setup',
 'BUTTON_WRITE_DATA' => 'Αποθήκευση και συνέχεια',
-'BUTTON_WRITE_LICENCE' => 'Save license key',
+'BUTTON_WRITE_LICENCE' => 'Αποθηκεύστε το κλειδί άδειας χρήσης',
 'ERROR_BAD_DEMODATA' => 'ERROR: Issue while inserting this SQL statements: ',
-'ERROR_BAD_SERIAL_NUMBER' => 'ERROR: Wrong license key!',
+'ERROR_BAD_SERIAL_NUMBER' => 'ΣΦΑΛΜΑ: Λάθος κλειδί άδειας χρήσης!',
 'ERROR_BAD_SQL' => 'ERROR: Issue while inserting this SQL statements: ',
 'ERROR_CONFIG_FILE_IS_NOT_WRITABLE' => 'ERROR: %s/config.inc.php not writeable!',
-'ERROR_COULD_NOT_CREATE_DB' => 'ERROR: Database not available and also cannot be created!',
+'ERROR_COULD_NOT_CREATE_DB' => 'ΣΦΑΛΜΑ: H βάση δεδομένων δεν είναι διαθέσιμη και επίσης δεν μπορεί να δημιουργηθεί!',
 'ERROR_COULD_NOT_FIND_FILE' => 'Setup could not find "%s"!',
 'ERROR_COULD_NOT_OPEN_CONFIG_FILE' => 'Could not open %s for reading! Please consult our FAQ, forum or contact OXID Support staff!',
 'ERROR_COULD_NOT_READ_FILE' => 'Setup could not open "%s" for reading!',
@@ -58,7 +58,7 @@ $aLang = array(
 'ERROR_NOT_WRITABLE' => 'ERROR: %s not writeable!',
 'ERROR_OPENING_SQL_FILE' => 'ERROR: Can not open SQL file %s!',
 'ERROR_PASSWORDS_DO_NOT_MATCH' => 'Οι κωδικοί δεν ταιριάζουν!',
-'ERROR_PASSWORD_TOO_SHORT' => 'Password is too short!',
+'ERROR_PASSWORD_TOO_SHORT' => 'Ο κωδικός πρόσβασης είναι πολύ σύντομος!',
 'ERROR_SETUP_CANCELLED' => 'Setup has been cancelled because you didn\'t accept the license conditions.',
 'ERROR_USER_NAME_DOES_NOT_MATCH_PATTERN' => 'Please enter a valid e-mail address!',
 'ERROR_VIEWS_CANT_CREATE' => 'ERROR: Can\'t create views. Please check your database user privileges.',

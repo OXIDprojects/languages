@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dsb (1), ET (26), FlashLight (13), lidija (235)
+ * @translators: dsb (1), ET (26), FlashLight (13), lidija (235), rhspro (2)
  */
 
 $sLangName  = 'Slovenščina';
@@ -44,7 +44,7 @@ $aLang = array(
 'ADD_TO_WISH_LIST' => 'Dodaj na seznam želja',
 'ADD_WRAPPING' => 'Add gift wrap',
 'ADD_YOUR_COMMENTS' => 'Dodaj svoje komentarje',
-'ALL' => 'All',
+'ALL' => 'Vse',
 'ALL_BRANDS' => 'Vse znamke',
 'ALL_LISTMANIA' => 'All listmania',
 'ALREADY_ADDED_TAG' => 'To besedilo ste že označili',

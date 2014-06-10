@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dotoree (1051), rostav (28)
+ * @translators: dotoree (1297), rostav (28)
  */
 
 $sLangName  = 'Ελληνικά';
