@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: 
+ * @translators: irvictor (6)
  */
 
 $sLangName  = 'Indonesia';
@@ -30,7 +30,7 @@ $sLangName  = 'Indonesia';
 $aLang = array(
 'charset' => 'utf-8',
 'ACCESSORIES' => 'Accessories',
-'ACCOUNT' => 'Account',
+'ACCOUNT' => 'Akun',
 'ACCOUNT_INFORMATION' => 'Account information',
 'ADD' => 'add',
 'ADDITIONAL_INFO' => 'Additional info',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dotoree (1297), rostav (28)
+ * @translators: dotoree (1517), rostav (28)
  */
 
 $sLangName  = 'Ελληνικά';
@@ -625,7 +625,7 @@ $aLang = array(
 'GENERAL_ARTICLE_OXVARSELECT' => 'oxvarselect',
 'GENERAL_ARTICLE_OXVARSTOCK' => 'Απόθεμα Παραλλαγής',
 'GENERAL_ARTICLE_OXVAT' => 'ΦΠΑ Προϊόντος',
-'GENERAL_ARTICLE_OXVENDORID' => 'Vendor ID',
+'GENERAL_ARTICLE_OXVENDORID' => 'ID Προμηθευτή',
 'GENERAL_ARTICLE_OXVPE' => 'Packingunit',
 'GENERAL_ARTICLE_OXWEIGHT' => 'Βάρος',
 'GENERAL_ARTICLE_OXWIDTH' => 'Πλάτος',
@@ -744,8 +744,8 @@ $aLang = array(
 'GENERAL_SAVE' => 'Αποθήκευση',
 'GENERAL_SAVEIN' => 'Αντιγραφή σε',
 'GENERAL_SEARCH' => 'Αναζήτηση',
-'GENERAL_SEARCHKEY' => 'Optional Search Keys',
-'GENERAL_SEARCHKEYS' => 'Search Keys',
+'GENERAL_SEARCHKEY' => 'Προαιρετικά Κλειδιά Αναζήτησης',
+'GENERAL_SEARCHKEYS' => 'Κλειδιά Αναζήτησης',
 'GENERAL_SEND' => 'Αποστολή',
 'GENERAL_SENDEMAIL' => 'Να σταλθεί e-mail;',
 'GENERAL_SENDON' => 'Shipped on ',
@@ -782,7 +782,7 @@ $aLang = array(
 'GENERAL_USER' => 'Χρήστης',
 'GENERAL_USTID' => 'VAT ID No.',
 'GENERAL_VARIANTE' => 'Παραλλαγή του',
-'GENERAL_VENDOR' => 'Vendor',
+'GENERAL_VENDOR' => 'Προμηθευτής',
 'GENERAL_VOUCHERS' => 'Έκπτωση Κουπονιού',
 'GENERAL_WRAPPING' => 'Gift Wrapping',
 'GENERAL_YES' => 'Ναί',
@@ -1111,7 +1111,7 @@ $aLang = array(
 'OXDIAG_MODULES_ID' => 'ID',
 'OXDIAG_MODULES_NAME' => 'Όνομα',
 'OXDIAG_MODULES_STATE' => 'Κατάσταση',
-'OXDIAG_MODULES_VENDOR' => 'Vendor',
+'OXDIAG_MODULES_VENDOR' => 'Προμηθευτής',
 'OXDIAG_MODULES_VERSION' => 'Έκδοση',
 'OXDIAG_NUMBER_OF_INVESTIGATED_FILES' => 'Number of investigated files in total',
 'OXDIAG_OBSOLETE' => 'Obsolete',
@@ -1232,9 +1232,9 @@ $aLang = array(
 'REPORT_PAGEHEAD_REPORTSTILL' => 'TILL',
 'REPORT_PAGEHEAD_SHOPREPORT' => 'SHOP ANALYSIS',
 'REPORT_PAGEHEAD_TITLE' => 'OXID Report',
-'REPORT_SEARCHSTRINGS' => 'Search keys',
-'REPORT_SEARCHSTRINGS_INTIME' => 'Following Search Keys were entered in the specified time-frame',
-'REPORT_SEARCHSTRINGS_SEARCHSRT' => 'Search Keys',
+'REPORT_SEARCHSTRINGS' => 'Κλειδιά αναζήτησης',
+'REPORT_SEARCHSTRINGS_INTIME' => 'Τα παρακάτω Κλειδιά Αναζήτησης εισήχθησαν στο συγκεκριμένο χρονικό πλαίσιο',
+'REPORT_SEARCHSTRINGS_SEARCHSRT' => 'Κλειδιά Αναζήτησης',
 'REPORT_TOP_CLICKED_CATEGORIES' => 'Top clicked Categories',
 'REPORT_TOP_CLICKED_CATEGORIES_CLICKPERCAT' => 'Click per Category',
 'REPORT_TOP_VIEWED_PRODUCTS' => 'Top viewed Products',

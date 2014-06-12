@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: 
+ * @translators: irvictor (6)
  */
 
 $sLangName  = 'Indonesia';
@@ -29,17 +29,17 @@ $sLangName  = 'Indonesia';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACTIONS_LIST_MENUITEM' => 'Customer Information',
-'ACTIONS_LIST_MENUSUBITEM' => 'Promotions',
+'ACTIONS_LIST_MENUITEM' => 'Info pelanggan',
+'ACTIONS_LIST_MENUSUBITEM' => 'Promosi',
 'ACTIONS_MAIN_ALLARTICLES' => 'All available Products',
 'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Promoted Products',
 'ACTIONS_MAIN_NOTSELECTED' => 'Please select one from above list to make changes',
 'ADMINGB_LIST_AUTHOR' => 'Author',
 'ADMINGB_LIST_ENTRY' => 'Entry',
 'ADMINGB_LIST_MENUITEM' => 'Customer Information',
-'ADMINGB_LIST_MENUSUBITEM' => 'Guestbook',
+'ADMINGB_LIST_MENUSUBITEM' => 'Buku tamu',
 'ADMINGB_TITLE' => '[OXID Guestbook]',
-'ADMINLINKS_LIST_MENUITEM' => 'Customer Information',
+'ADMINLINKS_LIST_MENUITEM' => 'Info pelanggan',
 'ADMINLINKS_LIST_MENUSUBITEM' => 'Links',
 'ADMINLINKS_LIST_TITLE' => '[OXID Links Administration]',
 'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b>Note:</b> Alternative image server configuration detected, files will not be uploaded to remote location. Please take care about synchronization manually.',
@@ -52,7 +52,7 @@ $aLang = array(
 'ARTICLE_ATTRIBUTE_NOATTRIBUTES' => 'Please select one Attribute!',
 'ARTICLE_ATTRIBUTE_NOSELLIST' => 'Available Selection Lists',
 'ARTICLE_ATTRIBUTE_OPENINNEWWINDOW' => 'Create Attribute in new window',
-'ARTICLE_ATTRIBUTE_SAVE' => 'Save',
+'ARTICLE_ATTRIBUTE_SAVE' => 'Simpan',
 'ARTICLE_ATTRIBUTE_SELECTONEATTR' => 'Please select an Attribute:',
 'ARTICLE_ATTRIBUTE_TOOMANYATTRIBUTES' => 'Please select only one Attribute!',
 'ARTICLE_BUNDLE_ALLITEMS' => 'All available Products',
