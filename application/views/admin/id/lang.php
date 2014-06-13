@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: irvictor (6)
+ * @translators: irvictor (13)
  */
 
 $sLangName  = 'Indonesia';
@@ -62,19 +62,19 @@ $aLang = array(
 'ARTICLE_CROSSSELLING_ALLITEMS' => 'All available Products',
 'ARTICLE_CROSSSELLING_ASSIGNACCESSORIES' => 'Assign Accessories',
 'ARTICLE_CROSSSELLING_ASSIGNCROSSSELLING' => 'Assign Crosssellings',
-'ARTICLE_CROSSSELLING_CROSSSELLING' => 'Crossselling Products',
+'ARTICLE_CROSSSELLING_CROSSSELLING' => 'Produk yang mirip',
 'ARTICLE_CROSSSELLING_EXTRAS' => 'Accessories for Product',
 'ARTICLE_EXTEND_ALLCATS' => 'All available Categories',
-'ARTICLE_EXTEND_ARTEXTRA' => 'Bundled Product',
-'ARTICLE_EXTEND_ARTINCATS' => 'Product is in these Categories',
-'ARTICLE_EXTEND_BLFIXEDPRICE' => 'Deactivate Price Alert',
-'ARTICLE_EXTEND_BPRICE' => 'Purchase Price',
+'ARTICLE_EXTEND_ARTEXTRA' => 'Produk kombinasi',
+'ARTICLE_EXTEND_ARTINCATS' => 'Produk dalam kategori ini',
+'ARTICLE_EXTEND_BLFIXEDPRICE' => 'Matikan sinyal harga',
+'ARTICLE_EXTEND_BPRICE' => 'Harga beli',
 'ARTICLE_EXTEND_DEFAULT' => 'Set as Main Category',
-'ARTICLE_EXTEND_DESCRIPTION' => 'Description',
+'ARTICLE_EXTEND_DESCRIPTION' => 'Keterangan',
 'ARTICLE_EXTEND_DIMENSIONS_UNIT' => 'm',
 'ARTICLE_EXTEND_ENTERURL' => 'Enter existing media URL <br>(external PDF, movie, mp3 or YouTube!)',
 'ARTICLE_EXTEND_ERRORSAVINGTPRICE' => 'Attention: RRP price must be bigger than normal price.',
-'ARTICLE_EXTEND_EXTURL' => 'External URL',
+'ARTICLE_EXTEND_EXTURL' => 'URL luar',
 'ARTICLE_EXTEND_FILE' => 'File',
 'ARTICLE_EXTEND_FILEUPLOAD' => 'File Upload: ',
 'ARTICLE_EXTEND_FREESHIPPING' => 'Free Shipping',
