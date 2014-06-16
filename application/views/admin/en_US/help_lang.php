@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: marco (3573)
+ * @translators: marco (3583)
  */
 
 $sLangName  = 'American English';
@@ -36,6 +36,7 @@ $aLang = array(
 'HELP_ARTICLE_EXTEND_ISCONFIGURABLE' => 'If the product is customizable, an additional input field is displayed on the products detail page and in the shopping cart. Here customers can enter text for customizing the product.<br><br>A typical example are t-shirts which can be imprinted with custom text. In the input field customers can enter the text to be printed on the t-shirt.',
 'HELP_ARTICLE_EXTEND_NONMATERIAL' => 'Setting is inherited from Parent product to Variants and applies to the entire product.',
 'HELP_ARTICLE_EXTEND_QUESTIONEMAIL' => 'At <span class="navipath_or_inputname">Alt. Contact</span> you can enter an e-mail address. If users submit questions on this product, they will be sent to this e-mail address. If no e-mail address is entered, the query will be send to the normal info e-mail address.',
+'HELP_ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'If this option is activated, users have to confirm terms and conditions in the fourth step of the check-out process for this specific item. Please make sure the general option is activated as well and the product item is intangible or downloadable.',
 'HELP_ARTICLE_EXTEND_SKIPDISCOUNTS' => 'If <span class="navipath_or_inputname">Skip all negative discounts</span> is active, negative allowances will not be calculated for this product. These include discounts and vouchers.',
 'HELP_ARTICLE_EXTEND_TEMPLATE' => 'The detail view of a product can be displayed with a different template. For doing so, enter path and name of the template to be used. Further information is available in the <a href="http://www.oxid-esales.com/de/resources/help-faq/eshop-manual/display-certain-products-or-categories-another-template" target="_blank">accordant manual entry</a>.',
 'HELP_ARTICLE_EXTEND_TPRICE' => 'In <span class="navipath_or_inputname">RRP</span> you can enter the recommended retail price of the manufacturer. If you enter the RRP it is shown to the users: Above the product price <span class="filename_filepath_or_italic">Reduced from RRP now only</span> is displayed.',
@@ -154,6 +155,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_DOWNLOADS' => 'Shop with downloadable products. Activate here, that products can be ordered and downloaded.',
 'HELP_SHOP_CONFIG_DOWNLOADS_PATH' => 'Path where files of downloadable products are stored.',
 'HELP_SHOP_CONFIG_DOWNLOAD_EXPIRATION_TIME' => 'Specify the time in hours, the download link is valid after the first download. This is the default setting for all products.You can change this value for every file of product in Administer Products -> Products -> Downloads.',
+'HELP_SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'If this option is activated, users have to confirm terms and conditions for intangible or downloadable products in the fourth step of the check-out process. Please make sure this option is enabled for the specific item as well!',
 'HELP_SHOP_CONFIG_ENTERNETPRICE' => 'In admin area product prices must be entered as net prices.',
 'HELP_SHOP_CONFIG_FACEBOOKCONNECT' => 'Show Facebook Connect box which allows users to log in into eShop using theirs Facebook accunt data.',
 'HELP_SHOP_CONFIG_FBCOMMENTS' => 'Comments box easily enables shop visitors to comment on your shop\'s content.',

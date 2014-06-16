@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: AWIDON (1), dsb (1), marco (4658), simoneschuppe (4), Thielo (1)
+ * @translators: AWIDON (1), dsb (1), marco (4668), simoneschuppe (4), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';
@@ -36,6 +36,7 @@ $aLang = array(
 'HELP_ARTICLE_EXTEND_ISCONFIGURABLE' => 'Wenn der Artikel individualisierbar ist, wird den Kunden ein zusätzliches Eingabefeld auf der Detailseite des Artikels und im Warenkorb angezeigt. In dieses Eingabefeld können Kunden Text eingeben, um den Artikel zu individualisieren.<br><br>Ein typisches Beispiel sind T-Shirts, die bedruckt werden können. In das Eingabefeld können Kunden den Text eingeben, mit dem ein T-Shirt bedruckt werden soll.',
 'HELP_ARTICLE_EXTEND_NONMATERIAL' => 'Einstellung wird vom Vater-Artikel an die Varianten vererbt und gilt für den gesamten Artikel.',
 'HELP_ARTICLE_EXTEND_QUESTIONEMAIL' => 'Bei <span class="navipath_or_inputname">Alt. Anspr.partn.</span> kannst Du eine E-Mail Adresse eingeben. Wenn die Benutzer eine Frage zu diesem Artikel absenden, wird sie an diese E-Mail Adresse geschickt. Wenn keine E-Mail Adresse eingetragen ist, wird die Anfrage an die normale Info E-Mail Adresse geschickt.',
+'HELP_ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'Ist diese Option aktiviert, müssen Benutzer die AGB für diesen Artikel im vierten Bestellschritt bestätigen. Bitte stelle sicher, dass diese Option auch in den Grundeinstellungen aktiviert ist und dass es sich um einen immateriellen oder Downloadartikel handelt.',
 'HELP_ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Wenn <span class="navipath_or_inputname">Alle neg. Nachlässe ignorieren</span> aktiviert ist, werden für diesen Artikel keine negativen Nachlässe berechnet. Das sind z. B. Rabatte und Gutscheine.',
 'HELP_ARTICLE_EXTEND_TEMPLATE' => 'Du kannst die Detailansicht des Artikels mit einem anderen Template anzeigen lassen. Trage dazu Pfad und Namen des Templates ein, das verwendet werden soll. Weitere Informationen findest Du im <a href="http://www.oxid-esales.com/de/resources/help-faq/eshop-manual/bestimmte-artikel-oder-kategorien-mit-anderen-templates-anzeigen" target="_blank">eShop Handbuch</a>.',
 'HELP_ARTICLE_EXTEND_TPRICE' => 'Bei <span class="navipath_or_inputname">UVP</span> kannst Du die Unverbindliche Preisempfehlung des Herstellers eingeben. Wenn Du die UVP eingibst, wird diese den Benutzern angezeigt: Beim Artikel wird über dem Preis <span class="filename_filepath_or_italic">statt UVP nur</span> angezeigt.',
@@ -154,6 +155,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_DOWNLOADS' => 'Shop mit Download-Artikeln. Aktiviere hier, dass Artikel bestellt und heruntergeladen werden können.',
 'HELP_SHOP_CONFIG_DOWNLOADS_PATH' => 'Pfad, in dem Dateien für Download-Artikel gespeichert werden.',
 'HELP_SHOP_CONFIG_DOWNLOAD_EXPIRATION_TIME' => 'Gib die Zeit in Stunden an, die der Downloadlink nach dem ersten Download gültig ist. Das ist die Standardeinstellung für alle Artikel. Du kannst diesen Wert für jede Datei des Artikels unter Artikel verwalten -> Artikel -> Downloads ändern.',
+'HELP_SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'Ist diese Option aktiviert, müssen Benutzer die AGB für immaterielle oder Downloadartikel im vierten Bestellschritt bestätigen. Bitte aktiviere diese Option auch für die spezifischen Produkte!',
 'HELP_SHOP_CONFIG_ENTERNETPRICE' => 'Im Administrationsbereich müssen Artikelpreise als Nettopreise eingegeben werden.',
 'HELP_SHOP_CONFIG_FACEBOOKCONNECT' => 'Facebook Connect anzeigen, damit Anwender sich mit ihren Facebook-Profildaten im Shop anmelden können.',
 'HELP_SHOP_CONFIG_FBCOMMENTS' => 'Erlaubt den Shopbesuchern, Kommentare zu Produkten abzugeben.',
