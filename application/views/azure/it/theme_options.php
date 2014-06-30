@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205)
+ * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), simon.runer (541)
  */
 
 $sLangName  = 'Italiano';
@@ -42,13 +42,13 @@ $aLang = array(
 'SHOP_THEME_aNrofCatArticlesInGrid' => 'Grid view: Number of products which can be shown in a product lists (category pages, search results)<br><br>Attention: A large number of products per page (above 100) can cause performance loss!',
 'SHOP_THEME_blShowBirthdayFields' => 'Display input fields for date of birth when users enter their personal data',
 'SHOP_THEME_blShowListDisplayType' => 'Display product list type selector',
-'SHOP_THEME_bl_showCompareList' => 'Use compare list',
-'SHOP_THEME_bl_showGiftWrapping' => 'Use gift wrapping',
-'SHOP_THEME_bl_showListmania' => 'Use listmania',
-'SHOP_THEME_bl_showOpenId' => 'Use Open ID',
-'SHOP_THEME_bl_showVouchers' => 'Use vouchers',
-'SHOP_THEME_bl_showWishlist' => 'Use gift registry',
-'SHOP_THEME_GROUP_display' => 'Display',
+'SHOP_THEME_bl_showCompareList' => 'Confronto prodotti attivo',
+'SHOP_THEME_bl_showGiftWrapping' => 'Confezione regalo attiva',
+'SHOP_THEME_bl_showListmania' => 'Listmania attiva',
+'SHOP_THEME_bl_showOpenId' => 'Login Open ID attivo',
+'SHOP_THEME_bl_showVouchers' => 'Codici sconti attivi',
+'SHOP_THEME_bl_showWishlist' => 'Lista desideria attiva',
+'SHOP_THEME_GROUP_display' => 'Visualizzazione',
 'SHOP_THEME_GROUP_features' => 'Features',
 'SHOP_THEME_GROUP_images' => 'Images',
 'SHOP_THEME_iNewBasketItemMessage' => 'Select action when product is added to cart',
@@ -61,15 +61,15 @@ $aLang = array(
 'SHOP_THEME_sCatPromotionsize' => 'Category picture size for promotion on startpage (width*height)',
 'SHOP_THEME_sCatThumbnailsize' => 'Category thumbnail size (width*height)',
 'SHOP_THEME_sDefaultListDisplayType' => 'Default product list type',
-'SHOP_THEME_sDefaultListDisplayType_grid' => 'Grid',
-'SHOP_THEME_sDefaultListDisplayType_infogrid' => 'Double grid',
-'SHOP_THEME_sDefaultListDisplayType_line' => 'List',
+'SHOP_THEME_sDefaultListDisplayType_grid' => 'Griglia',
+'SHOP_THEME_sDefaultListDisplayType_infogrid' => 'Griglia a due colonne',
+'SHOP_THEME_sDefaultListDisplayType_line' => 'Lista',
 'SHOP_THEME_sIconsize' => 'Product icon size (width*height)',
 'SHOP_THEME_sManufacturerIconsize' => 'Manufacturer\'s/brand logo size',
 'SHOP_THEME_sStartPageListDisplayType' => 'Product list type on Start page',
 'SHOP_THEME_sStartPageListDisplayType_grid' => 'Grid',
 'SHOP_THEME_sStartPageListDisplayType_infogrid' => 'Double grid',
-'SHOP_THEME_sStartPageListDisplayType_line' => 'List',
+'SHOP_THEME_sStartPageListDisplayType_line' => 'Lista',
 'SHOP_THEME_sThumbnailsize' => 'Product thumbnail size (width*height)',
 'SHOP_THEME_sZoomImageSize' => 'Product zoom picture size (width*height)',
 );
