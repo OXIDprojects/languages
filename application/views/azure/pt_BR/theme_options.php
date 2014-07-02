@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: vendingtechnik (81)
+ * @translators: sancao (125), vendingtechnik (81)
  */
 
 $sLangName  = 'Português do Brasil';

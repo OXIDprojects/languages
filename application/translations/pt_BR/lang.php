@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: vendingtechnik (81)
+ * @translators: sancao (125), vendingtechnik (81)
  */
 
 $sLangName  = 'Português do Brasil';
@@ -45,7 +45,7 @@ $aLang = array(
 'ADD_WRAPPING' => 'Adicionar embrulho-presente',
 'ADD_YOUR_COMMENTS' => 'Adicione os seus comentários',
 'ALL' => 'Todos',
-'ALL_BRANDS' => 'All Brands',
+'ALL_BRANDS' => 'Todas as marcas',
 'ALL_LISTMANIA' => 'Toda a Listmania',
 'ALREADY_ADDED_TAG' => 'Já adicionou tag a este texto',
 'ALREADY_CUSTOMER' => 'Já sou um cliente',
@@ -65,25 +65,25 @@ $aLang = array(
 'BARGAIN' => 'Promoção',
 'BARGAIN_PRODUCTS' => 'Produtos em promoção',
 'BASKET_EMPTY' => 'O carrinho de compras encontra-se vazio.',
-'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Greeting Card (net)',
+'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Cartão (net)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
-'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Gift Wrapping (net)',
+'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Embalagem-presente (net)',
 'BETA_NOTE' => 'Welcome to Release Candidate ',
-'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
+'BETA_NOTE_FAQ' => '. Por favor contacte nosso %s se tiver alguma dúvida.',
 'BETA_NOTE_MIDDLE' => ' of OXID eShop ',
 'BIC' => 'BIC',
 'BILLING_ADDRESS' => 'Endereço para facturação',
 'BILLING_SHIPPING_SETTINGS' => 'Configuração de facturação e entrega',
 'BIRTHDATE' => 'Data de nascimento:',
 'BLOCK_PRICE' => 'Bloco preço',
-'BRAND' => 'Brand',
+'BRAND' => 'Marca',
 'BY_BRAND' => 'By Brand',
-'BY_MANUFACTURER' => 'By Manufacturer',
+'BY_MANUFACTURER' => 'Fabricante',
 'BY_VENDOR' => 'By Distributor',
 'CANCEL' => 'Cancelar',
 'CARD_MASTERCARD' => 'Mastercard',
 'CARD_SECURITY_CODE' => 'CVV2 ou CVC2 código de segurança:',
-'CARD_SECURITY_CODE_DESCRIPTION' => 'This check digit is printed in reverse italic on the back side of your credit card right above the signature panel.',
+'CARD_SECURITY_CODE_DESCRIPTION' => 'O código de segurança é impresso no lado inverso do seu cartão de crédito no lado direito acima da assinatura.',
 'CARD_TO' => 'Card to',
 'CARD_VISA' => 'Visa',
 'CART' => 'Carrinho',
