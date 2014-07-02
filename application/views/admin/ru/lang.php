@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1263), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), usmaxx (21), vanilla thunder (47), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1263), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -402,7 +402,7 @@ $aLang = array(
 'DYN_TRUSTED_CANCELLED' => 'The certificate has expired',
 'DYN_TRUSTED_CASH_ON_DELIVERY' => 'Cash on delivery',
 'DYN_TRUSTED_CASH_ON_PICKUP' => 'Cash on pickup',
-'DYN_TRUSTED_CHEQUE' => 'Cheque',
+'DYN_TRUSTED_CHEQUE' => 'Чек',
 'DYN_TRUSTED_CLICKANDBUY' => 'Click&Buy',
 'DYN_TRUSTED_CREDIT_CARD' => 'Кредитная карточка',
 'DYN_TRUSTED_DIRECT_DEBIT' => 'Direct debit',
