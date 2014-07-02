@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: 
+ * @translators: edychang (31)
  */
 
 $sLangName  = '中文';
@@ -29,23 +29,23 @@ $sLangName  = '中文';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACCESSORIES' => 'Accessories',
-'ACCOUNT' => 'Account',
-'ACCOUNT_INFORMATION' => 'Account information',
-'ADD' => 'add',
-'ADDITIONAL_INFO' => 'Additional info',
-'ADDRESS' => 'Address',
-'ADDRESSES' => 'Addresses',
-'ADD_TAGS' => 'Add tags',
-'ADD_THIS_PAGE_TO' => 'Add this page to',
-'ADD_TO_CART' => 'Add to cart',
-'ADD_TO_GIFT_REGISTRY' => 'Add to gift registry',
+'ACCESSORIES' => '配件',
+'ACCOUNT' => '账号',
+'ACCOUNT_INFORMATION' => '账号信息',
+'ADD' => '添加',
+'ADDITIONAL_INFO' => '附加信息',
+'ADDRESS' => '地址',
+'ADDRESSES' => '地址',
+'ADD_TAGS' => '添加标签',
+'ADD_THIS_PAGE_TO' => '将该页添加到',
+'ADD_TO_CART' => '添加到购物车',
+'ADD_TO_GIFT_REGISTRY' => '添加到礼品登记',
 'ADD_TO_LISTMANIA_LIST' => 'Add to listmania list',
-'ADD_TO_WISH_LIST' => 'Add to wish list',
-'ADD_WRAPPING' => 'Add gift wrap',
-'ADD_YOUR_COMMENTS' => 'Add your comments',
-'ALL' => 'All',
-'ALL_BRANDS' => 'All Brands',
+'ADD_TO_WISH_LIST' => '加入我喜欢的列表',
+'ADD_WRAPPING' => '添加礼品包装',
+'ADD_YOUR_COMMENTS' => '您的宝贵意见',
+'ALL' => '全部',
+'ALL_BRANDS' => '所有品牌',
 'ALL_LISTMANIA' => 'All listmania',
 'ALREADY_ADDED_TAG' => 'You already tagged this text',
 'ALREADY_CUSTOMER' => 'I am already a customer',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: 
+ * @translators: edychang (31)
  */
 
 $sLangName  = '中文';
@@ -29,19 +29,19 @@ $sLangName  = '中文';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACTIONS_LIST_MENUITEM' => 'Customer Information',
-'ACTIONS_LIST_MENUSUBITEM' => 'Promotions',
-'ACTIONS_MAIN_ALLARTICLES' => 'All available Products',
-'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Promoted Products',
-'ACTIONS_MAIN_NOTSELECTED' => 'Please select one from above list to make changes',
-'ADMINGB_LIST_AUTHOR' => 'Author',
-'ADMINGB_LIST_ENTRY' => 'Entry',
-'ADMINGB_LIST_MENUITEM' => 'Customer Information',
-'ADMINGB_LIST_MENUSUBITEM' => 'Guestbook',
-'ADMINGB_TITLE' => '[OXID Guestbook]',
-'ADMINLINKS_LIST_MENUITEM' => 'Customer Information',
-'ADMINLINKS_LIST_MENUSUBITEM' => 'Links',
-'ADMINLINKS_LIST_TITLE' => '[OXID Links Administration]',
+'ACTIONS_LIST_MENUITEM' => '用户信息',
+'ACTIONS_LIST_MENUSUBITEM' => '推广',
+'ACTIONS_MAIN_ALLARTICLES' => '所有商品',
+'ACTIONS_MAIN_ALLARTICLESWITHATTR' => '推广商品',
+'ACTIONS_MAIN_NOTSELECTED' => '请从上述列表中选择项做修改',
+'ADMINGB_LIST_AUTHOR' => '作者',
+'ADMINGB_LIST_ENTRY' => '条目',
+'ADMINGB_LIST_MENUITEM' => '客户信息',
+'ADMINGB_LIST_MENUSUBITEM' => '给我留言',
+'ADMINGB_TITLE' => '[OXID给我留言]',
+'ADMINLINKS_LIST_MENUITEM' => '客户信息',
+'ADMINLINKS_LIST_MENUSUBITEM' => '链接',
+'ADMINLINKS_LIST_TITLE' => '[OXID链接管理]',
 'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b>Note:</b> Alternative image server configuration detected, files will not be uploaded to remote location. Please take care about synchronization manually.',
 'amount' => 'Amount',
 'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => 'Assign Attributes',
