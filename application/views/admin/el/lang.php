@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dotoree (1517), rostav (28)
+ * @translators: dotoree (1517), georgekk2 (5), rostav (28)
  */
 
 $sLangName  = 'Ελληνικά';
@@ -44,13 +44,13 @@ $aLang = array(
 'ADMINLINKS_LIST_TITLE' => '[OXID Links Administration]',
 'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b> Σημείωση: </ b>Ανιχνεύτηκε εναλλακτική διαμόρφωση διακομιστή για τις εικόνες, τα αρχεία δεν θα φορτωθούν στην απομακρυσμένη τοποθεσία. Παρακαλούμε να φροντίστε να κάνετε το συγχρονισμό χειροκίνητα.',
 'amount' => 'Ποσό',
-'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => 'Assign Attributes',
+'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => 'Εκχώρηση Χαρακτηριστικών ιδιοτήτων',
 'ARTICLE_ATTRIBUTE_ASSIGNSELECTLIST' => 'Assign Selection Lists',
 'ARTICLE_ATTRIBUTE_ITEMSATTRIBUTE' => 'Χαρακτηριστικά Προϊόντος',
 'ARTICLE_ATTRIBUTE_ITEMSSELLIST' => 'Λίστες Επιλογών Προϊόντος',
 'ARTICLE_ATTRIBUTE_NOATTRIBUTE' => 'Διαθέσιμα Χαρακτηριστικά',
 'ARTICLE_ATTRIBUTE_NOATTRIBUTES' => 'Παρακαλώ επιλέξτε ένα Χαρακτηριστικό!',
-'ARTICLE_ATTRIBUTE_NOSELLIST' => 'Available Selection Lists',
+'ARTICLE_ATTRIBUTE_NOSELLIST' => 'Διαθέσιμες λίστες επιλογής',
 'ARTICLE_ATTRIBUTE_OPENINNEWWINDOW' => 'Δημιουργία Χαρακτηριστικού σε νέο παράθυρο',
 'ARTICLE_ATTRIBUTE_SAVE' => 'Αποθήκευση',
 'ARTICLE_ATTRIBUTE_SELECTONEATTR' => 'Παρακαλώ επιλέξτε ένα Χαρακτηριστικό:',

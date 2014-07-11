@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dotoree (1517), rostav (28)
+ * @translators: dotoree (1517), georgekk2 (5), rostav (28)
  */
 
 $sLangName  = 'Ελληνικά';
@@ -42,12 +42,12 @@ $aLang = array(
 'ADD_TO_GIFT_REGISTRY' => 'Add to gift registry',
 'ADD_TO_LISTMANIA_LIST' => 'Add to listmania list',
 'ADD_TO_WISH_LIST' => 'Προσθήκη στην Λίστα Επιθυμιών',
-'ADD_WRAPPING' => 'Add gift wrap',
+'ADD_WRAPPING' => 'Προσθέστε συσκευασία Δώρου',
 'ADD_YOUR_COMMENTS' => 'Προσθέστε τα σχόλιά σας',
 'ALL' => 'Όλα',
 'ALL_BRANDS' => 'Όλες οι Μάρκες',
-'ALL_LISTMANIA' => 'All listmania',
-'ALREADY_ADDED_TAG' => 'You already tagged this text',
+'ALL_LISTMANIA' => 'όλα τα αγαπημένα',
+'ALREADY_ADDED_TAG' => 'Έχετε ήδη βάλει ετικέτα σε αυτό το κείμενο',
 'ALREADY_CUSTOMER' => 'Είμαι ήδη πελάτης',
 'APPLAY' => 'Εφαρμογή',
 'ARTNUM' => 'Αριθμός προϊόντος',
