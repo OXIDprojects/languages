@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1263), muslimukas (4), Natalia I (37), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1263), muslimukas (4), Natalia I (85), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -195,7 +195,7 @@ $aLang = array(
 'ERROR_MESSAGE_INPUT_NOTALLFIELDS' => 'Пожалуйста, введите стоимость!',
 'ERROR_MESSAGE_INPUT_NOVALIDEMAIL' => 'Пожалуйста, введите Ваш электронный адрес!',
 'ERROR_MESSAGE_INVITE_INCORRECTEMAILADDRESS' => 'Электронный адрес недействителен. Пожалуйста, проверьте электронный адрес.',
-'ERROR_MESSAGE_MANDATES_EXCEEDED' => 'The number of the licensed sub-shops exceeded. Please enter a valid license number or contact',
+'ERROR_MESSAGE_MANDATES_EXCEEDED' => 'Превышено число лицензированных мандантов. Пожалуйста введите действующий лицензионный ключ или свяжитесь с',
 'ERROR_MESSAGE_NOFILE' => 'Не загружено ни одного файла',
 'ERROR_MESSAGE_OUTOFSTOCK_OUTOFSTOCK' => 'На складе недостаточное количество данного товара! Доступно:',
 'ERROR_MESSAGE_OXID_ESALES' => 'OXID eSales',
@@ -252,7 +252,7 @@ $aLang = array(
 'GIFT_REGISTRY_OF_2' => 'Мой список желаний',
 'GIFT_REGISTRY_OF_3' => 'Добро пожаловать в список желаний',
 'GIFT_REGISTRY_SEARCH_RESULTS' => 'Список желаний: результат поиска:',
-'GIFT_REGISTRY_SENT_SUCCESSFULLY' => 'Your Gift Registry was sent successfully to: %s ',
+'GIFT_REGISTRY_SENT_SUCCESSFULLY' => 'Ваш список пожеланий был успешно отправлен %s',
 'GIFT_WRAPPING' => 'Упаковка подарка:',
 'GIFT_WRAPPING_GREETING_CARD' => 'Упаковка подарка/Открытка',
 'GO' => 'Вперёд!',
