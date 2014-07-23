@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1263), muslimukas (4), Natalia I (100), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1263), muslimukas (4), Natalia I (224), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -281,7 +281,7 @@ $aLang = array(
 'INFORMATION' => 'Информация',
 'INFO_ABOUT_COOKIES' => 'Information about Cookies',
 'INTRODUCTION' => 'Введение',
-'INVALID_TAGS_REMOVED' => 'Invalid tags removed',
+'INVALID_TAGS_REMOVED' => 'Недопустимые тэги будут удалены',
 'INVITE_TO_SHOP' => 'Приглашение от %s посетить %s',
 'INVITE_YOUR_FRIENDS' => 'Пригласить друзей',
 'ITEMS_IN_BASKET' => 'Товары в корзине:',
@@ -559,7 +559,7 @@ $aLang = array(
 'PAGE_TITLE_ACCOUNT_USER' => 'Адрес доставки',
 'PAGE_TITLE_ACCOUNT_WISHLIST' => 'Мой список пожеланий',
 'PAGE_TITLE_BASKET' => 'Корзина',
-'PAGE_TITLE_COMPARE' => 'Product Compare',
+'PAGE_TITLE_COMPARE' => 'Сравнение продуктов',
 'PAGE_TITLE_CONTACT' => 'Контакт',
 'PAGE_TITLE_GUESTBOOK' => 'Гостевая книга',
 'PAGE_TITLE_LINKS' => 'Ссылки',

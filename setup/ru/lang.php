@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1263), muslimukas (4), Natalia I (100), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1263), muslimukas (4), Natalia I (224), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -71,10 +71,10 @@ $aLang = array(
 'LOAD_DYN_CONTENT_NOTICE' => '<p>If checkbox is set, you will see an additional menu in the admin area of your OXID eShop.</p><p>In that menu you get further information about eCommerce services like Google product search.</p> <p>You can change these settings at any time.</p>',
 'MOD_ALLOW_URL_FOPEN' => 'allow_url_fopen or fsockopen to port 80',
 'MOD_BC_MATH' => 'BCMath',
-'MOD_BUG53632' => 'Possible issues on server due to PHP Bugs',
+'MOD_BUG53632' => 'Возможные проблемы на сервере из-за ошибок PHP',
 'MOD_CURL' => 'cURL',
 'MOD_FILE_UPLOADS' => 'File uploads are enabled (file_uploads)',
-'MOD_GD_INFO' => 'GDlib v2 [v1] incl. JPEG support',
+'MOD_GD_INFO' => 'GDlib v2 [v1] вкл. поддержку JPEG',
 'MOD_INI_SET' => 'ini_set allowed',
 'MOD_I_CONV' => 'ICONV',
 'MOD_J_SON' => 'JSON',
@@ -84,9 +84,9 @@ $aLang = array(
 'MOD_MYSQL_CONNECT' => 'MySQL client connector for MySQL 5',
 'MOD_OPEN_SSL' => 'OpenSSL',
 'MOD_PHP4_COMPAT' => 'Zend compatibility mode must be off',
-'MOD_PHP_CONFIG' => 'PHP configuration',
+'MOD_PHP_CONFIG' => 'Конфигурация PHP',
 'MOD_PHP_EXTENNSIONS' => 'PHP extensions',
-'MOD_PHP_VERSION' => 'PHP version at least 5.2.10',
+'MOD_PHP_VERSION' => 'PHP как минимум версии 5.2.10',
 'MOD_PHP_XML' => 'DOM',
 'MOD_REGISTER_GLOBALS' => 'register_globals must be off',
 'MOD_REQUEST_URI' => 'REQUEST_URI set',
