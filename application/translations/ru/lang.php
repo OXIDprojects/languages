@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1263), muslimukas (4), Natalia I (224), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1263), muslimukas (4), Natalia I (237), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -149,7 +149,7 @@ $aLang = array(
 'DESCRIPTION' => 'Описание',
 'DETAILS' => 'Экспликация/маркировка',
 'DETAILS_CHOOSEVARIANT' => 'Пожалуйста, выберите вариант',
-'DETAILS_VPE_MESSAGE' => 'This product can only be ordered in packaging units of %s',
+'DETAILS_VPE_MESSAGE' => 'Товар может быть заказан только в упаковках по %s штук',
 'DISCOUNT' => 'Скидка',
 'DISPLAY_BASKET' => 'Показать корзину',
 'DISTRIBUTORS' => 'Дистрибьюторы',
