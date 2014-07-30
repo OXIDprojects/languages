@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1263), muslimukas (4), Natalia I (237), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1270), muslimukas (4), Natalia I (237), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -69,7 +69,7 @@ $aLang = array(
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'плюс НДС (пропорционально расчетный)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Подарочная упаковка (без НДС)',
 'BETA_NOTE' => 'Добро пожаловать на релиз-кандидат',
-'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
+'BETA_NOTE_FAQ' => '. Часто задаваемые вопросы и ответы перечислены в %s.',
 'BETA_NOTE_MIDDLE' => 'Интернет-магазинa ОКСИД',
 'BIC' => 'БИК',
 'BILLING_ADDRESS' => 'Расчётные реквизиты',
@@ -225,7 +225,7 @@ $aLang = array(
 'EXCEPTION_CONNECTION_NODB' => 'Нет связи с базой данных!',
 'EXCEPTION_CURL_ERROR' => 'cURL ошибка: %s',
 'EXCEPTION_NOTALLOWEDTYPE' => 'Этот тип файла не поддерживается. Пожалуйста, измените в config.inc.php допуск для этого типа файлов.',
-'EXCEPTION_NOT_VALID_CURL_CONSTANT' => 'Not valid cURL constant name: %s',
+'EXCEPTION_NOT_VALID_CURL_CONSTANT' => 'Hе действуанная имя для cURL: %s',
 'EXCEPTION_SYSTEMCOMPONENT_TEMPLATENOTFOUND' => 'Шаблон "%s" не найден',
 'EXPIRES_IN' => 'Истекает:',
 'FACEBOOK_COMMENTS' => 'Facebook комментарии',
@@ -277,9 +277,9 @@ $aLang = array(
 'IMPRESSUM' => 'Выходные данные',
 'INCLUDE_VAT' => 'с учетом налогов',
 'INCL_TAX_AND_PLUS_SHIPPING' => '* Все цены с НДС, доставка не включена',
-'infogrid' => 'Double grid',
+'infogrid' => 'Двухместныe сетки',
 'INFORMATION' => 'Информация',
-'INFO_ABOUT_COOKIES' => 'Information about Cookies',
+'INFO_ABOUT_COOKIES' => 'Информация о Cookies',
 'INTRODUCTION' => 'Введение',
 'INVALID_TAGS_REMOVED' => 'Недопустимые тэги будут удалены',
 'INVITE_TO_SHOP' => 'Приглашение от %s посетить %s',
@@ -292,9 +292,9 @@ $aLang = array(
 'LAST_NAME' => 'Фамилия:',
 'LAST_SEEN_PRODUCTS' => 'Последние просмотренные товары',
 'LATEST_NEWS_AND_UPDATES_AT' => 'Наши новинки',
-'LATEST_NEWS_NOACTIVENEWS' => 'Presently no news',
+'LATEST_NEWS_NOACTIVENEWS' => 'В моменте нета новостей',
 'LEFT_DOWNLOADS' => 'Оставшиеся закачки',
-'line' => 'Line',
+'line' => 'Список',
 'LINKS' => 'Ссылки',
 'LINK_VALID_UNTIL' => 'Ссылка на загрузку действительна до',
 'LISTMANIA' => 'Список избранного',
@@ -555,7 +555,7 @@ $aLang = array(
 'PAGE_TITLE_ACCOUNT_NOTICELIST' => 'Мой список',
 'PAGE_TITLE_ACCOUNT_ORDER' => 'История покупок',
 'PAGE_TITLE_ACCOUNT_PASSWORD' => 'Смена пароля',
-'PAGE_TITLE_ACCOUNT_RECOMMLIST' => 'Listmania',
+'PAGE_TITLE_ACCOUNT_RECOMMLIST' => 'Мои любимые списки',
 'PAGE_TITLE_ACCOUNT_USER' => 'Адрес доставки',
 'PAGE_TITLE_ACCOUNT_WISHLIST' => 'Мой список пожеланий',
 'PAGE_TITLE_BASKET' => 'Корзина',

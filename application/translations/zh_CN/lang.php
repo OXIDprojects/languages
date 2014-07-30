@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: edychang (31)
+ * @translators: edychang (31), neolid  (1)
  */
 
 $sLangName  = '中文';
@@ -46,7 +46,7 @@ $aLang = array(
 'ADD_YOUR_COMMENTS' => '您的宝贵意见',
 'ALL' => '全部',
 'ALL_BRANDS' => '所有品牌',
-'ALL_LISTMANIA' => 'All listmania',
+'ALL_LISTMANIA' => '所有列表',
 'ALREADY_ADDED_TAG' => 'You already tagged this text',
 'ALREADY_CUSTOMER' => 'I am already a customer',
 'APPLAY' => 'Apply',
