@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: alexraimondo (1), chatard (318), ET (10), Phenix (202), Rainbow40 (2), vikapera (376)
+ * @translators: alexraimondo (1), chatard (318), cowboy9571 (10), ET (10), Phenix (202), Rainbow40 (2), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -86,7 +86,7 @@ $aLang = array(
 'ARTICLE_EXTEND_MEDIAURLS' => 'URL des Medias',
 'ARTICLE_EXTEND_NONMATERIAL' => 'Produit immatériel',
 'ARTICLE_EXTEND_QUESTIONEMAIL' => 'Contact spécifique',
-'ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'Confirm terms and conditions',
+'ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'J\'accepte les termes et conditions',
 'ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Ne pas appliquer les remises<br>(Promotions, coupons, livraison ...)',
 'ARTICLE_EXTEND_TEMPLATE' => 'Template spécifique',
 'ARTICLE_EXTEND_TPRICE' => 'PPR',
@@ -1354,7 +1354,7 @@ $aLang = array(
 'SHOP_CONFIG_DOWNLOADS' => 'Activer le téléchargement de produits',
 'SHOP_CONFIG_DOWNLOADS_PATH' => 'Chemin vers les fichiers des produits téléchargeables',
 'SHOP_CONFIG_ENABLE' => 'Activée',
-'SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'Users have to confirm terms and conditions for downloadable and intangible products during the check-out',
+'SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'Les usagers doivent confirmer qu\'ils acceptent les termes et conditions pour tous les produits téléchargables et/ou intangible pendant le processus d\'achat.',
 'SHOP_CONFIG_ENTERNETPRICE' => 'Les prix des produits et emballages saisis/affichés dans l\'administration sont des prix HT',
 'SHOP_CONFIG_EXCLUDENONMATERIALPRODUCTS' => 'Ne pas prendre en compte les produits immatériels (ex: cartes cadeaux virtuelles) dans les frais de livraison',
 'SHOP_CONFIG_EXPORTNUMBEROFLINES' => 'Nombre de lignes à exporter par cycle dans les exports CSV.',
@@ -1433,12 +1433,12 @@ $aLang = array(
 'SHOP_LICENSE_DEMO' => 'Version Demo',
 'SHOP_LICENSE_ENTERPRISE' => 'Enterprise',
 'SHOP_LICENSE_ERPINTERFACE' => 'Interface ERP',
-'SHOP_LICENSE_ERROR_GRACE_EXPIRED' => 'The license key of your OXID eShop has been finally expired. Please contact the Technical Support.',
-'SHOP_LICENSE_ERROR_GRACE_WILL_EXPIRE' => 'The license key of your OXID eShop is expired. OXID eShop will go offline within 24 hours. Please enter a valid license key or contact the Technical Support!',
-'SHOP_LICENSE_ERROR_incorrect_mandate_amount' => 'The number of the licensed sub-shops has been exceeded. For this reason, a hidden countdown of 7 days has been started. After this period the OXID eShop will go offline. Please enter a valid license key  or contact the Technical Support!',
-'SHOP_LICENSE_ERROR_INFORMATION' => 'OXID eShop license information',
-'SHOP_LICENSE_ERROR_serial_expired' => 'The license key of your OXID eShop has been expired. For this reason, a hidden countdown of 7 days has been started. After this period the OXID eShop will go offline. Please enter a valid license key or contact the Technical Support!',
-'SHOP_LICENSE_ERROR_shop_unlicensed' => 'A problem with the license key of your OXID eShop has been occurred. For this reason, a hidden countdown of 7 days has been started. After this period the OXID eShop will go offline. Please enter the valid license key once again or contact the Technical Support!',
+'SHOP_LICENSE_ERROR_GRACE_EXPIRED' => 'La clé de licence de votre boutique OXID eShop a finalement expiré. Veuillez contacter le support technique.',
+'SHOP_LICENSE_ERROR_GRACE_WILL_EXPIRE' => 'La clé de licence de votre boutique OXID eShop a expiré. Votre boutique OXID eShop sera hors ligne pendant 24 heures. Veuillez entrer une clé de licence valide ou contacter le support technique.',
+'SHOP_LICENSE_ERROR_incorrect_mandate_amount' => 'Le nombre de sous-boutique avec licence a été excédé. Pour cette raison, un compte a rebours caché de 7 jours a commencé. A la fin de cette période, votre boutique OXID eShop sera hors ligne. Veuillez entrer une clé de licence valide ou contacter le support technique.',
+'SHOP_LICENSE_ERROR_INFORMATION' => 'Information de la licence OXID eShop',
+'SHOP_LICENSE_ERROR_serial_expired' => 'La clé de licence de votre boutique OXID eShop est expiré. Pour cette raison, un compte a rebours caché de 7 jours a commencé. A la finde cette période la boutique OXID eShop sera hors ligne. Veuillez entrer une clé de licence valide ou contacter le support technique.',
+'SHOP_LICENSE_ERROR_shop_unlicensed' => 'Un probleme est survenu avec la clé de licence de votre boutique OXID eShop. Pour cette raison, un compte a rebours caché de 7 jours a commencé. A la fin de cette période, la boutique OXID eShop sera hors ligne. Veuillez entrer la clé de licence valide a nouveau ou contacter le support technique.',
 'SHOP_LICENSE_MALL' => 'Mode galerie marchande',
 'SHOP_LICENSE_NEWSERIAL' => 'Ajouter une clé de licence',
 'SHOP_LICENSE_ONLINECHECK' => 'Vérifier les mises à jour',

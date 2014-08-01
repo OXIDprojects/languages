@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dsb (1), ET (26), FlashLight (13), lidija (235), rhspro (2)
+ * @translators: dsb (1), ET (26), FlashLight (13), lidija (235), markm (114), rhspro (2)
  */
 
 $sLangName  = 'Slovenščina';
@@ -42,7 +42,7 @@ $aLang = array(
 'ADD_TO_GIFT_REGISTRY' => 'Add to gift registry',
 'ADD_TO_LISTMANIA_LIST' => 'Dodaj v seznam listmania',
 'ADD_TO_WISH_LIST' => 'Dodaj na seznam želja',
-'ADD_WRAPPING' => 'Add gift wrap',
+'ADD_WRAPPING' => 'Dodaj darilno zavijanje',
 'ADD_YOUR_COMMENTS' => 'Dodaj svoje komentarje',
 'ALL' => 'Vse',
 'ALL_BRANDS' => 'Vse znamke',
@@ -77,7 +77,7 @@ $aLang = array(
 'BIRTHDATE' => 'Datum rojstva',
 'BLOCK_PRICE' => 'Block price',
 'BRAND' => 'Znamka',
-'BY_BRAND' => 'By Brand',
+'BY_BRAND' => 'Po znamki',
 'BY_MANUFACTURER' => 'By Manufacturer',
 'BY_VENDOR' => 'By Distributor',
 'CANCEL' => 'Prekliči',

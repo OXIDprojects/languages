@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: alexraimondo (1), chatard (318), ET (10), Phenix (202), Rainbow40 (2), vikapera (376)
+ * @translators: alexraimondo (1), chatard (318), cowboy9571 (10), ET (10), Phenix (202), Rainbow40 (2), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -36,7 +36,7 @@ $aLang = array(
 'HELP_ARTICLE_EXTEND_ISCONFIGURABLE' => 'Si le produit est customizable, un champ de saisie additionel est affiché sur la fiche produit et dans le panier d\'achats. Les clients pourront alors saisir un texte pour customiser le produit.<br><br>Un exemple typique de l\'utilité de cette fonction pour la vente de tee-shirts qui peuvent être imprimés avec un message personnalisé.',
 'HELP_ARTICLE_EXTEND_NONMATERIAL' => 'Le paramètre est hérité du produit parent aux variantes et s\'applique sur l\'ensemble du produit.',
 'HELP_ARTICLE_EXTEND_QUESTIONEMAIL' => 'Dans <span class="navipath_or_inputname">Alt. Contact</span> vous saisirez une adresse e-mail. Lorsque des utilisateurs demanderons des renseignements sur ce produit, ces demandes seront envoyées à cette adresse. Si aucun e-mail n\'est renseigné, la demande sera routée à l\'adresse e-mail de contact par défaut.',
-'HELP_ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'If this option is activated, users have to confirm terms and conditions in the fourth step of the check-out process for this specific item. Please make sure the general option is activated as well and the product item is intangible or downloadable.',
+'HELP_ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'Si cette option est activé, les usagers doivent confirmer qu\'ils acceptent les termes et conditions dans la quatrieme étape du processus d\'achat pour cette article spécialement. Veuillz vous assurer s\'il vous plait que votre produit est intangible ou/a defaut téléchargeable ainsi que l\'option général est activé.',
 'HELP_ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Si <span class="navipath_or_inputname">Ne pas appliquer de rabais</span> est actif, aucun rabais ne sera calculé pour ce produit. Ceci inclus les promotions et les bons de réduction.',
 'HELP_ARTICLE_EXTEND_TEMPLATE' => 'La fiche produit peut être affichée avec différents templates. Pour se faire, saisissez le nom du template à utiliser.',
 'HELP_ARTICLE_EXTEND_TPRICE' => 'Dans <span class="navipath_or_inputname">PPR</span> saisissez le Prix Public Recommandé par le fabricant. Si cette donnée est renseignée, elle sera affichée (prix barré) à vos utilisateurs, au-dessus du prix de vente.',
@@ -153,7 +153,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_DOWNLOADS' => 'Boutique avec produits téléchargeables. Activez ici le fait que les produits peuvent être commandés et téléchargés.',
 'HELP_SHOP_CONFIG_DOWNLOADS_PATH' => 'Chemin vers le répertoire de stockage des fichiers des produits téléchargeables',
 'HELP_SHOP_CONFIG_DOWNLOAD_EXPIRATION_TIME' => 'Définissez une durée en heures, pendant laquelle le lien de téléchargement sera valide après un premier téléchargement. Ce paramètre par défaut s\'appliquera à tous les produits. Si vous souhaitez modifier cette valeur pour un produit particulier, rendez-vous dans : Gestion des produits -> Produits -> Téléchargement',
-'HELP_SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'If this option is activated, users have to confirm terms and conditions for intangible or downloadable products in the fourth step of the check-out process. Please make sure this option is enabled for the specific item as well!',
+'HELP_SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'Si cette option est activé, les usagers doivent confirmer qu\'ils acceptent les termes et conditions pour tous les produits intangibles et/ou téléchargeables dans la quatrieme étape du processus d\'achat. Veuillez vous assurer s\'il vous plait que l\'option est bien coché pour cette article spécifique.',
 'HELP_SHOP_CONFIG_ENTERNETPRICE' => 'Dans la partie administrative, les prix des produits doivent être saisis en prix nets.',
 'HELP_SHOP_CONFIG_FACEBOOKCONNECT' => 'Affiche la boîte de connexion "Facebook Connect" permettant aux utilisateurs de se connecter à la boutique avec leur compte Facebook.',
 'HELP_SHOP_CONFIG_FBCOMMENTS' => 'La boîte de commentaires permet à vos visiteurs de facilement commenter les contenus de votre boutique.',
