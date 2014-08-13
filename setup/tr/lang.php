@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: e.mersinlioglu (45), enginistemi (4), esen.baytekin (905), glp_i (120), Justian0 (3), marco (2), McDaim (101), mykibarli (20), scaly (10), three13_de (127)
+ * @translators: e.mersinlioglu (45), enginistemi (4), esen.baytekin (905), glp_i (120), Justian0 (3), marco (2), McDaim (101), mykibarli (20), scaly (10), three13_de (127), ulash11 (2)
  */
 
 $sLangName  = 'Türkçe';

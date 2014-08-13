@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: e.mersinlioglu (45), enginistemi (4), esen.baytekin (905), glp_i (120), Justian0 (3), marco (2), McDaim (101), mykibarli (20), scaly (10), three13_de (127)
+ * @translators: e.mersinlioglu (45), enginistemi (4), esen.baytekin (905), glp_i (120), Justian0 (3), marco (2), McDaim (101), mykibarli (20), scaly (10), three13_de (127), ulash11 (2)
  */
 
 $sLangName  = 'Türkçe';
@@ -78,7 +78,7 @@ $aLang = array(
 'BLOCK_PRICE' => 'Toptan fiyat',
 'BRAND' => 'Marka',
 'BY_BRAND' => 'By Brand',
-'BY_MANUFACTURER' => 'By Manufacturer',
+'BY_MANUFACTURER' => 'üretici',
 'BY_VENDOR' => 'By Distributor',
 'CANCEL' => 'İptal',
 'CARD_MASTERCARD' => 'Mastercart',
@@ -163,7 +163,7 @@ $aLang = array(
 'ELLIPSIS' => '...',
 'EMAIL' => 'E-mail',
 'EMAIL_ADDRESS' => 'E-Mail-Adres',
-'EMAIL_SENDDOWNLOADS_GREETING' => 'Hello',
+'EMAIL_SENDDOWNLOADS_GREETING' => 'Merhaba',
 'ENABLE' => 'Göster',
 'ENTER_COUPON_NUMBER' => 'Kupon kodunuzu giriniz',
 'ENTER_EMAIL_OR_NAME' => 'E-Posta adresi yada soyad:',
