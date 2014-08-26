@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1270), muslimukas (4), Natalia I (237), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1275), muslimukas (4), Natalia I (237), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -1992,8 +1992,8 @@ $aLang = array(
 'VENDOR_LIST_MENUITEM' => 'Oсновные дaнные',
 'VENDOR_LIST_MENUSUBITEM' => 'Поставщики',
 'VENDOR_LIST_TITLE' => '[OXID администрация поставщиках]',
-'VENDOR_MAIN_ALLITEMS' => 'All available Products',
-'VENDOR_MAIN_ICONUPLOAD' => 'Upload Icon',
+'VENDOR_MAIN_ALLITEMS' => 'Все доступные продукты',
+'VENDOR_MAIN_ICONUPLOAD' => 'Загрузить Иконку',
 'VENDOR_MAIN_ITEMSWITHVENDOR' => 'Products from this Distributor',
 'VERSION_UPDATE_LINK' => 'http://www.oxid-esales.com/en/support-services/documentation-and-help/oxid-eshop/installation/oxid-eshop-update-installation/preparing-update.html',
 'viewAll' => 'Показать все',
@@ -2005,7 +2005,7 @@ $aLang = array(
 'VOUCHERSERIE_GENERATEDONE' => 'Coupons generation completed.',
 'VOUCHERSERIE_GENERATING' => 'Generating coupons ...',
 'VOUCHERSERIE_GROUPS_INGROUP' => 'Available for User Groups',
-'VOUCHERSERIE_LIST_MENUITEM' => 'Shop Settings',
+'VOUCHERSERIE_LIST_MENUITEM' => 'Настройки Магазинa',
 'VOUCHERSERIE_LIST_MENUSUBITEM' => 'Coupon Series',
 'VOUCHERSERIE_LIST_MINVALUE' => 'Min. Order Sum',
 'VOUCHERSERIE_LIST_SERIALNUM' => 'Название',
@@ -2014,7 +2014,7 @@ $aLang = array(
 'VOUCHERSERIE_MAIN_AVAILABLE' => 'Доступно',
 'VOUCHERSERIE_MAIN_CALCULATEONCE' => 'Расчитать только один раз (действует только для ваучеров для товаров или категорий)',
 'VOUCHERSERIE_MAIN_DISCOUNT' => 'Скидка',
-'VOUCHERSERIE_MAIN_EXPORT' => 'Export',
+'VOUCHERSERIE_MAIN_EXPORT' => 'Экспорт',
 'VOUCHERSERIE_MAIN_GENERATE' => 'Generate',
 'VOUCHERSERIE_MAIN_GENERATERANDOM' => 'Generate Random No',
 'VOUCHERSERIE_MAIN_MINORDERPRICE' => 'Min. Order Sum',
@@ -2032,7 +2032,7 @@ $aLang = array(
 'WRAPPING_LIST_PRESENTPACKUNG' => 'Подарочная упаковка',
 'WRAPPING_LIST_TITLE' => '[OXID Упаковка]',
 'WRAPPING_MAIN_PICTURE' => 'Картинка',
-'WRAPPING_MAIN_PICUPLOAD' => 'Upload Picture',
+'WRAPPING_MAIN_PICUPLOAD' => 'Загрузить фото',
 'WRAPPING_MAIN_PRESENTPACKUNG' => 'Подарочная упаковка',
 'WRAPPING_MAIN_TITLE' => '[OXID Упаковка]',
 );
