@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), topconcepts (209)
+ * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), remiq (19), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -86,7 +86,7 @@ $aLang = array(
 'ARTICLE_EXTEND_MEDIAURLS' => 'Linki do multimediów',
 'ARTICLE_EXTEND_NONMATERIAL' => 'Niematerialny produkt',
 'ARTICLE_EXTEND_QUESTIONEMAIL' => 'Alt. Kontakt',
-'ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'Confirm terms and conditions',
+'ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'Potwierdz warunki sprzedazy.',
 'ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Pomin wszystkie negatywne znizki<br>(Znizki, Vouchery, Dostawy ...)',
 'ARTICLE_EXTEND_TEMPLATE' => 'Alt. Szablon',
 'ARTICLE_EXTEND_TPRICE' => 'Sugerowana cena detaliczna',
@@ -240,7 +240,7 @@ $aLang = array(
 'ATTRIBUTE_MAIN_ITEMSWITHATTR' => 'Produkty z tym atrybutem',
 'ATTRIBUTE_MAIN_SORTING' => 'Sortowanie',
 'AUCTMASTER_DO_EXPORTEND' => 'Eksport zakończony.',
-'AUCTMASTER_DO_EXPORTFILE1' => 'Nie można zapisać pliku eksportu',
+'AUCTMASTER_DO_EXPORTFILE1' => 'Nie można zapisać pliku do eksportu: %s',
 'AUCTMASTER_DO_EXPORTING1' => 'Eksport działa. Eksportuje',
 'AUCTMASTER_DO_EXPORTING2' => 'z ogólnie',
 'AUCTMASTER_DO_EXPORTNOTSTARTED' => 'Eksport nie jest jeszcze uruchomiony.',
@@ -348,7 +348,7 @@ $aLang = array(
 'DELIVERY_MAIN_ORDER' => 'Kolejność przetwarzania reguł',
 'DELIVERY_MAIN_PARAM' => 'Sposób płatności',
 'DELIVERY_MAIN_PRICE' => 'Cena Dopłata/Rabat',
-'DELIVERY_RDFA_ADVICE_START' => '<b>Podpowiedź:</b> Proszę wybrać tylko te sposoby dostawy, wstępnie zdefiniowane w GoodRelations, które są zgodne z metodami wysyłki',
+'DELIVERY_RDFA_ADVICE_START' => '<b>Podpowiedź:</b> Proszę wybrać tylko te sposoby dostawy, wstępnie zdefiniowane w GoodRelations, które są zgodne z metodami wysyłki: %s',
 'DELIVERY_RDFA_ASIGN_DELIVERY' => 'Przypisz metodę dostarczania',
 'DELIVERY_RDFA_DELIVERYMODEDIRECTDOWNLOAD' => 'Pobierz',
 'DELIVERY_RDFA_DELIVERYMODEFREIGHT' => 'Przesyłka',
@@ -384,7 +384,7 @@ $aLang = array(
 'DISCOUNT_USERS_SETUSER' => 'Przypisani Użytkownicy',
 'DYNBASE_ADDCATTOCAMPAIGN' => 'Dodaj kategorię do parametru kampanii',
 'DYNBASE_DO_LINK' => 'Partner sam może pobrać ten plik - śledź poniższy link:',
-'DYNBASE_DO_SUCCESS' => 'Sukces! Twój plik eksportowy można pobrać.',
+'DYNBASE_DO_SUCCESS' => 'Sukces! Twój plik eksportowy można pobrać <a href="%s" target="blank">tutaj</a>.',
 'DYNSCREEN_LIST_SERVICE' => 'Obszar usługi',
 'DYNSCREEN_LOCAL_TEXT' => 'Niektóre ogólne informacje o usługach e-commerce ...',
 'DYNSCREEN_LOCAL_TITLE' => 'Usługi eCommerce',
@@ -1165,7 +1165,7 @@ $aLang = array(
 'PAYMENT_MAIN_SELECTED' => 'Wybrany',
 'PAYMENT_MAIN_TILL' => 'do',
 'PAYMENT_OVERVIEW_HOWMANYPAYMENTS' => 'Ile zakupów zostało opłacone tą metodą płatności',
-'PAYMENT_RDFA_ADVICE_START' => '<b> Podpowiedź:</b>Proszę wybrać tylko te metody płatności, wstępnie zdefiniowane w GoodRelations, które sa zgodne z metodami płatności.',
+'PAYMENT_RDFA_ADVICE_START' => '<b> Podpowiedź:</b>Proszę wybrać tylko te metody płatności, wstępnie zdefiniowane w GoodRelations, które sa zgodne z metoda płatności: <b>%s</b>.',
 'PAYMENT_RDFA_AMERICANEXPRESS' => 'American Express',
 'PAYMENT_RDFA_ASIGN_PAYMENT' => 'Przypisywanie płatności',
 'PAYMENT_RDFA_BYBANKTRANSFERINADVANCE' => 'Płatność gotówką z góry',

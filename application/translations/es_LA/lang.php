@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: jordhy (764), jsmaster (11)
+ * @translators: jordhy (766), jsmaster (11)
  */
 
 $sLangName  = 'Español de América';
@@ -129,7 +129,7 @@ $aLang = array(
 'DAYS' => 'Días',
 'DEDUCTION' => 'Deducción',
 'DELIVERABLE' => 'Entregable',
-'DELIVERYTIME' => 'Delivery time',
+'DELIVERYTIME' => 'Tiempo de entrega',
 'DELIVERYTIME_DAY' => '%s día',
 'DELIVERYTIME_DAYS' => '%s días',
 'DELIVERYTIME_DELIVERYTIME' => 'Tiempo de entrega',
@@ -145,7 +145,7 @@ $aLang = array(
 'DELIVERY_STATUS_HAL' => 'Esperando pago',
 'DELIVERY_STATUS_NLB' => 'No entregable',
 'DELIVERY_STATUS_STO' => 'Cancelado',
-'DELIVERY_TIME' => 'Delivery time',
+'DELIVERY_TIME' => 'Tiempo de entrega',
 'DESCRIPTION' => 'Descripción',
 'DETAILS' => 'Detalles',
 'DETAILS_CHOOSEVARIANT' => 'Por favor seleccione un estilo',
