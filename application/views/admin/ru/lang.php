@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1275), muslimukas (4), Natalia I (237), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1275), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -485,7 +485,7 @@ $aLang = array(
 'EXCEPTION_MODULE_NOT_LOADED' => 'Не можно было загружить модуль',
 'EXCEPTION_NODESCRIPTIONADDED' => 'Пожалуйста, введите описание',
 'EXCEPTION_NOFILE' => 'Нет загружённых файлов',
-'EXCEPTION_NOMEDIAADDED' => 'Please enter existing media URL or upload the file',
+'EXCEPTION_NOMEDIAADDED' => 'Введите URL или загрузите файл',
 'EXCEPTION_NOTALLOWEDTYPE' => 'Недопустимый тип файла. Внесите изменения в файл config.inc.php, чтобы разрешить такой тип файлов.',
 'EXCEPTION_PARENT_THEME_NOT_FOUND' => 'Не нашёл родительскую тему',
 'EXCEPTION_PARENT_VERSION_MISMATCH' => 'Версия родительской темы не совместимы',
@@ -555,7 +555,7 @@ $aLang = array(
 'GENERAL_ARTICLE_OXID' => 'Внутренний ID',
 'GENERAL_ARTICLE_OXINSERT' => 'Создан',
 'GENERAL_ARTICLE_OXISCONFIGURABLE' => 'Продукт - настраиваемый',
-'GENERAL_ARTICLE_OXISDOWNLOADABLE' => 'Is downloadable',
+'GENERAL_ARTICLE_OXISDOWNLOADABLE' => 'можно скачать',
 'GENERAL_ARTICLE_OXISSEARCH' => 'Доступен для поиска',
 'GENERAL_ARTICLE_OXLENGTH' => 'Длинна',
 'GENERAL_ARTICLE_OXLONGDESC' => 'Полное описание',
@@ -700,7 +700,7 @@ $aLang = array(
 'GENERAL_ITEM' => 'Товар',
 'GENERAL_ITEMNR' => 'Номер товара',
 'GENERAL_IVAT' => 'НДС',
-'GENERAL_LABEL' => 'Label:',
+'GENERAL_LABEL' => 'Описание:',
 'GENERAL_LANGUAGE' => 'Язык:',
 'GENERAL_LANGUAGE_NAME' => 'Язык',
 'GENERAL_LINK' => 'Ссылка',
@@ -818,7 +818,7 @@ $aLang = array(
 'GENIMPORT_TABLE' => 'Таблица',
 'GENIMPORT_TOTALROWS' => 'Всего строк импортировано',
 'GENIMPORT_UPLOADFILE' => 'Загрузить файл',
-'GIFTCARD_COSTS' => 'Greeting Card',
+'GIFTCARD_COSTS' => 'Поздравительная открытка',
 'HELP_ARTICLE_MAIN_PRICE' => 'This price is inherited to product\'s variants.<ul><li>Depending on the shop settings net price or gross price is input/shown.</li><li>Gross price is always shown in parentheses.</li></ul>',
 'HOME_DESC' => 'Добро пожаловать в область администрирования OXID eShop. Здесь находится обзор главных рабочих областей и функций.',
 'INFO_MODULES_MOVED_TO_EXTENSIONS' => 'Themes and modules handling moved to new menu "Extensions"',
@@ -861,6 +861,7 @@ $aLang = array(
 'MANUFACTURER_MAIN_ALLITEMS' => 'Все продукты',
 'MANUFACTURER_MAIN_ICONUPLOAD' => 'Загрузить иконку',
 'MANUFACTURER_MAIN_ITEMSWITHMANUFACTURER' => 'Продукты этого производителя',
+'MESSAGE_FOR_NEWLY_CREATED_USER_GROUPS' => 'If a user accesses the shop via a certain URL, which contains the ID of a user group, and then registers or logs into the shop, he will then be automatically assigned to the user group corresponding to the user group id contained in the original URL.<br> If you want to disable this behaviour for a user group, please navigate to Master settings->Core settings->System->Other settings and add the user group id to the "Prohibited User Groups for dynamic User Group assignment using DGR URL param" list.',
 'MODULE_ACTIVATE' => 'Активировать',
 'MODULE_AUTHOR' => 'Author',
 'MODULE_DEACTIVATE' => 'Дезактивировать',
@@ -1433,12 +1434,12 @@ $aLang = array(
 'SHOP_LICENSE_DEMO' => 'Demo-Version',
 'SHOP_LICENSE_ENTERPRISE' => 'Enterprise',
 'SHOP_LICENSE_ERPINTERFACE' => 'ERP Interface',
-'SHOP_LICENSE_ERROR_GRACE_EXPIRED' => 'The license key of your OXID eShop has been finally expired. Please contact the Technical Support.',
+'SHOP_LICENSE_ERROR_GRACE_EXPIRED' => 'The license key of your OXID eShop finally expired. Please contact the Technical Support.',
 'SHOP_LICENSE_ERROR_GRACE_WILL_EXPIRE' => 'The license key of your OXID eShop is expired. OXID eShop will go offline within 24 hours. Please enter a valid license key or contact the Technical Support!',
-'SHOP_LICENSE_ERROR_incorrect_mandate_amount' => 'The number of the licensed sub-shops has been exceeded. For this reason, a hidden countdown of 7 days has been started. After this period the OXID eShop will go offline. Please enter a valid license key  or contact the Technical Support!',
+'SHOP_LICENSE_ERROR_incorrect_mandate_amount' => 'The number of the licensed sub-shops exceeded. That\\'s why a hidden countdown of 7 days was started. After this period OXID eShop will go offline. Please enter a valid license key or contact the technical support!',
 'SHOP_LICENSE_ERROR_INFORMATION' => 'OXID eShop license information',
-'SHOP_LICENSE_ERROR_serial_expired' => 'The license key of your OXID eShop has been expired. For this reason, a hidden countdown of 7 days has been started. After this period the OXID eShop will go offline. Please enter a valid license key or contact the Technical Support!',
-'SHOP_LICENSE_ERROR_shop_unlicensed' => 'A problem with the license key of your OXID eShop has been occurred. For this reason, a hidden countdown of 7 days has been started. After this period the OXID eShop will go offline. Please enter the valid license key once again or contact the Technical Support!',
+'SHOP_LICENSE_ERROR_serial_expired' => 'The license key of your OXID eShop expired. That\\'s why a hidden countdown of 7 days was started. After this period OXID eShop will go offline. Please enter a valid license key or contact the technical support!',
+'SHOP_LICENSE_ERROR_shop_unlicensed' => 'A problem with the license key of your OXID eShop occurred. That\\'s why a hidden countdown of 7 days was started. After this period OXID eShop will go offline. Please enter the valid license key once again or contact the technical support!',
 'SHOP_LICENSE_MALL' => 'Mall mode',
 'SHOP_LICENSE_NEWSERIAL' => 'Add License Keys',
 'SHOP_LICENSE_ONLINECHECK' => 'Проверить текущую версию',
@@ -1948,6 +1949,7 @@ $aLang = array(
 'TS_RATINGS_URL_TITLE' => 'Trusted Shops Customer Ratings',
 'UPDATEAPP_DIRNOTDELETED_WARNING' => 'Please delete directory: updateApp!',
 'user' => 'Клиент',
+'USERGROUP_ID' => 'Group id',
 'USERGROUP_LIST_MENUITEM' => 'Administer Users',
 'USERGROUP_LIST_MENUSUBITEM' => 'User Groups',
 'USERGROUP_MAIN_ALLMEMBERS' => 'All Users',

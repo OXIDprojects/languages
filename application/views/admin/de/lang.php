@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dsb (5), marco (4039)
+ * @translators: dsb (5), marco (4045)
  */
 
 $sLangName  = 'Deutsch';
@@ -861,6 +861,7 @@ $aLang = array(
 'MANUFACTURER_MAIN_ALLITEMS' => 'Alle Artikel',
 'MANUFACTURER_MAIN_ICONUPLOAD' => 'Icon hochladen',
 'MANUFACTURER_MAIN_ITEMSWITHMANUFACTURER' => 'Artikel dieses Herstellers',
+'MESSAGE_FOR_NEWLY_CREATED_USER_GROUPS' => 'Falls ein Nutzer den Shop mittels einer bestimmten URL erreicht, welche die Gruppen-ID einer Benutzer-Gruppe beinhaltet, so wird er automatisch der Benutzergruppe zugeordnet, deren ID mit der in der URL Enthaltenen korrespondiert.<br> Sollten Sie dieses Verhalten deaktivieren wollen, navigieren Sie bitte zu "Stammdaten->Grundeinstellungen->System->Weitere Einstellungen" und fügen Sie die ID der Benutzergruppe der Liste "Benutzergruppen, für welche die Dynamische Nutzer Gruppen Zuordnung durch DGR URL Parameter nicht erlaubt sind" hinzu.',
 'MODULE_ACTIVATE' => 'Aktivieren',
 'MODULE_AUTHOR' => 'Autor',
 'MODULE_DEACTIVATE' => 'Deaktivieren',
@@ -1434,12 +1435,12 @@ $aLang = array(
 'SHOP_LICENSE_DEMO' => 'Demoversion',
 'SHOP_LICENSE_ENTERPRISE' => 'Enterprise',
 'SHOP_LICENSE_ERPINTERFACE' => 'ERP Schnittstelle',
-'SHOP_LICENSE_ERROR_GRACE_EXPIRED' => 'Der Lizenzkey Ihres OXID eShop ist endgültig abgelaufen. Bitte kontaktieren Sie den Technischen Support.',
+'SHOP_LICENSE_ERROR_GRACE_EXPIRED' => 'Der Lizenzschlüssel Ihres OXID eShop ist endgültig abgelaufen. Bitte kontaktieren Sie den Technischen Support.',
 'SHOP_LICENSE_ERROR_GRACE_WILL_EXPIRE' => 'Der Lizenzschlüssel Ihres OXID eShop ist abgelaufen. Dieser OXID eShop wird innerhalb der nächsten 24 Stunden offline gehen. Bitte geben Sie einen gültigen Lizenzschlüssel ein oder wenden Sie sich an den technischen Support.',
-'SHOP_LICENSE_ERROR_incorrect_mandate_amount' => 'Die Anzahl der lizensierten Subshops wurde überschritten. Aus diesem Grund wurde ein stiller Countdown von 7 Tagen gestartet. Nach Ablauf der Frist wird der OXID eShop offline gehen. Bitte geben Sie einen gültigen Lizenzkey ein oder kontaktieren Sie den Technischen Support!',
+'SHOP_LICENSE_ERROR_incorrect_mandate_amount' => 'Die Anzahl der lizensierten Subshops wurde überschritten. Aus diesem Grund wurde ein stiller Countdown von 7 Tagen gestartet. Nach Ablauf der Frist wird der OXID eShop offline gehen. Bitte geben Sie einen gültigen Lizenzschlüssel ein oder kontaktieren Sie den Technischen Support!',
 'SHOP_LICENSE_ERROR_INFORMATION' => 'OXID eShop Lizenzinformation',
-'SHOP_LICENSE_ERROR_serial_expired' => 'Der Lizenzkey Ihres OXID eShop ist abgelaufen. Aus diesem Grund wurde ein stiller Countdown von 7 Tagen gestartet. Nach Ablauf der Frist wird der OXID eShop offline gehen. Bitte geben Sie einen gültigen Lizenzkey ein oder kontaktieren Sie den Technischen Support!',
-'SHOP_LICENSE_ERROR_shop_unlicensed' => 'Es ist ein Problem mit dem Lizenzkey Ihres OXID eShop aufgetreten. Aus diesem Grund wurde ein stiller Countdown von 7 Tagen gestartet. Nach Ablauf der Frist wird der OXID eShop offline gehen. Bitte geben Sie den gültigen Lizenzkey erneut ein oder kontaktieren Sie den Technischen Support!',
+'SHOP_LICENSE_ERROR_serial_expired' => 'Der Lizenzschlüssel Ihres OXID eShop ist abgelaufen. Aus diesem Grund wurde ein stiller Countdown von 7 Tagen gestartet. Nach Ablauf der Frist wird der OXID eShop offline gehen. Bitte geben Sie einen gültigen Lizenzschlüssel ein oder kontaktieren Sie den Technischen Support!',
+'SHOP_LICENSE_ERROR_shop_unlicensed' => 'Es ist ein Problem mit dem Lizenzschlüssel Ihres OXID eShop aufgetreten. Aus diesem Grund wurde ein stiller Countdown von 7 Tagen gestartet. Nach Ablauf der Frist wird der OXID eShop offline gehen. Bitte geben Sie den gültigen Lizenzschlüssel erneut ein oder kontaktieren Sie den Technischen Support!',
 'SHOP_LICENSE_MALL' => 'Mall mode',
 'SHOP_LICENSE_NEWSERIAL' => 'Seriennr. hinzufügen',
 'SHOP_LICENSE_ONLINECHECK' => 'Auf aktuellere Version prüfen',
@@ -1949,6 +1950,7 @@ $aLang = array(
 'TS_RATINGS_URL_TITLE' => 'Trusted Shops Kundenbewertungen',
 'UPDATEAPP_DIRNOTDELETED_WARNING' => 'Bitte löschen Sie das updateApp-Verzeichnis',
 'user' => 'Kunde',
+'USERGROUP_ID' => 'Gruppen-ID',
 'USERGROUP_LIST_MENUITEM' => 'Benutzer verwalten',
 'USERGROUP_LIST_MENUSUBITEM' => 'Benutzergruppen',
 'USERGROUP_MAIN_ALLMEMBERS' => 'Alle Benutzer',
