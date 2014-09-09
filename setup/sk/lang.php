@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12)
+ * @translators: DominikS (404), ET (12), i7 (392)
  */
 
 $sLangName  = 'Slovenčina';
@@ -99,7 +99,7 @@ $aLang = array(
 'MOD_ZEND_OPTIMIZER' => 'Zend Optimizer alebo Zend Guard Loader nainštalovaný',
 'MOD_ZEND_PLATFORM_OR_SERVER' => 'Zend Platform alebo Zend Server nainštalovaný',
 'PRIVACY_POLICY' => 'ochrana osobných údajov',
-'SELECT_DELIVERY_COUNTRY' => 'Main delivery country',
+'SELECT_DELIVERY_COUNTRY' => 'Hlavná krajina dodania',
 'SELECT_DELIVERY_COUNTRY_HINT' => 'If needed, activate easily more delivery countries in admin.',
 'SELECT_PLEASE_CHOOSE' => 'Prosím vyberte',
 'SELECT_SETUP_LANG' => 'jazyk pre inštalačný proces',
@@ -122,7 +122,7 @@ $aLang = array(
                                                     Wishes for best success in using your OXID eShop by',
 'STEP_1_TITLE' => 'Vitajte',
 'STEP_2_TITLE' => 'Licenčné podmienky',
-'STEP_3_1_CREATING_TABLES' => 'Creating tables, applying data ...',
+'STEP_3_1_CREATING_TABLES' => 'Vytváranie tabuliek, vloženie dát ...',
 'STEP_3_1_DB_CONNECT_IS_OK' => 'Database connection successfully tested ...',
 'STEP_3_1_DB_CREATE_IS_OK' => 'Database %s successfully created ...',
 'STEP_3_1_TITLE' => 'Vytvára sa databáza...',
@@ -163,22 +163,22 @@ $aLang = array(
 'STEP_6_DESC' => 'Váš OXID eShop bol úspešne nainštalovaný.',
 'STEP_6_LINK_TO_SHOP' => 'Continue to your OXID eShop',
 'STEP_6_LINK_TO_SHOP_ADMIN_AREA' => 'Continue to your OXID eShop admin interface',
-'STEP_6_TITLE' => 'OXID eShop successfully installed',
+'STEP_6_TITLE' => 'OXID eShop úspešne nainštalovaný',
 'STEP_6_TO_SHOP' => 'Do eShopu',
 'STEP_6_TO_SHOP_ADMIN' => 'Do administrácie eShopu',
 'TAB_0_DESC' => 'Kontrolujú sa systémové požiadavky',
 'TAB_0_TITLE' => 'Systémové požiadavky',
 'TAB_1_DESC' => 'Víta Vás sprievodca inštaláciou OXID eShopu',
 'TAB_1_TITLE' => 'Vitajte',
-'TAB_2_DESC' => 'Confirm license conditions',
+'TAB_2_DESC' => 'Potvrdiť licenčné podmienky',
 'TAB_2_TITLE' => 'Licenčné podmienky',
 'TAB_3_DESC' => 'Test database connection, building tables',
 'TAB_3_TITLE' => 'Databáza',
 'TAB_4_DESC' => 'Configuring directories and selecting admin login',
-'TAB_4_TITLE' => 'Directory & login',
-'TAB_5_DESC' => 'Apply license key',
+'TAB_4_TITLE' => 'Adresár a prihlásenie',
+'TAB_5_DESC' => 'Zadať licenčný klúč',
 'TAB_5_TITLE' => 'Licencia',
-'TAB_6_DESC' => 'Installation succeeded',
+'TAB_6_DESC' => 'Inštalácia bola úspešne dokončená',
 'TAB_6_TITLE' => 'Koniec',
 'USE_DYNAMIC_PAGES' => 'To increase your business success get additional information from OXID\'s server. You find more information in our ',
 );

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12)
+ * @translators: DominikS (404), ET (12), i7 (392)
  */
 
 $sLangName  = 'Slovenčina';
@@ -45,7 +45,7 @@ $aLang = array(
 'HELP_ARTICLE_FILES_DOWNLOAD_EXPIRATION_TIME' => 'Specify the time in hours, the download link is valid after the first download. For this file you can overwrite the default setting, which was defined in Master Settings -> Core Setting -> Settings -> Downloads for all products.',
 'HELP_ARTICLE_FILES_LINK_EXPIRATION_TIME' => 'Specify the time in hours, the download link is valid after order. For this file you can overwrite the default setting, which was defined in Master Settings -> Core Setting -> Settings -> Downloads for all products.',
 'HELP_ARTICLE_FILES_LINK_EXPIRATION_TIME_UNREGISTERED' => 'Here you can define how many times user can download from the same link, if user ordered without registration. For this file you can overwrite the default setting, which was defined in Master Settings -> Core Setting -> Settings -> Downloads for all products.',
-'HELP_ARTICLE_FILES_MAX_DOWNLOADS_COUNT' => 'Here you can define how many times user can download from the same link after order. For this file you can overwrite the default setting, which was defined in Master Settings -> Core Setting -> Settings -> Downloads for all products.',
+'HELP_ARTICLE_FILES_MAX_DOWNLOADS_COUNT' => 'Tu môžete nastaviť, ako často si môže užívateľ sťahovať z rovnakého spojenia. V tomto súbore môžete prepísať východzie nastavenie, ktoré bolo definované v Hlavnom nastavení -> Nastavenie -> Nastavenie -> Súbory k stiahnutiu pro všetky produkty.',
 'HELP_ARTICLE_FILES_NEW' => 'Enter the name of a via FTP transferred file or upload a new file here. Note that large files should be uploaded via FTP. File size limitation is valid only when file is uploaded via admin. This limitation depends on the PHP settings of the server and might be edited only there.',
 'HELP_ARTICLE_IS_DOWNLOADABLE' => 'Files of this product can be downloaded.',
 'HELP_ARTICLE_MAIN_ALDPRICE' => 'Pomocou <var>Alternatívne ceny</var> môžete nastaviť špeciálne ceny pre niektorých užívateľov. Viac informácií nájdete v <a href="http://www.oxid-esales.com/de/resources/help-faq/eshop-manual/set-alternative-prices-special-users">nápovede</a> na webe OXID.',
@@ -184,7 +184,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_STOCKOFFDEFAULTMESSAGE' => 'Môžete nastaviť upozornenie pre každý výrobok, ktorého skladové zásoby sú vypredané.<br />Pokiaľ je tato voľba aktívna, u všetkých výrobkov sa zobrazí základné upozornenie <i>Zásoby sa minuli a tovar musí byť doobjednaný</i>.',
 'HELP_SHOP_CONFIG_STOCKONDEFAULTMESSAGE' => 'Môžete nastaviť upozornenie pre každý výrobok, ktorý sa objeví na sklade.<br />Pokiaľ je táto volba aktívna, pre všetky výrobky sa zobrazí základné upozornenie <i>Pripravený na odoslanie</i>',
 'HELP_SHOP_CONFIG_USENEGATIVESTOCK' => 'Pomocou <var>Povoliť zápornú hodnotu skladových zásob</var> si môžete zvoliť spôsob prepočítavania záporných skladových hodnôt:<br /><ul><li>Ak je voľba aktívna, zásoby sa počítajú do záporných hodnôt, pokiaľ si užívateľ objedná tovar, který práve nie je na sklade.</li><li>Pokiaľ je voľba vypnutá, hodnota zásob nikdy neklesne pod 0, aj keď si užívateľ objedná daný tovar.</li></ul>',
-'HELP_SHOP_CONFIG_VIEWNETPRICE' => 'In frontend product prices are shown as net prices.',
+'HELP_SHOP_CONFIG_VIEWNETPRICE' => 'V obchode budú ceny produktu uvedené ako netto-ceny.',
 'HELP_SHOP_MAIN_ACTIVE' => '<var>Aktivovaním</var> môžete zapnúť / vypnúť celý eShop. Pokým je eShop vypnutý, užívateľom se zobrazuje správa o jeho dočasnej nedostupnosti.',
 'HELP_SHOP_MAIN_INFOEMAIL' => 'Všetky emaily odoslané cez Kontaktujte nás! budú zaslané na túto adresu.',
 'HELP_SHOP_MAIN_ORDEREMAIL' => 'Zákazníkovi bude poslaný email s informáciami o jeho objednávke. Odpovede na tieo emaily budú zaslané na <var>objednávkový email</var>.',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (9)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (70), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (9)
  */
 
 $sLangName  = 'Česky';
@@ -175,7 +175,7 @@ $aLang = array(
 'TAB_3_DESC' => 'Test připojení do databáze, vytváření tabulek',
 'TAB_3_TITLE' => 'Databáze',
 'TAB_4_DESC' => 'Nastavení eShopu a výběr přístupových admin-údajů',
-'TAB_4_TITLE' => 'Adresář',
+'TAB_4_TITLE' => 'Adresář a přihlášení',
 'TAB_5_DESC' => 'Zadat licenční klíč',
 'TAB_5_TITLE' => 'Licence',
 'TAB_6_DESC' => 'Instalace byla úspěšně dokončena',
