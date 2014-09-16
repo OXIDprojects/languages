@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), i7 (392)
+ * @translators: DominikS (404), ET (12), i7 (516)
  */
 
 $sLangName  = 'Slovenčina';
@@ -56,20 +56,20 @@ $aLang = array(
 'SHOP_THEME_iNewBasketItemMessage_1' => 'Zobraziť hlášku',
 'SHOP_THEME_iNewBasketItemMessage_2' => 'Zobraziť vyskakovacie okno',
 'SHOP_THEME_iNewBasketItemMessage_3' => 'Zobraziť nákupný košík',
-'SHOP_THEME_iTopNaviCatCount' => 'Amount of categories that is displayed at top',
-'SHOP_THEME_sCatIconsize' => 'Size of a subcategory\'s icon (width*height)',
-'SHOP_THEME_sCatPromotionsize' => 'Category picture size for promotion on startpage (width*height)',
-'SHOP_THEME_sCatThumbnailsize' => 'Category thumbnail size (width*height)',
-'SHOP_THEME_sDefaultListDisplayType' => 'Default product list type',
-'SHOP_THEME_sDefaultListDisplayType_grid' => 'Grid',
-'SHOP_THEME_sDefaultListDisplayType_infogrid' => 'Double grid',
-'SHOP_THEME_sDefaultListDisplayType_line' => 'List',
-'SHOP_THEME_sIconsize' => 'Product icon size (width*height)',
-'SHOP_THEME_sManufacturerIconsize' => 'Manufacturer\'s/brand logo size',
-'SHOP_THEME_sStartPageListDisplayType' => 'Product list type on Start page',
-'SHOP_THEME_sStartPageListDisplayType_grid' => 'Grid',
-'SHOP_THEME_sStartPageListDisplayType_infogrid' => 'Double grid',
-'SHOP_THEME_sStartPageListDisplayType_line' => 'List',
-'SHOP_THEME_sThumbnailsize' => 'Product thumbnail size (width*height)',
-'SHOP_THEME_sZoomImageSize' => 'Product zoom picture size (width*height)',
+'SHOP_THEME_iTopNaviCatCount' => 'Počet kategorií, ktoré sú zobrazené v hornej navigácii',
+'SHOP_THEME_sCatIconsize' => 'Veľkosť ikony podskupiny je pixeloch (šírka x výška)',
+'SHOP_THEME_sCatPromotionsize' => 'Veľkost obrázku kategórie pre promoakciu na úvodnej stránke v pixeloch (šírka*výška)',
+'SHOP_THEME_sCatThumbnailsize' => 'Veľkost obrázku kategórie v pixeloch (šírka*výška)',
+'SHOP_THEME_sDefaultListDisplayType' => 'Predvolený typ zoznam produktov',
+'SHOP_THEME_sDefaultListDisplayType_grid' => 'Galéria',
+'SHOP_THEME_sDefaultListDisplayType_infogrid' => 'Dva stĺpce',
+'SHOP_THEME_sDefaultListDisplayType_line' => 'Riadky',
+'SHOP_THEME_sIconsize' => 'Veľkosť ikony produktu (šírka x výška)',
+'SHOP_THEME_sManufacturerIconsize' => 'Veľkosť loga výrobcu/značky v pixeloch (šírka*výška)',
+'SHOP_THEME_sStartPageListDisplayType' => 'Zoznam produktových typov na Úvodnuj stránke',
+'SHOP_THEME_sStartPageListDisplayType_grid' => 'Galéria',
+'SHOP_THEME_sStartPageListDisplayType_infogrid' => 'Galéria v dvoch stĺpcoch',
+'SHOP_THEME_sStartPageListDisplayType_line' => 'Zoznam',
+'SHOP_THEME_sThumbnailsize' => 'Veľkosť náhľadov v pixeloch (šírka*výška)',
+'SHOP_THEME_sZoomImageSize' => 'Veľkosť veľkého obrázku produktu v pixeloch (šírka*výška)',
 );

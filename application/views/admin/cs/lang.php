@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (70), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (9)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (124), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (9)
  */
 
 $sLangName  = 'Česky';
@@ -447,7 +447,7 @@ $aLang = array(
 'EDITOR_PLAINTEXT_HINT' => '<b>Poznámka:</b> Pokud ptřebujete vložit konec řádků (např. do plaintextového emailu), prosím použijte záložku "html kód" raději než "Design".',
 'EFIRE_CONNECTORINSTRUCTION' => 'Prosím, zadejte "externer Transaktions Přihlášení" a "Externes Transaktions Passwort", které jste předtím zadali do OXID eFire možností ("Einstellungen").',
 'EFIRE_DOWNLOADER' => 'Stahovač',
-'EFIRE_DOWNLOADER_ERROR' => 'Chyba při stahování shop konektoru: %s\'',
+'EFIRE_DOWNLOADER_ERROR' => 'Chyba při stahování shop konektoru: %s',
 'EFIRE_DOWNLOADER_SUCCESS' => 'Shop konektor úspěšně stažen',
 'EFIRE_GETCONNECTOR' => 'Jakmile jste zaregistrováni u OXID eFire, budete moci stáhnout svou osobní kopii shop konektoru a instalovat přímo do Vašeho obchodu.',
 'EFIRE_PASSWORD' => 'Externes Transaktions Passwort (heslo)',
@@ -1063,7 +1063,7 @@ $aLang = array(
 'ORDER_SEARCH_FIELD_ARTID' => 'Produkt',
 'ORDER_SEARCH_FIELD_PAYMENT' => 'Způsob platby',
 'OXDIAG_ABOUT' => 'This Diagnostics tool collects technical information about your shop and server. This information might be useful before updating, installing modules or on diagnostics.',
-'OXDIAG_BASICS' => 'Basics',
+'OXDIAG_BASICS' => 'Základy',
 'OXDIAG_CHKVERSION' => 'Output of Version check',
 'OXDIAG_CHKVERS_FULLREP' => 'Run Version check for full report',
 'OXDIAG_COLLECT_CHKVERS' => 'Run <i>Version checker</i>',
