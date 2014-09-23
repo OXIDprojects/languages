@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (136), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (9)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (138), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (9)
  */
 
 $sLangName  = 'Česky';
@@ -1105,7 +1105,7 @@ $aLang = array(
 'OXDIAG_INTROINFORMATION_OXID_ESALES_BLOG' => 'OXID eSales\' Blog',
 'OXDIAG_INTROINFORMATION_REVISION_DETECTED' => 'Revision which was detected',
 'OXDIAG_INTROINFORMATION_VERSION_DETECTED' => 'Version which was detected',
-'OXDIAG_LIST_MENUITEM' => 'Service',
+'OXDIAG_LIST_MENUITEM' => 'Služby',
 'OXDIAG_LIST_MENUSUBITEM' => 'Diagnostics tool',
 'OXDIAG_MAIN_TITLE' => 'Diagnostics of your OXID eShop',
 'oxdiag_menu' => 'Diagnostics tool',
@@ -1122,7 +1122,7 @@ $aLang = array(
 'OXDIAG_OBSOLETE' => 'Obsolete',
 'OXDIAG_OK' => 'OK',
 'OXDIAG_PHPINFO' => 'PHP informace',
-'OXDIAG_PHPINFO_EXTENSIONS' => 'PHP extensions',
+'OXDIAG_PHPINFO_EXTENSIONS' => 'PHP rozšíření',
 'OXDIAG_PHPINFO_OFF' => 'Off',
 'OXDIAG_PHPINFO_PARAM' => 'Parameter',
 'OXDIAG_PHPINFO_VALUE' => 'Value',

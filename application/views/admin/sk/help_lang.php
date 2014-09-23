@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), i7 (573)
+ * @translators: DominikS (404), ET (12), i7 (620)
  */
 
 $sLangName  = 'Slovenčina';
@@ -32,7 +32,7 @@ $aLang = array(
 'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => 'Alternative URL to remote image server can be specified in configuration file config.inc.php by setting <i>sAltImageUrl</i> and <i>sSSLAltImageUrl</i>.<br> Thus all product pictures will be loaded from this alternative server instead of the local one. However, uploaded files will be stored locally. In this case synchronization to external server has to be done manually or with custom scripts.',
 'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => 'Cenový alarm je možné vypnúť pre tento produkt.',
 'HELP_ARTICLE_EXTEND_EXTURL' => 'Do poľa <var>Externý odkaz</var> môžete zadať odkaz týkajúci sa výrobku (napr. web výrobcu). Do poľa <var>text externého odkazu</var> zadajte text, ktorý bude slúžiť ako popis odkazu, napr. <kbd>Viac informácií</kbd>.',
-'HELP_ARTICLE_EXTEND_FREESHIPPING' => 'Setting is inherited from Parent product to Variants and applies to the entire product.',
+'HELP_ARTICLE_EXTEND_FREESHIPPING' => 'Nastavenia sa dedia z materského produktu Varianty a vzťahuje sa na celý produkt.',
 'HELP_ARTICLE_EXTEND_ISCONFIGURABLE' => 'Ak je voľba zaškrtnutá, zobrazuje sa v detaile produktu a nákupnom košíku pole s poznámkou. Tam môžu zákazníci zadať text s doplňujúcu informácií.<br />Typickým príkladom môžu byť tričká, na ktoré môže byť dotisknut vlastný text. Do poľa zadá zákazník text, ktorý bude vytlačený na tričku.',
 'HELP_ARTICLE_EXTEND_NONMATERIAL' => 'Setting is inherited from Parent product to Variants and applies to the entire product.',
 'HELP_ARTICLE_EXTEND_QUESTIONEMAIL' => 'Do poľa <var>Alternatívny kontakt</var> zadajte Váš email. Pokiaľ bude mať zákazník otázku k výrobku, bude odoeslaná na tento email. Pokiaľd nezadáte žiadnu adresu, otázka bude zaslaná na Váš informačný email.',

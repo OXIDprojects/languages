@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), i7 (573)
+ * @translators: DominikS (404), ET (12), i7 (620)
  */
 
 $sLangName  = 'Slovenčina';
@@ -45,7 +45,7 @@ $aLang = array(
 'ERROR_BAD_SERIAL_NUMBER' => 'CHYBA: Nesprávny licenčný kľúč!',
 'ERROR_BAD_SQL' => 'CHYBA: Nepodarilo sa vykonať nasledovné SQL príkazy:',
 'ERROR_CONFIG_FILE_IS_NOT_WRITABLE' => 'Chyba: %s/config.inc.php nemožno zapisovať!',
-'ERROR_COULD_NOT_CREATE_DB' => 'ERROR: Database not available and also cannot be created!',
+'ERROR_COULD_NOT_CREATE_DB' => 'Chyba: databázy nie je k dispozícii, a tiež nemôže byť vytvorená!',
 'ERROR_COULD_NOT_FIND_FILE' => 'Inštalačný program nemôže nájsť "%s"!',
 'ERROR_COULD_NOT_OPEN_CONFIG_FILE' => 'Could not open %s for reading! Please consult our FAQ, forum or contact OXID Support staff!',
 'ERROR_COULD_NOT_READ_FILE' => 'Inštalačný program nemohol otvoriť "%s" pre čítanie!',
@@ -61,9 +61,9 @@ $aLang = array(
 'ERROR_PASSWORD_TOO_SHORT' => 'Heslo je príliš krátke!',
 'ERROR_SETUP_CANCELLED' => 'Inštalácia bola zrušená, pretože ste nesúhlasili s licenčnými podmienkami.',
 'ERROR_USER_NAME_DOES_NOT_MATCH_PATTERN' => 'Zadajte prosím platnú e-mailovú adresu!',
-'ERROR_VIEWS_CANT_CREATE' => 'ERROR: Can\'t create views. Please check your database user privileges.',
+'ERROR_VIEWS_CANT_CREATE' => 'CHYBA: Nemožno vytvoriť zobrazenie. Skontrolujte si prosím svoje oprávnenia užívateľa databázy.',
 'ERROR_VIEWS_CANT_DROP' => 'CHYBA: Nemožno odstrániť pohľady. Skontrolujte si prosím svoje oprávnenia užívateľa databázy.',
-'ERROR_VIEWS_CANT_SELECT' => 'ERROR: Can\'t select from views. Please check your database user privileges.',
+'ERROR_VIEWS_CANT_SELECT' => 'CHYBA: Nedá vybrať zo zobrazenia. Skontrolujte si prosím svoje oprávnenia užívateľa databázy.',
 'FOOTER_OXID_ESALES' => '© OXID eSales AG 2003 - Y',
 'HEADER_META_MAIN_TITLE' => 'Sprievodca inštaláciou OXID eShop',
 'HEADER_TEXT_SETUP_NOT_RUNS_AUTOMATICLY' => 'Ak inštalácia nebude pokračovať automaticky o niekoľko sekúnd, kliknite prosím',
