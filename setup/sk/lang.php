@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), i7 (516)
+ * @translators: DominikS (404), ET (12), i7 (573)
  */
 
 $sLangName  = 'Slovenčina';
@@ -44,25 +44,25 @@ $aLang = array(
 'ERROR_BAD_DEMODATA' => 'CHYBA: Nepodarilo sa vykonať nasledovné SQL príkazy:',
 'ERROR_BAD_SERIAL_NUMBER' => 'CHYBA: Nesprávny licenčný kľúč!',
 'ERROR_BAD_SQL' => 'CHYBA: Nepodarilo sa vykonať nasledovné SQL príkazy:',
-'ERROR_CONFIG_FILE_IS_NOT_WRITABLE' => 'ERROR: %s/config.inc.php not writeable!',
+'ERROR_CONFIG_FILE_IS_NOT_WRITABLE' => 'Chyba: %s/config.inc.php nemožno zapisovať!',
 'ERROR_COULD_NOT_CREATE_DB' => 'ERROR: Database not available and also cannot be created!',
-'ERROR_COULD_NOT_FIND_FILE' => 'Setup could not find "%s"!',
+'ERROR_COULD_NOT_FIND_FILE' => 'Inštalačný program nemôže nájsť "%s"!',
 'ERROR_COULD_NOT_OPEN_CONFIG_FILE' => 'Could not open %s for reading! Please consult our FAQ, forum or contact OXID Support staff!',
-'ERROR_COULD_NOT_READ_FILE' => 'Setup could not open "%s" for reading!',
-'ERROR_COULD_NOT_WRITE_TO_FILE' => 'Setup could not write to "%s"!',
-'ERROR_DB_ALREADY_EXISTS' => 'ERROR: Seems there is already OXID eShop installed in database %s. Please delete it prior continuing!',
-'ERROR_DB_CONNECT' => 'ERROR: No database connection possible!',
-'ERROR_FILL_ALL_FIELDS' => 'ERROR: Please fill in all needed fields!',
+'ERROR_COULD_NOT_READ_FILE' => 'Inštalačný program nemohol otvoriť "%s" pre čítanie!',
+'ERROR_COULD_NOT_WRITE_TO_FILE' => 'Inštalačný program nemôže zapisovať do "%s"!',
+'ERROR_DB_ALREADY_EXISTS' => 'Chyba: Zdá sa, že je už OXID eShop inštalovaný v databáze %s. Prosím, odstráňte ho pred pokračovaním!',
+'ERROR_DB_CONNECT' => 'CHYBA: pripojenie k databáze nieje možné!',
+'ERROR_FILL_ALL_FIELDS' => 'CHYBA: Vyplňte prosím všetky potrebné políčka!',
 'ERROR_MYSQL_VERSION_DOES_NOT_FIT_REQUIREMENTS' => 'Verzia MySQL nespĺňa systémové požiadavky',
-'ERROR_NOT_AVAILABLE' => 'ERROR: %s not found!',
-'ERROR_NOT_WRITABLE' => 'ERROR: %s not writeable!',
-'ERROR_OPENING_SQL_FILE' => 'ERROR: Can not open SQL file %s!',
+'ERROR_NOT_AVAILABLE' => 'Chyba: %s nebol nájdený!',
+'ERROR_NOT_WRITABLE' => 'Chyba: %s nie je možné zapisovať!',
+'ERROR_OPENING_SQL_FILE' => 'CHYBA: Nedá sa otvoriť SQL súbor %s!',
 'ERROR_PASSWORDS_DO_NOT_MATCH' => 'Heslá sa nezhodujú!',
 'ERROR_PASSWORD_TOO_SHORT' => 'Heslo je príliš krátke!',
 'ERROR_SETUP_CANCELLED' => 'Inštalácia bola zrušená, pretože ste nesúhlasili s licenčnými podmienkami.',
 'ERROR_USER_NAME_DOES_NOT_MATCH_PATTERN' => 'Zadajte prosím platnú e-mailovú adresu!',
 'ERROR_VIEWS_CANT_CREATE' => 'ERROR: Can\'t create views. Please check your database user privileges.',
-'ERROR_VIEWS_CANT_DROP' => 'ERROR: Can\'t drop views. Please check your database user privileges.',
+'ERROR_VIEWS_CANT_DROP' => 'CHYBA: Nemožno odstrániť pohľady. Skontrolujte si prosím svoje oprávnenia užívateľa databázy.',
 'ERROR_VIEWS_CANT_SELECT' => 'ERROR: Can\'t select from views. Please check your database user privileges.',
 'FOOTER_OXID_ESALES' => '© OXID eSales AG 2003 - Y',
 'HEADER_META_MAIN_TITLE' => 'Sprievodca inštaláciou OXID eShop',
@@ -91,8 +91,8 @@ $aLang = array(
 'MOD_REGISTER_GLOBALS' => 'register_globals musí byť vypnuté',
 'MOD_REQUEST_URI' => 'REQUEST_URI nastavené',
 'MOD_SERVER_CONFIG' => 'Konfigurácia servera',
-'MOD_SERVER_PERMISSIONS' => 'Files/folders access rights',
-'MOD_SESSION_AUTOSTART' => 'session.auto_start must be off',
+'MOD_SERVER_PERMISSIONS' => 'Súbory / priečinky prístupové práva',
+'MOD_SESSION_AUTOSTART' => 'session.auto_start musí byť vypnutý',
 'MOD_SOAP' => 'SOAP',
 'MOD_TOKENIZER' => 'Tokenizer',
 'MOD_UNICODE_SUPPORT' => 'Podpora UTF-8',

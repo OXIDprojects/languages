@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (124), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (9)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (136), inquisitor8 (298), ondrej123 (2), RSee (1318), SYSKO (9)
  */
 
 $sLangName  = 'Česky';
@@ -831,7 +831,7 @@ $aLang = array(
 'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Upozornění: Nemůžete měnit zkratku hlavního jazyka (ID 0)!',
 'LANGUAGE_ACTIVE' => 'Povoleno ve frontendu eShopu',
 'LANGUAGE_ALREADYEXISTS_ERROR' => 'Chyba: jazyk s tímto označením už existuje!',
-'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Upozornění: V adresáři /admin nebyly pro daný jayzk nalezeny žádné jazykové soubory!',
+'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Upozornění: V adresáři /admin nebyly pro daný jazyk nalezeny žádné jazykové soubory!',
 'LANGUAGE_BASESSLURL' => 'Základní SSL URL',
 'LANGUAGE_BASEURL' => 'Základní URL',
 'LANGUAGE_DEFAULT' => 'Výchozí jazyk',
