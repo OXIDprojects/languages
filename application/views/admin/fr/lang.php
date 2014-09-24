@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: alexraimondo (1), chatard (318), cowboy9571 (10), ET (10), Phenix (202), Rainbow40 (2), vikapera (376)
+ * @translators: alexraimondo (1), chatard (318), cowboy9571 (10), ET (10), marco (1), Phenix (202), Rainbow40 (2), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -1949,7 +1949,7 @@ $aLang = array(
 'TS_RATINGS_URL_TITLE' => 'Evaluations clients',
 'UPDATEAPP_DIRNOTDELETED_WARNING' => 'Merci de supprimer le dossier "UPDATEAPP" su serveur !',
 'user' => 'Client',
-'USERGROUP_ID' => 'Group id',
+'USERGROUP_ID' => 'Groupe ID',
 'USERGROUP_LIST_MENUITEM' => 'Gérer les clients',
 'USERGROUP_LIST_MENUSUBITEM' => 'Groupes de clients',
 'USERGROUP_MAIN_ALLMEMBERS' => 'Tous les clients',
