@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (138), inquisitor8 (384), ondrej123 (2), RSee (1318), SYSKO (9)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (138), inquisitor8 (400), ondrej123 (2), RSee (1318), SYSKO (9)
  */
 
 $sLangName  = 'Česky';
@@ -864,7 +864,7 @@ $aLang = array(
 'MANUFACTURER_MAIN_ALLITEMS' => 'Všechny produkty',
 'MANUFACTURER_MAIN_ICONUPLOAD' => 'Nahrát ikonu',
 'MANUFACTURER_MAIN_ITEMSWITHMANUFACTURER' => 'Produkty tohoto výrobce',
-'MESSAGE_FOR_NEWLY_CREATED_USER_GROUPS' => 'If a user accesses the shop via a certain URL, which contains the ID of a user group, and then registers or logs into the shop, he will then be automatically assigned to the user group corresponding to the user group id contained in the original URL.<br> If you want to disable this behaviour for a user group, please navigate to Master settings->Core settings->System->Other settings and add the user group id to the "Prohibited User Groups for dynamic User Group assignment using DGR URL param" list.',
+'MESSAGE_FOR_NEWLY_CREATED_USER_GROUPS' => 'Pokud uživatel přistupuje k obchodu přes určité adresy URL, který obsahují identifikátory skupin uživatelů, a pak se zaregistrují nebo přihlásí do obchodu, uživatel pak bude automaticky přiřazen do skupiny uživatelů, kterým odpovídá ID uživatele skupiny obsažené v původní adrese URL.<br> Chcete-li zakázat toto chování pro skupinu uživatelů, prosím, přejděte na příkaz Hlavní Nastavení->Nastavení> System->Další nastavení a přidat uživatelské ID skupiny do "zakázané skupiny uživatelů pro dynamické uživatelské skupiny pomocí DGR URL parametru"seznam.',
 'MODULE_ACTIVATE' => 'Aktivovat',
 'MODULE_AUTHOR' => 'Autor',
 'MODULE_DEACTIVATE' => 'Deaktivovat',
@@ -1073,8 +1073,8 @@ $aLang = array(
 'OXDIAG_COLLECT_PHP' => 'Konfigurace PHP Ankety (vybrané parametry)',
 'OXDIAG_COLLECT_SERVER' => 'Informace o anketním systému (pokud je to možné)',
 'OXDIAG_COLLECT_START' => 'Spustit analýzu!',
-'OXDIAG_COLL_CHKV_FILE_GET' => 'The function <i>file_get_contents</i> is not available, <i>Version checker</i> cannot be accessed.',
-'OXDIAG_COLL_CHKV_NOTINST' => '<i>Version checker</i> is not installed on this system. You may <a href="http://exchange.oxid-esales.com/OXID-oxid-oxid/Additional-OXID-Extensions/OXDIAG-3-1-0-Stable-CE-4-0-x-4-7-x.html">download the file from OXID eXchange</a> and install it in the root directory of the shop.',
+'OXDIAG_COLL_CHKV_FILE_GET' => 'Tato funkce <i>file_get_contents</i> není dostupná, <i>Kontolor verzí</i> není přístupný.',
+'OXDIAG_COLL_CHKV_NOTINST' => '<i>Kontrolor verze</i> není nainstalován v systému. Můžete <a href="http://exchange.oxid-esales.com/OXID-oxid-oxid/Additional-OXID-Extensions/OXDIAG-3-1-0-Stable-CE-4-0-x-4-7-x.html">stánout soubor z OXID eXchange</a> a nainstalovat ho v konkrétním adresáři obchodu.',
 'OXDIAG_DISCL' => 'Analýza pod čarou byla uložena v souboru sestavy.',
 'OXDIAG_DOWNLOADLOG' => 'Stáhněte si zprávu',
 'OXDIAG_DOWNLOAD_FILE' => 'Klikni zde pro stažení výsledného souboru',
@@ -1083,7 +1083,7 @@ $aLang = array(
 'OXDIAG_ERRORMESSAGEVERSIONDOESNOTEXIST' => 'OXID eShop %s v revizi s% neexistuje.',
 'OXDIAG_ERRORMESSAGEWEBSERVICEISNOTREACHABLE' => 'Webová služba právě není k dispozici. Zkuste to prosím později.',
 'OXDIAG_ERRORMESSAGEWEBSERVICERETURNEDNOXML' => 'Webová služba nevrátila XML',
-'OXDIAG_ERRORVERSIONCOMPARE' => 'This text is not supposed to be here. Please try again.',
+'OXDIAG_ERRORVERSIONCOMPARE' => 'Tento text nemá být zde. Prosím zkuste to znovu.',
 'OXDIAG_FINALNOTE' => 'Konec analýzy.',
 'OXDIAG_FORM_LIST_ALL_FILES' => 'Vypsat všechny soubory (i ty, které byly v pořádku)',
 'OXDIAG_FORM_START_CHECK' => 'Začněte zkontrolovat tento eShop právě nyní (může trvat delší dobu)',
@@ -1110,8 +1110,8 @@ $aLang = array(
 'OXDIAG_MAIN_TITLE' => 'Diagnostika Vášeho OXID eShopu',
 'oxdiag_menu' => 'Diagnostický nástroj',
 'OXDIAG_MODIFIED' => 'Upravený',
-'OXDIAG_MODIFIEDHINTS1' => 'OXID eShop has sophisticated possibility to extend it by modules without changing shipped files. It\'s not recommended and not needed to change shop files. See also our <a href="http://www.oxidforge.org/wiki/Tutorials#How_to_Extend_OXID_eShop_With_Modules_.28Part_1.29" target=_blank>tutorials</a>.',
-'OXDIAG_MODIFIEDHINTS2' => 'Since OXID eShop 4.2.0 it\'s possible to use <a href="http://www.oxidforge.org/wiki/Downloads/4.2.0#New_Features" target=_blank>your own templates without changing shipped ones</a>.',
+'OXDIAG_MODIFIEDHINTS1' => 'OXID eShop má sofistikovanou možnost rozšíření pomocí modulů bez změny odeslaných souborů. Nedoporučuje se a není nutné měnit soubory eShopu. Viz také naše <a href="http://www.oxidforge.org/wiki/Tutorials#How_to_Extend_OXID_eShop_With_Modules_.28Part_1.29" target=_blank>návody</a>.',
+'OXDIAG_MODIFIEDHINTS2' => 'Od té doby, kdy je OXID eShop ve verzi 4.2.0 je možné používat <a href="http://www.oxidforge.org/wiki/Downloads/4.2.0#New_Features" target=_blank> své vlastní šablony beze nutnosti měnit ty již odeslané</a> .',
 'OXDIAG_MODULES' => 'Moduly',
 'OXDIAG_MODULES_ID' => 'ID',
 'OXDIAG_MODULES_NAME' => 'Jméno',
@@ -1137,13 +1137,13 @@ $aLang = array(
 'OXDIAG_SHOP_DOES_NOT_FIT' => 'Tento OXID eShop není na 100% v pořádku.',
 'OXDIAG_SHOP_ORIGINAL' => 'Tento OXID eShop nebyl upraven a je plně originální',
 'OXDIAG_SRVINF_NOTALL' => 'Nelze požadovat všechny hodnoty, kvůli zakázanému <i>exec</i> příkazu na serveru.',
-'OXDIAG_SRVINF_NOTE' => 'Note: This information is gathered for the current runtime frontend server. Should you have more than one frontend server running, you may access those directly in order to gather their information.',
+'OXDIAG_SRVINF_NOTE' => 'Poznámka: Tyto informace jsou shromažďovány pro aktuální běžících server front požadavků. Pokud máte zapnutý více než jeden server se systémem front požadavků, můžete přistupovat k nim, přímo s cílem shromáždit jejich informace.',
 'OXDIAG_STORE_ANALYSIS' => 'Úložiště výsledků',
 'OXDIAG_SUMMARY' => 'Shrnutí',
 'OXDIAG_UNKNOWN' => 'Neznámý',
 'OXDIAG_VERSION' => 'Verze',
 'OXDIAG_VERSIONCHECKER' => 'Kontrolor verze',
-'OXDIAG_VERSIONMISMATCHHINTS' => 'Apparently one or more updates went wrong. See details link for more information about more details for each file. A left over file which is not any longer included in OXID eShop could also be a <u>possible</u> reason for version mismatch. Find information about update in our <a href="http://www.oxid-esales.com/en/support-services/documentation-and-help/oxid-eshop/installation/oxid-eshop-update-installation" target=_blank>Documentation and help</a>.',
+'OXDIAG_VERSIONMISMATCHHINTS' => 'Zřejmě jedna nebo více aktualizací se pokazilo. Podívejte se na více detailních informací o každém souboru v tomto odkazu. Přebývající soubor, který není už zahrnut v OXID eShopu by mohl být <u>možným</u> důvodem nesouladu verzí. Informace o aktualizaci naleznete v naší < href="http://www.oxid-esales.com/en/support-services/documentation-and-help/oxid-eshop/installation/oxid-eshop-update-installation" target = _blank>Podpoře: Dokumentaci a nápovědě</a>.',
 'OXDIAG_VERSION_MISMATCH' => 'Neshoda verze',
 'PAGENAVISNIPPET_FROM' => 'od',
 'PAYMENT_COUNTRY_ALLCOUNTRIES' => 'Všechny země',
@@ -1442,7 +1442,7 @@ $aLang = array(
 'SHOP_LICENSE_ERROR_incorrect_mandate_amount' => 'Počet licencovaných dílčích obchodů překročen. Proto byl zahájen skrytý odpočet 7 dnů. Po uplynutí této doby OXID eShop se přepne do režimu offline. Zadejte prosím platný licenční klíč, nebo se obraťte na technickou podporu!',
 'SHOP_LICENSE_ERROR_INFORMATION' => 'OXID eShop license information',
 'SHOP_LICENSE_ERROR_serial_expired' => 'Licenční klíč vašeho OXID eShop vypršel. To je důvod, proč bylo zahájeno skryté odpočítávání 7 dní . Po uplynutí této doby OXID eShop přejde do režimu offline. Zadejte prosím platný licenční klíč, nebo se obraťte na technickou podporu!',
-'SHOP_LICENSE_ERROR_shop_unlicensed' => 'A problem with the license key of your OXID eShop occurred. That\\'s why a hidden countdown of 7 days was started. After this period OXID eShop will go offline. Please enter the valid license key once again or contact the technical support!',
+'SHOP_LICENSE_ERROR_shop_unlicensed' => 'Nastal problém s licenčním klíčem vašeho OXID eShopu. To je důvod, proč bylo zahájeno skryté odpočítávání 7 dní. Po uplynutí této doby OXID eShop přejde do režimu offline. Zadejte prosím platný licenční klíč, nebo se obraťte na technickou podporu!',
 'SHOP_LICENSE_MALL' => 'Mall mode',
 'SHOP_LICENSE_NEWSERIAL' => 'Přidat licenci',
 'SHOP_LICENSE_ONLINECHECK' => 'Zkontrolovat dostupnost aktualizací',

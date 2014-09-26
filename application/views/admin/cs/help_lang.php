@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (138), inquisitor8 (384), ondrej123 (2), RSee (1318), SYSKO (9)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (138), inquisitor8 (400), ondrej123 (2), RSee (1318), SYSKO (9)
  */
 
 $sLangName  = 'Česky';
@@ -36,7 +36,7 @@ $aLang = array(
 'HELP_ARTICLE_EXTEND_ISCONFIGURABLE' => 'Pokud je volba zaškrtnuta, zobrazuje se v detailu produktu a nákupním košíku pole s poznámkou. Tam mohou zákazníci zadat text s doplňující informací.<br>Typickým příkladem mohou být trička, na  které může být dotisknut vlastní text. Do pole zadá zákazník text, který bude vytištěn na tričku.',
 'HELP_ARTICLE_EXTEND_NONMATERIAL' => 'Nastavení variant je zděděno z nadřazeného produktu a vztahuje se na celý produkt.',
 'HELP_ARTICLE_EXTEND_QUESTIONEMAIL' => 'Do pole <span class="navipath_or_inputname">Alternativní kontakt</span> zadejte Váš email. Pokud bude mít zákazník otázku k produktu, bude odeslána na tento email. Pokud nezadáte žádnou adresu, dotaz bude zaslán na Váš informační email.',
-'HELP_ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'If this option is activated, users have to confirm terms and conditions in the fourth step of the check-out process for this specific item. Please make sure the general option is activated as well and the product item is intangible or downloadable.',
+'HELP_ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'Pokud je tato volba aktivována, uživatelé musí potvrdit podmínky a požadavky ve čtvrtém kroku výstupní kontroly u této konkrétní položky. Prosím, ujistěte se, že hlavní nastavení je rovněž aktivní a produkt je nehmotný, nebo ke stažení.',
 'HELP_ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Pokud <span class="navipath_or_inputname">Přeskočit všechny negativní slevy</span> je aktivní, negativní slevy se do ceny zboží nezapočítají.',
 'HELP_ARTICLE_EXTEND_TEMPLATE' => 'Deatil produktu může být zobrazen jinou šablonou. Název cesty a souboru šablony zadejte do tohoto políčka. Další informace jsou k dispozici v <a href="http://www.oxid-esales.com/de/resources/help-faq/eshop-manual/display-certain-products-or-categories-another-template" target="_blank">příslušné části návodu</a>.',
 'HELP_ARTICLE_EXTEND_TPRICE' => 'Do pole <span class="navipath_or_inputname">Doporučená maloobchodní cena</span> zadejte doporučenou maloobchodní cenu. Bude zobrazena zákazníkům. Nad cenou produktu se zobrazí<i>Zlevněno z doporučené ceny</i>.',
@@ -147,13 +147,13 @@ $aLang = array(
 'HELP_SHOP_CONFIG_BASKETRESERVATION' => 'Pokud je tato volba neaktivní, eShop snižuje množství na skladě až v okamžiku, kdy je objednávka potvrzena zákazníkem a dokončena platba.<br><br> Po aktivaci volby se funkcionalita mění: Skladová dispozice produktu se snižuje a produkt je <b>rezervován</b> v okamžiku, kdy je vložen do košíku. Rezervace je zrušena v případě, kdy je obsah košíku objednán nebo platnost košíku vyprší.',
 'HELP_SHOP_CONFIG_BASKETRESERVATIONTIMEOUT' => 'Po vypršení lhůty jsou rezervované produkty uvolněny na skladě a zákazníkův košík je vyprázdněn.',
 'HELP_SHOP_CONFIG_BIDIRECTCROSS' => 'Pomocí křížového prodeje můžete nabídnout doplňkové zboží k produktu (např. k autu jsou jako křížový prodej přiřazeny pneumatiky, pak se pneumatiky zobrazí při koupi auta). <br> Pokud je aktivován obousměrný křížový prodej, vůz se zobrazí s pneumatikami a opačně.',
-'HELP_SHOP_CONFIG_DEBIT_OLD_BANK_INFORMATION_NOT_ALLOWED' => 'Only IBAN and BIC can be entered during the checkout. Bank account number and the bank code can only be entered if this check box is not activated.',
+'HELP_SHOP_CONFIG_DEBIT_OLD_BANK_INFORMATION_NOT_ALLOWED' => 'Jen IBAN a BIC mohou být přístupné během výstupní kontroly. Číslo bankovního účtu a kód banky jsou zpřístupněny pouze pokud není aktivní zaškrtávací pole.',
 'HELP_SHOP_CONFIG_DELETERATINGLOGS' => 'Uživatel nemůže jeden produkt hodnotit vícekrát. Zde můžete nastavit, po jak dlouhé době uživatel může produkt znovu hodnotit. Pokud nezadáte žádnou hodnotu, produkt může být hodnocen jen jednou.',
 'HELP_SHOP_CONFIG_DISABLEONLINEVATIDCHECK' => 'Pokud zadá při objednání zákazník z cizí země v EU DPH, je DPH započítáno k objednávce. Pokud není UstId validní, DPH sazba není k objednávce připočtena.<br>Pokud je volba zakázána, je vždy započítána obecná DPH sazba.',
 'HELP_SHOP_CONFIG_DOWNLOADS' => 'Obchod s produkty ke stažení. Zde aktivujete možnost objednávat a stahovat produkty.',
 'HELP_SHOP_CONFIG_DOWNLOADS_PATH' => 'Cesta k místu pro uložení stahovatelných produktů.',
 'HELP_SHOP_CONFIG_DOWNLOAD_EXPIRATION_TIME' => 'Zadejte čas v hodinách, udávající po jakou dobu od prvního stažení je odkaz platný. Toto je výchozí nastavení pro všechny produkty. Tuto hodnotu můžete změnit pro každý soubor produktů v Administrace produktů -> Produkty -> Ke stažení.',
-'HELP_SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'If this option is activated, users have to confirm terms and conditions for intangible or downloadable products in the fourth step of the check-out process. Please make sure this option is enabled for the specific item as well!',
+'HELP_SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'Pokud je tato volba aktivní, uživatelé musí potvrdit podmínky pro nehmotný produkt a stažení produktu ve čtvrtém kroku výstupní kontroly. Ujistěte se, že je tato volba povolena také pro konkrétní položku!',
 'HELP_SHOP_CONFIG_ENTERNETPRICE' => 'V administrační oblasti musí být ceny produktu zadány jako netto-ceny.',
 'HELP_SHOP_CONFIG_FACEBOOKCONNECT' => 'Zobrazuje Facebook Connect Box, který umožňuje uživatelům přihlásit se do eShopu pomocí účtu na Facebooku a využít tak přihlašovací údaje z Facebooku.',
 'HELP_SHOP_CONFIG_FBCOMMENTS' => 'Box s komentáři snadno umožňuje návštěvníkům vyjádřit se k obsahu eShopu.',
@@ -178,8 +178,8 @@ $aLang = array(
 'HELP_SHOP_CONFIG_SHOP_CONFIG_FACEBOOKCONFIRM' => 'Chcete-li chránit osobní údaje zákazníka, musí být sociální pluginy Facebooku výslovně potvrzeny. Až po potvrzení jsou data sdílena na Facebooku.',
 'HELP_SHOP_CONFIG_SHOP_CONFIG_FBSECRETKEY' => 'Pro zajištění bezpečného spojení mezi Vašík webem a Facebookem, musíte zadat Secure Key, který získáte při registraci Vašeho webu do Facebooku. Přečtěte si <a href="http://wiki.oxidforge.org/Tutorials/Connecting_website_to_facebook" target="_blank" target="_blank">Návod</a> jak propojit váš web s Facebookem.',
 'HELP_SHOP_CONFIG_SHOWTAGS' => 'Pokud není zaškrtnuto, nezobrazují se v eShopu žádné štítky/tagy. Stránky, které obsahují štítky v URL nejsou dostupné.',
-'HELP_SHOP_CONFIG_SHOWTSCODMESSAGE' => 'In the 4th step of the checkout process the CMS page "oxtscodmessage" is additionally displayed.',
-'HELP_SHOP_CONFIG_SHOWTSINTERNATIONALFEESMESSAGE' => 'In the 4th step of the checkout process the CMS page "oxtsinternationalfees" is additionally displayed.',
+'HELP_SHOP_CONFIG_SHOWTSCODMESSAGE' => 'Ve 4. kroku výstupního procesu je CMS stránka "oxtscodmessage" zobrazena dodatečně.',
+'HELP_SHOP_CONFIG_SHOWTSINTERNATIONALFEESMESSAGE' => 'Ve 4. kroku výstupního procesu je CMS stránka "oxtscodmessage" zobrazena dodatečně.',
 'HELP_SHOP_CONFIG_SORTFIELDS' => 'Zde můžete zadat parametry, podle kterých budou produkty tříděny do seznamů. Do každého řádku zadejte pouze jeden parametr.<br>Nejčastější parametry:<ul><li>oxtitle = Název produktu</li><li>oxprice = Cena</li><li>oxvarminprice = Nejnižší cena, pokud jsou povoleny různé ceny.</li><li>oxartnum = Číslo produktu</li><li>oxrating = Hodnocení</li><li>oxstock = Skladové zásoby</li></ul>',
 'HELP_SHOP_CONFIG_STOCKOFFDEFAULTMESSAGE' => 'Můžete nastavit upozornění pro každý produkt, jehož skladové zásoby jsou vyprodány.<br>Pokud je tato volba aktivní, pro všechny produkty se zobrazí základní upozornění <i>Zásoby došly a zboží musí být doobjednáno</i>.',
 'HELP_SHOP_CONFIG_STOCKONDEFAULTMESSAGE' => 'Můžete nastavit upozornění pro každý produkt, který se objeví na skladě.<br>Pokud je tato volba aktivní, pro všechny produkty se zobrazí základní upozornění <i>Připraven k odeslání.</i> <br> Další informace najdete v <a href="http://www.oxid-esales.com/de/resources/help-faq/eshop-manual/meldungen-zu-den-lagerbestaenden-einrichten" target="_blank">Manuál-Příloha: Hlášení stavu skladu</a>.',
