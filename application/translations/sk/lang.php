@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), i7 (620)
+ * @translators: DominikS (404), ET (12), i7 (623)
  */
 
 $sLangName  = 'Slovenčina';
@@ -637,7 +637,7 @@ $aLang = array(
 'RECOMMEND_PRODUCT' => 'Odporučiť tovar',
 'REDEEM_COUPON' => 'Použiť poukážku',
 'REDUCED_FROM' => 'Zlacnené z',
-'REDUCED_FROM_2' => 'RRP',
+'REDUCED_FROM_2' => 'Dop.cena',
 'REGISTER' => 'Zaregistrovať sa',
 'REGISTERED_YOUR_ORDER' => 'Zaregistrovali sme Vašu objednávku pod číslom: %s',
 'REMEMBER_ME' => 'Zapamätaj si ma',

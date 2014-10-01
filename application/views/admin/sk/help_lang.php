@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), i7 (620)
+ * @translators: DominikS (404), ET (12), i7 (623)
  */
 
 $sLangName  = 'Slovenčina';
@@ -39,7 +39,7 @@ $aLang = array(
 'HELP_ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'If this option is activated, users have to confirm terms and conditions in the fourth step of the check-out process for this specific item. Please make sure the general option is activated as well and the product item is intangible or downloadable.',
 'HELP_ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Pokiaľ je aktívna <var>Preskočiť všetky negatívne zľavy</var>, negatívne zľavy sa do ceny tovaru nezarátajú.',
 'HELP_ARTICLE_EXTEND_TEMPLATE' => 'Deatil produktu môže byť zobrazený inou šablónou. Názov súboru šablóny zadajte do tohto políčka. Ďalšie informácie sú k dispozícii v <a href="http://www.oxid-esales.com/de/resources/help-faq/eshop-manual/display-certain-products-or-categories-another-template" target="_blank"> príslušnej časti návodu </a>.',
-'HELP_ARTICLE_EXTEND_TPRICE' => 'Do poľa <var>Odporúčaná maloobchodná cena</var> zadajte odporúčanú maloobchodnú cenu. Bude zobrazená zákazníkom. Nad cenou výrobku sa zobrazí<i>Zlacnené z odporúčanej ceny</i>.',
+'HELP_ARTICLE_EXTEND_TPRICE' => 'Do poľa <var>Odporúčaná maloobchodná cena</var> zadajte odporúčanú maloobchodnú cenu. Bude zobrazená zákazníkom. Nad cenou výrobku sa zobrazí<i>Zlacnené z odporúčanej ceny</i>',
 'HELP_ARTICLE_EXTEND_UNITQUANTITY' => '<var>Počet kusov</var> a <var>Balenie</var> Vám umožňuje zobraziť cenu za jednotku (napr. 20 Kč za liter). <var>Počet kusov</var> je množstvo výrobkov (napr. <kbd>5</kbd>), <var>Balenie</var> je množstvo (napr. <kbd>liter</kbd>). Cena za jednotku sa zobrazuje u výrobku',
 'HELP_ARTICLE_EXTEND_UPDATEPRICE' => 'Prices can be changed on a defined time. Given fields update standard prices. If you leave price values "0", prices will not be updated.',
 'HELP_ARTICLE_FILES_DOWNLOAD_EXPIRATION_TIME' => 'Specify the time in hours, the download link is valid after the first download. For this file you can overwrite the default setting, which was defined in Master Settings -> Core Setting -> Settings -> Downloads for all products.',
