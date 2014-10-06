@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1275), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1279), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -131,7 +131,7 @@ $aLang = array(
 'HELP_PAYMENT_MAIN_SORT' => 'In <span class="navipath_or_inputname">Sorting</span> you can specify the order in which the payment methods are to be displayed to users: The payment method with the lowest sort number is displayed on top.',
 'HELP_PROMOTIONS_BANNER_PICTUREANDLINK' => 'Upload banner image and enter banner URL which will be used when clicking on banner. If product is assigned to banner and URL is not entered, link to assigned product will be used when clicking on banner.',
 'HELP_REVERSE_PROXY_GET_BACKEND' => 'Admin area is displayed without Reverse Proxy. Varnish header could not be received.',
-'HELP_REVERSE_PROXY_GET_FRONTEND' => 'Checks if Reverse Proxy is available for the frontend. Header of the shop\'s start page is veryfied.',
+'HELP_REVERSE_PROXY_GET_FRONTEND' => 'Checks if Reverse Proxy is available for the frontend. Header of the shop\\'s start page is verified.<br>The test could fail if different domains or protocols (http/https) are used for the admin panel and the store front.',
 'HELP_SELECTLIST_MAIN_FIELDS' => 'All available options are displayed in the <span class="navipath_or_inputname">Fields</span> list. You can use the entry fields to the right to set up new options.',
 'HELP_SELECTLIST_MAIN_TITLEIDENT' => 'In <span class="navipath_or_inputname">Working Title</span>, you can enter an additional name that is not displayed to users of your eShop. You can use the working title to differentiate between similar selection lists (e.g., Sizes for trousers and Sizes for shirts).',
 'HELP_SHOP_CACHE_CLASSES' => 'Here you set which view classes are cached.<br> Only change this setting if you are familiar with the caching mechanisms!',
@@ -164,7 +164,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_INVITATION' => 'Invitation is used for inviting your friends to website and getting credit points for inviting.',
 'HELP_SHOP_CONFIG_LINK_EXPIRATION_TIME' => 'Specify the time in hours, the download link is valid after order. This is the default setting for all products.You can change this value for every file of product in Administer Products -> Products -> Downloads.',
 'HELP_SHOP_CONFIG_LINK_EXPIRATION_TIME_UNREGISTERED' => 'Here you can define how many times user can download from the same link, if user ordered without registration. This is the default setting for all products.You can change this value for every file of product in Administer Products -> Products -> Downloads.',
-'HELP_SHOP_CONFIG_LOAD_DYNAMIC_PAGES' => 'If this setting is checked, additional information about other OXID products is shown in the menu, e.g. about OXID eFire. Which information is loaded depends on the market of your eShop.',
+'HELP_SHOP_CONFIG_LOAD_DYNAMIC_PAGES' => 'Activate this option for displaying additional product information at the administration panel and to transmit technical information to OXID servers for statistical purposes as well as for increasing our service quality. No business relevant data (users, orders etc) will be transmitted at any time.',
 'HELP_SHOP_CONFIG_MAX_DOWNLOADS_COUNT' => 'Here you can define how many times user can download from the same link after order. This is the default setting for all products.You can change this value for every file of product in Administer Products -> Products -> Downloads.',
 'HELP_SHOP_CONFIG_MUSTFILLFIELDS' => 'Here you can set the mandatory fields for user registration. Enter one field per row.<br>The most common entries are:<ul><li>oxuser__oxfname = First name</li><li>oxuser__oxlname = Last name</li><li>oxuser__oxstreet = Street</li><li>oxuser__oxstreetnr = House number</li><li>oxuser__oxzip = ZIP</li><li>oxuser__oxcity = City</li><li>oxuser__oxcountryid = Country</li><li>oxuser__oxfon = Telephone number</li></ul><br>You can also define the mandatory fields if users enter a different delivery address. The most common entries are:<ul><li>oxaddress__oxfname = First name</li><li>oxaddress__oxlname = Last name</li><li>oxaddress__oxstreet = Street</li><li>oxaddress__oxstreetnr = House number</li><li>oxaddress__oxzip = ZIP</li><li>oxaddress__oxcity = City</li><li>oxaddress__oxcountryid = Country</li><li>oxaddress__oxfon = Telephone number</li></ul>',
 'HELP_SHOP_CONFIG_NEWARTBYINSERT' => 'On the front page of your eShop the newest products are shown in <span class="filename_filepath_or_italic">Just arrived!</span>.  This setting determines how the newest products are calculated: by date of creation or by date of last change in admin/last order.',
@@ -236,7 +236,6 @@ $aLang = array(
 'HELP_SHOP_SEO_TITLEPREFIX' => 'Each page has a title. this title is shown in the top bar of the browser window. With <span class="navipath_or_inputname">Title Prefix</span> and <span class="navipath_or_inputname">Title Suffix</span> you can fill in text before and after page titles:<br><ul><li>In <span class="navipath_or_inputname">Title Prefix</span>, enter the text to be displayed in front of the title.</li></ul>',
 'HELP_SHOP_SEO_TITLESUFFIX' => 'Each page has a title. this title is shown in the top bar of the browser window. With <span class="navipath_or_inputname">Title Prefix</span> and <span class="navipath_or_inputname">Title Suffix</span> you can fill in text before and after page titles:<br><ul><li>In <span class="navipath_or_inputname">Title Suffix</span> enter the text to be displayed behind the title.</li></ul>',
 'HELP_SHOP_SYSTEM_DEFAULTIMAGEQUALITY' => 'Recommended settings are from 40-80:<br><ul><li>Under 40, the compression gets clearly visible and the pictures are blurred.</li><li>Above 80 hardly any quality improvement can be detected, but the filesize increases enormously.</li></ul><br>The default value is 75.',
-'HELP_SHOP_SYSTEM_DENIEDDYNGROUPS' => 'Enable this option to filtering user groups, which are handled over "dgr" param in the URL.',
 'HELP_SHOP_SYSTEM_DISABLENAVBARS' => 'If this setting is checked, most navigation elements aren\'t shown during checkout. Thereby users aren\'t distracted unnecessarily during checkout.',
 'HELP_SHOP_SYSTEM_INLINEIMGEMAIL' => 'If the setting is checked, the pictures in e-mails are sent together with the e-mail. If the setting is unchecked, the pictures are downloaded by the e-mail program when the e-mail is opened.',
 'HELP_SHOP_SYSTEM_ISERVERTIMESHIFT' => 'The server the eShop is running on can be in a different time zone. With this setting the time shift can be adjusted: Enter the amount of hours that are to be added/subtracted from the server time, e. g. <kdb>+2</kdb> or <kdb>-2</kdb>',
@@ -249,7 +248,6 @@ $aLang = array(
 'HELP_SHOP_SYSTEM_VARIANTPARENTBUYABLE' => 'This setting affects if parent products can be bought:<ul><li>If the setting is checked, the parent products can be bought, too.</li><li>If the setting is unchecked, only variants of the parent product can be bought.</li></ul>',
 'HELP_SHOP_SYSTEM_VARIANTSSELECTION' => 'In eShop there are many lists for assigning products, e.g. assigning products to discounts. If this setting is checked, variants are shown in these lists, too.',
 'HELP_USER_EXTEND_BONI' => 'Here you can enter a numerical value for the credit rating of the user. With the credit rating you can influence which payment methods are available to this user.',
-'HELP_USER_EXTEND_DISABLEAUTOGROUP' => 'Users are automatically assigned to certain user groups. This setting prevents this: If checked, the users isn\'t automatically added to any user group.',
 'HELP_USER_EXTEND_EMAILFAILED' => 'If no e-mails can be sent to the e-mail address of this user, check this setting. Then no newsletters are sent to this user any more. Other e-mails are still sent.',
 'HELP_USER_EXTEND_NEWSLETTER' => 'Эти настройки показывают, подписан ли пользователь на рассылку.',
 'HELP_USER_MAIN_HASPASSWORD' => 'Here you can distinguish if users registered when ordering:<ul><li>If a password is set, the user registered.</li><li>If no password is set, the user ordered without registering.</li></ul>',
