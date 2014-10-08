@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (138), inquisitor8 (400), ondrej123 (2), RSee (1318), SYSKO (9)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (143), inquisitor8 (400), ondrej123 (2), RSee (1318), SYSKO (9)
  */
 
 $sLangName  = 'Česky';
@@ -501,7 +501,7 @@ $aLang = array(
 'FAVORITES_DESC' => 'popis oblíbených ...',
 'fullDateFormat' => 'd.m.Y H:i:s',
 'GENERAL_ACTIVE' => 'Aktivovat',
-'GENERAL_ACTIVFROMTILL' => 'Aktivovat',
+'GENERAL_ACTIVFROMTILL' => 'Aktívny po dobu',
 'GENERAL_ACTIVTITLE' => 'A',
 'GENERAL_ADMIN_TITLE' => '[OXID Administrace uživatelů]',
 'GENERAL_AJAX_ASSIGNALL' => 'Přiřadit vše',
@@ -1713,7 +1713,7 @@ $aLang = array(
 'STASTISTIC_SERVICE_DELETE' => 'Vymazat zápisy',
 'STASTISTIC_SERVICE_LOGCOUNT' => 'Počet log.zápisů',
 'STASTISTIC_SERVICE_OLDER' => 'starší než',
-'SUBJECT_UNABLE_TO_SEND_VIA_CURL' => 'Information cannot be sent to OXID server via CURL',
+'SUBJECT_UNABLE_TO_SEND_VIA_CURL' => 'Informácie nemôžu byť zaslané OXID servera cez CURL',
 'SYSREQ_ALLOW_URL_FOPEN' => 'allow_url_fopen nebo fsockopen na port 80',
 'SYSREQ_BC_MATH' => 'BCMath',
 'SYSREQ_BUG53632' => 'Možné problémy kvůli PHP chybám',
@@ -1732,7 +1732,7 @@ $aLang = array(
 'SYSREQ_LIB_XML2' => 'LIB XML2',
 'SYSREQ_LIST_MENUITEM' => 'Služby',
 'SYSREQ_LIST_MENUSUBITEM' => 'Zdravotní stav systému',
-'SYSREQ_MAGIC_QUOTES_GPC' => 'magic_quotes_gpc must be off',
+'SYSREQ_MAGIC_QUOTES_GPC' => 'magic_quotes_gpc musí bít vypnutý',
 'SYSREQ_MB_STRING' => 'mbstring',
 'SYSREQ_MEMORY_LIMIT' => 'PHP paměťový limit (min. 14MB, 30MB doporučeno)',
 'SYSREQ_MEMORY_LIMIT_EE' => 'PHP paměťový limit (min. 32MB, 60MB doporučeno)',
@@ -1747,7 +1747,7 @@ $aLang = array(
 'SYSREQ_PHP4_COMPAT' => 'Zend compatibility mode musí být vypnut',
 'SYSREQ_PHP_CONFIG' => 'PHP konfigurace',
 'SYSREQ_PHP_EXTENNSIONS' => 'PHP rozšíření',
-'SYSREQ_PHP_VERSION' => 'Verze PHP nejméně 5.2.0',
+'SYSREQ_PHP_VERSION' => 'Verze PHP nejméně 5.3.25',
 'SYSREQ_PHP_XML' => 'PHP XML',
 'SYSREQ_REGISTER_GLOBALS' => 'register_globals musí být vypnut',
 'SYSREQ_REQUEST_URI' => 'REQUEST_URI nastaveno',
@@ -1757,7 +1757,7 @@ $aLang = array(
 'SYSREQ_SOAP' => 'SOAP',
 'SYSREQ_TOKENIZER' => 'Tokenizer',
 'SYSREQ_UNICODE_SUPPORT' => 'podpora UTF-8',
-'SYSREQ_ZEND_OPTIMIZER' => 'Zend Optimizer nainstalován',
+'SYSREQ_ZEND_OPTIMIZER' => 'Nainštalovaný Zend Guard Loader',
 'SYSREQ_ZEND_PLATFORM_OR_SERVER' => 'Zend Platform nebo Zend Server nainstalován',
 'SYSTEMINFO_DEMOMODE' => 'DEMO MODE',
 'SYSTEMINFO_MENUITEM' => 'Služby',

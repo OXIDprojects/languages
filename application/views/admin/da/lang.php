@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: gnomic (792), topconcepts (811)
+ * @translators: gnomic (792), krumoda (2), topconcepts (811)
  */
 
 $sLangName  = 'Dansk';
@@ -33,7 +33,7 @@ $aLang = array(
 'ACTIONS_LIST_MENUSUBITEM' => 'Kampagner',
 'ACTIONS_MAIN_ALLARTICLES' => 'Alle tilgængelig produkter',
 'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Promoted Products',
-'ACTIONS_MAIN_NOTSELECTED' => 'Please select one from above list to make changes',
+'ACTIONS_MAIN_NOTSELECTED' => 'Vælg fra listen til at foretage ændringer',
 'ADMINGB_LIST_AUTHOR' => 'Author',
 'ADMINGB_LIST_ENTRY' => 'Entry',
 'ADMINGB_LIST_MENUITEM' => 'Customer Information',

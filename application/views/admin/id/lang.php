@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: irvictor (13)
+ * @translators: bih (5), irvictor (13)
  */
 
 $sLangName  = 'Indonesia';
@@ -198,7 +198,7 @@ $aLang = array(
 'ARTICLE_STOCK_AMOUNT' => 'Amount',
 'ARTICLE_STOCK_AMOUNTPRICE_ABS' => 'abs',
 'ARTICLE_STOCK_AMOUNTPRICE_AMOUNTFROM' => 'Quantity From:',
-'ARTICLE_STOCK_AMOUNTPRICE_AMOUNTTO' => 'To:',
+'ARTICLE_STOCK_AMOUNTPRICE_AMOUNTTO' => 'Dari:',
 'ARTICLE_STOCK_AMOUNTPRICE_DISCOUNT' => '% Discount',
 'ARTICLE_STOCK_AMOUNTPRICE_PRICE' => 'Price',
 'ARTICLE_STOCK_AMOUNTPRICE_TITLE' => 'Scale Prices',

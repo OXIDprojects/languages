@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: gnomic (792), topconcepts (811)
+ * @translators: gnomic (792), krumoda (2), topconcepts (811)
  */
 
 $sLangName  = 'Dansk';
@@ -45,7 +45,7 @@ $aLang = array(
 'ADD_WRAPPING' => 'Indpakket som gave',
 'ADD_YOUR_COMMENTS' => 'Din meddelelse',
 'ALL' => 'Alle',
-'ALL_BRANDS' => 'All Brands',
+'ALL_BRANDS' => 'Alle mærker',
 'ALL_LISTMANIA' => 'alle favoritlister',
 'ALREADY_ADDED_TAG' => 'Tag er allerede tildelt',
 'ALREADY_CUSTOMER' => 'Jeg er allerede kunde',
