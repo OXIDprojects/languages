@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (143), inquisitor8 (400), ondrej123 (2), RSee (1318), SYSKO (9)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (143), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1318), SYSKO (9)
  */
 
 $sLangName  = 'Česky';
@@ -879,9 +879,9 @@ $aLang = array(
 'MODULE_ENTERMODULEID' => 'ID modulu',
 'MODULE_ENTERMODULENAME' => 'Název modulu',
 'MODULE_EXTENSIONISDELETED' => 'Existují v obchodě zaregistrovaná rozšíření, ale adresář modulů chybí.',
-'MODULE_ID' => 'Module ID',
-'MODULE_PASSWORDS_DO_NOT_MATCH' => 'Passwords do not match!',
-'MODULE_PROBLEMATIC_FILES' => 'Problematic files',
+'MODULE_ID' => 'ID modulu',
+'MODULE_PASSWORDS_DO_NOT_MATCH' => 'Hesla nesouhlasí!',
+'MODULE_PROBLEMATIC_FILES' => 'Problémové soubory',
 'MODULE_REPEAT_PASSWORD' => 'Confirm password',
 'MODULE_VERSION' => 'Verze',
 'MR' => 'Pan',
@@ -1024,7 +1024,7 @@ $aLang = array(
 'ORDER_MAIN_SEND_DOWNLOADS' => 'Objednané stahovatelné odkazy',
 'ORDER_MAIN_SHIPPING_INFORMATION' => 'Expediční informace',
 'ORDER_MAIN_TRACKCODE' => 'Číslo zásilky',
-'ORDER_MAIN_TRACKCODE_LINK' => 'Tracking link',
+'ORDER_MAIN_TRACKCODE_LINK' => 'Odkaz pro sledování',
 'ORDER_MAIN_UPDATE_DELPAY' => 'Aktualizovat',
 'ORDER_MAIN_USERVOUCHER' => 'Použita poukázka',
 'ORDER_OVERVIEW_DELTYPE' => 'Způsob odeslání',
@@ -1401,7 +1401,7 @@ $aLang = array(
 'SHOP_CONFIG_ORDERFOLDER' => 'Složky objednávek - odstraňte nebo přidejte složku',
 'SHOP_CONFIG_ORDEROPTINEMAIL' => 'Potvrzení registrace pro odběr novinek emailem',
 'SHOP_CONFIG_OVERRIDEZEROABCPRICES' => 'Použít normální cenu produktů místo nulové A, B, C ceny',
-'SHOP_CONFIG_PARCELSERVICE' => 'Shipping provider tracking URL',
+'SHOP_CONFIG_PARCELSERVICE' => 'Adresa pro sledování doručování objednávky',
 'SHOP_CONFIG_POINTSFORINVITATION' => 'Kreditní body za pozvaného uživatele',
 'SHOP_CONFIG_POINTSFORREGISTRATION' => 'Kraditní body pro pozvaného uživatele',
 'SHOP_CONFIG_PSLOGIN' => 'EShop pouze pro přihlášené',

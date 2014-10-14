@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (143), inquisitor8 (400), ondrej123 (2), RSee (1318), SYSKO (9)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (143), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1318), SYSKO (9)
  */
 
 $sLangName  = 'Česky';
@@ -131,7 +131,7 @@ $aLang = array(
 'HELP_PAYMENT_MAIN_SORT' => 'V <span class="navipath_or_inputname">Třízení</span> můžete zvolit pořadí platebních metod zobrazených uživateli; metoda s nejnižším číslem je první.',
 'HELP_PROMOTIONS_BANNER_PICTUREANDLINK' => 'Nahrejte obrázek banneru a zadejte jeho URL, na které povede po kliknutí na banner. Pokud je k banneru přiřazen produkt a URL není zadáno, po kliknutí na banner se zobrazí detail produktu.',
 'HELP_REVERSE_PROXY_GET_BACKEND' => 'Administrativní oblast je zobrazena bez reverzní proxy. Varnish header nemůže být přijat.',
-'HELP_REVERSE_PROXY_GET_FRONTEND' => 'Kontroluje, zda reverzní proxy je k dispozici pro rozhraní. Je kontrolována hlavička úvodní stránky eShopu.',
+'HELP_REVERSE_PROXY_GET_FRONTEND' => 'Kontroluje, zda je reverzní proxy k dispozici pro frontend. <br />Test může selhat, pokud používáte odlišné protokoly (http/https) pro administraci a frontend.',
 'HELP_SELECTLIST_MAIN_FIELDS' => 'Všechny dostupné možnosti jsou zobrazeny v seznamu <span class="navipath_or_inputname">Polí</span>. Můžete přidat nové pole pro přidání nových možností. Více informací v <a href="http://www.oxid-esales.com/en/resources/help-faq/eshop-manual/implementing-simple-variants-selection-lists">návodu</a> na webu OXID eSales.',
 'HELP_SELECTLIST_MAIN_TITLEIDENT' => 'V <span class="navipath_or_inputname">Pracovní název</span> můžete zadat dodatečný název, který ale nebude uživatelům Vašeho eShopu zobrazen. Tento pracovní název můžete např. použít pro rozlišení podobných výběrových seznamů (např. <span class="filename_filepath_or_italic">Velikost pro kalhoty</span> a <span class="filename_filepath_or_italic">Velikost pro košile</span>).',
 'HELP_SHOP_CACHE_CLASSES' => 'Zde nastavíte, které view-třídy adresáře jsou cachovány.<br> Měňte toto nastavení, pokud jste obeznámeni s mechanismem cachování !',
@@ -164,7 +164,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_INVITATION' => 'Pozvánka je pro pozvání Vašich přátel do eShopu a získání kreditních bodů za pozvání.',
 'HELP_SHOP_CONFIG_LINK_EXPIRATION_TIME' => 'Zadejte čas v hodinách, udávající po jakou dobu od objednání je odkaz platný. Toto je výchozí nastavení pro všechny produkty. Tuto hodnotu můžete změnit pro každý soubor produktů v Administrace produktů -> Produkty -> Ke stažení.',
 'HELP_SHOP_CONFIG_LINK_EXPIRATION_TIME_UNREGISTERED' => 'Zde můžete nastavit, kolikrát může uživatel stahovat ze stejného odkazu, pokud uživatel objednal bez registrace. Toto je výchozí nastavení pro všechny produkty. Tuto hodnotu můžete změnit pro každý soubor produktů v  Administrace produktů -> Produkty -> Ke stažení.',
-'HELP_SHOP_CONFIG_LOAD_DYNAMIC_PAGES' => 'Pokud je tato volba aktivní, v menu se zobrazují informace o dalších produktech OXID, např. o OXID eFire. Informace se zobrazují podle verze Vašeho eShopu.',
+'HELP_SHOP_CONFIG_LOAD_DYNAMIC_PAGES' => 'Aktivujte tuto volbu pro zobrazení dodatečných produktových informací v administraci a přenos technických detailů na servery OXID (pro statistické účely a zlepšení služeb). Žádné údaje týkající se uživatelů nebo objednávek nebudou nikdy přenášeny.',
 'HELP_SHOP_CONFIG_MAX_DOWNLOADS_COUNT' => 'Zde můžete nastavit, kolikrát může uživatel stahovat ze stejného odkazu. Toto je výchozí nastavení pro všechny produkty.Tuto hodnotu můžete změnit pro každý soubor produktu v Administraci produktů -> Produkty -> Ke stažení.',
 'HELP_SHOP_CONFIG_MUSTFILLFIELDS' => 'Zde můžete zvolit povinné registrační údaje. Do každého řádku zadejte pouze jeden údaj.<br>Nejčastější údaje:<ul><li>oxuser__oxfname = Jméno</li><li>oxuser__oxlname = Příjmení</li><li>oxuser__oxstreet = Ulice</li><li>oxuser__oxstreetnr = Číslo popisné</li><li>oxuser__oxzip = PSČ</li><li>oxuser__oxcity = Město</li><li>oxuser__oxcountryid = Země</li><li>oxuser__oxfon = Telefon</li></ul><br>Můžete také zvolit povinné údaje při zadávání odlišné doručovací adresy. Nejčastější údaje:<ul><li>oxaddress__oxfname = Jméno</li><li>oxaddress__oxlname = Příjmení</li><li>oxaddress__oxstreet = Ulice</li><li>oxaddress__oxstreetnr = Číslo popisné</li><li>oxaddress__oxzip = PSČ</li><li>oxaddress__oxcity = Město</li><li>oxaddress__oxcountryid = Země</li><li>oxaddress__oxfon = Telefon</li></ul>',
 'HELP_SHOP_CONFIG_NEWARTBYINSERT' => 'Na titulní straně Vašeho eShopu se v kategorii <i>Právě dorazilo!</i> zobrazují nejnovější produkty. Produkty můžete řadit podle data přidání nebo data poslední změny.',

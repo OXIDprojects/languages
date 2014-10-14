@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), remiq (19), topconcepts (209)
+ * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), remiq (27), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -42,8 +42,8 @@ $aLang = array(
 'ADMINLINKS_LIST_MENUITEM' => 'Informacje o kliencie',
 'ADMINLINKS_LIST_MENUSUBITEM' => 'Linki',
 'ADMINLINKS_LIST_TITLE' => '[OXID Linki Administracja]',
-'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Select All',
-'ADMIN_MALL_SELECT_NONE_SHOPS' => 'Select none',
+'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Zaznacz wszystkie',
+'ADMIN_MALL_SELECT_NONE_SHOPS' => 'Odznacz wszystkie',
 'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b>Uwaga: </b> Wykryte obrazy plików alternatywnej konfiguracji serwera nie zostaną przesłane do zdalnej lokalizacji. Proszę zadbać o synchronizację ręcznie.',
 'amount' => 'Kwota',
 'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => 'Przypisanie atrybutów',
@@ -392,9 +392,9 @@ $aLang = array(
 'DYNSCREEN_LOCAL_TITLE' => 'Usługi eCommerce',
 'DYNSCREEN_TITLE' => 'marketing',
 'dyn_about' => 'Ogólny',
-'DYN_ECONDA_ACTIVE' => 'Activate Econda Webcontrolling?',
-'DYN_ECONDA_ATTENTION' => 'Please note: ',
-'DYN_ECONDA_COPY_FILE' => 'You have to copy the file "emos2.js" which you receive from Econda into the directory %s',
+'DYN_ECONDA_ACTIVE' => 'Włączyć Econda Webcontrolling?',
+'DYN_ECONDA_ATTENTION' => 'Uwaga:',
+'DYN_ECONDA_COPY_FILE' => 'Musisz skopiować plik "emos2.js", który otrzymasz od Econda, do katalogu %s',
 'dyn_efire' => 'eFire OXID',
 'dyn_interface' => 'Interfejs',
 'dyn_menu' => 'Obszar serwisowy',

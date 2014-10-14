@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), remiq (19), topconcepts (209)
+ * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), remiq (27), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -149,13 +149,13 @@ $aLang = array(
 'DESCRIPTION' => 'Opis',
 'DETAILS' => 'Szczegóły',
 'DETAILS_CHOOSEVARIANT' => 'Wybierz wariant',
-'DETAILS_VPE_MESSAGE' => 'This product can only be ordered in packaging units of %s',
+'DETAILS_VPE_MESSAGE' => 'Ten produkt może być zamówiony jedynie w opakowaniach po %s sztuk',
 'DISCOUNT' => 'Rabat',
 'DISPLAY_BASKET' => 'Pokaż koszyk',
 'DISTRIBUTORS' => 'Dystrybutorzy',
 'DOWNLOADS_EMPTY' => 'Nie zamówiłeś jeszcze żadnych plików.',
 'DOWNLOADS_PAYMENT_PENDING' => 'Zapłata za zamówienie nie jest dokończona.',
-'DOWNLOAD_LINKS' => 'Download links',
+'DOWNLOAD_LINKS' => 'Do pobrania',
 'DOWNLOAD_LINK_EXPIRED_OR_MAX_COUNT_RECEIVED' => 'Link wygasł lub max. liczba pobrań osiągnięta.',
 'DO_NOT_WANT_CREATE_ACCOUNT' => '(Nie chcę tworzyć nowego konta).',
 'EDIT' => 'Edytuj',
@@ -173,7 +173,7 @@ $aLang = array(
 'ERROR_DELIVERY_ADDRESS_WAS_CHANGED_DURING_CHECKOUT' => 'Zestawienie lub adres wysyłki zostały zmienione podczas transakcji. Proszę sprawdzić jeszcze raz.',
 'ERROR_MESSAGE_ACCESSRIGHT_ACCESSDENIED' => 'Odmowa dostępu nie ma wystarczających praw!',
 'ERROR_MESSAGE_ACCESS_DENIED' => 'Odmowa dostępu.',
-'ERROR_MESSAGE_ARTICLE_ARTICLE_DOES_NOT_EXIST' => 'Unfortunately the product "%s" is not longer available!',
+'ERROR_MESSAGE_ARTICLE_ARTICLE_DOES_NOT_EXIST' => 'Przykro nam, ale produkt "%s" nie jest już dostępny!',
 'ERROR_MESSAGE_ARTICLE_ARTICLE_NOT_BUYABLE' => 'Product is not purchasable',
 'ERROR_MESSAGE_ARTICLE_NOPRODUCTID' => 'Nie podano id produktu!',
 'ERROR_MESSAGE_CHECK_EMAIL' => 'Wystąpił błąd wysyłania wiadomości e-mail - proszę sprawdzić e-mail.',

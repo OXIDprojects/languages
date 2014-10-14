@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (143), inquisitor8 (400), ondrej123 (2), RSee (1318), SYSKO (9)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (143), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1318), SYSKO (9)
  */
 
 $sLangName  = 'Česky';
@@ -475,7 +475,7 @@ $aLang = array(
 'OXFREESHIPPING' => 'Doprava zdarma',
 'OXHEIGHT' => 'Výška',
 'OXID' => 'interní id.č.',
-'OXID_ESALES_URL' => 'http://www.oxid-eshop.cz/',
+'OXID_ESALES_URL' => 'http://www.oxid-eshop.com/',
 'OXID_ESALES_URL_TITLE' => 'eShop software od společnosti OXID eSales',
 'OXINSERT' => 'Vytvořeno v',
 'OXISCONFIGURABLE' => 'Produkt lze přizpůsobit',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), i7 (647)
+ * @translators: DominikS (404), ET (12), i7 (647), lubosdz (18)
  */
 
 $sLangName  = 'Slovenčina';
@@ -47,7 +47,7 @@ $aLang = array(
 'ERROR_CONFIG_FILE_IS_NOT_WRITABLE' => 'Chyba: %s/config.inc.php nemožno zapisovať!',
 'ERROR_COULD_NOT_CREATE_DB' => 'Chyba: databázy nie je k dispozícii, a tiež nemôže byť vytvorená!',
 'ERROR_COULD_NOT_FIND_FILE' => 'Inštalačný program nemôže nájsť "%s"!',
-'ERROR_COULD_NOT_OPEN_CONFIG_FILE' => 'Could not open %s for reading! Please consult our FAQ, forum or contact OXID Support staff!',
+'ERROR_COULD_NOT_OPEN_CONFIG_FILE' => 'Nepodarilo sa načítať súbor %s! Prečítajte si najčastejšie otázky (FAQ), podobné problémy na diskusnom fóre alebo kontaktujte zákaznícku podporu OXID!',
 'ERROR_COULD_NOT_READ_FILE' => 'Inštalačný program nemohol otvoriť "%s" pre čítanie!',
 'ERROR_COULD_NOT_WRITE_TO_FILE' => 'Inštalačný program nemôže zapisovať do "%s"!',
 'ERROR_DB_ALREADY_EXISTS' => 'Chyba: Zdá sa, že je už OXID eShop inštalovaný v databáze %s. Prosím, odstráňte ho pred pokračovaním!',
