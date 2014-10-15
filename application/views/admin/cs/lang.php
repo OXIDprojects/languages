@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (143), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1318), SYSKO (9)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (143), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1318), SYSKO (9), zerog (6)
  */
 
 $sLangName  = 'Česky';
@@ -42,8 +42,8 @@ $aLang = array(
 'ADMINLINKS_LIST_MENUITEM' => 'Informace o zákazníkovi',
 'ADMINLINKS_LIST_MENUSUBITEM' => 'Odkazy',
 'ADMINLINKS_LIST_TITLE' => '[OXID Administrace odkazů]',
-'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Select All',
-'ADMIN_MALL_SELECT_NONE_SHOPS' => 'Select none',
+'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Vybrat vše',
+'ADMIN_MALL_SELECT_NONE_SHOPS' => 'Zrušit výběr',
 'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b>Poznámka:</b> Je nakonfigurován alternativní server s obrázky. Bohužel soubory nebudou nahrány do úložiště. Proveďte prosím manuální synchronizaci.',
 'amount' => 'Množství',
 'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => 'Přiřadit parametry',
@@ -535,7 +535,7 @@ $aLang = array(
 'GENERAL_AJAX_UNASSIGNALL' => 'Zrušit přiřazení',
 'GENERAL_ALLGROUPS2' => 'Všechny uživatelské skupiny',
 'GENERAL_ALLITEMS' => 'Všechny dostupné produkty',
-'GENERAL_ALWAYS_ACTIVE' => 'Always active',
+'GENERAL_ALWAYS_ACTIVE' => 'Vždy aktivní',
 'GENERAL_ARTICLE_OXACTIVE' => 'Aktivní',
 'GENERAL_ARTICLE_OXACTIVEFROM' => 'Aktivní od',
 'GENERAL_ARTICLE_OXACTIVETO' => 'Aktivní do',
@@ -826,7 +826,7 @@ $aLang = array(
 <ul>
 <li> V závislosti na nastavení obchodu jsou zadávány/zobrazeny netto ceny nebo brutto ceny. </ li>
 <li> Brutto cena je vždy uveden v závorce. </ li> </ ul>',
-'HELP_SHOP_CONFIG_PARCELSERVICE' => 'Please fill in the tracking URL of your shipping provider. <i>##ID##</i> is a placeholder and will be replaced with the respective tracking number.',
+'HELP_SHOP_CONFIG_PARCELSERVICE' => 'Prosím vložte URL Vašeho přepravce pro sledování zásilek. <i>##ID##</i> je značka, která bude nahrazena příslušným sledovacím číslem.',
 'HOME_DESC' => 'Vítejte v OXID eShop administrátorském rozhraní. Toto je přehled základních oblastí a funkcí',
 'INFO_MODULES_MOVED_TO_EXTENSIONS' => 'Nastavení pro témata a moduly najdete v novém menu "Rozšíření"',
 'invalid_serial' => 'Neplatná licence',
@@ -882,7 +882,7 @@ $aLang = array(
 'MODULE_ID' => 'ID modulu',
 'MODULE_PASSWORDS_DO_NOT_MATCH' => 'Hesla nesouhlasí!',
 'MODULE_PROBLEMATIC_FILES' => 'Problémové soubory',
-'MODULE_REPEAT_PASSWORD' => 'Confirm password',
+'MODULE_REPEAT_PASSWORD' => 'Potvrďte heslo',
 'MODULE_VERSION' => 'Verze',
 'MR' => 'Pan',
 'MRS' => 'Paní',
@@ -1491,7 +1491,7 @@ $aLang = array(
 'SHOP_MAIN_SMTPPWUNSET' => 'Vložte "-" pro zrušení',
 'SHOP_MAIN_SMTPSERVER' => 'SMTP Server',
 'SHOP_MAIN_SMTPUSER' => 'SMTP Uživatel',
-'SHOP_MAIN_TAXNUMBER' => 'Tax ID',
+'SHOP_MAIN_TAXNUMBER' => 'DIČ',
 'SHOP_MAIN_VATNUMBER' => 'DIČ',
 'SHOP_MALL_MALLCUSTOMPRICE' => 'Povolit individuální ceny pro zděděné produkty',
 'SHOP_MALL_MALLINHERITANCE' => 'Defaultní dědičnost z rodičovského obchodu',
