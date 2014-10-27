@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: alexraimondo (1), chatard (318), cowboy9571 (10), ET (10), marco (1), Phenix (202), Rainbow40 (2), vikapera (376)
+ * @translators: alexraimondo (1), chatard (318), cowboy9571 (10), ET (10), marco (1), Phenix (202), Rainbow40 (2), rava3000 (8), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -42,8 +42,8 @@ $aLang = array(
 'ADMINLINKS_LIST_MENUITEM' => 'Information clients',
 'ADMINLINKS_LIST_MENUSUBITEM' => 'Liens',
 'ADMINLINKS_LIST_TITLE' => '[OXID Administration des liens]',
-'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Select All',
-'ADMIN_MALL_SELECT_NONE_SHOPS' => 'Select none',
+'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Sélectionner tout',
+'ADMIN_MALL_SELECT_NONE_SHOPS' => 'Tout déselectionner',
 'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b>Note:</b> Un serveur distant semble être utilisé pour servir les visuels. Attention, dans ce contexte, les visuels ne seront pas directement envoyés sur ce serveur, vous devrez synchroniser les fichiers manuellement.',
 'amount' => 'Montant',
 'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => 'Affecter des attributs',
@@ -535,7 +535,7 @@ $aLang = array(
 'GENERAL_AJAX_UNASSIGNALL' => 'Tout désactiver',
 'GENERAL_ALLGROUPS2' => 'Tous les groupes de clients',
 'GENERAL_ALLITEMS' => 'Tous les produits disponibles',
-'GENERAL_ALWAYS_ACTIVE' => 'Always active',
+'GENERAL_ALWAYS_ACTIVE' => 'Toujours actif',
 'GENERAL_ARTICLE_OXACTIVE' => 'Actif',
 'GENERAL_ARTICLE_OXACTIVEFROM' => 'Actif du',
 'GENERAL_ARTICLE_OXACTIVETO' => 'Actif jusqu\'au',
@@ -877,9 +877,9 @@ $aLang = array(
 'MODULE_ENTERMODULENAME' => 'Nom de l\'extension',
 'MODULE_EXTENSIONISDELETED' => 'Des extensions sont déclarées dans eShop, mais le répertoire de l\'extension n\'existe pas.',
 'MODULE_ID' => 'Module ID',
-'MODULE_PASSWORDS_DO_NOT_MATCH' => 'Passwords do not match!',
-'MODULE_PROBLEMATIC_FILES' => 'Problematic files',
-'MODULE_REPEAT_PASSWORD' => 'Confirm password',
+'MODULE_PASSWORDS_DO_NOT_MATCH' => 'Les mots de passe ne correspondent pas!',
+'MODULE_PROBLEMATIC_FILES' => 'Fichiers corrompus',
+'MODULE_REPEAT_PASSWORD' => 'Confirmer le mot de passe',
 'MODULE_VERSION' => 'Version',
 'MR' => 'Mr',
 'MRS' => 'Mme',
@@ -1729,7 +1729,7 @@ $aLang = array(
 'SYSREQ_LIB_XML2' => 'LIB XML2',
 'SYSREQ_LIST_MENUITEM' => 'Service',
 'SYSREQ_LIST_MENUSUBITEM' => 'Etat système',
-'SYSREQ_MAGIC_QUOTES_GPC' => 'magic_quotes_gpc must be off',
+'SYSREQ_MAGIC_QUOTES_GPC' => 'magic_quotes_gpc doit être désactiver',
 'SYSREQ_MB_STRING' => 'mbstring',
 'SYSREQ_MEMORY_LIMIT' => 'PHP Memory limit (min. 14MB, 30MB recommandé)',
 'SYSREQ_MEMORY_LIMIT_EE' => 'PHP Memory limit (min. 32MB, 60MB recommendé)',
