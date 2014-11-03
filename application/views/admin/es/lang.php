@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1338), Espana (5), ET (219), jmatos (31), jsmaster (6), mvirolde (8), nuelgoz (156), Sweetlana (2)
+ * @translators: afimage (504), diegotech (7), djraptor (1338), Espana (5), ET (219), jmatos (31), jsmaster (6), kai.gazmaga (3), mvirolde (8), nuelgoz (156), Sweetlana (2)
  */
 
 $sLangName  = 'Español';
@@ -471,7 +471,7 @@ $aLang = array(
 'ERROR_MESSAGE_SYSTEMCOMPONENT_CLASSNOTFOUND' => 'Clase "%s" no encontrada',
 'ERROR_MESSAGE_SYSTEMCOMPONENT_FUNCTIONNOTFOUND' => 'Función "%s" no encontrada',
 'EXCEPTION_ACCESSRIGHT_ACCESSDENIED' => 'Acceso denegado sin suficientes derechos!',
-'EXCEPTION_CONNECTION_NODB' => 'No hay conexión con la base de datos!',
+'EXCEPTION_CONNECTION_NODB' => 'No hay conexión a la base de datos:',
 'EXCEPTION_COULDNOTWRITETOFILE' => 'No se pudo escribir en el archivo',
 'EXCEPTION_DELETING_VALID_FILE' => 'No puedes borrar este fichero, siempre y cuando sea valido para descargas',
 'EXCEPTION_DISABLED_DOWNLOADABLE_PRODUCTS' => 'Para usar esta característica en el front, tienes que habilitar la opción \'Habilita productos descargables\' en la configuración maestra -> Configuración de núcleo -> Configuración -> Productos descargables.',
