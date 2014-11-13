@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: menhem-it (152), tarazi (33)
+ * @translators: benmoh (17), menhem-it (152), tarazi (33)
  */
 
 $sLangName  = 'العربية';
@@ -45,11 +45,11 @@ $aLang = array(
 'ADD_WRAPPING' => 'إضافة لف الهدايا',
 'ADD_YOUR_COMMENTS' => 'أضف تعليقاتك',
 'ALL' => 'كل',
-'ALL_BRANDS' => 'All Brands',
+'ALL_BRANDS' => 'جميع العلامات التجارية',
 'ALL_LISTMANIA' => 'All listmania',
 'ALREADY_ADDED_TAG' => 'You already tagged this text',
 'ALREADY_CUSTOMER' => 'I am already a customer',
-'APPLAY' => 'Apply',
+'APPLAY' => 'تطبيق',
 'ARTNUM' => 'Product number',
 'ATENTION_GREETING_CARD' => 'Attention - greeting card!',
 'AUTHOR' => 'Author',
