@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dotoree (1517), georgekk2 (7), rostav (28)
+ * @translators: dotoree (1517), georgekk2 (7), polymeris (6), rostav (28)
  */
 
 $sLangName  = 'Ελληνικά';
@@ -39,15 +39,15 @@ $aLang = array(
 'ADMINGB_LIST_MENUITEM' => 'Πληροφορίες Πελάτη',
 'ADMINGB_LIST_MENUSUBITEM' => 'Βιβλίο Επισκεπτών',
 'ADMINGB_TITLE' => '[OXID Guestbook]',
-'ADMINLINKS_LIST_MENUITEM' => 'Customer Information',
+'ADMINLINKS_LIST_MENUITEM' => 'Πληροφορίες Πελάτη',
 'ADMINLINKS_LIST_MENUSUBITEM' => 'Συνδέσμοι',
 'ADMINLINKS_LIST_TITLE' => '[OXID Links Administration]',
-'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Select All',
+'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Επιλογή Όλων',
 'ADMIN_MALL_SELECT_NONE_SHOPS' => 'Select none',
 'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b> Σημείωση: </ b>Ανιχνεύτηκε εναλλακτική διαμόρφωση διακομιστή για τις εικόνες, τα αρχεία δεν θα φορτωθούν στην απομακρυσμένη τοποθεσία. Παρακαλούμε να φροντίστε να κάνετε το συγχρονισμό χειροκίνητα.',
 'amount' => 'Ποσό',
 'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => 'Εκχώρηση Χαρακτηριστικών ιδιοτήτων',
-'ARTICLE_ATTRIBUTE_ASSIGNSELECTLIST' => 'Assign Selection Lists',
+'ARTICLE_ATTRIBUTE_ASSIGNSELECTLIST' => 'Εκχώρηση σε λίστες επιλογής',
 'ARTICLE_ATTRIBUTE_ITEMSATTRIBUTE' => 'Χαρακτηριστικά Προϊόντος',
 'ARTICLE_ATTRIBUTE_ITEMSSELLIST' => 'Λίστες Επιλογών Προϊόντος',
 'ARTICLE_ATTRIBUTE_NOATTRIBUTE' => 'Διαθέσιμα Χαρακτηριστικά',
@@ -59,10 +59,10 @@ $aLang = array(
 'ARTICLE_ATTRIBUTE_TOOMANYATTRIBUTES' => 'Παρακαλώ επιλέξτε μόνο ένα Χαρακτηριστικό!',
 'ARTICLE_BUNDLE_ALLITEMS' => 'Όλα τα διαθέσιμα Προϊόντα',
 'ARTICLE_BUNDLE_ASSIGNARTICLE' => 'Assign Product',
-'ARTICLE_BUNDLE_ASSIGNEDARTICLE' => 'Bundled Product:',
+'ARTICLE_BUNDLE_ASSIGNEDARTICLE' => 'Συνοδευτικό Προϊόν:',
 'ARTICLE_BUNDLE_UNASSIGNARTICLE' => 'Unassign Product',
 'ARTICLE_CROSSSELLING_ALLITEMS' => 'Όλα τα διαθέσιμα Προϊόντα',
-'ARTICLE_CROSSSELLING_ASSIGNACCESSORIES' => 'Assign Accessories',
+'ARTICLE_CROSSSELLING_ASSIGNACCESSORIES' => 'Εκχώρηση Εξαρτημάτων',
 'ARTICLE_CROSSSELLING_ASSIGNCROSSSELLING' => 'Assign Crosssellings',
 'ARTICLE_CROSSSELLING_CROSSSELLING' => 'Crossselling Products',
 'ARTICLE_CROSSSELLING_EXTRAS' => 'Αξεσουάρ του Προϊόντος',

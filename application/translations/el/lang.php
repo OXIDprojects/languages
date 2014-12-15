@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dotoree (1517), georgekk2 (7), rostav (28)
+ * @translators: dotoree (1517), georgekk2 (7), polymeris (6), rostav (28)
  */
 
 $sLangName  = 'Ελληνικά';
@@ -40,7 +40,7 @@ $aLang = array(
 'ADD_THIS_PAGE_TO' => 'Πρόσθεσε αυτήν την σελίδα σε',
 'ADD_TO_CART' => 'Πρόσθεσε στο καλάθι',
 'ADD_TO_GIFT_REGISTRY' => 'Προσθήκη στο μητρώο',
-'ADD_TO_LISTMANIA_LIST' => 'Add to listmania list',
+'ADD_TO_LISTMANIA_LIST' => 'Προσθήκη στη λίστα αγαπημένων',
 'ADD_TO_WISH_LIST' => 'Προσθήκη στην Λίστα Επιθυμιών',
 'ADD_WRAPPING' => 'Προσθέστε συσκευασία Δώρου',
 'ADD_YOUR_COMMENTS' => 'Προσθέστε τα σχόλιά σας',
