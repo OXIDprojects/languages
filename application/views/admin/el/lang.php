@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dotoree (1517), georgekk2 (7), polymeris (6), rostav (28)
+ * @translators: dotoree (1517), georgekk2 (7), polymeris (7), rostav (28)
  */
 
 $sLangName  = 'Ελληνικά';
@@ -88,7 +88,7 @@ $aLang = array(
 'ARTICLE_EXTEND_MEDIAURLS' => 'Media URLs',
 'ARTICLE_EXTEND_NONMATERIAL' => 'Άϋλο Προϊόν',
 'ARTICLE_EXTEND_QUESTIONEMAIL' => 'Alt. Contact',
-'ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'Confirm terms and conditions',
+'ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'Επιβεβαίωση Όρων και Προϋποθέσεων',
 'ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Skip all negative Discounts<br>(Discounts, Vouchers, Delivery ...)',
 'ARTICLE_EXTEND_TEMPLATE' => 'Alt. Template',
 'ARTICLE_EXTEND_TPRICE' => 'RRP',

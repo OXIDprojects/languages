@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: hodota (32)
+ * @translators: hodota (69)
  */
 
 $sLangName  = '日本語';
@@ -45,7 +45,7 @@ $aLang = array(
 'ADD_WRAPPING' => 'ギフトラップを追加',
 'ADD_YOUR_COMMENTS' => 'コメントを追加',
 'ALL' => 'すべて',
-'ALL_BRANDS' => 'All Brands',
+'ALL_BRANDS' => 'すべてのブランド',
 'ALL_LISTMANIA' => 'すべてのリストマニア',
 'ALREADY_ADDED_TAG' => '既にタグ付けされています',
 'ALREADY_CUSTOMER' => 'アカウントをお持ちのお客様',
@@ -61,14 +61,14 @@ $aLang = array(
 'BANK_ACCOUNT_HOLDER' => '口座名義人',
 'BANK_ACCOUNT_NUMBER' => '口座番号',
 'BANK_CODE' => '銀行コード',
-'BANK_DETAILS' => 'Bank details',
+'BANK_DETAILS' => '銀行の詳細',
 'BARGAIN' => 'バーゲン',
 'BARGAIN_PRODUCTS' => 'バーゲン品',
 'BASKET_EMPTY' => 'ショッピングカートが空です。',
-'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Greeting Card (net)',
-'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
-'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Gift Wrapping (net)',
-'BETA_NOTE' => 'Welcome to Release Candidate ',
+'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'グリーティングカード(net)',
+'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'VAT（按分的に計算された）を追加',
+'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'ギフトラッピング(net)',
+'BETA_NOTE' => 'リリース候補版へようこそ',
 'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
 'BETA_NOTE_MIDDLE' => ' of OXID eShop ',
 'BIC' => 'BIC',
