@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: hodota (69)
+ * @translators: hodota (88)
  */
 
 $sLangName  = '日本語';
@@ -44,7 +44,7 @@ $aLang = array(
 'ADMINLINKS_LIST_TITLE' => '[OXID リンク管理]',
 'ADMIN_MALL_SELECT_ALL_SHOPS' => 'すべて選択',
 'ADMIN_MALL_SELECT_NONE_SHOPS' => '選択しない',
-'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b>Note:</b> Alternative image server configuration detected, files will not be uploaded to remote location. Please take care about synchronization manually.',
+'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b>注意:</b> 代わりのイメージサーバー構成が検出されました、ファイルはリモート先へアップロードされません。手動で同期をとりながら注意してください。',
 'amount' => '重量',
 'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => '属性の割り当て',
 'ARTICLE_ATTRIBUTE_ASSIGNSELECTLIST' => 'セレクションリストの割り当て',
@@ -250,7 +250,7 @@ $aLang = array(
 'AUCTMASTER_DO_TITLE' => 'インポート/エクスポート',
 'AUCTMASTER_DO_UNKNOWNERROR' => '未確認のエラー',
 'BOTTOMNAVIITEM_ATTENTION' => '注意: このファンクションはカテゴリーを削除することができます - バックアップを実行する前に',
-'BUTTON_DOWNLOAD' => 'Download',
+'BUTTON_DOWNLOAD' => 'ダウンロード',
 'CATEGORY_LIST_MENUSUBITEM' => 'カテゴリー',
 'CATEGORY_MAIN_ACTIVE' => 'アクティブ',
 'CATEGORY_MAIN_ALLITEMS' => 'すべての可能な製品',
@@ -275,8 +275,8 @@ $aLang = array(
 'CATEGORY_MAIN_THUMBUPLOAD' => '画像をアップロード',
 'CATEGORY_MAIN_TITLE' => 'タイトル',
 'CATEGORY_MAIN_VAT' => '特別な VAT',
-'CATEGORY_MALL_ASSIGNONLYPARENTWARNING' => 'You can only assign full category tree to other subshops.',
-'CATEGORY_MALL_CLICKHEREFORPARENT' => 'Click here to edit parent assignment.',
+'CATEGORY_MALL_ASSIGNONLYPARENTWARNING' => '他のサブショップへのフルカテゴリツリーだけアサインできます。',
+'CATEGORY_MALL_CLICKHEREFORPARENT' => '親のアサインを編集するために、ここをクリックして下さい。',
 'CATEGORY_ORDER_ACTSORT' => '現在のソート',
 'CATEGORY_ORDER_DELETESORT' => 'ソートを削除',
 'CATEGORY_ORDER_NEWSORT' => '新しいソート',

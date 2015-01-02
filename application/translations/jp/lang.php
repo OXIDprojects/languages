@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: hodota (69)
+ * @translators: hodota (88)
  */
 
 $sLangName  = '日本語';
@@ -69,21 +69,21 @@ $aLang = array(
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'VAT（按分的に計算された）を追加',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'ギフトラッピング(net)',
 'BETA_NOTE' => 'リリース候補版へようこそ',
-'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
-'BETA_NOTE_MIDDLE' => ' of OXID eShop ',
+'BETA_NOTE_FAQ' => '. もしご質問がある場合は、我々の %s までお問合せ下さい。',
+'BETA_NOTE_MIDDLE' => 'OXID eShop　の',
 'BIC' => 'BIC',
 'BILLING_ADDRESS' => '請求先住所',
 'BILLING_SHIPPING_SETTINGS' => '請求先と配送先の設定',
 'BIRTHDATE' => '誕生日:',
 'BLOCK_PRICE' => 'ブロック価格',
-'BRAND' => 'Brand',
-'BY_BRAND' => 'By Brand',
-'BY_MANUFACTURER' => 'By Manufacturer',
-'BY_VENDOR' => 'By Distributor',
+'BRAND' => 'ブランド',
+'BY_BRAND' => 'ブランドで',
+'BY_MANUFACTURER' => '製造メーカーで',
+'BY_VENDOR' => '販売業者で',
 'CANCEL' => 'キャンセル',
 'CARD_MASTERCARD' => 'マスターカード',
 'CARD_SECURITY_CODE' => 'CVV2 または CVC2 セキュリティコード:',
-'CARD_SECURITY_CODE_DESCRIPTION' => 'This check digit is printed in reverse italic on the back side of your credit card right above the signature panel.',
+'CARD_SECURITY_CODE_DESCRIPTION' => 'このチェック数字は、あなたのクレジットカードの裏面の署名欄の右上に斜体で記載されています。',
 'CARD_TO' => 'カード to:',
 'CARD_VISA' => 'Visa',
 'CART' => 'カート',

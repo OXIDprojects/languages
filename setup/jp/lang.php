@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: hodota (69)
+ * @translators: hodota (88)
  */
 
 $sLangName  = '日本語';
@@ -37,10 +37,10 @@ $aLang = array(
 'BUTTON_RADIO_INSTALL_DB_DEMO' => 'デモデータをインストール',
 'BUTTON_RADIO_LICENCE_ACCEPT' => '私はライセンス条件を承認します。',
 'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => '私はライセンス条件を承認しません。',
-'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => 'Do <strong>not</strong> install demodata',
-'BUTTON_START_INSTALL' => 'Restart setup',
-'BUTTON_WRITE_DATA' => 'Save and continue',
-'BUTTON_WRITE_LICENCE' => 'Save license key',
+'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => 'デモデータをインストール<strong>しない</strong>',
+'BUTTON_START_INSTALL' => 'セットアップ 再スタート',
+'BUTTON_WRITE_DATA' => '保存し、続ける',
+'BUTTON_WRITE_LICENCE' => 'ライセンスキーを保存',
 'ERROR_BAD_DEMODATA' => 'ERROR: Issue while inserting this SQL statements: ',
 'ERROR_BAD_SERIAL_NUMBER' => 'ERROR: Wrong license key!',
 'ERROR_BAD_SQL' => 'ERROR: Issue while inserting this SQL statements: ',
