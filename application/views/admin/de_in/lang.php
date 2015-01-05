@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: AWIDON (1), dsb (1), marco (4700), simoneschuppe (4), Thielo (1)
+ * @translators: AWIDON (1), dsb (1), marco (4700), patmat2809 (1), simoneschuppe (4), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';
@@ -1713,7 +1713,7 @@ $aLang = array(
 'STASTISTIC_SERVICE_DELETE' => 'Einträge löschen',
 'STASTISTIC_SERVICE_LOGCOUNT' => 'Anzahl Log Einträge',
 'STASTISTIC_SERVICE_OLDER' => 'älter als',
-'SUBJECT_UNABLE_TO_SEND_VIA_CURL' => 'Informationen können nicht via CURL an den OXID Server gesendet werden',
+'SUBJECT_UNABLE_TO_SEND_VIA_CURL' => 'Informationen können nicht via CURL an den OXID-Server gesendet werden',
 'SYSREQ_ALLOW_URL_FOPEN' => 'allow_url_fopen oder fsockopen auf Port 80',
 'SYSREQ_BC_MATH' => 'BCMath',
 'SYSREQ_BUG53632' => 'Mögliche Probleme mit Server durch PHP Bugs',

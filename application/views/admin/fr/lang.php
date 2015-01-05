@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: alexraimondo (1), chatard (318), cowboy9571 (10), ET (10), marco (1), Phenix (202), Rainbow40 (2), rava3000 (8), vikapera (376)
+ * @translators: alexraimondo (1), chatard (318), cowboy9571 (10), ET (10), marco (1), patmat2809 (5), Phenix (202), Rainbow40 (2), rava3000 (8), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -823,7 +823,7 @@ $aLang = array(
 'GENIMPORT_UPLOADFILE' => 'Envoi du fichier',
 'GIFTCARD_COSTS' => 'Carte de voeux.',
 'HELP_ARTICLE_MAIN_PRICE' => 'Ce prix sera hérité par les variantes du même produit.',
-'HELP_SHOP_CONFIG_PARCELSERVICE' => 'Please fill in the tracking URL of your shipping provider. <i>##ID##</i> is a placeholder and will be replaced with the respective tracking number.',
+'HELP_SHOP_CONFIG_PARCELSERVICE' => 'Veuillez saisir l\'URL de tracking de votre livraison. <i>##ID##</i> est un espace réservé qui sera remplacé par le numéro d\'envoi.',
 'HOME_DESC' => 'Bienvenue dans l\'administration de votre boutique OXID eShop.',
 'INFO_MODULES_MOVED_TO_EXTENSIONS' => 'La gestion des thèmes et des modules a été déplacée dans le nouveau menu "Extensions"',
 'invalid_serial' => 'Clé de licence invalide',
@@ -876,7 +876,7 @@ $aLang = array(
 'MODULE_ENTERMODULEID' => 'ID Module',
 'MODULE_ENTERMODULENAME' => 'Nom de l\'extension',
 'MODULE_EXTENSIONISDELETED' => 'Des extensions sont déclarées dans eShop, mais le répertoire de l\'extension n\'existe pas.',
-'MODULE_ID' => 'Module ID',
+'MODULE_ID' => 'ID module',
 'MODULE_PASSWORDS_DO_NOT_MATCH' => 'Les mots de passe ne correspondent pas!',
 'MODULE_PROBLEMATIC_FILES' => 'Fichiers corrompus',
 'MODULE_REPEAT_PASSWORD' => 'Confirmer le mot de passe',
@@ -1021,7 +1021,7 @@ $aLang = array(
 'ORDER_MAIN_SEND_DOWNLOADS' => 'Téléchargements commandés',
 'ORDER_MAIN_SHIPPING_INFORMATION' => 'Information livraison',
 'ORDER_MAIN_TRACKCODE' => 'Code de suivi de livraison',
-'ORDER_MAIN_TRACKCODE_LINK' => 'Tracking link',
+'ORDER_MAIN_TRACKCODE_LINK' => 'Lien au tracking',
 'ORDER_MAIN_UPDATE_DELPAY' => 'Mise à jour',
 'ORDER_MAIN_USERVOUCHER' => 'Bon de réduction utilisé',
 'ORDER_OVERVIEW_DELTYPE' => 'Expédiée par',
@@ -1488,7 +1488,7 @@ $aLang = array(
 'SHOP_MAIN_SMTPPWUNSET' => 'Taper "-" pour désactiver',
 'SHOP_MAIN_SMTPSERVER' => 'SMTP Serveur',
 'SHOP_MAIN_SMTPUSER' => 'SMTP User',
-'SHOP_MAIN_TAXNUMBER' => 'Tax ID',
+'SHOP_MAIN_TAXNUMBER' => 'Numéro d\'identification fiscale',
 'SHOP_MAIN_VATNUMBER' => 'N° de TVA',
 'SHOP_MALL_MALLCUSTOMPRICE' => 'Autoriser modification des prix pour les produits hérités',
 'SHOP_MALL_MALLINHERITANCE' => 'Héritage par défaut de la boutique parente',
@@ -1710,7 +1710,7 @@ $aLang = array(
 'STASTISTIC_SERVICE_DELETE' => 'Supprimer les entrées',
 'STASTISTIC_SERVICE_LOGCOUNT' => 'Nombre d\'entrées de logs',
 'STASTISTIC_SERVICE_OLDER' => 'Avant',
-'SUBJECT_UNABLE_TO_SEND_VIA_CURL' => 'Information cannot be sent to OXID server via CURL',
+'SUBJECT_UNABLE_TO_SEND_VIA_CURL' => 'Il n\'est pas possible d\'envoyer des informations à un serveur OXID via CURL',
 'SYSREQ_ALLOW_URL_FOPEN' => 'allow_url_fopen ou fsockopen utilisent le port 80',
 'SYSREQ_BC_MATH' => 'BCMath',
 'SYSREQ_BUG53632' => 'Problèmes serveurs possibles à cause de bugs PHP',

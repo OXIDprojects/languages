@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: urecheatu007 (313), valdone (189)
+ * @translators: patmat2809 (1), urecheatu007 (313), valdone (189)
  */
 
 $sLangName  = 'Română';
@@ -1915,7 +1915,7 @@ Am detectat alternative de configurare ale serverului imagine, fișierele nu vor
 'TOOLTIPS_NEWACTIONS' => 'Creaza Actiune Noua',
 'TOOLTIPS_NEWADDRESS' => 'Creaza Adresa Noua',
 'TOOLTIPS_NEWARTICLE' => 'Creaza Produs Nou',
-'TOOLTIPS_NEWCATEGORY' => 'Creaza Categorie Noua',
+'TOOLTIPS_NEWCATEGORY' => 'Creaza o categorie noua',
 'TOOLTIPS_NEWCATTREE' => 'Re-Indexeaza Arborele de Categorii',
 'TOOLTIPS_NEWCONTENT' => 'Creaza Continut Nou',
 'TOOLTIPS_NEWCOUNTRY' => 'Creaza Zona Noua',

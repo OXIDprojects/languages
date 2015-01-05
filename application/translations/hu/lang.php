@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: koikaam (227)
+ * @translators: koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -30,19 +30,19 @@ $sLangName  = 'Magyar';
 $aLang = array(
 'charset' => 'utf-8',
 'ACCESSORIES' => 'Kiegészítők',
-'ACCOUNT' => 'Account',
+'ACCOUNT' => 'Fiók',
 'ACCOUNT_INFORMATION' => 'Szamlazasi_informacio',
-'ADD' => 'add',
+'ADD' => 'hozzáfűzni',
 'ADDITIONAL_INFO' => 'Tovabbi_informacio',
 'ADDRESS' => 'Address',
 'ADDRESSES' => 'Cimek',
-'ADD_TAGS' => 'Add tags',
+'ADD_TAGS' => 'Tageket hozzáadni',
 'ADD_THIS_PAGE_TO' => 'Oldal_hozzaadasa_a',
 'ADD_TO_CART' => 'Add to cart',
-'ADD_TO_GIFT_REGISTRY' => 'Add to gift registry',
+'ADD_TO_GIFT_REGISTRY' => 'Kivánságcédulához hozzáadni',
 'ADD_TO_LISTMANIA_LIST' => 'Add to listmania list',
 'ADD_TO_WISH_LIST' => 'Add_a_kivansag_listahoz',
-'ADD_WRAPPING' => 'Add gift wrap',
+'ADD_WRAPPING' => 'Ajándekként becsomagolni',
 'ADD_YOUR_COMMENTS' => 'Hozzaszolas_hozzaadasa',
 'ALL' => 'All',
 'ALL_BRANDS' => 'All Brands',

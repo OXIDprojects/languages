@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: koikaam (227)
+ * @translators: koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -1710,7 +1710,7 @@ $aLang = array(
 'STASTISTIC_SERVICE_DELETE' => 'Delete Entries',
 'STASTISTIC_SERVICE_LOGCOUNT' => 'Number Log Entries',
 'STASTISTIC_SERVICE_OLDER' => 'older than',
-'SUBJECT_UNABLE_TO_SEND_VIA_CURL' => 'Information cannot be sent to OXID server via CURL',
+'SUBJECT_UNABLE_TO_SEND_VIA_CURL' => 'Az OXID szervernek nem lehet küldeni információt CURL által',
 'SYSREQ_ALLOW_URL_FOPEN' => 'allow_url_fopen or fsockopen to port 80',
 'SYSREQ_BC_MATH' => 'BCMath',
 'SYSREQ_BUG53632' => 'Possible issues on server due to PHP Bugs',
@@ -1914,7 +1914,7 @@ $aLang = array(
 'TOOLTIPS_NEWACTIONS' => 'Create new Action',
 'TOOLTIPS_NEWADDRESS' => 'Create new Address',
 'TOOLTIPS_NEWARTICLE' => 'Create New Product',
-'TOOLTIPS_NEWCATEGORY' => 'Create New Category',
+'TOOLTIPS_NEWCATEGORY' => 'Új kategóriát létrehozni',
 'TOOLTIPS_NEWCATTREE' => 'Re-Index Category Tree',
 'TOOLTIPS_NEWCONTENT' => 'Create New Content',
 'TOOLTIPS_NEWCOUNTRY' => 'Create New Country',

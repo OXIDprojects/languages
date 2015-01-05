@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: koikaam (227)
+ * @translators: koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
