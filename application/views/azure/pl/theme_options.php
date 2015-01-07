@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), remiq (27), topconcepts (209)
+ * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), NADi (21), pawelch (1660), remiq (27), topconcepts (209)
  */
 
 $sLangName  = 'Polski';

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), remiq (27), topconcepts (209)
+ * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), NADi (21), pawelch (1660), remiq (27), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -147,7 +147,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_BASKETRESERVATION' => 'Stan magazynowy produktu zmniejszany jest w momencie kiedy zamówienie potwierzdone jest przez użytkownikai proces składania zamówienia jest zakończony.<br><br> Jeśli włączone, stan magazynowy zmniejszany jest już w momencie zamieszczenia go w koszyku, co pozwala na zrobienie <b>rezerwacji</b>',
 'HELP_SHOP_CONFIG_BASKETRESERVATIONTIMEOUT' => 'Czas po jakim rezerwacje są anulowane, czyli koszyk klienta jest czyszczony i przywracany stan magazynowy.',
 'HELP_SHOP_CONFIG_BIDIRECTCROSS' => 'Dzięki produktom powiązanym, można prezentować produkty o podobnej tematyce do danego produktu którymi użytkownik również może być zainteresowany. Np. dla samochodu produktem powiązanym mogą być opony.<br>Jeśli włączone są dwukierunkowe produkty powiązane, również na stronie opon samochód zostanie zaprezentowany.',
-'HELP_SHOP_CONFIG_DEBIT_OLD_BANK_INFORMATION_NOT_ALLOWED' => 'Only IBAN and BIC can be entered during the checkout. Bank account number and the bank code can only be entered if this check box is not activated.',
+'HELP_SHOP_CONFIG_DEBIT_OLD_BANK_INFORMATION_NOT_ALLOWED' => 'Tylko IBAN i BIC może być podany podczas składania zamówienia. Numer rachunku bankowego i kod banku można wprowadzić tylko wtedy, gdy to pole nie jest aktywne.',
 'HELP_SHOP_CONFIG_DELETERATINGLOGS' => 'Jeśli użytwnik raz oceni produkt, nie będzie mógł ocenić go ponownie. Tutaj możesz zdefiniować po ilu dniach możliwe będzie wystawienie kolejnej oceny. Jeśli puste - użytkownik będzie mógł ocenić tylko raz.',
 'HELP_SHOP_CONFIG_DISABLEONLINEVATIDCHECK' => 'Używane do walidacji poprawności numeru NIP',
 'HELP_SHOP_CONFIG_DOWNLOADS' => 'Sklep z produktami do pobrania ze strony.',
@@ -178,7 +178,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_SHOP_CONFIG_FACEBOOKCONFIRM' => 'Dla bezpieczeństwa wyświetlanie infromacji z wtyczek społecznościowych Facebooka musi być potwierdzone.',
 'HELP_SHOP_CONFIG_SHOP_CONFIG_FBSECRETKEY' => 'Z powodów bezpieczeństwa należy podać Secure Key który można uzyskać podczas rejestracji swojej strony na Facebook. Więcej info <a href="http://wiki.oxidforge.org/Tutorials/Connecting_website_to_facebook" target="_blank">tutaj</a>',
 'HELP_SHOP_CONFIG_SHOWTAGS' => 'Jeśli wyłączone, tagi nie będą wyświetlane na stronie.',
-'HELP_SHOP_CONFIG_SHOWTSCODMESSAGE' => 'In the 4th step of the checkout process the CMS page "oxtscodmessage" is additionally displayed.',
+'HELP_SHOP_CONFIG_SHOWTSCODMESSAGE' => 'W 4 kroku procesu zamawiania jest dodatkowo wyświetlana strona "oxtscodmessage".',
 'HELP_SHOP_CONFIG_SHOWTSINTERNATIONALFEESMESSAGE' => 'In the 4th step of the checkout process the CMS page "oxtsinternationalfees" is additionally displayed.',
 'HELP_SHOP_CONFIG_SORTFIELDS' => 'Pola po których można sortować produkty w panelu administracyjnym.<br>Najpopularniejsze:<ul><li>oxtitle = Tytuł</li><li>oxprice = Cena</li><li>oxvarminprice = Najniższa cena jeśli są warianty z różnymi cenami.</li><li>oxartnum = Numer produktu</li><li>oxrating = Oceny produktu</li><li>oxstock = Stan magazynowy</li></ul>',
 'HELP_SHOP_CONFIG_STOCKOFFDEFAULTMESSAGE' => 'Dla każdego produktu może zostać zdefiniowany komunikat jeśli produkt nie jest dostępny na magazynie.',

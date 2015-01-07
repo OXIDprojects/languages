@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), pawelch (1660), remiq (27), topconcepts (209)
+ * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), NADi (21), pawelch (1660), remiq (27), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -876,10 +876,10 @@ $aLang = array(
 'MODULE_ENTERMODULEID' => 'ID modułu',
 'MODULE_ENTERMODULENAME' => 'Nazwa modułu',
 'MODULE_EXTENSIONISDELETED' => 'Istnieją moduły, które są zarejestrowane w eShop ale brakuje katalogu modułu.',
-'MODULE_ID' => 'Module ID',
+'MODULE_ID' => 'ID modułu',
 'MODULE_PASSWORDS_DO_NOT_MATCH' => 'Passwords do not match!',
 'MODULE_PROBLEMATIC_FILES' => 'Problematic files',
-'MODULE_REPEAT_PASSWORD' => 'Confirm password',
+'MODULE_REPEAT_PASSWORD' => 'Potwierdź hasło',
 'MODULE_VERSION' => 'Wersja',
 'MR' => 'Pan',
 'MRS' => 'Pani',
@@ -973,7 +973,7 @@ $aLang = array(
 'none' => 'brak',
 'nonstackable_serial_detected' => 'Nie można dodać nie stosowego klucza licencyjnego. Proszę wstawić najpierw stosowy klucz licencyjnego',
 'NO_PICTURES_CHANGES' => 'Brak zmian zdjęcia',
-'OLC_ERROR_REQUEST_FAILED' => 'Service unavailable, try again later... If this persists, please check that your shop can make outgoing connections.',
+'OLC_ERROR_REQUEST_FAILED' => 'Serwis niedostępny, spróbuj ponownie później... Jeśli problem nie ustępuje sprawdź, czy sklep może wykonywać połączenia wychodzące.',
 'OLC_ERROR_RESPONSE_NOT_VALID' => 'Service unavailable, try again later... If this persists, please check that your shop can make outgoing connections.',
 'OLC_ERROR_RESPONSE_UNEXPECTED' => 'Service unavailable, try again later... If this persists, please check that your shop can make outgoing connections.',
 'OLC_ERROR_SERIAL_NOT_VALID' => 'License key check failed. Try again or contact support if this occurs permanently.',
