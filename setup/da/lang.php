@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: gnomic (792), krumoda (2), topconcepts (811)
+ * @translators: Glagnar (126), gnomic (792), krumoda (2), topconcepts (811)
  */
 
 $sLangName  = 'Dansk';
@@ -67,7 +67,7 @@ $aLang = array(
 'FOOTER_OXID_ESALES' => '© OXID eSales AG 2003 - Y',
 'HEADER_META_MAIN_TITLE' => 'OXID eShop installation wizard',
 'HEADER_TEXT_SETUP_NOT_RUNS_AUTOMATICLY' => 'If setup does not continue in a few seconds, please click ',
-'HERE' => 'here',
+'HERE' => 'her',
 'LOAD_DYN_CONTENT_NOTICE' => '<p>If checkbox is set, you will see an additional menu in the admin area of your OXID eShop.</p><p>In that menu you get further information about eCommerce services like Google product search.</p> <p>You can change these settings at any time.</p>',
 'MOD_ALLOW_URL_FOPEN' => 'allow_url_fopen or fsockopen to port 80',
 'MOD_BC_MATH' => 'BCMath',

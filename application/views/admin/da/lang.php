@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: gnomic (792), krumoda (2), topconcepts (811)
+ * @translators: Glagnar (126), gnomic (792), krumoda (2), topconcepts (811)
  */
 
 $sLangName  = 'Dansk';
@@ -34,14 +34,14 @@ $aLang = array(
 'ACTIONS_MAIN_ALLARTICLES' => 'Alle tilgængelig produkter',
 'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Promoted Products',
 'ACTIONS_MAIN_NOTSELECTED' => 'Vælg fra listen til at foretage ændringer',
-'ADMINGB_LIST_AUTHOR' => 'Author',
+'ADMINGB_LIST_AUTHOR' => 'Forfatter',
 'ADMINGB_LIST_ENTRY' => 'Entry',
-'ADMINGB_LIST_MENUITEM' => 'Customer Information',
+'ADMINGB_LIST_MENUITEM' => 'Kunde Information',
 'ADMINGB_LIST_MENUSUBITEM' => 'Guestbook',
 'ADMINGB_TITLE' => '[OXID Guestbook]',
-'ADMINLINKS_LIST_MENUITEM' => 'Customer Information',
+'ADMINLINKS_LIST_MENUITEM' => 'Kunde Information',
 'ADMINLINKS_LIST_MENUSUBITEM' => 'Links',
-'ADMINLINKS_LIST_TITLE' => '[OXID Links Administration]',
+'ADMINLINKS_LIST_TITLE' => '[OXID Link Administration]',
 'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Select All',
 'ADMIN_MALL_SELECT_NONE_SHOPS' => 'Select none',
 'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b>Note:</b> Alternative image server configuration detected, files will not be uploaded to remote location. Please take care about synchronization manually.',
@@ -263,7 +263,7 @@ $aLang = array(
 'CATEGORY_MAIN_ICON' => 'Icon',
 'CATEGORY_MAIN_ICONUPLOAD' => 'Upload Icon',
 'CATEGORY_MAIN_ITEMSINCATEGORY' => 'Products in this Category',
-'CATEGORY_MAIN_NONE' => '-- none --',
+'CATEGORY_MAIN_NONE' => '-- ingen --',
 'CATEGORY_MAIN_PARENTID' => 'Subcategory of',
 'CATEGORY_MAIN_PRICEFROMTILL' => 'Price from/to',
 'CATEGORY_MAIN_PROMOTION_ICON' => 'Icon for promotions',
@@ -570,7 +570,7 @@ $aLang = array(
 'GENERAL_ARTICLE_OXNOSTOCKTEXT' => 'Out-Of-Stock Mess.',
 'GENERAL_ARTICLE_OXORDERINFO' => 'Order Info',
 'GENERAL_ARTICLE_OXPARENTID' => 'Identno. Main Product',
-'GENERAL_ARTICLE_OXPIC1' => 'Picture1',
+'GENERAL_ARTICLE_OXPIC1' => 'Billede1',
 'GENERAL_ARTICLE_OXPIC10' => 'Picture10',
 'GENERAL_ARTICLE_OXPIC11' => 'Picture11',
 'GENERAL_ARTICLE_OXPIC12' => 'Picture12',
@@ -881,8 +881,8 @@ $aLang = array(
 'MODULE_PROBLEMATIC_FILES' => 'Problematic files',
 'MODULE_REPEAT_PASSWORD' => 'Confirm password',
 'MODULE_VERSION' => 'Version',
-'MR' => 'Mr',
-'MRS' => 'Mrs',
+'MR' => 'Hr',
+'MRS' => 'Fru',
 'mxactions' => 'Promotions',
 'mxarticles' => 'Products',
 'mxattributes' => 'Attributes',

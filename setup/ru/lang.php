@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1279), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1311), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -123,7 +123,7 @@ $aLang = array(
 'STEP_1_DESC' => 'Welcome to installation wizard of OXID eShop',
 'STEP_1_TEXT' => 'Please read carefully the following instructions to guarantee a smooth installation.
                                                     Wishes for best success in using your OXID eShop by',
-'STEP_1_TITLE' => 'Welcome',
+'STEP_1_TITLE' => 'добро пожаловать',
 'STEP_2_TITLE' => 'License conditions',
 'STEP_3_1_CREATING_TABLES' => 'Creating tables, applying data ...',
 'STEP_3_1_DB_CONNECT_IS_OK' => 'Database connection successfully tested ...',
