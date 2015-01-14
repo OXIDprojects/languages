@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1311), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1316), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -383,7 +383,7 @@ $aLang = array(
 'DISCOUNT_MAIN_REBATE' => 'Скидка',
 'DISCOUNT_USERS_ALLUSERSINGROUP' => 'Все пользователи',
 'DISCOUNT_USERS_SETGROUPS' => 'заданные группы пользователей',
-'DISCOUNT_USERS_SETUSER' => 'Assigned Users',
+'DISCOUNT_USERS_SETUSER' => 'Назначенные пользователи',
 'DYNBASE_ADDCATTOCAMPAIGN' => 'Добавить категорию к параметрам кампании',
 'DYNBASE_DO_LINK' => 'Партнер также скачать этот файл самостоятельно - пожалуйста отправьте ему следующую ссылку:',
 'DYNBASE_DO_SUCCESS' => 'Успех! Пожалуйста, скачите ваш експорт файл <a href="%s" target="_blank">здесь</a>',
@@ -483,7 +483,7 @@ $aLang = array(
 'EXCEPTION_FILEUPLOADERROR_4' => 'Файл не был загружен',
 'EXCEPTION_FILEUPLOADERROR_6' => 'Временная папка недоступна',
 'EXCEPTION_FILEUPLOADERROR_7' => 'Опечатка',
-'EXCEPTION_FILEUPLOADERROR_8' => 'File upload stopped by extension',
+'EXCEPTION_FILEUPLOADERROR_8' => 'Инвалидное расширение файла',
 'EXCEPTION_MODULE_NOT_LOADED' => 'Не можно было загружить модуль',
 'EXCEPTION_NODESCRIPTIONADDED' => 'Пожалуйста, введите описание',
 'EXCEPTION_NOFILE' => 'Нет загружённых файлов',
@@ -501,7 +501,7 @@ $aLang = array(
 'FAVORITES_DESC' => 'Описание избранного',
 'fullDateFormat' => 'd M Y H:i:s',
 'GENERAL_ACTIVE' => 'Активно',
-'GENERAL_ACTIVFROMTILL' => 'Активно с-до',
+'GENERAL_ACTIVFROMTILL' => 'Активнo за период',
 'GENERAL_ACTIVTITLE' => 'A',
 'GENERAL_ADMIN_TITLE' => '[Администрирование магазина OXID]',
 'GENERAL_AJAX_ASSIGNALL' => 'Выбрать все',
@@ -639,7 +639,7 @@ $aLang = array(
 'GENERAL_ARTICLE_OXZOOM4' => 'Большая 4',
 'GENERAL_ARTICLE_PICTURES' => 'Изображения продукта',
 'GENERAL_ARTNUM' => 'Кат. номер (артикул)',
-'GENERAL_ASSIGNARTICLE' => 'Assign Product',
+'GENERAL_ASSIGNARTICLE' => 'Назначить продукт',
 'GENERAL_ASSIGNARTICLES' => 'Назначить товары',
 'GENERAL_ASSIGNCATEGORIES' => 'Назначить категории',
 'GENERAL_ASSIGNCOUNTRIES' => 'Назначить страны',
@@ -796,7 +796,7 @@ $aLang = array(
 'GENEXPORT_EXPORTEDITEMS' => 'Экспортируемые товары:',
 'GENEXPORT_EXPRUNNING' => 'Экспорт работает.',
 'GENEXPORT_MENUITEM' => 'Сервис',
-'GENEXPORT_MENUSUBITEM' => 'Product Export',
+'GENEXPORT_MENUSUBITEM' => 'Общий экспорт продуктов',
 'GENIMPORT_ASSIGNFIELDS' => 'CSV-поля таблицы',
 'GENIMPORT_BEGINIMPORT' => 'Начать импорт',
 'GENIMPORT_CSVFILE' => 'CSV фаил',
