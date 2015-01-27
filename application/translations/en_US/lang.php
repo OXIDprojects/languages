@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: marco (3620)
+ * @translators: marco (3621)
  */
 
 $sLangName  = 'American English';
@@ -308,7 +308,7 @@ $aLang = array(
 'LOADING' => 'Loading...',
 'LOGIN' => 'Login',
 'LOGIN_ALREADY_CUSTOMER' => 'If you are already our customer, please login using your e-mail address and password:',
-'LOGIN_DESCRIPTION' => 'Please login using your e-mail address or customer number and your password.',
+'LOGIN_DESCRIPTION' => 'Please login using your e-mail address and your password.',
 'LOGIN_TO_ACCESS_GIFT_REGISTRY' => 'Please login to access your Gift Registry.',
 'LOGIN_TO_ACCESS_LISTMANIA' => 'Please login to access Listmania List.',
 'LOGIN_TO_ACCESS_WISH_LIST' => 'Please login to access Wish List.',

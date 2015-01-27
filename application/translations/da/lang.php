@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: flohthuka (184), Glagnar (126), gnomic (792), krumoda (2), topconcepts (811)
+ * @translators: flohthuka (219), Glagnar (126), gnomic (792), krumoda (2), topconcepts (811)
  */
 
 $sLangName  = 'Dansk';
@@ -40,7 +40,7 @@ $aLang = array(
 'ADD_THIS_PAGE_TO' => 'Bookmark hos',
 'ADD_TO_CART' => 'tilføj til indkøbskurv',
 'ADD_TO_GIFT_REGISTRY' => 'Tilføj til gaveliste',
-'ADD_TO_LISTMANIA_LIST' => 'Add to Listmania List',
+'ADD_TO_LISTMANIA_LIST' => 'Tilføj til favoritliste',
 'ADD_TO_WISH_LIST' => 'Føj til ønskeseddel',
 'ADD_WRAPPING' => 'Indpakket som gave',
 'ADD_YOUR_COMMENTS' => 'Din meddelelse',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1316), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
+ * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1317), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -308,7 +308,7 @@ $aLang = array(
 'LOADING' => 'Загрузка...',
 'LOGIN' => 'Войти',
 'LOGIN_ALREADY_CUSTOMER' => 'Если Вы уже зарегистрированы у нас, введите здесь Ваш логин и пароль',
-'LOGIN_DESCRIPTION' => 'Пожалуйста, авторизуйтесь с помощью Вашего логина/номера покупател и пароля.',
+'LOGIN_DESCRIPTION' => 'Пожалуйста, авторизуйтесь с помощью Вашего логина и пароля.',
 'LOGIN_TO_ACCESS_GIFT_REGISTRY' => 'Авторизуйтесь чтобы посмотреть список желаний.',
 'LOGIN_TO_ACCESS_LISTMANIA' => 'Авторизуйтесь чтобы посмотреть список избранного.',
 'LOGIN_TO_ACCESS_WISH_LIST' => 'Авторизуйтесь чтобы посмотреть заметки.',
