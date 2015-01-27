@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), NADi (21), pawelch (1660), remiq (27), topconcepts (209)
+ * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), NADi (21), pawelch (1660), pkoper (20), remiq (27), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -535,7 +535,7 @@ $aLang = array(
 'GENERAL_AJAX_UNASSIGNALL' => 'Usuń wszystkie powiązania',
 'GENERAL_ALLGROUPS2' => 'Wszystkie grupy użytkowników',
 'GENERAL_ALLITEMS' => 'Wszystkie dostępne produkty',
-'GENERAL_ALWAYS_ACTIVE' => 'Always active',
+'GENERAL_ALWAYS_ACTIVE' => 'Zawsze aktywne',
 'GENERAL_ARTICLE_OXACTIVE' => 'Aktywny',
 'GENERAL_ARTICLE_OXACTIVEFROM' => 'Aktywny od',
 'GENERAL_ARTICLE_OXACTIVETO' => 'Aktywny do',
@@ -877,8 +877,8 @@ $aLang = array(
 'MODULE_ENTERMODULENAME' => 'Nazwa modułu',
 'MODULE_EXTENSIONISDELETED' => 'Istnieją moduły, które są zarejestrowane w eShop ale brakuje katalogu modułu.',
 'MODULE_ID' => 'ID modułu',
-'MODULE_PASSWORDS_DO_NOT_MATCH' => 'Passwords do not match!',
-'MODULE_PROBLEMATIC_FILES' => 'Problematic files',
+'MODULE_PASSWORDS_DO_NOT_MATCH' => 'Hasła są różne!',
+'MODULE_PROBLEMATIC_FILES' => 'Problematyczne pliki',
 'MODULE_REPEAT_PASSWORD' => 'Potwierdź hasło',
 'MODULE_VERSION' => 'Wersja',
 'MR' => 'Pan',
@@ -974,9 +974,9 @@ $aLang = array(
 'nonstackable_serial_detected' => 'Nie można dodać nie stosowego klucza licencyjnego. Proszę wstawić najpierw stosowy klucz licencyjnego',
 'NO_PICTURES_CHANGES' => 'Brak zmian zdjęcia',
 'OLC_ERROR_REQUEST_FAILED' => 'Serwis niedostępny, spróbuj ponownie później... Jeśli problem nie ustępuje sprawdź, czy sklep może wykonywać połączenia wychodzące.',
-'OLC_ERROR_RESPONSE_NOT_VALID' => 'Service unavailable, try again later... If this persists, please check that your shop can make outgoing connections.',
+'OLC_ERROR_RESPONSE_NOT_VALID' => 'Serwis niedostępny, proszę spróbować później... Jeśli problem nie ustępuje, proszę sprawdzić, czy sklep może nawiązywać połączenia wychodzące.',
 'OLC_ERROR_RESPONSE_UNEXPECTED' => 'Service unavailable, try again later... If this persists, please check that your shop can make outgoing connections.',
-'OLC_ERROR_SERIAL_NOT_VALID' => 'License key check failed. Try again or contact support if this occurs permanently.',
+'OLC_ERROR_SERIAL_NOT_VALID' => 'Nieprawidłowy klucz licencyjny. Proszę spróbować ponownie lub skontaktować się z supportem, jeżeli problem nie ustępuje.',
 'OMVN_ERROR_REQUEST_FAILED' => 'Service unavailable, try again later... If this persists, please check that your shop can make outgoing connections.',
 'order' => 'Zamówienie',
 'ORDERFOLDER_FINISHED' => 'Gotowy',
@@ -1021,7 +1021,7 @@ $aLang = array(
 'ORDER_MAIN_SEND_DOWNLOADS' => 'Zamówione linki do pobrania',
 'ORDER_MAIN_SHIPPING_INFORMATION' => 'Informacje o dostawie',
 'ORDER_MAIN_TRACKCODE' => 'Kod śledzenia',
-'ORDER_MAIN_TRACKCODE_LINK' => 'Tracking link',
+'ORDER_MAIN_TRACKCODE_LINK' => 'Link śledzący',
 'ORDER_MAIN_UPDATE_DELPAY' => 'Aktualizuj',
 'ORDER_MAIN_USERVOUCHER' => 'Używany kupon',
 'ORDER_OVERVIEW_DELTYPE' => 'Dostarczana z',
