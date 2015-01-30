@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: marco (3621)
+ * @translators: marco (3622)
  */
 
 $sLangName  = 'American English';
@@ -685,7 +685,7 @@ $aLang = array(
 'SIMILAR_PRODUCTS' => 'Similar Products',
 'simpleDateFormat' => 'Y-m-d',
 'SOCIAL_BOOKMARKS' => 'Social Bookmarks',
-'SORT_BY' => 'Sort by:',
+'SORT_BY' => 'Sort by',
 'SPECIFICATION' => 'Specification',
 'STAR' => 'Star',
 'STARS' => 'Stars',

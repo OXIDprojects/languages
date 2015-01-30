@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: ET (30), gvlimpt (97), hoekie (28), marco (932), topconcepts (111)
+ * @translators: ET (30), gvlimpt (97), hoekie (37), marco (932), topconcepts (111)
  */
 
 $sLangName  = 'Nederlands';
@@ -273,7 +273,7 @@ $aLang = array(
 'HITS_FOR' => 'Resultaten voor',
 'HOME' => 'Startpagina',
 'IBAN' => 'IBAN:',
-'IF_DIFFERENT_FROM_BILLING_ADDRESS' => 'If different from billing address.',
+'IF_DIFFERENT_FROM_BILLING_ADDRESS' => 'Indien afwijkend van rekeningsadres.',
 'IMPRESSUM' => 'Colofon',
 'INCLUDE_VAT' => 'incl. VAT',
 'INCL_TAX_AND_PLUS_SHIPPING' => '* Alle prijzen zijn incl. btw en excl. verzendkosten.',
@@ -370,7 +370,7 @@ $aLang = array(
 'MESSAGE_RATE_THIS_ARTICLE' => 'Geef uw menig over dit artikel!',
 'MESSAGE_READ_DETAILS' => 'Lees hier meer details over',
 'MESSAGE_RECOMMEND_CLICK_ON_SEND' => 'Klik op "aanbeveling versturen" en verstuur dan de e-mail',
-'MESSAGE_SELECT_AT_LEAST_ONE_PRODUCT' => 'Please select at least one product!',
+'MESSAGE_SELECT_AT_LEAST_ONE_PRODUCT' => 'Kies a.u.b. tenminste één artikel!',
 'MESSAGE_SELECT_MORE_PRODUCTS' => 'Please select products for comparison!',
 'MESSAGE_SEND_GIFT_REGISTRY' => 'Klik hier, om uw verlanglijstje naar uw vrienden te sturen.',
 'MESSAGE_SENT_CONFIRMATION_EMAIL' => 'Wij hebben u zojuist een e-mail gestuurd, waarmee u de nieuwsbrief kunt activeren.<br>Dank u!<br>',
@@ -456,7 +456,7 @@ $aLang = array(
 'ORDER_HISTORY' => 'Bestelgeschiedenis',
 'ORDER_IS_CANCELED' => 'Bestelling is geannuleerd!',
 'ORDER_NUMBER' => 'Bestelnr.',
-'ORDER_SHIPPED_TO' => 'The order is shipped to',
+'ORDER_SHIPPED_TO' => 'De bestelling wordt verstuurd naar',
 'OUR_BRANDS' => 'onze merken',
 'OUR_REGULAR_PRICE' => '(onze normale prijs.)',
 'OXACTIVE' => 'Actief',
@@ -612,7 +612,7 @@ $aLang = array(
 'PRODUCT_IMAGES' => 'Productfoto',
 'PRODUCT_NO' => 'Art.No.:',
 'PRODUCT_POST_CARD_FROM' => 'Artikel-wenskaart van',
-'PRODUCT_RATING' => 'Product Rating',
+'PRODUCT_RATING' => 'Artikel beoordelen',
 'PRODUCT_REVIEW' => 'Prod. beoordelen',
 'PROPORTIONALLY_CALCULATED' => 'deels berekend',
 'PUBLIC_GIFT_REGISTRIES' => 'Openbaar verlanglijstje',
@@ -670,7 +670,7 @@ $aLang = array(
 'SEND_INVITE_TO' => 'Uitnodiging sturen aan:',
 'SERVICES' => 'Service',
 'SHIPMENT_TO' => 'Leveren aan:',
-'SHIPMENT_TRACKING' => 'Your shipment tracking URL',
+'SHIPMENT_TRACKING' => 'Uw track&trace link',
 'SHIPPED' => 'Verzonden!',
 'SHIPPING' => 'Verzenden:',
 'SHIPPING_ADDRESS' => 'Afleveradres',
@@ -681,7 +681,7 @@ $aLang = array(
 'SHIPPING_VAT2' => '% bedrag:',
 'SHOPLUPE' => 'Shop vergrootglas',
 'SHOP_SUGGEST_BUY_FOR_ME' => 'Hi, I created a Gift Registry at %s . Great if you could buy something for me.',
-'SHOP_SUGGEST_MESSAGE' => 'Hello, I was looking at %s today and found something that might be interesting for you. Just click on the link below and you will be directed to the shop.',
+'SHOP_SUGGEST_MESSAGE' => 'Hallo, vandaag was ik op %s en vond daar iets wat voor jou interessant zijn kan. Ga via de onderstaande link direct naar de shop.',
 'SIMILAR_PRODUCTS' => 'Bijpassende producten',
 'simpleDateFormat' => 'Y-m-d',
 'SOCIAL_BOOKMARKS' => 'Social Bookmarks',
@@ -783,7 +783,7 @@ $aLang = array(
 'YOUR_PREVIOUS_ORDER' => 'Uw vorige bestellingen',
 'YOUR_PRICE' => 'Uw prijs',
 'YOUR_REVIEW' => 'Your review',
-'YOUR_TEAM' => 'Your %s Team',
+'YOUR_TEAM' => 'Uw %s team',
 'YOU_ARE_HERE' => 'U bent nu hier',
 'YOU_CAN_GO' => 'U kunt nu',
 'ZOOM' => 'Zoom',

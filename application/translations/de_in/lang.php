@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: AWIDON (1), dsb (1), marco (4703), patmat2809 (1), simoneschuppe (4), Thielo (1)
+ * @translators: AWIDON (1), dsb (1), marco (4706), patmat2809 (1), simoneschuppe (4), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';
@@ -685,7 +685,7 @@ $aLang = array(
 'SIMILAR_PRODUCTS' => 'Ähnliche Produkte',
 'simpleDateFormat' => 'd.m.Y',
 'SOCIAL_BOOKMARKS' => 'Social Bookmarks',
-'SORT_BY' => 'Sortierung:',
+'SORT_BY' => 'Sortierung',
 'SPECIFICATION' => 'Spezifikation',
 'STAR' => 'Stern',
 'STARS' => 'Sterne',

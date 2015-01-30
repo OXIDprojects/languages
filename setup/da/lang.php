@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: flohthuka (219), Glagnar (126), gnomic (792), krumoda (2), topconcepts (811)
+ * @translators: flohthuka (322), Glagnar (126), gnomic (792), krumoda (2), topconcepts (811)
  */
 
 $sLangName  = 'Dansk';
@@ -30,10 +30,10 @@ $sLangName  = 'Dansk';
 $aLang = array(
 'charset' => 'utf-8',
 'ATTENTION' => 'Attention, important',
-'BUTTON_BEGIN_INSTALL' => 'Start installation',
+'BUTTON_BEGIN_INSTALL' => 'Begynd shopinstallationen',
 'BUTTON_DB_INSTALL' => 'Opret ny database nu',
 'BUTTON_LICENCE' => 'Fortsæt',
-'BUTTON_PROCEED_INSTALL' => 'Proceed with setup',
+'BUTTON_PROCEED_INSTALL' => 'Start setup',
 'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Install demodata',
 'BUTTON_RADIO_LICENCE_ACCEPT' => 'I accept license conditions.',
 'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'I do not accept license conditions.',
