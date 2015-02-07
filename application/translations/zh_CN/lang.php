@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: edychang (31), neolid  (1), zhuangtown (2)
+ * @translators: edychang (31), mudid (4), neolid  (1), zhuangtown (2)
  */
 
 $sLangName  = '中文';
@@ -40,7 +40,7 @@ $aLang = array(
 'ADD_THIS_PAGE_TO' => '将该页添加到',
 'ADD_TO_CART' => '添加到购物车',
 'ADD_TO_GIFT_REGISTRY' => '添加到礼品登记',
-'ADD_TO_LISTMANIA_LIST' => 'Add to listmania list',
+'ADD_TO_LISTMANIA_LIST' => '加入列表',
 'ADD_TO_WISH_LIST' => '加入我喜欢的列表',
 'ADD_WRAPPING' => '添加礼品包装',
 'ADD_YOUR_COMMENTS' => '您的宝贵意见',
@@ -48,8 +48,8 @@ $aLang = array(
 'ALL_BRANDS' => '所有品牌',
 'ALL_LISTMANIA' => '所有列表',
 'ALREADY_ADDED_TAG' => '你已经标记了这段文档',
-'ALREADY_CUSTOMER' => 'I am already a customer',
-'APPLAY' => 'Apply',
+'ALREADY_CUSTOMER' => '已注册用户',
+'APPLAY' => '确定',
 'ARTNUM' => 'Product number',
 'ATENTION_GREETING_CARD' => 'Attention - greeting card!',
 'AUTHOR' => 'Author',

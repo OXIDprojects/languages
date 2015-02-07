@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: edychang (31), neolid  (1), zhuangtown (2)
+ * @translators: edychang (31), mudid (4), neolid  (1), zhuangtown (2)
  */
 
 $sLangName  = '中文';

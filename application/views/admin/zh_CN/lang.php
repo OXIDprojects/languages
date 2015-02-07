@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: edychang (31), neolid  (1), zhuangtown (2)
+ * @translators: edychang (31), mudid (4), neolid  (1), zhuangtown (2)
  */
 
 $sLangName  = '中文';
@@ -43,7 +43,7 @@ $aLang = array(
 'ADMINLINKS_LIST_MENUSUBITEM' => '链接',
 'ADMINLINKS_LIST_TITLE' => '[OXID链接管理]',
 'ADMIN_MALL_SELECT_ALL_SHOPS' => '选中所有',
-'ADMIN_MALL_SELECT_NONE_SHOPS' => 'Select none',
+'ADMIN_MALL_SELECT_NONE_SHOPS' => '不选',
 'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b>Note:</b> Alternative image server configuration detected, files will not be uploaded to remote location. Please take care about synchronization manually.',
 'amount' => 'Amount',
 'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => 'Assign Attributes',
