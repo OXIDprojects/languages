@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: dsb (1), ET (26), FlashLight (13), lidija (235), markm (114), rhspro (2)
+ * @translators: dsb (1), ET (26), FlashLight (13), lidija (235), markm (407), rhspro (2)
  */
 
 $sLangName  = 'Slovenščina';
@@ -29,47 +29,60 @@ $sLangName  = 'Slovenščina';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'HELP_SHOP_THEME_blShowListDisplayType' => 'Decide if the visitor of your store can select the type of the product list in store front. If this options is not activated, your visitors will see the lists displayed like you adjusted in the drop box "Default product list type".',
-'HELP_SHOP_THEME_iNewBasketItemMessage' => 'When customer adds products to cart, OXID eShop can behave differently. Set up what shall happen to give proper feedback to customer.',
-'HELP_SHOP_THEME_sCatIconsize' => 'In category view, the category pictures of subcategories are displayed in the defined size.',
-'HELP_SHOP_THEME_sCatPromotionsize' => 'Category promotion on start page needs special size for category pictures. Define size of those pictures here.',
-'HELP_SHOP_THEME_sCatThumbnailsize' => 'In category view, the picture of the selected category is displayed in the defined size.',
-'HELP_SHOP_THEME_sIconsize' => 'Product icons are the smallest pictures of a product. They are used: <br><ul><li>in the shopping cart.</li><li>if products are shown in the right menu (e.g. in <span class="filename_filepath_or_italic">TOP of the Shop</span> and <span class="filename_filepath_or_italic">Bargain</span>).</li></ul>For avoiding design issues caused by too big icons the icons are resized. Enter the maximum size for icons here.',
-'HELP_SHOP_THEME_sManufacturerIconsize' => 'Manufacturer\'s/brand logo is shown on start page in manufacturer\'s slider.',
-'HELP_SHOP_THEME_sThumbnailsize' => 'Product thumbnails are small product pictures. They are used:<br><ul><li>in product lists.</li><li>in promotions displayed in the middle of the front page, e. g. <span class="filename_filepath_or_italic">Just arrived!</span>.</li></ul>For avoiding design issues caused by too big thumbnails the thumbnails are resized. Enter the maximum size for thumbnails here.',
-'SHOP_THEME_aDetailImageSizes' => 'Product picture size (width*height)',
-'SHOP_THEME_aNrofCatArticles' => 'Number of products which can be shown in a product lists (category pages, search results)<br><br>Attention: A large number of products per page (above 100) can cause performance loss!',
-'SHOP_THEME_aNrofCatArticlesInGrid' => 'Grid view: Number of products which can be shown in a product lists (category pages, search results)<br><br>Attention: A large number of products per page (above 100) can cause performance loss!',
-'SHOP_THEME_blShowBirthdayFields' => 'Display input fields for date of birth when users enter their personal data',
-'SHOP_THEME_blShowListDisplayType' => 'Display product list type selector',
-'SHOP_THEME_bl_showCompareList' => 'Use compare list',
-'SHOP_THEME_bl_showGiftWrapping' => 'Use gift wrapping',
-'SHOP_THEME_bl_showListmania' => 'Use listmania',
-'SHOP_THEME_bl_showOpenId' => 'Use Open ID',
-'SHOP_THEME_bl_showVouchers' => 'Use vouchers',
-'SHOP_THEME_bl_showWishlist' => 'Use gift registry',
-'SHOP_THEME_GROUP_display' => 'Display',
-'SHOP_THEME_GROUP_features' => 'Features',
-'SHOP_THEME_GROUP_images' => 'Images',
-'SHOP_THEME_iNewBasketItemMessage' => 'Select action when product is added to cart',
-'SHOP_THEME_iNewBasketItemMessage_0' => 'None',
-'SHOP_THEME_iNewBasketItemMessage_1' => 'Display message',
-'SHOP_THEME_iNewBasketItemMessage_2' => 'Open popup',
-'SHOP_THEME_iNewBasketItemMessage_3' => 'Open basket',
-'SHOP_THEME_iTopNaviCatCount' => 'Amount of categories that is displayed at top',
-'SHOP_THEME_sCatIconsize' => 'Size of a subcategory\'s icon (width*height)',
-'SHOP_THEME_sCatPromotionsize' => 'Category picture size for promotion on startpage (width*height)',
-'SHOP_THEME_sCatThumbnailsize' => 'Category thumbnail size (width*height)',
-'SHOP_THEME_sDefaultListDisplayType' => 'Default product list type',
-'SHOP_THEME_sDefaultListDisplayType_grid' => 'Grid',
-'SHOP_THEME_sDefaultListDisplayType_infogrid' => 'Double grid',
-'SHOP_THEME_sDefaultListDisplayType_line' => 'List',
-'SHOP_THEME_sIconsize' => 'Product icon size (width*height)',
-'SHOP_THEME_sManufacturerIconsize' => 'Manufacturer\'s/brand logo size',
-'SHOP_THEME_sStartPageListDisplayType' => 'Product list type on Start page',
-'SHOP_THEME_sStartPageListDisplayType_grid' => 'Grid',
-'SHOP_THEME_sStartPageListDisplayType_infogrid' => 'Double grid',
-'SHOP_THEME_sStartPageListDisplayType_line' => 'List',
-'SHOP_THEME_sThumbnailsize' => 'Product thumbnail size (width*height)',
-'SHOP_THEME_sZoomImageSize' => 'Product zoom picture size (width*height)',
+'HELP_SHOP_THEME_blShowListDisplayType' => 'Določite, če lahko obiskovalci sami izbirajo prikazne tipe seznamov. Če ta opcija ni aktivna, bodo obiskovalcem vidni tipi seznamov, kot ste jih določili v možnosti "Privzeti tip prikaza seznama izdelkov".',
+'HELP_SHOP_THEME_iNewBasketItemMessage' => 'Ko kupec doda izdelek v košarico, mu lahko OXID trgovina vrne različne povratne informacije. Z nastavitvami lahko te povratne informacije spreminjate.',
+'HELP_SHOP_THEME_sCatIconsize' => 'V pogledu kategorije so slike podkategorij prikazane v določeni velikosti.',
+'HELP_SHOP_THEME_sCatPromotionsize' => 'Promocija kategorije na začetni strani mora imeti posebno velikost slik. Določite velikost teh slik tukaj.',
+'HELP_SHOP_THEME_sCatThumbnailsize' => 'V pogledu kategorije je slika izbrane kategorije prikazana v določeni velikosti.',
+'HELP_SHOP_THEME_sIconsize' => 'Sličice izdelka (ikone) so najmanjše slike izdelka. 
+<br><ul>
+<li>Prikazane so v nakupovalni košarici.</li>
+<li>v desnem meniju (če je ta omogočen) <span class="filename_filepath_or_italic">TOP of the Shop</span> in v odseku <span class="filename_filepath_or_italic">Kupčija (Bargain)</span></li>
+</ul>
+
+Tem sličicam se velikost avtomatsko spremeni. Vnesite maksimalno velikost za te sličice.',
+'HELP_SHOP_THEME_sManufacturerIconsize' => 'Pokaži logotipe proizvajalcev/znamk v sliderju na začetni strani.',
+'HELP_SHOP_THEME_sThumbnailsize' => 'Sličice izdelka (thumbnail) so majhne slike izdelka, večje od ikon. Vidne so:
+<ul>
+<li>v seznamih izdelkov</li>
+<li>v promocijah na sredini začetne strani <span class="filename_filepath_or_italic">Just arrived!</span></li>
+
+</ul>
+
+Tudi tem sličicam (thumbnail) se velikost avtomatsko spremeni. Vnesite maksimalno velikost za te (thumbnail ) sličice.',
+'SHOP_THEME_aDetailImageSizes' => 'Velikost slike izdelka (širina*višina)',
+'SHOP_THEME_aNrofCatArticles' => 'Število izdelkvo, ki je prikazano v seznamih izdelkov(kategorije, rezultati iskanja, ...)<br><br>Pozor: Večje število prikazanih izdelkov na stran (100 ali več) lahko negativno vpliva na hitrost delovanja!',
+'SHOP_THEME_aNrofCatArticlesInGrid' => 'Mreža izdelkov: Število izdelkvo, ki je prikazano v seznamih izdelkov(kategorije, rezultati iskanja, ...)<br><br>Pozor: Večje število prikazanih izdelkov na stran (100 ali več) lahko negativno vpliva na hitrost delovanja!',
+'SHOP_THEME_blShowBirthdayFields' => 'Pri vnosu osebnih podatkov pokaži polja za datum rojstva',
+'SHOP_THEME_blShowListDisplayType' => 'Prikaži izbiro tipa seznama izdelkov.',
+'SHOP_THEME_bl_showCompareList' => 'Uporabi seznam za primerjanje',
+'SHOP_THEME_bl_showGiftWrapping' => 'Uporabi možnost darilnega zavijanja',
+'SHOP_THEME_bl_showListmania' => 'Uporabi Listmanio',
+'SHOP_THEME_bl_showOpenId' => 'Uporabi Open ID',
+'SHOP_THEME_bl_showVouchers' => 'Uporabi kupone',
+'SHOP_THEME_bl_showWishlist' => 'Uporabi register daril',
+'SHOP_THEME_GROUP_display' => 'Prikaz',
+'SHOP_THEME_GROUP_features' => 'Lastnosti',
+'SHOP_THEME_GROUP_images' => 'Slike',
+'SHOP_THEME_iNewBasketItemMessage' => 'Izberite dejanje, ko se izdelek doda v košarico',
+'SHOP_THEME_iNewBasketItemMessage_0' => 'Nobeden',
+'SHOP_THEME_iNewBasketItemMessage_1' => 'Pokaži sporočilo',
+'SHOP_THEME_iNewBasketItemMessage_2' => 'Odpri pojavno okno',
+'SHOP_THEME_iNewBasketItemMessage_3' => 'Odpri košarico',
+'SHOP_THEME_iTopNaviCatCount' => 'Število kategorij, prikazanih na vrhu',
+'SHOP_THEME_sCatIconsize' => 'Velikost ikon podkategorij (širina*višina)',
+'SHOP_THEME_sCatPromotionsize' => 'Velikost slike kategorije za promocije na začetni strani (širina*višina)',
+'SHOP_THEME_sCatThumbnailsize' => 'Velikost sličice kategorije (thumbnail) (širina*višina)',
+'SHOP_THEME_sDefaultListDisplayType' => 'Privzeti tip prikaza seznama izdelkov',
+'SHOP_THEME_sDefaultListDisplayType_grid' => 'Mreža',
+'SHOP_THEME_sDefaultListDisplayType_infogrid' => 'Dvojna mreža',
+'SHOP_THEME_sDefaultListDisplayType_line' => 'Seznam',
+'SHOP_THEME_sIconsize' => 'Velikost ikone izdelka (širina*višina)',
+'SHOP_THEME_sManufacturerIconsize' => 'Velikost logotipa proizvajalca/blagovne znamke',
+'SHOP_THEME_sStartPageListDisplayType' => 'Tip prikaza sezanama izdelkov na začetni strani (Start page)',
+'SHOP_THEME_sStartPageListDisplayType_grid' => 'Mreža',
+'SHOP_THEME_sStartPageListDisplayType_infogrid' => 'Dvojna mreža',
+'SHOP_THEME_sStartPageListDisplayType_line' => 'Seznam',
+'SHOP_THEME_sThumbnailsize' => 'Velikost sličice izdelka (thumbnail) (širina*višina)',
+'SHOP_THEME_sZoomImageSize' => 'Velikost povečane slike izdelka (zoom)',
 );
