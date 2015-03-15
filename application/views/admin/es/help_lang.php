@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1338), Espana (5), ET (219), jmatos (31), jsmaster (6), kai.gazmaga (3), mvirolde (8), nuelgoz (156), Sweetlana (2)
+ * @translators: afimage (504), diegotech (7), djraptor (1368), Espana (5), ET (219), jmatos (31), jsmaster (6), kai.gazmaga (3), mvirolde (8), nuelgoz (156), Sweetlana (2)
  */
 
 $sLangName  = 'Español';
@@ -36,7 +36,7 @@ $aLang = array(
 'HELP_ARTICLE_EXTEND_ISCONFIGURABLE' => 'Si el producto se puede personalizar un campo de entrada adicional se muestra en la página de detalles de los productos y en la cesta de la compra. Aquí los clientes pueden ingresar texto para personalizar el producto. <br>.Un ejemplo típico son camisetas que se pueden imprimir con un texto personalizado. En la entrada de los clientes pueden entrar en el campo de texto para ser impreso en la camiseta.',
 'HELP_ARTICLE_EXTEND_NONMATERIAL' => 'Configuración es heredada desde el producto padre a variantes y aplica al producto entero.',
 'HELP_ARTICLE_EXTEND_QUESTIONEMAIL' => 'En <span class=navipath_or_inputname> Alt. Contactar </ span> puede introducir una dirección de correo electrónico. Si los usuarios enviar sus preguntas sobre este producto que será enviado a esta dirección de correo electrónico. Si no hay dirección de correo electrónico se introduce la consulta será enviada a la información normal de la dirección de correo electrónico.',
-'HELP_ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'If this option is activated, users have to confirm terms and conditions in the fourth step of the check-out process for this specific item. Please make sure the general option is activated as well and the product item is intangible or downloadable.',
+'HELP_ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'Si esta opción está activada, los usuarios tienen que confirmar términos y condiciones en el cuarto paso del proceso de compra para este objeto específico. Por favor, asegúrese que la opción general está activada y el producto es intangible o descargable.',
 'HELP_ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Si <span class=navipath_or_inputname> Salte todos los descuentos negativo </ span> está activo subsidios negativos no se calculan para este producto. Estos incluyen descuentos y cupones.',
 'HELP_ARTICLE_EXTEND_TEMPLATE' => 'La vista de detalle de un producto se puede visualizar con una plantilla diferente. Para ello introduzca el nombre del archivo de la plantilla que se utilizará. Más información está disponible en la <a href = objetivo = _blank http://www.oxid-esales.com/de/resources/help-faq/eshop-manual/display-certain-products-or-categories-another-template > manual comforme <entrada / a>.',
 'HELP_ARTICLE_EXTEND_TPRICE' => 'En <span class=navipath_or_inputname> PVP </ span> puede introducir el precio de venta al público recomendado por el fabricante. Si ingresa el PVP se muestra a los usuarios: Por encima del precio del producto <span class=filename_filepath_or_italic> Reducción de PVP ahora sólo </ span> se muestra.',
@@ -131,7 +131,7 @@ $aLang = array(
 'HELP_PAYMENT_MAIN_SORT' => 'En <span class=navipath_or_inputname>  clasificación </ span> se puede especificar el orden en que los métodos de pago se van a mostrar a los usuarios: La forma de pago con el menor número de clase se muestra en la parte superior.',
 'HELP_PROMOTIONS_BANNER_PICTUREANDLINK' => 'Sube la imagen del banner e introduce la URL que usará cuando se haga click en él. Si el producto está asignado al banner y la URL no es introducida, el link al producto asignado se usará cuando se haga click en el banner.',
 'HELP_REVERSE_PROXY_GET_BACKEND' => 'Área administrados es mostrada sin Proxy inverso. Cabecera no puede ser recibida.',
-'HELP_REVERSE_PROXY_GET_FRONTEND' => 'Compruebe si un proxy inverso está disponible para el frontend. Cabecera de la página de inicio de la tienda es verificado.',
+'HELP_REVERSE_PROXY_GET_FRONTEND' => 'Compruebe si un proxy inverso está disponible para el frontend. Cabecera de la página de inicio de la tienda es verificado.<br> El test podría fallar is diferentes dominios o protocolos (http/https) son usados para el panel de administración y el frontal de la tienda.',
 'HELP_SELECTLIST_MAIN_FIELDS' => 'Todas las opciones disponibles se muestran en la <span class=navipath_or_inputname> Campos </ span> lista. Puede utilizar los campos de entrada a la facultad de crear nuevas opciones. Más información está disponible en el href=http://www.oxid-esales.com/en/resources/help-faq/eshop-manual/implementing-simple-variants-selection-lists <a <target=_blank> manual eShop / a> en la página web OXID eSales.',
 'HELP_SELECTLIST_MAIN_TITLEIDENT' => 'En <span class=navipath_or_inputname> Working Title </ span> puede introducir un nombre adicional que no se muestra a los usuarios de su tienda electrónica. Usted puede utilizar el título de trabajo para diferenciar entre las listas de selección similares (por ejemplo, los tamaños de los pantalones y los tamaños de camisetas).',
 'HELP_SHOP_CACHE_CLASSES' => 'Aquí se ajusta la vista de las clases que se almacenan en caché. <br> Sólo cambie esta opción si usted está familiarizado con los mecanismos de almacenamiento en caché!',
@@ -153,7 +153,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_DOWNLOADS' => 'Tienda con productos descargables. Activa aquí, los productos pueden ser pedidos y descargados.',
 'HELP_SHOP_CONFIG_DOWNLOADS_PATH' => 'Ruta donde los ficheros descargables están guardados.',
 'HELP_SHOP_CONFIG_DOWNLOAD_EXPIRATION_TIME' => 'Especifica el tiempo en horas, el link de descarga es válido después de la primera descarga. Esta es la coonfiguración por defecto para todos los productos. Puedes cambiar este valor para cada fichero de producto en Administrar Productos -> Productos -> Descargas.',
-'HELP_SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'If this option is activated, users have to confirm terms and conditions for intangible or downloadable products in the fourth step of the check-out process. Please make sure this option is enabled for the specific item as well!',
+'HELP_SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'Si esta opción está activada, los usuarios tienen que confirmar términos y condiciones en el cuarto paso del proceso de compra para este objeto específico. Por favor, asegúrese que la opción general está activada y el producto es intangible o descargable.',
 'HELP_SHOP_CONFIG_ENTERNETPRICE' => 'En el área administradora los precios de los productos deben introducirse como valor neto.',
 'HELP_SHOP_CONFIG_FACEBOOKCONNECT' => 'Mostrar cuadro de Facebook Connect, que permite a los usuarios iniciar sesión en la tienda electrónica de datos utilizando los suyos accunt Facebook.',
 'HELP_SHOP_CONFIG_FBCOMMENTS' => 'apartado de comentarios facilidad permite a los visitantes a la tienda de observaciones sobre su contenido tiendas.',

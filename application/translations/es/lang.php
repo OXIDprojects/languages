@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1338), Espana (5), ET (219), jmatos (31), jsmaster (6), kai.gazmaga (3), mvirolde (8), nuelgoz (156), Sweetlana (2)
+ * @translators: afimage (504), diegotech (7), djraptor (1368), Espana (5), ET (219), jmatos (31), jsmaster (6), kai.gazmaga (3), mvirolde (8), nuelgoz (156), Sweetlana (2)
  */
 
 $sLangName  = 'Español';
@@ -308,7 +308,7 @@ $aLang = array(
 'LOADING' => 'carga',
 'LOGIN' => 'Ingresar',
 'LOGIN_ALREADY_CUSTOMER' => 'Si ya eres cliente, por favor, ingresa usando tu e-mail y contraseña:',
-'LOGIN_DESCRIPTION' => 'Por favor, ingresa usando tu e-mail y contraseña o número de cliente y contraseña.',
+'LOGIN_DESCRIPTION' => 'Por favor, ingresa usando tu e-mail y contraseña.',
 'LOGIN_TO_ACCESS_GIFT_REGISTRY' => 'Por favor, ingresa para acceder a tu registro de regalos.',
 'LOGIN_TO_ACCESS_LISTMANIA' => 'Por favor, ingresa para acceder a tu lista Listmania.',
 'LOGIN_TO_ACCESS_WISH_LIST' => 'Inicie sesión para acceder su lista',
