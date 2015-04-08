@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), NADi (21), pawelch (1660), pkoper (20), remiq (27), topconcepts (209)
+ * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), NADi (21), p3t3r (17), pawelch (1660), pkoper (20), remiq (27), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -62,7 +62,7 @@ $aLang = array(
 'ARTICLE_BUNDLE_ASSIGNEDARTICLE' => 'Produktu w pakiecie:',
 'ARTICLE_BUNDLE_UNASSIGNARTICLE' => 'Usuń powiązanie Produktu',
 'ARTICLE_CROSSSELLING_ALLITEMS' => 'Wszystkie dostępne produkty',
-'ARTICLE_CROSSSELLING_ASSIGNACCESSORIES' => 'Dodaj akcesoria',
+'ARTICLE_CROSSSELLING_ASSIGNACCESSORIES' => 'Przypisz akcesoria',
 'ARTICLE_CROSSSELLING_ASSIGNCROSSSELLING' => 'Dodaj produkty powiązane',
 'ARTICLE_CROSSSELLING_CROSSSELLING' => 'Produkty powiązane',
 'ARTICLE_CROSSSELLING_EXTRAS' => 'Akcesoria dla produktu',
@@ -80,10 +80,10 @@ $aLang = array(
 'ARTICLE_EXTEND_FILE' => 'Plik',
 'ARTICLE_EXTEND_FILEUPLOAD' => 'Przesyłanie pliku:',
 'ARTICLE_EXTEND_FREESHIPPING' => 'Darmowa wysyłka',
-'ARTICLE_EXTEND_HEIGHT' => 'Wys.:',
+'ARTICLE_EXTEND_HEIGHT' => 'wys.',
 'ARTICLE_EXTEND_ISCONFIGURABLE' => 'Produkt może być dostosowany',
 'ARTICLE_EXTEND_ISSEARCH' => 'Przeszukiwalny',
-'ARTICLE_EXTEND_LENGTH' => 'Dł.:',
+'ARTICLE_EXTEND_LENGTH' => 'dł.',
 'ARTICLE_EXTEND_MASS' => 'Wymiary',
 'ARTICLE_EXTEND_MEDIAURLS' => 'Linki do multimediów',
 'ARTICLE_EXTEND_NONMATERIAL' => 'Niematerialny produkt',
@@ -94,7 +94,7 @@ $aLang = array(
 'ARTICLE_EXTEND_TPRICE' => 'Sugerowana cena detaliczna',
 'ARTICLE_EXTEND_UNITNAME' => 'Jednostka',
 'ARTICLE_EXTEND_UNITQUANTITY' => 'Ilość',
-'ARTICLE_EXTEND_UPDATEMEDIA' => 'Uaktualnij media',
+'ARTICLE_EXTEND_UPDATEMEDIA' => 'Aktualizuj media',
 'ARTICLE_EXTEND_UPDATEPRICE' => 'Cena podstawowa:',
 'ARTICLE_EXTEND_UPDATEPRICEA' => 'A:',
 'ARTICLE_EXTEND_UPDATEPRICEB' => 'B:',
@@ -106,11 +106,11 @@ $aLang = array(
 'ARTICLE_EXTEND_URLDESC' => 'tekst do zewnetrznego URL',
 'ARTICLE_EXTEND_WEIGHT' => 'Waga',
 'ARTICLE_EXTEND_WEIGHT_UNIT' => 'kg',
-'ARTICLE_EXTEND_WIDTH' => 'Szer.:',
+'ARTICLE_EXTEND_WIDTH' => 'szer.',
 'ARTICLE_FILES_ENTER_FILENAME' => 'Wpisz nazwę przesłanego pliku',
 'ARTICLE_FILES_ISDOWNLOADABLE' => 'Włącz pobieranie plików dla tego produktu',
 'ARTICLE_FILES_NEW_FILE' => 'Wybierz plik do przesłania',
-'ARTICLE_FILES_NEW_PURCHASEDONLY' => 'Pobieranie jest możliwe tylko po zakupie',
+'ARTICLE_FILES_NEW_PURCHASEDONLY' => 'Pobranie jest możliwe dopiero po zakupie',
 'ARTICLE_FILES_NEW_UPLOAD' => 'Wyślij',
 'ARTICLE_FILES_OR' => 'lub prześlij plik',
 'ARTICLE_FILES_TABLE_FILENAME' => 'Nazwa pliku',
@@ -148,13 +148,13 @@ $aLang = array(
 'ARTICLE_MAIN_VAT' => 'Spec. VAT',
 'ARTICLE_MAIN_VENDORID' => 'Dystrybutor',
 'ARTICLE_OTHER_OPTIONS' => 'Inne opcje',
-'ARTICLE_OVERVIEW_ARTMADEON' => 'Produkt stworzony',
-'ARTICLE_OVERVIEW_CANCELEDCNT' => 'Liczba anulowanych',
-'ARTICLE_OVERVIEW_LASTCHANGE' => 'Ostatnia zmiana',
-'ARTICLE_OVERVIEW_LEFTORDERCNT' => 'Ilość zleceń oczekujących',
+'ARTICLE_OVERVIEW_ARTMADEON' => 'Produkt utworzony',
+'ARTICLE_OVERVIEW_CANCELEDCNT' => 'Liczba anulowanych jedostek',
+'ARTICLE_OVERVIEW_LASTCHANGE' => 'Ostatnia modyfikacja',
+'ARTICLE_OVERVIEW_LEFTORDERCNT' => 'Ilość oczekujących zleceń',
 'ARTICLE_OVERVIEW_SALEPOSITION' => 'Ranking sprzedanych pozycji',
-'ARTICLE_OVERVIEW_SOLDCNT' => 'Liczba sprzedanych',
-'ARTICLE_OVERVIEW_TOTALORDERCNT' => 'Ilość zamówionych',
+'ARTICLE_OVERVIEW_SOLDCNT' => 'Ilość sprzedanych produktów',
+'ARTICLE_OVERVIEW_TOTALORDERCNT' => 'Ilość zamówionych produktów',
 'ARTICLE_PICTURES_CUSTOM_PICTURES' => 'Własne zdjęcia',
 'ARTICLE_PICTURES_ICON' => 'ikona',
 'ARTICLE_PICTURES_ICONUPLOAD' => 'Wgraj ikony:',

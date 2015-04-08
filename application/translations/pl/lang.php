@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), NADi (21), pawelch (1660), pkoper (20), remiq (27), topconcepts (209)
+ * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), NADi (21), p3t3r (17), pawelch (1660), pkoper (20), remiq (27), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -45,11 +45,11 @@ $aLang = array(
 'ADD_WRAPPING' => 'Dodaj pakowanie prezentu',
 'ADD_YOUR_COMMENTS' => 'Dodaj swój komentarz',
 'ALL' => 'Wszystko',
-'ALL_BRANDS' => 'Wszystkich marek',
+'ALL_BRANDS' => 'Wszystkie marki',
 'ALL_LISTMANIA' => 'Cała Listmania',
-'ALREADY_ADDED_TAG' => 'Już oznakowany tekst',
+'ALREADY_ADDED_TAG' => 'Już otagowałeś ten teks',
 'ALREADY_CUSTOMER' => 'Już jestem klientem',
-'APPLAY' => 'Dodaj',
+'APPLAY' => 'Zastosuj',
 'ARTNUM' => 'Numer produktu',
 'ATENTION_GREETING_CARD' => 'Uwaga kartka okazyjna:',
 'AUTHOR' => 'Autor',
@@ -88,7 +88,7 @@ $aLang = array(
 'CARD_VISA' => 'Visa',
 'CART' => 'Koszyk',
 'CATEGORIES' => 'Kategorie',
-'CATEGORY' => 'Kategoria:',
+'CATEGORY' => 'Kategoria',
 'CATEGORY_OVERVIEW' => 'Przegląd Kategorii',
 'CATEGORY_PRODUCTS_S' => 'Kategoria/%s',
 'CATEGORY_S' => 'Kategoria: %s',
