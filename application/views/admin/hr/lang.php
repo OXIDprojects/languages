@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: AWIDON (752), buby (118), ondrej123 (327)
+ * @translators: AWIDON (752), buby (118), KonopArt (1), ondrej123 (327)
  */
 
 $sLangName  = 'Hrvatski';
@@ -42,7 +42,7 @@ $aLang = array(
 'ADMINLINKS_LIST_MENUITEM' => 'Informacije kupca',
 'ADMINLINKS_LIST_MENUSUBITEM' => 'Linkovi',
 'ADMINLINKS_LIST_TITLE' => '[OXID link administracija]',
-'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Select All',
+'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Odaberi sve',
 'ADMIN_MALL_SELECT_NONE_SHOPS' => 'Select none',
 'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b>Note:</b> Alternative image server configuration detected, files will not be uploaded to remote location. Please take care about synchronization manually.',
 'amount' => 'Količina',
