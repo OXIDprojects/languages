@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1317), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
+ * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1317), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -80,7 +80,7 @@ $aLang = array(
 'BY_BRAND' => 'По марке',
 'BY_MANUFACTURER' => 'По производителя',
 'BY_VENDOR' => 'По поставщикам',
-'CANCEL' => 'Покончить',
+'CANCEL' => 'Отменить',
 'CARD_MASTERCARD' => 'Mastercard',
 'CARD_SECURITY_CODE' => 'Контрольное число',
 'CARD_SECURITY_CODE_DESCRIPTION' => 'Находится на обратной стороне Вашей кредитной карты. Контрольное число<br>- это последние три цифры.',

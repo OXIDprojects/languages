@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1317), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
+ * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1317), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -134,7 +134,7 @@ $aLang = array(
 'ARTICLE_MAIN_MANUFACTURERID' => 'Производитель',
 'ARTICLE_MAIN_MPN' => 'Арт. номер производителя',
 'ARTICLE_MAIN_NONE' => '-- нет --',
-'ARTICLE_MAIN_PARENTNOTBUYABLE' => 'Внимание: Продукт не модет быть куплен',
+'ARTICLE_MAIN_PARENTNOTBUYABLE' => 'Внимание: Продукт не может быть куплен',
 'ARTICLE_MAIN_PRICE' => 'Цена',
 'ARTICLE_MAIN_PRICEA' => 'А:',
 'ARTICLE_MAIN_PRICEB' => 'Б:',
@@ -217,7 +217,7 @@ $aLang = array(
 'ARTICLE_STOCK_STOCK' => 'Кол-во на складе',
 'ARTICLE_STOCK_STOCKFLAG' => 'Статус доставки',
 'ARTICLE_STOCK_STOCKTEXT' => 'Сообщение при наличии товара на складе',
-'ARTICLE_STOCK_VPE' => 'Единицa упаковкы',
+'ARTICLE_STOCK_VPE' => 'Единицa упаковки',
 'ARTICLE_STOCK_WEEKS' => 'Недели',
 'ARTICLE_USERDEF_USERDEFRANGE' => 'Пользовательская область - Здесь Вы можете добавить свои собственные поля.',
 'ARTICLE_VARIANT_ACTIVE' => 'Активно',
@@ -228,7 +228,7 @@ $aLang = array(
 'ARTICLE_VARIANT_NEWVAR' => 'Новый вариант',
 'ARTICLE_VARIANT_PRICE' => 'Цена',
 'ARTICLE_VARIANT_SELECTLIST' => 'Список избранного',
-'ARTICLE_VARIANT_SORT' => 'Сотртировка',
+'ARTICLE_VARIANT_SORT' => 'Сортировка',
 'ARTICLE_VARIANT_STOCK' => 'Склад',
 'ARTICLE_VARIANT_VARNAME' => 'Название выборки',
 'ARTICLE_VARIANT_VARSAVE' => 'Сохранить варианты',
