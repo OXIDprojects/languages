@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (143), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1318), SYSKO (9), zerog (6)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (143), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1318), SYSKO (9), zerog (7)
  */
 
 $sLangName  = 'Česky';
@@ -325,7 +325,7 @@ $aLang = array(
 'MESSAGE_ALREADY_RATED' => 'Tento produkt jste již hodnotil(a)!',
 'MESSAGE_BASKET_EXCLUDE_INFO' => 'Můžete přejít k platbě a dokončit objednávku.<br>Nebo můžete pokračovat v nákupu, ale košík bude vyprázdněn.',
 'MESSAGE_CONFIRMATION_NOT_SUCCEED' => 'Je nám líto, ale potvrzení objednávky emailem bylo neúspěšné.',
-'MESSAGE_CONFIRMING_REGISTRATION' => 'Zaslali jsem Vám email s potvrzením registrace.<br><br>Děkujeme.',
+'MESSAGE_CONFIRMING_REGISTRATION' => 'Zaslali jsme Vám email s potvrzením registrace.',
 'MESSAGE_COUPON_ACCUMULATION_SAME_SERIE' => 'Sčítání poukázek stejné série není dovoleno.',
 'MESSAGE_COUPON_EXPIRED' => 'Platnost poukázky vypršela.',
 'MESSAGE_COUPON_NOT_APPLIED_FOR_ARTICLES' => 'Na toto zboží nelze uplatnit slevovou poukázku.',
