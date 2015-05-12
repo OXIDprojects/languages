@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: alexraimondo (1), chatard (318), cowboy9571 (10), ET (10), marco (1), patmat2809 (5), Phenix (202), Rainbow40 (2), rava3000 (8), vikapera (376)
+ * @translators: alexraimondo (1), chatard (318), cowboy9571 (10), ET (10), marco (1), patmat2809 (5), Phenix (203), Rainbow40 (2), rava3000 (8), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -353,7 +353,7 @@ Si vous commandez avec votre compte client, Les liens de téléchargement appara
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_CANCELED' => 'Votre abonnement à notre Newsletter a bien été désactivé.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_SUCCESS' => 'Votre abonnement à notre Newsletter a bien été activé.',
 'MESSAGE_NOT_ABLE_TO_SEND_EMAIL' => 'Malheureusement, nous n\'avons pas été en mesure de vous envoyer un e-mail.',
-'MESSAGE_NOT_ON_STOCK' => 'Cert article n\'est pas en stock. Réapprovisonnement en cours.',
+'MESSAGE_NOT_ON_STOCK' => 'Cet article n\'est pas en stock. Réapprovisonnement en cours.',
 'MESSAGE_NO_SHIPPING_METHOD_FOUND' => 'Aucun mode de livraison trouvé. Veuillez nous contacter par e-mail ou bien par téléphone.',
 'MESSAGE_PASSWORD_CHANGED' => 'Votre mot de passe a été modifié.',
 'MESSAGE_PAYMENT_ACCOUNT_NUMBER_INVALID' => 'S.V.P. donner un numéro de compte valide !',
