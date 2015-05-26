@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: AWIDON (1), dsb (1), marco (4706), patmat2809 (1), simoneschuppe (4), Thielo (1)
+ * @translators: AWIDON (1), dsb (1), marco (4706), patmat2809 (1), simoneschuppe (4), SvenBrunk (2), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';
@@ -889,7 +889,7 @@ $aLang = array(
 'mxactions' => 'Aktionen verwalten',
 'mxarticles' => 'Artikel',
 'mxattributes' => 'Attribute',
-'mxberoles' => 'Admin Rechte',
+'mxberoles' => 'Admin Rollen',
 'mxcategories' => 'Kategorien',
 'mxcontent' => 'CMS-Seiten',
 'mxcoresett' => 'Grundeinstellungen',
@@ -900,7 +900,7 @@ $aLang = array(
 'mxdynscreenlocal' => 'General information',
 'mxerp' => 'ERP Schnittstelle',
 'mxextensions' => 'Erweiterungen',
-'mxferoles' => 'Shop Rechte',
+'mxferoles' => 'Shop Rollen',
 'mxgenexp' => 'Gener. Export',
 'mxgenimp' => 'Gener. Import',
 'mxguestbook' => 'Gästebuch',
