@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (24), akasauskas (14), gvidas123 (1), linasg (3), mantas.vaitkunas (1), muslimukas (8), NFQ Lithuania (2756), regneo (1), swolou (3), tlt (204), vaidasif (75)
+ * @translators: abejingas (188), agladutis (24), akasauskas (14), gvidas123 (1), linasg (3), mantas.vaitkunas (1), muslimukas (8), NFQ Lithuania (2756), regneo (1), sanis (1), swolou (3), tlt (204), vaidasif (75)
  */
 
 $sLangName  = 'Lietuvių';
@@ -729,7 +729,7 @@ Attention: Diferencijuojama kaina turi būti mažesnė nei normali kaina.',
 'GENERAL_NOITEMSSEL' => 'Nėra pažymėtų prekių',
 'GENERAL_NONAME' => 'nenurodytas vardas',
 'GENERAL_NONORDER' => 'Jei išpirkta, neužsakoma',
-'GENERAL_NOSENT' => 'Order not shipped yet.',
+'GENERAL_NOSENT' => 'Užsakymas dar neišsiųstas.',
 'GENERAL_NOWSEND' => 'Išsiųsti',
 'GENERAL_OFF' => 'Išjungta',
 'GENERAL_OFFLINE' => 'Jei išpirkta, nerodoma',
