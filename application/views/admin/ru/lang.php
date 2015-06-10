@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1317), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (47), vlad13 (1)
+ * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1317), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -1398,7 +1398,7 @@ $aLang = array(
 'SHOP_CONFIG_ORDERFOLDER' => 'Folders in Order Administration',
 'SHOP_CONFIG_ORDEROPTINEMAIL' => 'Activate Double Opt-In if Users register for Newsletter during Checkout',
 'SHOP_CONFIG_OVERRIDEZEROABCPRICES' => 'Use standard Product Price if no A/B/C Price is set',
-'SHOP_CONFIG_PARCELSERVICE' => 'Shipping provider tracking URL',
+'SHOP_CONFIG_PARCELSERVICE' => 'сервис-URL для отслеживания почтовых отправлений',
 'SHOP_CONFIG_POINTSFORINVITATION' => 'Credit points for inviting user',
 'SHOP_CONFIG_POINTSFORREGISTRATION' => 'Credit points for user registering after invitation',
 'SHOP_CONFIG_PSLOGIN' => 'Private Sales Login',
@@ -1744,7 +1744,7 @@ $aLang = array(
 'SYSREQ_PHP4_COMPAT' => 'Zend compatibility mode must be off',
 'SYSREQ_PHP_CONFIG' => 'Конфигурация PHP',
 'SYSREQ_PHP_EXTENNSIONS' => 'PHP расширения',
-'SYSREQ_PHP_VERSION' => 'Версия PHP как минимум 5.3.25',
+'SYSREQ_PHP_VERSION' => 'Версия PHP от 5.3.25',
 'SYSREQ_PHP_XML' => 'PHP XML',
 'SYSREQ_REGISTER_GLOBALS' => 'register_globals must be off',
 'SYSREQ_REQUEST_URI' => 'REQUEST_URI set',
