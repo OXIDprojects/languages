@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (143), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1318), SYSKO (9), zerog (7)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (143), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1318), SYSKO (9), zerog (13)
  */
 
 $sLangName  = 'Česky';
@@ -96,7 +96,7 @@ $aLang = array(
 'CHANGE' => 'Změnit',
 'CHANGE_ACCOUNT_PASSWORD' => 'Změnit heslo účtu',
 'CHANGE_PASSWORD' => 'Změnit heslo',
-'CHARGES' => 'Poplatky:',
+'CHARGES' => 'Poplatky',
 'CHECK' => 'Kontrola',
 'CHECKOUT' => 'K pokladně',
 'CHECK_YOUR_ORDER_HISTORY' => 'Kontrola Vaší historie objednávek',
@@ -256,7 +256,7 @@ $aLang = array(
 'GIFT_WRAPPING' => 'Dárkové balení:',
 'GIFT_WRAPPING_GREETING_CARD' => 'Dárkové balení/blahopřání',
 'GO' => 'JDI!',
-'GRAND_TOTAL' => 'Celkem:',
+'GRAND_TOTAL' => 'Celkem',
 'GREETING' => 'Ahoj,',
 'GREETING_CARD' => 'Blahopřání',
 'GREETING_MESSAGE' => 'Text blahopřání',
@@ -284,7 +284,7 @@ $aLang = array(
 'INVALID_TAGS_REMOVED' => 'Neplatné značky odstraněny',
 'INVITE_TO_SHOP' => 'Pozvánka od %s na návštěvu %s',
 'INVITE_YOUR_FRIENDS' => 'Pozvěte Vaše přátele',
-'ITEMS_IN_BASKET' => 'Počet položek v košíku:',
+'ITEMS_IN_BASKET' => 'Počet položek v košíku',
 'JUST_ARRIVED' => 'Právě dorazilo!',
 'KEEP_LOGGED_IN' => 'Zapamatovat si přihlášení:',
 'KG' => 'kg',
@@ -610,7 +610,7 @@ $aLang = array(
 'PRODUCT_COMPARISON' => 'Porovnání zboží',
 'PRODUCT_DETAILS' => 'Detaily produktu',
 'PRODUCT_IMAGES' => 'Obrázky produktu',
-'PRODUCT_NO' => 'Prod.č.:',
+'PRODUCT_NO' => 'Prod.č.',
 'PRODUCT_POST_CARD_FROM' => 'Pohlednice produktu od',
 'PRODUCT_RATING' => 'Hodnocení produktu',
 'PRODUCT_REVIEW' => 'Recenze produktu',
@@ -720,8 +720,8 @@ $aLang = array(
 'TOP_OF_THE_SHOP' => 'Nejprodávanější',
 'TOP_SHOP_PRODUCTS' => 'Nejoblíbenější',
 'TOTAL' => 'Celkem',
-'TOTAL_GROSS' => 'Celkem produkty (s DPH):',
-'TOTAL_NET' => 'Celkem produkty (bez DPH):',
+'TOTAL_GROSS' => 'Celkem produkty (s DPH)',
+'TOTAL_NET' => 'Celkem produkty (bez DPH)',
 'TOTAL_QUANTITY' => 'Celkové množství',
 'TO_CART' => 'Do košíku',
 'TO_MY_WISHLIST' => 'Přejít na můj seznam přání',
