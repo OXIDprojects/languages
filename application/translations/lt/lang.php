@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (24), akasauskas (14), gvidas123 (1), linasg (3), mantas.vaitkunas (1), muslimukas (8), NFQ Lithuania (2756), regneo (1), sanis (1), swolou (3), tlt (204), vaidasif (75)
+ * @translators: abejingas (188), agladutis (24), akasauskas (14), creaturex (5), gvidas123 (1), linasg (3), mantas.vaitkunas (1), muslimukas (8), NFQ Lithuania (2756), regneo (1), sanis (1), swolou (3), tlt (204), vaidasif (75)
  */
 
 $sLangName  = 'Lietuvių';
@@ -65,7 +65,7 @@ $aLang = array(
 'BARGAIN' => 'Geras pirkinys',
 'BARGAIN_PRODUCTS' => 'Geras pirkinys',
 'BASKET_EMPTY' => 'Krepšelis yra tuščias.',
-'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Greeting Card (net)',
+'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Sveikinimo atvirukas',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Gift Wrapping (net)',
 'BETA_NOTE' => 'Welcome to Release Candidate ',

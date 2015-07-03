@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (24), akasauskas (14), gvidas123 (1), linasg (3), mantas.vaitkunas (1), muslimukas (8), NFQ Lithuania (2756), regneo (1), sanis (1), swolou (3), tlt (204), vaidasif (75)
+ * @translators: abejingas (188), agladutis (24), akasauskas (14), creaturex (5), gvidas123 (1), linasg (3), mantas.vaitkunas (1), muslimukas (8), NFQ Lithuania (2756), regneo (1), sanis (1), swolou (3), tlt (204), vaidasif (75)
  */
 
 $sLangName  = 'Lietuvių';
@@ -42,7 +42,7 @@ $aLang = array(
 'ADMINLINKS_LIST_MENUITEM' => 'Inform. klientams',
 'ADMINLINKS_LIST_MENUSUBITEM' => 'Nuorodos',
 'ADMINLINKS_LIST_TITLE' => '[OXID Nuorodų valdymas]',
-'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Select All',
+'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Pasirinkite visus',
 'ADMIN_MALL_SELECT_NONE_SHOPS' => 'Select none',
 'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b>Dėmesio:</b> Sukonfigūruotas atskiras paveikslėlių serveris. Failai į nutolusį serverį nebus keliami. Jūs turite patys pasirūpinti sinchronizacija.',
 'amount' => 'Kiekis',
@@ -88,7 +88,7 @@ $aLang = array(
 'ARTICLE_EXTEND_MEDIAURLS' => 'Media URL',
 'ARTICLE_EXTEND_NONMATERIAL' => 'Nemateriali prekė',
 'ARTICLE_EXTEND_QUESTIONEMAIL' => 'Alt. kontaktai',
-'ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'Confirm terms and conditions',
+'ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'Pritarkite parduotuvės taisyklėms',
 'ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Praleisti visas  neigiamas nuolaidas <br>(Nuolaidos, Kuponai)',
 'ARTICLE_EXTEND_TEMPLATE' => 'Alt. šablonas',
 'ARTICLE_EXTEND_TPRICE' => 'Sena kaina',
@@ -243,7 +243,7 @@ Attention: Diferencijuojama kaina turi būti mažesnė nei normali kaina.',
 'ATTRIBUTE_MAIN_ITEMSWITHATTR' => 'Prekės su šiuo atributu',
 'ATTRIBUTE_MAIN_SORTING' => 'Rikiavimas',
 'AUCTMASTER_DO_EXPORTEND' => 'Eksportas baigtas.',
-'AUCTMASTER_DO_EXPORTFILE' => 'Eksportuoti į bylą',
+'AUCTMASTER_DO_EXPORTFILE' => 'Negaliu įrašyti į eksportuojamą bylą %s',
 'AUCTMASTER_DO_EXPORTING1' => 'Eksportuojama',
 'AUCTMASTER_DO_EXPORTING2' => 'Viso',
 'AUCTMASTER_DO_EXPORTNOTSTARTED' => 'Eksportas nepradėtas.',
