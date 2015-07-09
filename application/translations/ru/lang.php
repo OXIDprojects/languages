@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1317), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1321), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -436,7 +436,7 @@ $aLang = array(
 'NO_ENTRY_AVAILABLE' => 'Вход не осуществлён.',
 'NO_GREETING_CARD' => 'Нет открыток',
 'NO_ITEMS_FOUND' => 'К сожалению, ни один товар не найден.',
-'NO_LISTMANIA_LIST' => 'There is no Listmania lists at the moment. To create a new list, please ',
+'NO_LISTMANIA_LIST' => 'Во время нето Listmania список. Чтобы создать новый список, пожалуйста,',
 'NO_LISTMANIA_LIST_FOUND' => 'Не найдены списки избранного',
 'NO_RATINGS' => 'Нет оценок',
 'NO_REVIEW_AVAILABLE' => 'Пока нет комментариев.',
@@ -707,7 +707,7 @@ $aLang = array(
 'SUCCESS' => 'Готово!',
 'SUM' => 'Сумма:',
 'SURCHARGE' => 'Наценка',
-'SURCHARGE_PLUS_PERCENT_AMOUNT' => 'Surcharge VAT %s%% Amount',
+'SURCHARGE_PLUS_PERCENT_AMOUNT' => 'Дополнительная сумма налога: %s%%',
 'S_CATEGORY_PRODUCTS' => 'Товар из категории %s',
 'TAGS' => 'Тэги',
 'TERMS_AND_CONDITIONS' => 'Общие условия заключения торговых сделок',
@@ -751,7 +751,7 @@ $aLang = array(
 'VAT' => 'НДС',
 'VAT_ID_NUMBER' => 'Идентификатор НДС:',
 'VAT_MESSAGE_ID_NOT_VALID' => 'Идентификатор НДС неразрешён',
-'VAT_PLUS_PERCENT_AMOUNT' => 'plus VAT %s%% Amount',
+'VAT_PLUS_PERCENT_AMOUNT' => 'дополнительная сумма налога: %s%%',
 'VENDOR' => 'Поставщик',
 'VENDOR_S' => '| Поставщик: %s',
 'VERIFICATION_CODE' => 'Проверочный код',

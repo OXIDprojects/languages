@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1317), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1321), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -350,7 +350,7 @@ $aLang = array(
 'DELIVERY_MAIN_ORDER' => 'Порядок обработки',
 'DELIVERY_MAIN_PARAM' => 'Способ оплаты',
 'DELIVERY_MAIN_PRICE' => 'Стоимость (надбавка/скидка)',
-'DELIVERY_RDFA_ADVICE' => '<b>Hint:</b> Please choose only those delivery methods, pre-defined in GoodRelations, that comply with your shipping method %s',
+'DELIVERY_RDFA_ADVICE' => '<b>Подсказка:</b> Пожалуйста, выберите только методы доставки, предварительно определенные в GoodRelations, которые соответствуют способа доставки %s',
 'DELIVERY_RDFA_ASIGN_DELIVERY' => 'Назначите варианты доставки',
 'DELIVERY_RDFA_DELIVERYMODEDIRECTDOWNLOAD' => 'Cкачиваемыйние файл',
 'DELIVERY_RDFA_DELIVERYMODEFREIGHT' => 'Груз',

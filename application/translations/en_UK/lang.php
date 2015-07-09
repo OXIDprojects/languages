@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: marco (4399)
+ * @translators: marco (4401)
  */
 
 $sLangName  = 'British English';
@@ -436,7 +436,7 @@ $aLang = array(
 'NO_ENTRY_AVAILABLE' => 'No entries available.',
 'NO_GREETING_CARD' => 'No Greeting Card',
 'NO_ITEMS_FOUND' => 'Sorry, no items found.',
-'NO_LISTMANIA_LIST' => 'Presently there are no listmania lists. In order to create a new list, please',
+'NO_LISTMANIA_LIST' => 'There is no Listmania lists at the moment. To create a new list, please',
 'NO_LISTMANIA_LIST_FOUND' => 'No Listmania Lists found',
 'NO_RATINGS' => 'No ratings.',
 'NO_REVIEW_AVAILABLE' => 'No review available for this item.',
@@ -707,7 +707,7 @@ $aLang = array(
 'SUCCESS' => 'Success!',
 'SUM' => 'Sum:',
 'SURCHARGE' => 'Surcharge',
-'SURCHARGE_PLUS_PERCENT_AMOUNT' => 'additional VAT amount: %s%%',
+'SURCHARGE_PLUS_PERCENT_AMOUNT' => 'Additional VAT amount: %s%%',
 'S_CATEGORY_PRODUCTS' => '%s category\'s articles',
 'TAGS' => 'Tags',
 'TERMS_AND_CONDITIONS' => 'Terms and Conditions',
