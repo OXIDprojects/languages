@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: alexraimondo (1), chatard (318), cowboy9571 (10), ET (10), marco (1), patmat2809 (5), Phenix (203), Rainbow40 (2), rava3000 (8), vikapera (376)
+ * @translators: alexraimondo (1), chatard (318), cowboy9571 (10), ET (10), marco (1), patmat2809 (5), Phenix (203), piccobello (1), Rainbow40 (2), rava3000 (8), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -1398,7 +1398,7 @@ $aLang = array(
 'SHOP_CONFIG_ORDERFOLDER' => 'Dossiers dans la gestion des commandes',
 'SHOP_CONFIG_ORDEROPTINEMAIL' => 'Activer le double Opt-In lors de l\'inscription à la Newsletter',
 'SHOP_CONFIG_OVERRIDEZEROABCPRICES' => 'Utiliser le prix "standard" des produits si aucun prix A/B/C définis',
-'SHOP_CONFIG_PARCELSERVICE' => 'Shipping provider tracking URL',
+'SHOP_CONFIG_PARCELSERVICE' => 'Adresse URL de suivi du transporteur',
 'SHOP_CONFIG_POINTSFORINVITATION' => 'Nombre de points crédités pour l\'envoi d\'une invitation',
 'SHOP_CONFIG_POINTSFORREGISTRATION' => 'Nombre de points crédités pour un client enregistré après une invitation',
 'SHOP_CONFIG_PSLOGIN' => 'Connexion Obligatoire',
