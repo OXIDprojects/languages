@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), NADi (21), p3t3r (17), pawelch (1660), pkoper (20), remiq (27), topconcepts (209)
+ * @translators: elaberino (5), ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), NADi (21), p3t3r (17), pawelch (1660), pkoper (20), remiq (27), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -279,7 +279,7 @@ $aLang = array(
 'INCL_TAX_AND_PLUS_SHIPPING' => '* Wszystkie ceny zawierają podatek VAT plus koszty',
 'infogrid' => 'Double grid',
 'INFORMATION' => 'Informacje',
-'INFO_ABOUT_COOKIES' => 'Information about Cookies',
+'INFO_ABOUT_COOKIES' => 'Informacja o cookies',
 'INTRODUCTION' => 'Wprowadzenie',
 'INVALID_TAGS_REMOVED' => 'Usunięto nieprawidłowe znaczniki',
 'INVITE_TO_SHOP' => 'Zaproszenie od %s do odwiedzenia %s',
@@ -549,7 +549,7 @@ $aLang = array(
 'OXZOOM3' => 'Zbliż Obraz 3',
 'OXZOOM4' => 'Zbliż Obraz 4',
 'PAGE' => 'Strona',
-'PAGE_TITLE_ACCOUNT' => 'My Account',
+'PAGE_TITLE_ACCOUNT' => 'Mój konto',
 'PAGE_TITLE_ACCOUNT_DOWNLOADS' => 'My Downloads',
 'PAGE_TITLE_ACCOUNT_NEWSLETTER' => 'Newsletter Settings',
 'PAGE_TITLE_ACCOUNT_NOTICELIST' => 'My Noticelist',
@@ -558,9 +558,9 @@ $aLang = array(
 'PAGE_TITLE_ACCOUNT_RECOMMLIST' => 'Listmania',
 'PAGE_TITLE_ACCOUNT_USER' => 'Shipping address',
 'PAGE_TITLE_ACCOUNT_WISHLIST' => 'My Wishlist',
-'PAGE_TITLE_BASKET' => 'Cart',
+'PAGE_TITLE_BASKET' => 'Koszyk',
 'PAGE_TITLE_COMPARE' => 'Product Compare',
-'PAGE_TITLE_CONTACT' => 'Contact',
+'PAGE_TITLE_CONTACT' => 'Kontakt',
 'PAGE_TITLE_GUESTBOOK' => 'Guestbook',
 'PAGE_TITLE_LINKS' => 'Links',
 'PAGE_TITLE_ORDER' => 'Order',
@@ -569,7 +569,7 @@ $aLang = array(
 'PAGE_TITLE_THANKYOU' => 'Dziękujemy',
 'PAGE_TITLE_USER' => 'Shipping Address',
 'PAGE_TITLE_WISHLIST' => 'Wishlist',
-'PARTNERS' => 'Partners',
+'PARTNERS' => 'Partnerzy',
 'PARTNER_AND_SEAL' => 'Partner i pieczęć',
 'PASSWORD' => 'Hasło',
 'PASSWORD_CHANGED' => 'Twoje hasło zostało zmienione pomyślnie!',
