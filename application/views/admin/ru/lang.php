@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1321), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1321), muslimukas (4), Natalia I (244), pianoservis (32), riefi (9), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -43,8 +43,8 @@ $aLang = array(
 'ADMINLINKS_LIST_MENUSUBITEM' => 'Ссылки',
 'ADMINLINKS_LIST_TITLE' => '[Администрирование ссылок OXID]',
 'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Выбрать все',
-'ADMIN_MALL_SELECT_NONE_SHOPS' => 'Выбрать ничего',
-'ALTERNATIVE_IMAGE_SERVER_NOTE' => 'Магазин настроен для загрузки изображений из статьи внешний сервер. Файлы не загружены на этом месте. Установите ручной синхронизации уверен.',
+'ADMIN_MALL_SELECT_NONE_SHOPS' => 'Выбрать^ ничего',
+'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b>Примечание:</b>По конфигурации сервера фалы не могут быть отгружены удаленно. Пожалуйста, позаботьтесь о синхронизации вручную.',
 'amount' => 'Кол-во',
 'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => 'Присвоить атрибуты',
 'ARTICLE_ATTRIBUTE_ASSIGNSELECTLIST' => 'Присвоить списки избранного',
@@ -241,11 +241,11 @@ $aLang = array(
 'ATTRIBUTE_MAIN_DISPLAYINBASKET' => 'Отображать атрибуты товаров в корзине',
 'ATTRIBUTE_MAIN_ITEMSWITHATTR' => 'Товары с этим атрибутом',
 'ATTRIBUTE_MAIN_SORTING' => 'Сортировка',
-'AUCTMASTER_DO_EXPORTEND' => 'Экспорт завешён.',
+'AUCTMASTER_DO_EXPORTEND' => 'Экспорт завершён.',
 'AUCTMASTER_DO_EXPORTFILE' => 'Не возможно создать файл экспорта %s',
 'AUCTMASTER_DO_EXPORTING1' => 'Идёт процесс экспортирования',
 'AUCTMASTER_DO_EXPORTING2' => 'Всего',
-'AUCTMASTER_DO_EXPORTNOTSTARTED' => 'Экспорт ещё не начат..',
+'AUCTMASTER_DO_EXPORTNOTSTARTED' => 'Экспорт ещё не начат.',
 'AUCTMASTER_DO_SUCCESS' => 'Успех! Все продукты успешно перемещены.',
 'AUCTMASTER_DO_TITLE' => 'Импорт/Экспорт',
 'AUCTMASTER_DO_UNKNOWNERROR' => 'Неизвестная ошибка!',
@@ -276,7 +276,7 @@ $aLang = array(
 'CATEGORY_MAIN_TITLE' => 'Название',
 'CATEGORY_MAIN_VAT' => 'Спец. НДС',
 'CATEGORY_MALL_ASSIGNONLYPARENTWARNING' => 'Вы можете назначить только целое дерево категорий один Subshop',
-'CATEGORY_MALL_CLICKHEREFORPARENT' => 'Нажмите здесь, чтобы изменить основной контекстном папку',
+'CATEGORY_MALL_CLICKHEREFORPARENT' => 'Нажмите здесь, чтобы редактировать родительский назначение.',
 'CATEGORY_ORDER_ACTSORT' => 'Текущая сортировка',
 'CATEGORY_ORDER_DELETESORT' => 'Удалить сортировку',
 'CATEGORY_ORDER_NEWSORT' => 'Новая сортировка',
@@ -427,16 +427,16 @@ $aLang = array(
 'DYN_TRUSTED_PRZELEWY24' => 'Przelewy24',
 'DYN_TRUSTED_RATINGS' => 'Показать кнопку обратной связи',
 'DYN_TRUSTED_RATINGS_COMMENT' => 'Определите, на каком этапе Вы хотите предложить покупателю оценить продукт.',
-'DYN_TRUSTED_RATINGS_CONFIGFILE' => '<b>NOTICE:</b> config.inc.php file contains additional configuration options. In case you need to customize Trusted Shops Customer Ratings or add additional language support (default configuration supports DE and EN) please adjust your config file.',
-'DYN_TRUSTED_RATINGS_ERR_INVALID_TSID' => 'Invalid Trusted Shops ID. Please sign up here or contact <u>service@trustedshops.co.uk</u>.',
-'DYN_TRUSTED_RATINGS_ERR_NOT_REGISTERED_FOR_TRUSTEDRATING' => 'Trusted Shops Customer Ratings are not yet activated for this Trusted Shops ID. Please sign up here or contact <u>service@trustedshops.co.uk</u>.',
+'DYN_TRUSTED_RATINGS_CONFIGFILE' => '<b>Примечание:</b> config.inc.php  файл содержит дополнительные параметры конфигурации. В случае, если вы должны настроить Trusted Shops Customer Ratings или добавить поддержку дополнительных языков (конфигурация по умолчанию поддерживает DE EN ), пожалуйста, настройте конфигурационный файл.',
+'DYN_TRUSTED_RATINGS_ERR_INVALID_TSID' => 'Неверный Trusted Shops ID. Пожалуйста свяжитесь по этому адресу <u>service@trustedshops.co.uk</u>.',
+'DYN_TRUSTED_RATINGS_ERR_NOT_REGISTERED_FOR_TRUSTEDRATING' => 'Доверенные Shops Customer Ratings клиенты еще не активировано для данного Trusted Shops ID. Пожалуйста, зарегистрируйтесь здесь или по адресу <U> service@trustedshops.co.uk </ U>.',
 'DYN_TRUSTED_RATINGS_ERR_WRONG_WSUSERNAME_WSPASSWORD' => 'Показывать отчет системе/разработчикам. Фронт-энд отчеты не предусмотрены.',
 'DYN_TRUSTED_RATINGS_ID' => 'Trusted Shops ID для язык',
 'DYN_TRUSTED_RATINGS_ID_COMMENT' => 'Введите Trusted Shops ID чтобы активировать пользовательский рейтинг в Вашем магазине. Вы получите ID от Trusted Shops по электронной почте.',
 'DYN_TRUSTED_RATINGS_ORDEREMAIL' => 'В оповещении о подтверждении заказа',
 'DYN_TRUSTED_RATINGS_ORDERSENDEMAIL' => 'Подтверждение заказа отправлено',
 'DYN_TRUSTED_RATINGS_THANKYOU' => 'На странице подтверждения после заказа',
-'DYN_TRUSTED_RATINGS_WIDGET' => 'Display Rating Widget in eShop frontend',
+'DYN_TRUSTED_RATINGS_WIDGET' => 'Показать рейтинг Виджет в  интерфейсе магазина',
 'DYN_TRUSTED_SHOPPAYMENT' => 'Вид оплаты в магазине',
 'DYN_TRUSTED_SHOP_CARD' => 'Платежная карта онлайн-магазина',
 'DYN_TRUSTED_TESTMODUS' => 'Тестовый режим является активным',
@@ -446,7 +446,7 @@ $aLang = array(
 'DYN_TRUSTED_T_PAY' => 'T-Pay',
 'DYN_TRUSTED_USER' => 'Имя пользователя (wsUser)',
 'editor_language' => 'ru-ru',
-'EDITOR_PLAINTEXT_HINT' => '<b>Note:</b> If you need to preserve text line breaks (e.g. plaintext e-mails), please use tab "html CODE" instead of "Design".',
+'EDITOR_PLAINTEXT_HINT' => '<b>Примечание:</b> Если вам нужно сохранить текст разрывы строк (например, e.g. plaintext e-mails), пожалуйста, используйте вкладку "HTML код", а не "Дизайн".',
 'EFIRE_CONNECTORINSTRUCTION' => 'Please enter "Externer Transaktions Login" and "Externes Transaktions Passwort" that you previously have entered in OXID eFire options ("Einstellungen").',
 'EFIRE_DOWNLOADER' => 'Скачател',
 'EFIRE_DOWNLOADER_ERROR' => 'Ошибка при скачивании OXID eFire Shop-Connector: %s',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (143), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1318), SYSKO (9), zerog (15)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (144), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1318), SYSKO (9), zerog (15)
  */
 
 $sLangName  = 'Česky';
@@ -44,7 +44,7 @@ $aLang = array(
 'HELP_ARTICLE_EXTEND_UPDATEPRICE' => 'Ceny se mohou měnit v definovaném čase. Zadané ceny aktualizují standardní ceny. Pokud má cena hodnotu "0", nebudou se ceny aktualizovat.',
 'HELP_ARTICLE_FILES_DOWNLOAD_EXPIRATION_TIME' => 'Zadejte čas v hodinách, odkaz ke stažení je platný až po prvním stažení. V tomto souboru můžete přepsat výchozí nastavení, které bylo definováno v Hlavní nastaveni-> Nastavení -> Nastavení -> Soubory ke stažení pro všechny produkty.',
 'HELP_ARTICLE_FILES_LINK_EXPIRATION_TIME' => 'Zadejte čas v hodinách, po který je odkaz ke stažení platný po objednání. V tomto souboru můžete přepsat výchozí nastavení, které bylo definováno v Hlavní nastavení -> Nastavení -> Nastavení -> Soubory ke stažení pro všechny produkty.',
-'HELP_ARTICLE_FILES_LINK_EXPIRATION_TIME_UNREGISTERED' => 'Zde můžete nastavit, kolikrát si může uživatel stahovat ze stejného odkazu, pokud uživatel objednal bez registrace. V tomto souboru můžete přepsat výchozí nastavení, které bylo definováno v Hlavní nastavení -> Nastavení -> Nastavení -> Soubory ke stažení pro všechny produkty.',
+'HELP_ARTICLE_FILES_LINK_EXPIRATION_TIME_UNREGISTERED' => 'Zadejte čas v hodinách, odkaz ke stažení je platný až po prvním stažení. V tomto souboru můžete přepsat výchozí nastavení, které bylo definováno v Hlavní nastaveni-> Nastavení -> Nastavení -> Soubory ke stažení pro všechny produkty.',
 'HELP_ARTICLE_FILES_MAX_DOWNLOADS_COUNT' => 'Zde můžete nastavit, jak často si může uživatel stahovat ze stejného spojení. V tomto souboru můžete přepsat výchozí nastavení, které bylo definováno v Hlavní nastavení -> Nastavení -> Nastavení -> Soubory ke stažení pro všechny produkty.',
 'HELP_ARTICLE_FILES_NEW' => 'Zadejte název přenášeného souboru přes FTP nebo nahrejte zde nový soubor. Velké soubory by měly být nahrané přes FTP. Omezení velikosti souboru je platná pouze tehdy, pokud soubor je načten přes administrační rozhraní. Toto omezení závisí na nastavení PHP serveru a mohou být pouze tam upraveny .',
 'HELP_ARTICLE_IS_DOWNLOADABLE' => 'Soubory tohoto produktu lze stáhnout.',

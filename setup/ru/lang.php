@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1321), muslimukas (4), Natalia I (244), pianoservis (4), riefi (9), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1321), muslimukas (4), Natalia I (244), pianoservis (32), riefi (9), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -68,7 +68,7 @@ $aLang = array(
 'HEADER_META_MAIN_TITLE' => 'OXID eShop Мастер установки',
 'HEADER_TEXT_SETUP_NOT_RUNS_AUTOMATICLY' => 'Если установка не начнется через несколько секунд, пожалуйста нажмите',
 'HERE' => 'здесь',
-'LOAD_DYN_CONTENT_NOTICE' => '<p>If checkbox is set, you will see an additional menu in the admin area of your OXID eShop.</p><p>In that menu you get further information about eCommerce services like Google product search.</p> <p>You can change these settings at any time.</p>',
+'LOAD_DYN_CONTENT_NOTICE' => 'Если флажок установлен, вы увидите дополнительное меню в админке вашего OXID eShop.</р><р>В этом меню вы получите дополнительную информацию о электронной коммерции сервисов, таких как Google поиск товара.</р> <р>Вы можете изменить эти настройки в любое время.',
 'MOD_ALLOW_URL_FOPEN' => 'allow_url_fopen or fsockopen to port 80',
 'MOD_BC_MATH' => 'BCMath',
 'MOD_BUG53632' => 'Возможные проблемы на сервере из-за ошибок PHP',

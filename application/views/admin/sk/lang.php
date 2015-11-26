@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), i7 (647), lubosdz (18)
+ * @translators: DominikS (404), ET (12), i7 (662), lubosdz (18)
  */
 
 $sLangName  = 'Slovenčina';
@@ -42,7 +42,7 @@ $aLang = array(
 'ADMINLINKS_LIST_MENUITEM' => 'Informácie o zákazníkovi',
 'ADMINLINKS_LIST_MENUSUBITEM' => 'Odkazy',
 'ADMINLINKS_LIST_TITLE' => '[OXID Administrácia odkazov]',
-'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Select All',
+'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Vybrať všetko',
 'ADMIN_MALL_SELECT_NONE_SHOPS' => 'Nevybrať žiadny',
 'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b>Poznámka:</b> Je nakonfigurovaný alternatívny server s obrázky. Súbory nebudú nahrané do úložiska. Preveďte prosím manuálnu synchronizáciu.',
 'amount' => 'Množstvo',
@@ -447,7 +447,7 @@ $aLang = array(
 'DYN_TRUSTED_USER' => 'Meno používateľa (wsUser)',
 'editor_language' => 'sk-sk',
 'EDITOR_PLAINTEXT_HINT' => '<b>Poznámka:</b> Pokiaľ potrebujete vložiť konce riadkov (napr. do plaintextového emailu), použite prosím namiesto záložky "Design" radšej záložku "html kód".',
-'EFIRE_CONNECTORINSTRUCTION' => 'Please enter "Externer Transaktions Login" and "Externes Transaktions Passwort" that you previously have entered in OXID eFire options ("Einstellungen").',
+'EFIRE_CONNECTORINSTRUCTION' => 'Prosím, zadajte "externer Transaktions Prihlásenie" a "Externes Transaktions Passwort", ktoré ste predtým zadali do OXID eFire možností ("Einstellungen").',
 'EFIRE_DOWNLOADER' => 'Downloader',
 'EFIRE_DOWNLOADER_ERROR' => 'Chyba pri sťahovaní shop konektoru: %s',
 'EFIRE_DOWNLOADER_SUCCESS' => 'Shop konektor bol úspešne stiahnutý',
@@ -535,7 +535,7 @@ $aLang = array(
 'GENERAL_AJAX_UNASSIGNALL' => 'Zrušiť priradenie',
 'GENERAL_ALLGROUPS2' => 'Všetky užívateľské skupiny',
 'GENERAL_ALLITEMS' => 'Všetky dostupné produkty',
-'GENERAL_ALWAYS_ACTIVE' => 'Always active',
+'GENERAL_ALWAYS_ACTIVE' => 'Vždy aktívne',
 'GENERAL_ARTICLE_OXACTIVE' => 'Aktívne',
 'GENERAL_ARTICLE_OXACTIVEFROM' => 'Aktívne od',
 'GENERAL_ARTICLE_OXACTIVETO' => 'Aktívne do',
