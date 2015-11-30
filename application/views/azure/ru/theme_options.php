@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1321), muslimukas (4), Natalia I (244), pianoservis (32), riefi (9), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1321), muslimukas (4), Natalia I (244), pianoservis (236), riefi (9), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -41,7 +41,7 @@ $aLang = array(
 'SHOP_THEME_aNrofCatArticles' => 'Кол-во товаров из списка на странице. Внимание: слишком большое кол-во может замедлить работу сайта.',
 'SHOP_THEME_aNrofCatArticlesInGrid' => 'Для галереи: кол-во товаров из списка на странице. Внимание: слишком большое кол-во может замедлить работу сайта.',
 'SHOP_THEME_blShowBirthdayFields' => 'Показывать поле, куда пользователь введёт дату рождения.',
-'SHOP_THEME_blShowListDisplayType' => 'Показывать вид списка товаров в списке',
+'SHOP_THEME_blShowListDisplayType' => 'Показывать вид списка товаров',
 'SHOP_THEME_bl_showCompareList' => 'Активировать опцию сравнения товаров',
 'SHOP_THEME_bl_showGiftWrapping' => 'Активировать подарки',
 'SHOP_THEME_bl_showListmania' => 'Активировать списки понравившихся товаров',
