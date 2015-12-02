@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1321), muslimukas (4), Natalia I (244), pianoservis (236), riefi (9), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1321), muslimukas (4), Natalia I (244), pianoservis (255), riefi (9), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -822,18 +822,18 @@ $aLang = array(
 'GENIMPORT_TOTALROWS' => 'Всего строк импортировано',
 'GENIMPORT_UPLOADFILE' => 'Загрузить файл',
 'GIFTCARD_COSTS' => 'Поздравительная открытка',
-'HELP_ARTICLE_MAIN_PRICE' => 'This price is inherited to product\'s variants.<ul><li>Depending on the shop settings net price or gross price is input/shown.</li><li>Gross price is always shown in parentheses.</li></ul>',
-'HELP_SHOP_CONFIG_PARCELSERVICE' => 'Please fill in the tracking URL of your shipping provider. <i>##ID##</i> is a placeholder and will be replaced with the respective tracking number.',
+'HELP_ARTICLE_MAIN_PRICE' => 'Эта цена наследуется к вариантам продукта. <UL><LI> В зависимости от настроек магазина чистая цена или полная цена ввод/показ.</LI><LI> Полная цена всегда отображается в скобках.</LI></UL>',
+'HELP_SHOP_CONFIG_PARCELSERVICE' => 'Пожалуйста, заполните отслеживания URL вашего провайдера доставки.  <i>##ID##</i> является заполнителем и будут заменены соответствующим номером для отслеживая.',
 'HOME_DESC' => 'Добро пожаловать в область администрирования OXID eShop. Здесь находится обзор главных рабочих областей и функций.',
-'INFO_MODULES_MOVED_TO_EXTENSIONS' => 'Themes and modules handling moved to new menu "Extensions"',
+'INFO_MODULES_MOVED_TO_EXTENSIONS' => 'Темы и модули обработки переехали в новое меню "Расширения"',
 'invalid_serial' => 'Неверный ключ лицензии',
-'IS_REVERSE_PROXY_AVAILABLE' => 'Test Reverse Proxy\'s availability',
+'IS_REVERSE_PROXY_AVAILABLE' => 'Тест обратного прокси-сервера наличие',
 'LANGUAGE_ABBERVATION' => 'Сокращение Языка',
 'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Attention: you can\'t change abbreviation of main language (with ID = 0)!',
 'LANGUAGE_ACTIVE' => 'Активно во фронтэнде',
 'LANGUAGE_ALREADYEXISTS_ERROR' => 'Error: a language with this abbreviation already exists!',
 'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Внимание: для выбранного языка не найдено языковых файлов в директории /admin',
-'LANGUAGE_BASESSLURL' => 'Основный SSL URL',
+'LANGUAGE_BASESSLURL' => 'Основной SSL URL',
 'LANGUAGE_BASEURL' => 'Base URL',
 'LANGUAGE_DEFAULT' => 'Стандартный язык',
 'LANGUAGE_DELETINGMAINLANG_WARNING' => 'Attention: you can\'t delete main language (with ID = 0)!',
@@ -944,8 +944,8 @@ $aLang = array(
 'NAVIGATION_NEWVERSIONAVAILABLE' => 'Доступна %s версия.',
 'NAVIGATION_PAGE' => 'Страница',
 'NAVIGATION_SHOPFRONT' => 'Главная страница магазина',
-'NAVIGATION_SYSREQ_MESSAGE' => 'Your system doesn\'t fit the system requirements. More information can be found in the',
-'NAVIGATION_SYSREQ_MESSAGE2' => 'system requirements check.',
+'NAVIGATION_SYSREQ_MESSAGE' => 'Система Health Check показывает Настройка / Настройка сервера этого OXID eShop может быть нарушена. Вероятно, OXID eShop ведет себя странно, в некоторых случаях. Пожалуйста, исправьте это как можно быстрее.',
+'NAVIGATION_SYSREQ_MESSAGE2' => 'Проверка системы',
 'NAVIGATION_TITLE' => 'Навигация',
 'NEWSLETTER_DONE_GOTONEWSLETTER' => 'go to Newsletter ',
 'NEWSLETTER_DONE_NEWSSEND' => 'Ваш бюллетень был отправлен.',
@@ -2020,7 +2020,7 @@ $aLang = array(
 'VOUCHERSERIE_LIST_MINVALUE' => 'Min. Order Sum',
 'VOUCHERSERIE_LIST_SERIALNUM' => 'Название',
 'VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Действительно с разной серией',
-'VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Valid with same serie ?',
+'VOUCHERSERIE_MAIN_ALLOWSAMESERIES' => 'Действительно с такой же серией',
 'VOUCHERSERIE_MAIN_AVAILABLE' => 'Доступно',
 'VOUCHERSERIE_MAIN_CALCULATEONCE' => 'Расчитать только один раз (действует только для ваучеров для товаров или категорий)',
 'VOUCHERSERIE_MAIN_DISCOUNT' => 'Скидка',
@@ -2030,7 +2030,7 @@ $aLang = array(
 'VOUCHERSERIE_MAIN_MINORDERPRICE' => 'Min. Order Sum',
 'VOUCHERSERIE_MAIN_NEWVOUCHER' => 'Создать новые купоны',
 'VOUCHERSERIE_MAIN_RANDOMNUM' => 'Произвольные номера',
-'VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Same serie, different order ?',
+'VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Действителен этой же серии, в различном порядке',
 'VOUCHERSERIE_MAIN_USED' => 'Использовано',
 'VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Номер купона',
 'VOUCHERSERIE_MAIN_VOUCHERSTATISTICS' => 'Купоны',
