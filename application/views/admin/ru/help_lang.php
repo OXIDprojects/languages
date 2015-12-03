@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1321), muslimukas (4), Natalia I (244), pianoservis (255), riefi (9), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1321), muslimukas (4), Natalia I (244), pianoservis (257), riefi (9), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -31,7 +31,7 @@ $aLang = array(
 'charset' => 'utf-8',
 'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => 'Альтернативный URL на удаленный сервер изображений может быть задан в файле конфигурации config.inc.php изменив <i>sAltImageUrl</i> и <i>sSSLAltImageUrl</i>.<br> Таким образом, все изображения продукта будут загружены с этого альтернативного сервера вместо локального. Тем не менее, загруженные файлы будут сохранены локально. В этом случае синхронизация с внешним сервером должна быть сделана вручную или с помощью пользовательских скриптов.',
 'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => 'Оповещение о цене для этого продукта можно отключить',
-'HELP_ARTICLE_EXTEND_EXTURL' => 'In <span class="navipath_or_inputname">External URL</span> you can enter a link where further information about the product is available (e. g. on the manufacturer\'s website). In <span class="navipath_or_inputname">Text for external URL</span> you can enter the text which is linked, e .g. <span class="userinput_or_code">Further information on the manufacturer\'s website</span>.',
+'HELP_ARTICLE_EXTEND_EXTURL' => 'В <span class="navipath_or_inputname"> Внешний URL-адрес </span> можно ввести ссылку, где дополнительная информация о продукте доступна (например, на веб-сайте производителя). В <span class="navipath_or_inputname">Текст для внешнего URL</span> можно ввести текст, который будет связан, по электронной .g.  <span class="userinput_or_code">Дополнительная информация на сайте производителя </span>.',
 'HELP_ARTICLE_EXTEND_FREESHIPPING' => 'Установка наследуется от родительской продукта для Вариантов и распространяется на весь продукт.',
 'HELP_ARTICLE_EXTEND_ISCONFIGURABLE' => 'If the product is customizable, an additional input field is displayed on the products detail page and in the shopping cart. Here customers can enter text for customizing the product.<br><br>A typical example are t-shirts which can be imprinted with custom text. In the input field customers can enter the text to be printed on the t-shirt.',
 'HELP_ARTICLE_EXTEND_NONMATERIAL' => 'Setting is inherited from Parent product to Variants and applies to the entire product.',
@@ -257,7 +257,7 @@ $aLang = array(
 'HELP_VOUCHERSERIE_MAIN_CALCULATEONCE' => 'If you assign products or categories to your coupon, deactivate this option to calculate this coupon to each product per cart position. Activate if the coupon shall be valid only once per cart position.',
 'HELP_VOUCHERSERIE_MAIN_DISCOUNT' => 'In <span class="navipath_or_inputname">Discount</span>, you specify the magnitude of the discount. You can use the selection list after the entry field to specify whether the discount is to be applied as an absolute discount or as a percentage discount:<ul><li><span class="userinput_or_code">abs</span>: The discount is an absolute discount, e.g. EUR 5.</li><li><span class="userinput_or_code">%</span>: The discount is a percentage discount, e.g. 10 percent of the purchase price.</li></ul>',
 'HELP_VOUCHERSERIE_MAIN_RANDOMNUM' => 'Если этот параметр активен каждому купону рассчитывается случайное число.',
-'HELP_VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Here you can set if users can use coupons of this coupon series in multiple orders.',
+'HELP_VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Здесь вы можете установить может ли пользователь использовать купон этой серии в нескольких заказах.',
 'HELP_VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Здесь вы можете ввести номер купона. Этот номер будет использоваться при создании новых купонов, если выбор <span class = "navipath_or_inputname"> случайных чисел </ span> отключен. Все купоны получат тот же номер.',
 'HELP_WRAPPING_MAIN_PICTURE' => 'С <span class="navipath_or_inputname">Картинка</span> по <span class="navipath_or_inputname">Загрузить фото</span> вы можете загрузить изображение на подарочной упаковке. В <span class="navipath_or_inputname">Загрузить фото</span>, выберите изображение для загрузки. При нажатии на <span class="navipath_or_inputname">Сохранить</span>, как фотография загружена. После загрузки, имя файла показано в  <span class="navipath_or_inputname">Picture</span>.',
 );
