@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: elaberino (5), ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), NADi (21), p3t3r (17), pawelch (1660), pkoper (20), remiq (27), topconcepts (209)
+ * @translators: elaberino (5), ET (15), irus (42), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), NADi (21), p3t3r (17), pawelch (1660), pkoper (20), remiq (27), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -47,7 +47,7 @@ $aLang = array(
 'ERROR_CONFIG_FILE_IS_NOT_WRITABLE' => 'BŁĄD: %s/ config.inc.php niezapisywalny!',
 'ERROR_COULD_NOT_CREATE_DB' => 'BŁĄD: Baza danych jest nieosiągalna przez co nie może być kontynuowany proces instalacji!',
 'ERROR_COULD_NOT_FIND_FILE' => 'Instalator nie może znaleźć "%s"!',
-'ERROR_COULD_NOT_OPEN_CONFIG_FILE' => 'Nie można otworzyć % s do odczytu! Prosimy o kontakt z naszym FAQ, forum lub skontaktować się z nami!',
+'ERROR_COULD_NOT_OPEN_CONFIG_FILE' => 'Nie można otworzyć % s do odczytu! Prosimy o poszukanie rozwiązań na naszym FAQ, forum lub skontaktować się z pomocą OXID!',
 'ERROR_COULD_NOT_READ_FILE' => 'Instalator nie może otworzyć "%s" do odczytu!',
 'ERROR_COULD_NOT_WRITE_TO_FILE' => 'Instalator nie może zapisać do "%s"!',
 'ERROR_DB_ALREADY_EXISTS' => 'BŁĄD: Instalator wykrył zainstalowaną bazę danych o nazwie "%s" systemu OXID. Należy ją usunąć przed kontynuacją!',

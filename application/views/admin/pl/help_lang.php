@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: elaberino (5), ET (15), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), NADi (21), p3t3r (17), pawelch (1660), pkoper (20), remiq (27), topconcepts (209)
+ * @translators: elaberino (5), ET (15), irus (42), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), NADi (21), p3t3r (17), pawelch (1660), pkoper (20), remiq (27), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -36,7 +36,7 @@ $aLang = array(
 'HELP_ARTICLE_EXTEND_ISCONFIGURABLE' => 'Jeśli produkt jest konfigurowalny, dodatkowe pole tekstowe zostanie wyświetlone na stronie produktu i w koszyku. Tutaj klient może doprecyzować zamawiany produkt.<br><br>Przykład: t-shirts z nadrukowanym tekstem. Wtedy klient może podać tekst który ma zostać wydrukowany.',
 'HELP_ARTICLE_EXTEND_NONMATERIAL' => 'Jest to produkt nadrzędny, dla wariantów. Parametry tego produktu dziedziczone są przez produkty będące wariantami tego produktu.',
 'HELP_ARTICLE_EXTEND_QUESTIONEMAIL' => 'W tym polu podajesz adres alternatywny email na który wysyłane będą zapytania użytkowników o twn produkt.',
-'HELP_ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'If this option is activated, users have to confirm terms and conditions in the fourth step of the check-out process for this specific item. Please make sure the general option is activated as well and the product item is intangible or downloadable.',
+'HELP_ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'Jeśli ta opcja jest aktywna, Klient musi potwierdzić ogólne warunki sprzedaży (Regulamin sklepu) w czwartym kroku procesu zakupowego dla specyficznych produktów. Proszę upewnić się, że ta opcja jest aktywna przy zakupie treści cyfrowych niezapisanych na nośniku trwałym.',
 'HELP_ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Jeśli aktywne, wszystkie zniżki generujące ceny ujemne produktów nie będą uwzględniane. Dotyczy rabatów i voucherów.',
 'HELP_ARTICLE_EXTEND_TEMPLATE' => 'Strona produktowa może być wyświetlana wg innego szablonu. Aby tak było, należy podać sćieżkę dostępu i nazwę szablonu który ma być użyty. Więcej info na <a href="http://www.oxid-esales.com/de/resources/help-faq/eshop-manual/display-certain-products-or-categories-another-template" target="_blank">stronie</a>.',
 'HELP_ARTICLE_EXTEND_TPRICE' => 'Tutaj podawana jest sugerowana cena detaliczna producenta. Jeśli zostanie zdefiniowana, będzie wyświetlana ponad ceną obowiązującą w sklepie.',
@@ -98,7 +98,7 @@ $aLang = array(
 'HELP_DISCOUNT_MAIN_AMOUNT' => 'Rabat może obowiązywać dla wybranego przedziału ilości zamawianych produktów. Jeśli ma obowiązywać dla wszystkich ilości, wpisz <span class="userinput_or_code">0</span> w <span class="navipath_or_inputname">Od</span> i <span class="userinput_or_code">0</span> w <span class="navipath_or_inputname">Do</span>.',
 'HELP_DISCOUNT_MAIN_PRICE' => 'Można określić że rabaty obowiązują tylko dla wybranych cen zamówienia. Jeśli rabat ma obowiązywać dla wszystkich cen, wpisz <span class="userinput_or_code">0</span> w <span class="navipath_or_inputname">Od</span> i <span class="userinput_or_code">0</span> w <span class="navipath_or_inputname">Do</span>.',
 'HELP_DISCOUNT_MAIN_REBATE' => 'Tutaj możesz określić wysokość rabatu. Sposób naliczania rabatu:<ul><li><span class="userinput_or_code">kwota</span>: rabat naliczany kwotowo, np. 5 zł.</li><li><span class="userinput_or_code">%</span>: procentowo, np. 10% wartości zamówienia.</li><li><span class="userinput_or_code">itm</span>: Rabat w postaci darmowego produktu. Ustaw ilość tego produktu. Wybierz "Pomnóż" jeśli ten produkt ma być darmowy niezależnie od wybranej ilości w koszyku.</li></ul>',
-'HELP_DYN_TRUSTED_ACTIVE' => 'Check this option to display the Trusted Shops Seal on shop.',
+'HELP_DYN_TRUSTED_ACTIVE' => 'Zaznacz tą opcję aby wyświetlić znak Trusted Shops na stronie sklepu.',
 'HELP_DYN_TRUSTED_PASSWORD' => 'A password (wsPassword) for the Trusted Shops webservice is required if you offer the Trusted Shops Buyer Protection Excellence to your customers. Buyer Protection Classic does not require a password.',
 'HELP_DYN_TRUSTED_RATINGS_ID' => 'You will receive your Trusted Shops ID for Customer Ratings in the order conformation e-mail. If you are already a member of Trusted Shops, please use your known Trusted Shops ID. The green light indicates that the Customer Ratings have been verified and enabled after saving your settings.',
 'HELP_DYN_TRUSTED_RATINGS_ORDEREMAIL' => 'Enable the button "Write a review!" in "Order confirmation" e-mail subsequent to an order by switching this option on.',
@@ -127,11 +127,11 @@ $aLang = array(
 'HELP_PAYMENT_MAIN_ADDSUMRULES' => 'Obliczając cenę zniżek/dopłat brana jest pod uwagę aktualna wartość w koszyku. Zdefinuj jakie koszty będą brane pod uwagę przy wyliczaniu wartości koszyka.',
 'HELP_PAYMENT_MAIN_AMOUNT' => 'Można zdefiniować zakres cenowy w jakim możliwe będzie użycie danej metody płatności.<br>Jeśli metoda płatności ma być dostępna zawsze, należy wskazać zakres cen pasujący do wszystkich zamówień, np: od 0 do 999999999999.',
 'HELP_PAYMENT_MAIN_FROMBONI' => 'Można wskazać Min. Ocenę Kredytową jaką użytkownik musi posiadać aby móc użyć wybranej metody płatności. Każdemu użytkownikowi można przypisać ocenę kredytową w <span class="navipath_or_inputname">Zarządzanie użytkownikami -> Użytkownicy -> Rozszerzone</span>.',
-'HELP_PAYMENT_MAIN_SELECTED' => 'Należy wskazać domyślną matodę płątności.',
+'HELP_PAYMENT_MAIN_SELECTED' => 'Należy wskazać domyślną metodę płatności.',
 'HELP_PAYMENT_MAIN_SORT' => 'Tutaj definiowana jest kolejność w jakiej mają być wyświetlane metody płątności użytkownikom na stronie publicznej. Najniższa liczba powoduje wyświetlenie pozycji jako pierwszej.',
 'HELP_PROMOTIONS_BANNER_PICTUREANDLINK' => 'Wgraj zdjęcie bannera i podaj adres URL na który użytkownik ma zostać przekierowany po jego kliknięciu. Można również np przypisać banner bezpośrednio do produktu.',
 'HELP_REVERSE_PROXY_GET_BACKEND' => 'Panel administracyjny kesy wyświetlany bez użycia Reverse Proxy. Nagłówek Varnisha nie może zostać pobrany.',
-'HELP_REVERSE_PROXY_GET_FRONTEND' => 'Sprawdza czy Reverse Proxy jest dostępne na stronie publicznej. Sprawdzany jest nagłówek sklepu.',
+'HELP_REVERSE_PROXY_GET_FRONTEND' => 'Sprawdź czy Reverse Proxy jest dostępne na stronie publicznej. Nagłówek strony głównej jest sprawdzany.<br>Ten tekst może sygnalizuje niepowodzenie jeśli inna domena lub protokół (http/https) są używane w panelu administracyjnym a inne na stronie głównej sklepu.',
 'HELP_SELECTLIST_MAIN_FIELDS' => 'Wszystkie dostępne opcje wyświetlane są na liście pól. Więcej info na <a href="http://www.oxid-esales.com/en/resources/help-faq/eshop-manual/implementing-simple-variants-selection-lists" target="_blank">stronie</a>.',
 'HELP_SELECTLIST_MAIN_TITLEIDENT' => 'Proszę podać "tytuł roboczy", który będzie używany tylko w panelu administracyjnym, nie wyświetlany po stronie publicznej.',
 'HELP_SHOP_CACHE_CLASSES' => 'Tutaj podajemy które klasy mają być cachowane.<br> Wymagana jest zaawansowana znajomość systemu OXID!',
@@ -153,7 +153,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_DOWNLOADS' => 'Sklep z produktami do pobrania ze strony.',
 'HELP_SHOP_CONFIG_DOWNLOADS_PATH' => 'Ścieżka gdzie przechowywane będą pliki do pobrania.',
 'HELP_SHOP_CONFIG_DOWNLOAD_EXPIRATION_TIME' => 'Czas aktywności linku pliku do pobrania.',
-'HELP_SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'If this option is activated, users have to confirm terms and conditions for intangible or downloadable products in the fourth step of the check-out process. Please make sure this option is enabled for the specific item as well!',
+'HELP_SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'Jeśli ta opcja jest aktywna, Klient musi potwierdzić ogólne warunki sprzedaży (Regulamin sklepu) w czwartym kroku procesu zakupowego dla specyficznych produktów. Proszę upewnić się, że ta opcja jest aktywna przy zakupie treści cyfrowych niezapisanych na nośniku trwałym.',
 'HELP_SHOP_CONFIG_ENTERNETPRICE' => 'W panelu administracyjnym ceny produktów muszą być wprowadzane jako ceny netto.',
 'HELP_SHOP_CONFIG_FACEBOOKCONNECT' => 'Pokazuje Facebook Connect box które pozwala użytkownikom na logowanie się do sklepu za pomocą ich danych z Facebook.',
 'HELP_SHOP_CONFIG_FBCOMMENTS' => 'Daje użytkownikom możliwość wprowadzania komentarzy na stronie publicznej.',

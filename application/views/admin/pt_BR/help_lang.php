@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: hwarlley (32), sancao (125), vendingtechnik (81)
+ * @translators: hwarlley (32), sancao (125), vendingtechnik (192)
  */
 
 $sLangName  = 'Português do Brasil';

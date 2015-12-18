@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: AWIDON (1), dsb (1), marco (4706), patmat2809 (1), simoneschuppe (4), SvenBrunk (2), Thielo (1)
+ * @translators: AWIDON (2), dsb (1), marco (4706), patmat2809 (1), simoneschuppe (4), SvenBrunk (2), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';
@@ -774,7 +774,7 @@ $aLang = array(
 'WRITE_ENTRY' => 'Eintrag schreiben',
 'WRITE_PRODUCT_REVIEW' => 'Einen Kommentar schreiben',
 'WRITE_REVIEW' => 'Einen Kommentar schreiben.',
-'WRITE_REVIEW_2' => 'Bewerten Sie unseren Shop!',
+'WRITE_REVIEW_2' => 'Bewerte unseren Shop!',
 'YEAR' => 'Jahr',
 'YES' => 'Ja',
 'YOUR_EMAIL_ADDRESS' => 'Deine E-Mail-Adresse:',

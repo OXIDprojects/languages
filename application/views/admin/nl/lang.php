@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: ET (30), gvlimpt (97), hoekie (37), marco (932), topconcepts (111)
+ * @translators: ET (30), Gecker (1), gvlimpt (97), hoekie (37), marco (932), topconcepts (111)
  */
 
 $sLangName  = 'Nederlands';
@@ -39,7 +39,7 @@ $aLang = array(
 'ADMINGB_LIST_MENUITEM' => 'Klanteninformatie',
 'ADMINGB_LIST_MENUSUBITEM' => 'Gastenboek',
 'ADMINGB_TITLE' => '[OXID Gastenboek]',
-'ADMINLINKS_LIST_MENUITEM' => 'Customer Information',
+'ADMINLINKS_LIST_MENUITEM' => 'klant Informatie',
 'ADMINLINKS_LIST_MENUSUBITEM' => 'Links',
 'ADMINLINKS_LIST_TITLE' => '[OXID Links beheer]',
 'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Select All',
