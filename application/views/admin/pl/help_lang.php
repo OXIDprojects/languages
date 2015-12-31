@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: elaberino (5), ET (15), irus (42), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), NADi (21), p3t3r (17), pawelch (1660), pkoper (20), remiq (27), topconcepts (209)
+ * @translators: elaberino (5), ET (15), irus (74), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), NADi (21), p3t3r (17), pawelch (1660), pkoper (20), remiq (27), topconcepts (209)
  */
 
 $sLangName  = 'Polski';
@@ -179,7 +179,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_SHOP_CONFIG_FBSECRETKEY' => 'Z powodów bezpieczeństwa należy podać Secure Key który można uzyskać podczas rejestracji swojej strony na Facebook. Więcej info <a href="http://wiki.oxidforge.org/Tutorials/Connecting_website_to_facebook" target="_blank">tutaj</a>',
 'HELP_SHOP_CONFIG_SHOWTAGS' => 'Jeśli wyłączone, tagi nie będą wyświetlane na stronie.',
 'HELP_SHOP_CONFIG_SHOWTSCODMESSAGE' => 'W 4 kroku procesu zamawiania jest dodatkowo wyświetlana strona "oxtscodmessage".',
-'HELP_SHOP_CONFIG_SHOWTSINTERNATIONALFEESMESSAGE' => 'In the 4th step of the checkout process the CMS page "oxtsinternationalfees" is additionally displayed.',
+'HELP_SHOP_CONFIG_SHOWTSINTERNATIONALFEESMESSAGE' => 'W czwartym kroku procesu zakupowego strona CMS "oxtsinternationalfees" zostanie dodatkowo wyświetlony.',
 'HELP_SHOP_CONFIG_SORTFIELDS' => 'Pola po których można sortować produkty w panelu administracyjnym.<br>Najpopularniejsze:<ul><li>oxtitle = Tytuł</li><li>oxprice = Cena</li><li>oxvarminprice = Najniższa cena jeśli są warianty z różnymi cenami.</li><li>oxartnum = Numer produktu</li><li>oxrating = Oceny produktu</li><li>oxstock = Stan magazynowy</li></ul>',
 'HELP_SHOP_CONFIG_STOCKOFFDEFAULTMESSAGE' => 'Dla każdego produktu może zostać zdefiniowany komunikat jeśli produkt nie jest dostępny na magazynie.',
 'HELP_SHOP_CONFIG_STOCKONDEFAULTMESSAGE' => 'Dla każdego produktu może zostać zdefiniowany komunikat jeśli produkt dostępny jest na magazynie.',
