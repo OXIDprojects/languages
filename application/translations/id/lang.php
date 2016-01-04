@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: bih (5), irvictor (13)
+ * @translators: ayu (55), bih (5), irvictor (13)
  */
 
 $sLangName  = 'Indonesia';
@@ -31,25 +31,25 @@ $aLang = array(
 'charset' => 'utf-8',
 'ACCESSORIES' => 'Aksesoris',
 'ACCOUNT' => 'Akun',
-'ACCOUNT_INFORMATION' => 'Account information',
+'ACCOUNT_INFORMATION' => 'Informasi akun',
 'ADD' => 'tambahkan',
-'ADDITIONAL_INFO' => 'Additional info',
+'ADDITIONAL_INFO' => 'informasi tambahan',
 'ADDRESS' => 'Alamat',
 'ADDRESSES' => 'Alamat',
-'ADD_TAGS' => 'Add tags',
-'ADD_THIS_PAGE_TO' => 'Add this page to',
-'ADD_TO_CART' => 'Add to cart',
+'ADD_TAGS' => 'tambahkan label',
+'ADD_THIS_PAGE_TO' => 'tambahkan halaman ini',
+'ADD_TO_CART' => 'tambahkan ke dalam keranjang',
 'ADD_TO_GIFT_REGISTRY' => 'Add to gift registry',
 'ADD_TO_LISTMANIA_LIST' => 'Add to listmania list',
 'ADD_TO_WISH_LIST' => 'Add to wish list',
-'ADD_WRAPPING' => 'Add gift wrap',
+'ADD_WRAPPING' => 'Tambahkan pembungkus hadiah',
 'ADD_YOUR_COMMENTS' => 'Add your comments',
-'ALL' => 'All',
-'ALL_BRANDS' => 'All Brands',
+'ALL' => 'semua',
+'ALL_BRANDS' => 'Semua merek',
 'ALL_LISTMANIA' => 'All listmania',
 'ALREADY_ADDED_TAG' => 'You already tagged this text',
 'ALREADY_CUSTOMER' => 'I am already a customer',
-'APPLAY' => 'Apply',
+'APPLAY' => 'terapkan',
 'ARTNUM' => 'Product number',
 'ATENTION_GREETING_CARD' => 'Attention - greeting card!',
 'AUTHOR' => 'Author',

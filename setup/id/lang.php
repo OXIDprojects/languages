@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: bih (5), irvictor (13)
+ * @translators: ayu (55), bih (5), irvictor (13)
  */
 
 $sLangName  = 'Indonesia';
