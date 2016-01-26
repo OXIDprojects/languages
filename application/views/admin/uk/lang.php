@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: asot (45), pianoservis (2816)
+ * @translators: asot (45), pianoservis (2825)
  */
 
 $sLangName  = 'Українська';
@@ -1085,20 +1085,20 @@ $aLang = array(
 'OXDIAG_EDITION' => 'Видання',
 'OXDIAG_ERRORMESSAGETEMPLATE' => 'Ці помилки виникли',
 'OXDIAG_ERRORMESSAGEVERSIONDOESNOTEXIST' => 'OXID eShop %s %s in Revision %s does not exist.',
-'OXDIAG_ERRORMESSAGEWEBSERVICEISNOTREACHABLE' => 'Web service is not available currently. Please try again later.',
-'OXDIAG_ERRORMESSAGEWEBSERVICERETURNEDNOXML' => 'Web service returned not a XML.',
+'OXDIAG_ERRORMESSAGEWEBSERVICEISNOTREACHABLE' => 'Веб-сервіс в даний час недоступний. Будь-ласка спробуйте пізніше.',
+'OXDIAG_ERRORMESSAGEWEBSERVICERETURNEDNOXML' => 'Веб-служби повернувся не у форматі XML.',
 'OXDIAG_ERRORVERSIONCOMPARE' => 'Цього тексту тут взагалі-то бути не повинно. Спробуйте ще раз...',
-'OXDIAG_FINALNOTE' => 'End of analysis.',
-'OXDIAG_FORM_LIST_ALL_FILES' => 'List all files (also those which were OK)',
+'OXDIAG_FINALNOTE' => 'Кінець аналізу.',
+'OXDIAG_FORM_LIST_ALL_FILES' => 'Перерахуйте всі файли (і ті, які були в порядку)',
 'OXDIAG_FORM_START_CHECK' => 'Start to check this eShop right now (may take some time)',
 'OXDIAG_GOTO' => 'до',
 'OXDIAG_HEALTH' => 'System health',
-'OXDIAG_HEALTH_FAIL' => 'FAIL',
+'OXDIAG_HEALTH_FAIL' => 'ЗБІЙ',
 'OXDIAG_HEALTH_MIN' => 'MIN',
 'OXDIAG_HEALTH_OK' => 'ОК',
-'OXDIAG_HINTS' => 'Hints',
-'OXDIAG_HOME' => 'OXID Diagnostics',
-'OXDIAG_INTROINFORMATION' => 'This script is intended to check consistency of your OXID eShop. It collects names of php files and templates, detects their MD5 checksum, connects for each file to OXID\'s web service to determine if it fits this shop version.',
+'OXDIAG_HINTS' => 'Поради',
+'OXDIAG_HOME' => 'Діагностика OXID',
+'OXDIAG_INTROINFORMATION' => 'Цей сценарій призначений для перевірки узгодженості вашого OXID Інтернет-магазин. Він збирає імена файлів PHP і шаблонів, виявляє свою контрольну суму MD5, з\'єднує кожного файлу у веб-служби Oxid, щоб визначити, чи підходить він магазину цієї версії.',
 'OXDIAG_INTROINFORMATION_CONTACT_US' => 'Ви можете зв\'язатися з нами за допомогою',
 'OXDIAG_INTROINFORMATION_DATA_TRANSMITTED' => 'Data to be transmitted to OXID is:',
 'OXDIAG_INTROINFORMATION_FILENAME_TO_BE_CHECKED' => 'Filename to be checked',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1321), muslimukas (4), Natalia I (244), pianoservis (326), riefi (9), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1321), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -1085,20 +1085,20 @@ $aLang = array(
 'OXDIAG_EDITION' => 'Издание',
 'OXDIAG_ERRORMESSAGETEMPLATE' => 'Эти ошибки произошли',
 'OXDIAG_ERRORMESSAGEVERSIONDOESNOTEXIST' => 'OXID eShop %s %s in Revision %s does not exist.',
-'OXDIAG_ERRORMESSAGEWEBSERVICEISNOTREACHABLE' => 'Web service is not available currently. Please try again later.',
-'OXDIAG_ERRORMESSAGEWEBSERVICERETURNEDNOXML' => 'Web service returned not a XML.',
+'OXDIAG_ERRORMESSAGEWEBSERVICEISNOTREACHABLE' => 'Веб-сервис в настоящее время недоступен. Пожалуйста, повторите попытку позже.',
+'OXDIAG_ERRORMESSAGEWEBSERVICERETURNEDNOXML' => 'Веб-службы вернулись не в формате XML.',
 'OXDIAG_ERRORVERSIONCOMPARE' => 'Этого текста тут вообще-то быть не должно. Попробуйте еще раз...',
-'OXDIAG_FINALNOTE' => 'End of analysis.',
-'OXDIAG_FORM_LIST_ALL_FILES' => 'List all files (also those which were OK)',
+'OXDIAG_FINALNOTE' => 'Конец анализа.',
+'OXDIAG_FORM_LIST_ALL_FILES' => 'Перечислите все файлы (и те, которые были в порядке)',
 'OXDIAG_FORM_START_CHECK' => 'Start to check this eShop right now (may take some time)',
 'OXDIAG_GOTO' => 'к',
 'OXDIAG_HEALTH' => 'System health',
-'OXDIAG_HEALTH_FAIL' => 'FAIL',
+'OXDIAG_HEALTH_FAIL' => 'НЕУДАЧА',
 'OXDIAG_HEALTH_MIN' => 'MIN',
 'OXDIAG_HEALTH_OK' => 'ОК',
-'OXDIAG_HINTS' => 'Hints',
-'OXDIAG_HOME' => 'OXID Diagnostics',
-'OXDIAG_INTROINFORMATION' => 'This script is intended to check consistency of your OXID eShop. It collects names of php files and templates, detects their MD5 checksum, connects for each file to OXID\'s web service to determine if it fits this shop version.',
+'OXDIAG_HINTS' => 'Советы',
+'OXDIAG_HOME' => 'Диагностика OXID',
+'OXDIAG_INTROINFORMATION' => 'Этот сценарий предназначен для проверки согласованности вашего OXID Интернет-магазин. Он собирает имена файлов PHP и шаблонов, обнаруживает свою контрольную сумму MD5, соединяет каждого файла в веб-службы Oxid, чтобы определить, подходит ли он эта версия магазина.',
 'OXDIAG_INTROINFORMATION_CONTACT_US' => 'Вы можете связаться с нами с помощью',
 'OXDIAG_INTROINFORMATION_DATA_TRANSMITTED' => 'Data to be transmitted to OXID is:',
 'OXDIAG_INTROINFORMATION_FILENAME_TO_BE_CHECKED' => 'Filename to be checked',
