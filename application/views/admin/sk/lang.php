@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), i7 (662), lubosdz (18)
+ * @translators: DominikS (404), ET (12), i7 (662), lubosdz (18), stefanbalaz (15)
  */
 
 $sLangName  = 'Slovenčina';
@@ -823,7 +823,7 @@ $aLang = array(
 'GENIMPORT_UPLOADFILE' => 'Nahrať súbor',
 'GIFTCARD_COSTS' => 'Blahoželanie',
 'HELP_ARTICLE_MAIN_PRICE' => 'Táto cena sa dedí z variantov produktu. <ul> <li> V závislosti na nastavení obchod netto cenu alebo brutto ceny/viď obrázok. </li><li> Brutto Cena je vždy uvedená v zátvorkách. </li></ul>',
-'HELP_SHOP_CONFIG_PARCELSERVICE' => 'Please fill in the tracking URL of your shipping provider. <i>##ID##</i> is a placeholder and will be replaced with the respective tracking number.',
+'HELP_SHOP_CONFIG_PARCELSERVICE' => 'Prosím vložte URL Vášho prepravcu pre sledovanie zásielok. <i>##ID##</i> je značka, která bude nahradená příslušným sledovacím číslom.',
 'HOME_DESC' => 'Vítajte v OXID eShop administrátorskom rozhraní. Toto je prehľad základných oblastí a funkcií',
 'INFO_MODULES_MOVED_TO_EXTENSIONS' => 'Témy a moduly manipulácia sa presťahovali do novej ponuky "Rozšírenie"',
 'invalid_serial' => 'Neplatná licencia',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), i7 (662), lubosdz (18)
+ * @translators: DominikS (404), ET (12), i7 (662), lubosdz (18), stefanbalaz (15)
  */
 
 $sLangName  = 'Slovenčina';
@@ -29,7 +29,7 @@ $sLangName  = 'Slovenčina';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => 'Alternative URL to remote image server can be specified in configuration file config.inc.php by setting <i>sAltImageUrl</i> and <i>sSSLAltImageUrl</i>.<br> Thus all product pictures will be loaded from this alternative server instead of the local one. However, uploaded files will be stored locally. In this case synchronization to external server has to be done manually or with custom scripts.',
+'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => 'Alternatívna URL na vzdialený server s obrázkami sa dá nastaviť v konfiguračnom súbore config.inc.php nastavením <i> sAltImageUrl </ i> a <i> sSSLAltImageUrl </ i>. <br> Preto všetky fotografie produktov budú načítané z tejto alternatívy namiesto lokálneho. Nahrané súbory avšak budú uložené lokálne. V tomto prípade synchronizácia k externému serveru musí byť prevedená ručne alebo pomocou vlastných skriptov.',
 'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => 'Cenový alarm je možné vypnúť pre tento produkt.',
 'HELP_ARTICLE_EXTEND_EXTURL' => 'Do poľa <var>Externý odkaz</var> môžete zadať odkaz týkajúci sa výrobku (napr. web výrobcu). Do poľa <var>text externého odkazu</var> zadajte text, ktorý bude slúžiť ako popis odkazu, napr. <kbd>Viac informácií</kbd>.',
 'HELP_ARTICLE_EXTEND_FREESHIPPING' => 'Nastavenia sa dedia z materského produktu Varianty a vzťahuje sa na celý produkt.',
@@ -41,9 +41,9 @@ $aLang = array(
 'HELP_ARTICLE_EXTEND_TEMPLATE' => 'Deatil produktu môže byť zobrazený inou šablónou. Názov súboru šablóny zadajte do tohto políčka. Ďalšie informácie sú k dispozícii v <a href="http://www.oxid-esales.com/de/resources/help-faq/eshop-manual/display-certain-products-or-categories-another-template" target="_blank"> príslušnej časti návodu </a>.',
 'HELP_ARTICLE_EXTEND_TPRICE' => 'Do poľa <var>Odporúčaná maloobchodná cena</var> zadajte odporúčanú maloobchodnú cenu. Bude zobrazená zákazníkom. Nad cenou výrobku sa zobrazí<i>Zlacnené z odporúčanej ceny</i>',
 'HELP_ARTICLE_EXTEND_UNITQUANTITY' => '<var>Počet kusov</var> a <var>Balenie</var> Vám umožňuje zobraziť cenu za jednotku (napr. 20 Kč za liter). <var>Počet kusov</var> je množstvo výrobkov (napr. <kbd>5</kbd>), <var>Balenie</var> je množstvo (napr. <kbd>liter</kbd>). Cena za jednotku sa zobrazuje u výrobku',
-'HELP_ARTICLE_EXTEND_UPDATEPRICE' => 'Prices can be changed on a defined time. Given fields update standard prices. If you leave price values "0", prices will not be updated.',
+'HELP_ARTICLE_EXTEND_UPDATEPRICE' => 'Ceny se môžu meniť v definovanom čase. Zadané ceny aktualizujú štandartné ceny. Ak má cena hodnotu "0", nebudú se ceny aktualizovať.',
 'HELP_ARTICLE_FILES_DOWNLOAD_EXPIRATION_TIME' => 'Zadajte čas v hodinách, odkaz k stiahnutiu je platný až po prvom stiahnutiu. V tomto súbore môžete prepísať východzie nastavenie, ktoré bolo definované v Hlavnom nastavení-> Nastavenie -> Nastavenie -> Súbory k stiahnutiu pre všetky produkty.',
-'HELP_ARTICLE_FILES_LINK_EXPIRATION_TIME' => 'Specify the time in hours, the download link is valid after order. For this file you can overwrite the default setting, which was defined in Master Settings -> Core Setting -> Settings -> Downloads for all products.',
+'HELP_ARTICLE_FILES_LINK_EXPIRATION_TIME' => 'Zadajte čas v hodinách, počas ktorého je platný odkaz ku stiahnutiu po objednaní. V tomto súbore môžete prepísať výchozie nastavenie, které bolo definované v Hlavnom nastavení -> Nastavenie -> Nastavenie -> Súbory ku stiahnutiu pre všetky produkty.',
 'HELP_ARTICLE_FILES_LINK_EXPIRATION_TIME_UNREGISTERED' => 'Zadajte čas v hodinách, odkaz k stiahnutiu je platný až po prvom stiahnutí. V tomto súbore môžete prepísať východzie nastavenie, ktoré bolo definované v Hlavnom nastavení-> Nastavenie -> Nastavenie -> Súbory k stiahnutiu pre všetky produkty.',
 'HELP_ARTICLE_FILES_MAX_DOWNLOADS_COUNT' => 'Tu môžete nastaviť, ako často si môže užívateľ sťahovať z rovnakého spojenia. V tomto súbore môžete prepísať východzie nastavenie, ktoré bolo definované v Hlavnom nastavení -> Nastavenie -> Nastavenie -> Súbory k stiahnutiu pro všetky produkty.',
 'HELP_ARTICLE_FILES_NEW' => 'Zadajte názov prenášaného súboru cez FTP alebo nahrajte tu nový súbor. Veľké súbory by mali byť nahrané cez FTP. Omedzenie veľkosti súboru je platné iba vtedy, pokiaľ je súbor načítaný cez administrátorské rozhranie. Toto omedzenie závisí na nastavení PHP serveru a môžu byť iba tam upravené .',
@@ -136,11 +136,11 @@ $aLang = array(
 'HELP_SELECTLIST_MAIN_TITLEIDENT' => 'In <span class="navipath_or_inputname">Working Title</span>, you can enter an additional name that is not displayed to users of your eShop. You can use the working title to differentiate between similar selection lists (e.g., Sizes for trousers and Sizes for shirts).',
 'HELP_SHOP_CACHE_CLASSES' => 'Tu nastavíte, ktoré triedy adresára view sú cachování. <br /> Meňte toto nastavvení, ak ste oboznámení s mechanizmom cachovania a viete, čo robíte!',
 'HELP_SHOP_CACHE_ENABLED' => 'Ak je aktivované ukladanie dynamického obsahu do vyrovnávacej pamäte (cache), pre zvýšenie výkonu je obsah je cachování. Deaktivujte toto nastavenie, ak upravujete eshop (píšete moduly, upravujete šablóny vzhľadu atd).',
-'HELP_SHOP_CACHE_LAYOUT_CACHE_AGE' => 'Sets lifetime of page layout in seconds. This will be send via HTTP headers, specifying header value "Age".',
+'HELP_SHOP_CACHE_LAYOUT_CACHE_AGE' => 'Nastaví životnosť rozvrhnutia stránky v sekundách. Bude zasielaný ako hodnota headeru "Age" cez HTTP-header',
 'HELP_SHOP_CACHE_LIFETIME' => 'Tu nastavíte, ako dlho bude obsah vyrovnávacej pamäte (cache) uložený. Predvolená hodnota je 36000 sekúnd.',
 'HELP_SHOP_CACHE_REVERSE_PROXY_ENABLED' => 'Aktivuje ukladanie do medzipamäte HTTP reverznej proxy. Poznámka: Nepoužívajte s "dynamický obsah cache" v rovnakú dobu, inak by to mohlo spomaliť výkon.',
-'HELP_SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_BIGGEST_NET' => 'The VAT rate of the products, which have the biggest net value in shopping cart, is used for calculating.',
-'HELP_SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_PROPORTIONAL' => 'The percentage of products in cart with the same VAT rate is used for calculating.',
+'HELP_SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_BIGGEST_NET' => 'Pre výpočet bude použitá sazba DPH produktov, ktoré majú v nákupnom košíku nejväčšiu netto hodnotu.',
+'HELP_SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_PROPORTIONAL' => 'Pre výpočet bude použitá percentuálna čásť produktov v nákupnom košíku s rovnakou sazbou DPH.',
 'HELP_SHOP_CONFIG_ALTVATIDCHECKINTERFACEWSDL' => 'Tu môžete zadať alternatívnu URL adresu pre online kontrolu DPH ID.',
 'HELP_SHOP_CONFIG_ATTENTION' => 'Caution: Even if encryption is used, Credit Card contracts usually prohibit this strictly!',
 'HELP_SHOP_CONFIG_BASKETEXCLUDE' => 'Umožňuje vkladať produkty len z jednej (hlavní) kategorie, ak sa zákazník neprepne do inej (hlavnej) kategórie,  po zákazníkovi sa požaduje dokončenie objednávky (prejdenie k platbe) alebo pokračovanie v nákupe  (v tomto prípadě sa košík vymaže). Pomocou tejto fukcie v spojení s vhodne usporiadanou štruktúrou kategórií je možné implementovať oddelené košíky pre rôznych dodávateľov.',
@@ -150,11 +150,11 @@ $aLang = array(
 'HELP_SHOP_CONFIG_DEBIT_OLD_BANK_INFORMATION_NOT_ALLOWED' => 'Iba IBAN a BIC môžu byť prístupné behom výstupnej kontroly. Číslo bankovného účtu a kód banky sú prístupné iba pokiaľ nieje aktívne zaškrtávacie pole.',
 'HELP_SHOP_CONFIG_DELETERATINGLOGS' => 'Užívateľ nemôže jeden výrobok hodnotiť viackrát. Tu môžete určiť, po akej dobe môže užívateľ výrobok znova ohodnotit. Pokiaľ nezadáte žiadnu hodnotu, výrobok môže byť hodnotený len jedenkrát.',
 'HELP_SHOP_CONFIG_DISABLEONLINEVATIDCHECK' => 'Ak zadá pri objednaní zákazník z cudzej krajiny v EÚ DPH, je DPH započítané k objednávke. Ak nie je DPH ID validný, DPH sadzba nie je k objednáva pripočítaná.<br />Ak je voľba zakázaná, je vždy započítaná všeobecná DPH sadzba.',
-'HELP_SHOP_CONFIG_DOWNLOADS' => 'Shop with downloadable products. Activate here, that products can be ordered and downloaded.',
-'HELP_SHOP_CONFIG_DOWNLOADS_PATH' => 'Path where files of downloadable products are stored.',
+'HELP_SHOP_CONFIG_DOWNLOADS' => 'Obchod s produktami ku stiahnutiu. Tu aktivujete možnosť objednávať a sťahovať produkty.',
+'HELP_SHOP_CONFIG_DOWNLOADS_PATH' => 'Cesta k miestu pre uloženie sťahovateľných produktov.',
 'HELP_SHOP_CONFIG_DOWNLOAD_EXPIRATION_TIME' => 'Zadajte čas v hodinách, udávajúci po akú dobu od prvého stiahnutia je odkaz platný. Toto je východzie nastavenie pre všetky produkty. Túto hodnotu môžete zmeniť pre každý súbor produktov v Administrácia produktov -> Produkty -> K stiahnutiu.',
-'HELP_SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'If this option is activated, users have to confirm terms and conditions for intangible or downloadable products in the fourth step of the check-out process. Please make sure this option is enabled for the specific item as well!',
-'HELP_SHOP_CONFIG_ENTERNETPRICE' => 'In admin area product prices must be entered as net prices.',
+'HELP_SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'Ak je táto voľba aktívna, uživatelia musia potvrdiť podmienky pre nehmotný produkt a stiahnutie produktu vo štvrtom kroku výstupnej kontroly. Uistite sa, že je táto voľba povolená tiež pre konkrétnu položku!',
+'HELP_SHOP_CONFIG_ENTERNETPRICE' => 'V administračnej oblasti musia býť ceny produktu zadané ako netto-ceny.',
 'HELP_SHOP_CONFIG_FACEBOOKCONNECT' => 'Zobrazí Facebook Connect Box, ktorý umožní používateľom prihlásiť sa do eShou pomocou účtu na Facebooku a využiť tak prihlasovacie údaje z Facebooku.',
 'HELP_SHOP_CONFIG_FBCOMMENTS' => 'Box s komentármi umožňuje návštevníkom jednoducho sa vyjadriť k obsahu eShopu.',
 'HELP_SHOP_CONFIG_FBFACEPILE' => 'Facepile zobrazuje profilové obrázky priateľov návštevníkov eShopu, ktorí sa pridali na Facebooku na váš web.',
@@ -162,10 +162,10 @@ $aLang = array(
 'HELP_SHOP_CONFIG_FBLIKE' => 'Dovolí použivateľom vytvorič spojenie na váľ web a zdieľat obsah jeho priateľom na Facebooku pomocou jedného kliknutia.',
 'HELP_SHOP_CONFIG_FBSHARE' => 'Zobrazí tlačidlo zdieľať na Facebooku, ktoré slúži na zdieľanie obsahu vášho webu.',
 'HELP_SHOP_CONFIG_INVITATION' => 'Pozvánka slúži na pozvanie vašich priateľov do eshopu a získání kreditních bodů za pozvání.',
-'HELP_SHOP_CONFIG_LINK_EXPIRATION_TIME' => 'Specify the time in hours, the download link is valid after order. This is the default setting for all products.You can change this value for every file of product in Administer Products -> Products -> Downloads.',
-'HELP_SHOP_CONFIG_LINK_EXPIRATION_TIME_UNREGISTERED' => 'Here you can define how many times user can download from the same link, if user ordered without registration. This is the default setting for all products.You can change this value for every file of product in Administer Products -> Products -> Downloads.',
-'HELP_SHOP_CONFIG_LOAD_DYNAMIC_PAGES' => 'Pokým je táto voľba aktívna, v ponuke sa zobrazujú informácie o ďalších produktoch OXID, napr. o OXID eFire. Informácie sa zobrazujú podľa verzie Vášho eShopu.',
-'HELP_SHOP_CONFIG_MAX_DOWNLOADS_COUNT' => 'Here you can define how many times user can download from the same link after order. This is the default setting for all products.You can change this value for every file of product in Administer Products -> Products -> Downloads.',
+'HELP_SHOP_CONFIG_LINK_EXPIRATION_TIME' => 'Zadajte čas v hodinách, udávajúci akú dobu od objednania je odkaz platný. Toto je výchozie nastavenie pro všetky produkty. Túto hodnotu môžete zmeniť pre každý súbor produktov v Administrácii produktov -> Produkty -> Ku stiahnutiu.',
+'HELP_SHOP_CONFIG_LINK_EXPIRATION_TIME_UNREGISTERED' => 'Tu môžete nastaviť, koľkokrát môže užívateľ sťahovať z rovnkého odkazu, pokiaľ užívateľ objednal bez registrácie. Toto je výchozie nastavenie pre všetky produkty. Túto hodnotu môžete zmeniť pre každý súbor produktov v Administrácii produktov -> Produkty -> Ku stiahnutiu.',
+'HELP_SHOP_CONFIG_LOAD_DYNAMIC_PAGES' => 'Aktivujte túto voľbu pre zobrazenie dodatočných produktových informácii v administrácii a prenos technických detailov na servery OXID (pre statistické účely a zlepšenie služieb). Žiadne údaje týkajúce sa uživateľov alebo objednávok nebudú nikdy přenášané.',
+'HELP_SHOP_CONFIG_MAX_DOWNLOADS_COUNT' => 'Tu môžete nastaviť, koľkokrát môže uživateľ sťahovať z rovnakého odkazu. Toto je výchozie nastavenie pre všetky produkty. Túto hodnotu môžete zmeniť pre každý súbor produktu v Administrácii produktov -> Produkty -> Ku stiahnutiu.',
 'HELP_SHOP_CONFIG_MUSTFILLFIELDS' => 'Tu môžete zvoliť povinné registračné údaje. Do každého riadku zadávajte len jeden údaj.<br />Najčastejšie údaje:<ul><li>oxuser__oxfname = Meno</li><li>oxuser__oxlname = Priezvisko</li><li>oxuser__oxstreet = Ulica</li><li>oxuser__oxstreetnr = Popisné číslo</li><li>oxuser__oxzip = PSČ</li><li>oxuser__oxcity = Mesto</li><li>oxuser__oxcountryid = Krajina</li><li>oxuser__oxfon = Telefón</li></ul><br />Môžete si zvoliť i povinné údaje pri zadávaní inej doručovacej adresy. Najčastejšie údaje:<ul><li>oxaddress__oxfname = Meno</li><li>oxaddress__oxlname = Priezvisko</li><li>oxaddress__oxstreet = Ulica</li><li>oxaddress__oxstreetnr = Popisné číslo</li><li>oxaddress__oxzip = PSČ</li><li>oxaddress__oxcity = Mesto</li><li>oxaddress__oxcountryid = Krajina</li><li>oxaddress__oxfon = Telefón</li></ul>',
 'HELP_SHOP_CONFIG_NEWARTBYINSERT' => 'Na titulnej strane Vášho eShopu sa v kategórii <i>Nové v ponuke!</i> zobrazujú najnovjšie výrobky. Výrobky môžete radiť podľa dátumu pridania alebo dátumu poslednej zmeny.',
 'HELP_SHOP_CONFIG_ORDEROPTINEMAIL' => 'Pokým je voľba aktívna, užívateľ, ktorý si zaregistruje Novinky, dostane e-mail s overovacím odkazem. Užívateľ sa stane odberateľom Noviniek len v prípade, že na odkaz klikne',
