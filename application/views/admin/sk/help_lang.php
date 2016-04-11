@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), i7 (662), lubosdz (18), stefanbalaz (15)
+ * @translators: DominikS (404), ET (12), etch (6), i7 (662), lubosdz (18), stefanbalaz (15), zweistein (1)
  */
 
 $sLangName  = 'Slovenčina';
@@ -221,7 +221,7 @@ $aLang = array(
 'HELP_SHOP_RDFA_GEO_LONGITUDE' => 'The longitude of the store as part of geo position. Please enter numbers only.',
 'HELP_SHOP_RDFA_GLN' => 'Global Location Number (GLN) for the company. The Global Location Number is a thirteen-digit number used to identify parties and physical locations.',
 'HELP_SHOP_RDFA_ISIC' => 'The International Standard of Industrial Classification of All Economic Activities (ISIC) code for your company. See http://unstats.un.org/unsd/cr/registry/isic-4.asp.',
-'HELP_SHOP_RDFA_LOGO_URL' => 'The Web address (URL) of a logo or image.',
+'HELP_SHOP_RDFA_LOGO_URL' => 'Web adresa loga alebo obrázku',
 'HELP_SHOP_RDFA_NAICS' => 'North American Industry Classification System (NAICS) code for your company. See http://www.census.gov/eos/www/naics/.',
 'HELP_SHOP_RDFA_RATING_MAX' => 'Possible maximum value refer to the scale used for ratings in your shop. This value is not the highest current rating of a product!',
 'HELP_SHOP_RDFA_RATING_MIN' => 'Possible minimum value refer to the scale used for ratings in your shop. This value is not the lowest current rating of a product!',
@@ -239,7 +239,7 @@ $aLang = array(
 'HELP_SHOP_SYSTEM_DISABLENAVBARS' => 'Pokiaľ je voľba zapnutá, počas záveru objednávky nie je zobrazená väčšina navigačných možností. Užívateľ vďaka tomu nie je zbytočne rozptylovaný.',
 'HELP_SHOP_SYSTEM_INLINEIMGEMAIL' => 'Pokiaľ je voľba aktívna, obrázky v emaile sa odosielajú zároveň s textom. Pokiaľ je voľba vypnutá, obrázky sa sťahujú až po otvorení emailu.',
 'HELP_SHOP_SYSTEM_ISERVERTIMESHIFT' => 'Server a eShop môžu byť v inom časovom pásme. Pomocou tohto nastavenia času je možné upraviť časový posun - zadajte počet hodín, ktoré majú byť pripočítané / odpočítané od času serveru, napr. <kdb>+2</kdb> alebo <kdb>-2</kdb>',
-'HELP_SHOP_SYSTEM_LDAP' => 'Please edit file core/oxldap.php.',
+'HELP_SHOP_SYSTEM_LDAP' => 'Prosím upravte súbor core/oxldap.php',
 'HELP_SHOP_SYSTEM_OTHERCOUNTRYORDER' => 'Tu môžete nastaviť, či je možné uskutočniť objednávky z krajín, pre ktoré nie sú stanovené ceny:<ul><li>Pokým je voľba aktivovaná, užívateľ si môže objednať a bude mu stanovená špeciálna cena.</li><li>Pokiaľ je voľba vypnutá, užívateľ si nemôže objednať žiadny tovar.</li></ul>',
 'HELP_SHOP_SYSTEM_SHOP_LOCATION' => 'Please choose the market to which shop is focused. According to it, additional eCommerce Services will be loaded from OXID server. Do not forget to enable option "Load additional Information from OXID server" in Master Settings -> Core Settings -> Settings -> Administration',
 'HELP_SHOP_SYSTEM_SHOWVARIANTREVIEWS' => 'Táto voľba má vplyv na to, ako sú spracúvané recenzie pre varianty - pokiaľ je voľba aktívna, poznámky variánt sú zobrazené aj u hlavného výrobku.',

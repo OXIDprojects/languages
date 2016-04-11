@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), i7 (662), lubosdz (18), stefanbalaz (15)
+ * @translators: DominikS (404), ET (12), etch (6), i7 (662), lubosdz (18), stefanbalaz (15), zweistein (1)
  */
 
 $sLangName  = 'Slovenčina';
@@ -876,10 +876,10 @@ $aLang = array(
 'MODULE_ENTERMODULEID' => 'ID modulu',
 'MODULE_ENTERMODULENAME' => 'Názov modulu',
 'MODULE_EXTENSIONISDELETED' => 'K dispozícii sú moduly, ktoré sú registrované v eShope, ale adresár modul chýba.',
-'MODULE_ID' => 'Module ID',
+'MODULE_ID' => 'ID modulu',
 'MODULE_PASSWORDS_DO_NOT_MATCH' => 'Passwords do not match!',
-'MODULE_PROBLEMATIC_FILES' => 'Problematic files',
-'MODULE_REPEAT_PASSWORD' => 'Confirm password',
+'MODULE_PROBLEMATIC_FILES' => 'Problémové súbory',
+'MODULE_REPEAT_PASSWORD' => 'Potvrdiť heslo',
 'MODULE_VERSION' => 'Verzia',
 'MR' => 'Pán',
 'MRS' => 'Pani',
@@ -1088,10 +1088,10 @@ $aLang = array(
 'OXDIAG_ERRORMESSAGEWEBSERVICEISNOTREACHABLE' => 'Web service is not available currently. Please try again later.',
 'OXDIAG_ERRORMESSAGEWEBSERVICERETURNEDNOXML' => 'Web service returned not a XML.',
 'OXDIAG_ERRORVERSIONCOMPARE' => 'This text is not supposed to be here. Please try again.',
-'OXDIAG_FINALNOTE' => 'End of analysis.',
+'OXDIAG_FINALNOTE' => 'Koniec analýzy.',
 'OXDIAG_FORM_LIST_ALL_FILES' => 'List all files (also those which were OK)',
 'OXDIAG_FORM_START_CHECK' => 'Start to check this eShop right now (may take some time)',
-'OXDIAG_GOTO' => 'Go to',
+'OXDIAG_GOTO' => 'Ísť na',
 'OXDIAG_HEALTH' => 'System health',
 'OXDIAG_HEALTH_FAIL' => 'FAIL',
 'OXDIAG_HEALTH_MIN' => 'MIN',
