@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: AWIDON (752), buby (118), ondrej123 (327)
+ * @translators: AWIDON (752), buby (118), KonopArt (1), ondrej123 (327)
  */
 
 $sLangName  = 'Hrvatski';
@@ -29,5 +29,5 @@ $sLangName  = 'Hrvatski';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'empty_file' => 'empty file',
+'empty_file' => '',
 );

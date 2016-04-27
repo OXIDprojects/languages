@@ -19,15 +19,15 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: 
+ * @translators: marco (3211)
  */
 
-$sLangName  = '繁體中文';
+$sLangName  = 'Australian English';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'empty_file' => '',
+'empty_file' => 'empty file',
 );

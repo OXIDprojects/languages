@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: marco (4023)
+ * @translators: marco (4080)
  */
 
 $sLangName  = 'English';
@@ -29,5 +29,5 @@ $sLangName  = 'English';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'empty_file' => 'empty file',
+'empty_file' => '',
 );

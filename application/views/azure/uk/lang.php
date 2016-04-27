@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: pianoservis (1033)
+ * @translators: asot (45), pianoservis (2825)
  */
 
 $sLangName  = 'Українська';
@@ -29,5 +29,5 @@ $sLangName  = 'Українська';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'empty_file' => 'empty file',
+'empty_file' => '',
 );

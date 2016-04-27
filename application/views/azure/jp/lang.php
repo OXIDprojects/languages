@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: hodota (32)
+ * @translators: hodota (88)
  */
 
 $sLangName  = '日本語';
@@ -29,5 +29,5 @@ $sLangName  = '日本語';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'empty_file' => 'empty file',
+'empty_file' => '',
 );

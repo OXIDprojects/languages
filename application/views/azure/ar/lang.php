@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: menhem-it (152), tarazi (33)
+ * @translators: benmoh (17), menhem-it (152), tarazi (33)
  */
 
 $sLangName  = 'العربية';
@@ -29,5 +29,5 @@ $sLangName  = 'العربية';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'empty_file' => 'empty file',
+'empty_file' => '',
 );

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: rostav (28)
+ * @translators: dotoree (1517), georgekk2 (7), polymeris (7), rostav (28)
  */
 
 $sLangName  = 'Ελληνικά';
@@ -29,5 +29,5 @@ $sLangName  = 'Ελληνικά';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'empty_file' => 'empty file',
+'empty_file' => '',
 );

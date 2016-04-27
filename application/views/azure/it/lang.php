@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), ET (182)
+ * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), simon.runer (573)
  */
 
 $sLangName  = 'Italiano';
@@ -29,5 +29,5 @@ $sLangName  = 'Italiano';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'empty_file' => 'empty file',
+'empty_file' => '',
 );

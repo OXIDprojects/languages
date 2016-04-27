@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: urecheatu007 (313), valdone (189)
+ * @translators: patmat2809 (1), urecheatu007 (313), valdone (189)
  */
 
 $sLangName  = 'Română';
@@ -29,5 +29,5 @@ $sLangName  = 'Română';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'empty_file' => 'empty file',
+'empty_file' => '',
 );

@@ -19,15 +19,15 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: 
+ * @translators: edychang (31), mudid (4), neolid  (1), zhuangtown (2)
  */
 
-$sLangName  = '繁體中文';
+$sLangName  = '中文';
 
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'empty_file' => 'empty file',
+'empty_file' => '',
 );

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: vendingtechnik (81)
+ * @translators: hwarlley (32), sancao (125), vendingtechnik (192)
  */
 
 $sLangName  = 'Português do Brasil';
@@ -29,5 +29,5 @@ $sLangName  = 'Português do Brasil';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'empty_file' => 'empty file',
+'empty_file' => '',
 );

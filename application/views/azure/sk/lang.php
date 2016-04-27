@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (4)
+ * @translators: DominikS (404), ET (12), etch (6), i7 (662), lubosdz (18), stefanbalaz (15), zweistein (1)
  */
 
 $sLangName  = 'Slovenčina';
@@ -29,5 +29,5 @@ $sLangName  = 'Slovenčina';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'empty_file' => 'empty file',
+'empty_file' => '',
 );

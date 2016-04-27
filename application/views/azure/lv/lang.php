@@ -29,5 +29,5 @@ $sLangName  = 'Latviešu';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'empty_file' => 'empty file',
+'empty_file' => '',
 );
