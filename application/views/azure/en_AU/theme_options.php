@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: marco (3211), NHWS (56)
+ * @translators: marco (3211), NHWS (194)
  */
 
 $sLangName  = 'Australian English';
@@ -56,7 +56,7 @@ $aLang = array(
 'SHOP_THEME_iNewBasketItemMessage_1' => 'Display message',
 'SHOP_THEME_iNewBasketItemMessage_2' => 'Open popup',
 'SHOP_THEME_iNewBasketItemMessage_3' => 'Open basket',
-'SHOP_THEME_iTopNaviCatCount' => 'Amount of categories that is displayed at top',
+'SHOP_THEME_iTopNaviCatCount' => 'Amount of categories that are displayed at top',
 'SHOP_THEME_sCatIconsize' => 'Size of a subcategory\'s picture (width*height)',
 'SHOP_THEME_sCatPromotionsize' => 'Category picture size for promotion on startpage (width*height)',
 'SHOP_THEME_sCatThumbnailsize' => 'Category picture size (width*height)',

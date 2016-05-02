@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: marco (3211), NHWS (56)
+ * @translators: marco (3211), NHWS (194)
  */
 
 $sLangName  = 'Australian English';
@@ -33,7 +33,7 @@ $aLang = array(
 'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => 'Price alert can be turned off for this product.',
 'HELP_ARTICLE_EXTEND_EXTURL' => 'In <span class="navipath_or_inputname">External URL</span> you can enter a link where further information about the product is available (e. g. on the manufacturer\'s website). In <span class="navipath_or_inputname">Text for external URL</span> you can enter the text which is linked, e .g. <span class="userinput_or_code">Further information on the manufacturer\'s website</span>.',
 'HELP_ARTICLE_EXTEND_FREESHIPPING' => 'Setting is inherited from Parent product to Variants and applies to the entire product.',
-'HELP_ARTICLE_EXTEND_ISCONFIGURABLE' => 'If the product is customizable, an additional input field is displayed on the products detail page and in the basket. Here customers can enter text for customizing the product.<br><br>A typical example are t-shirts which can be imprinted with custom text. In the input field customers can enter the text to be printed on the t-shirt.',
+'HELP_ARTICLE_EXTEND_ISCONFIGURABLE' => 'If the product is customisable, an additional input field is displayed on the products detail page and in the basket. Here customers can enter text for customizing the product.<br><br>A typical example are t-shirts which can be imprinted with custom text. In the input field customers can enter the text to be printed on the t-shirt.',
 'HELP_ARTICLE_EXTEND_NONMATERIAL' => 'Setting is inherited from Parent product to Variants and applies to the entire product.',
 'HELP_ARTICLE_EXTEND_QUESTIONEMAIL' => 'At <span class="navipath_or_inputname">Alt. Contact</span> you can enter an e-mail address. If users submit questions on this product, they will be sent to this e-mail address. If no e-mail address is entered, the query will be send to the normal info e-mail address.',
 'HELP_ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'If this option is activated, users have to confirm terms and conditions in the fourth step of the check-out process for this specific item. Please make sure the general option is activated as well and the product item is intangible or downloadable.',
@@ -50,7 +50,7 @@ $aLang = array(
 'HELP_ARTICLE_IS_DOWNLOADABLE' => 'Files of this product can be downloaded.',
 'HELP_ARTICLE_MAIN_ALDPRICE' => 'With <span class="navipath_or_inputname">Alt. Prices</span> you can set up special prices for certain users. More information is available in the <a href="http://www.oxid-esales.com/de/resources/help-faq/eshop-manual/set-alternative-prices-special-users" target="_blank">eShop Manual</a> on the OXID eSales website.',
 'HELP_ARTICLE_MAIN_TAGS' => 'Here you can enter tags for the product. From these tags the tag cloud on the front page is generated. The tags are separated by a comma.',
-'HELP_ARTICLE_MAIN_VAT' => 'Here you can enter a special VAT for this product. This VAT is used for this product in all later calculations (basket, order, invoice)',
+'HELP_ARTICLE_MAIN_VAT' => 'Here you can enter a special GST for this product. This GST is used for this product in all later calculations (basket, order, invoice)',
 'HELP_ARTICLE_PICTURES_ICON' => 'Icons are the smallest pictures of a product. For example, they are used in the basket.<br>Uploading custom icon will override icon, generated from the first product picture.<br>After uploading, the filename is shown in Icon. If no icon is uploaded yet, --- is displayed.<br>Further information is available in the <a href="http://www.oxid-esales.com/en/resources/help-faq/eshop-manual/product-images-basics" target="_blank">product pictures manual entry</a>.',
 'HELP_ARTICLE_PICTURES_PIC1' => 'Pictures are used in the detail view of a product. You can upload up to 7 pictures per product. After uploading, the filename is shown in the accordant input field. If no picture is uploaded yet, --- is displayed.<br>Pictures with a maximum of 2 MB or 1500 * 1500 pixel resolution can be uploaded. This restriction is to avoid problems with the PHP memory limit. After uploading, the main picture, zoom picture, thumbnail and icon will be generated automatically.<br>Further information is available in the <a href="http://www.oxid-esales.com/en/resources/help-faq/eshop-manual/product-images-basics" target="_blank">product pictures manual entry</a>.',
 'HELP_ARTICLE_PICTURES_THUMB' => 'Thumbnails are small product pictures. For example, they are used in product lists (categories, search results).<br>Uploading custom thumbnail will override the thumbnail generated from the first product picture.<br>After uploading, the filename is shown in Thumbnail. If no thumbnail is uploaded yet, ---- is displayed.<br>Further information is available in the <a href="http://www.oxid-esales.com/en/resources/help-faq/eshop-manual/product-images-basics" target="_blank">product pictures manual entry</a>.',
@@ -140,9 +140,9 @@ $aLang = array(
 'HELP_SHOP_CACHE_LAYOUT_CACHE_AGE' => 'Sets lifetime of page layout in seconds. This will be send via HTTP headers, specifying header value "Age".',
 'HELP_SHOP_CACHE_LIFETIME' => 'Here you set how many seconds cached contents are saved at most before they are recreated. The default setting is 36000 seconds.',
 'HELP_SHOP_CACHE_REVERSE_PROXY_ENABLED' => 'Activates a caching HTTP Reverse Proxy. Note: Do not use "Dynamic Content Caching" at the same time, as it could slow down the performance.',
-'HELP_SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_BIGGEST_NET' => 'The VAT rate of the products with the biggest net value in shopping basket. Used for calculating.',
-'HELP_SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_PROPORTIONAL' => 'The percentage of products in the basket with the same VAT rate will be used for calculations.',
-'HELP_SHOP_CONFIG_ALTVATIDCHECKINTERFACEWSDL' => 'Here you can enter an alternative URL for the online VAT ID check.',
+'HELP_SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_BIGGEST_NET' => 'The GST rate of the products with the biggest net value in shopping basket. Used for calculating.',
+'HELP_SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_PROPORTIONAL' => 'The percentage of products in the basket with the same GST rate will be used for calculations.',
+'HELP_SHOP_CONFIG_ALTVATIDCHECKINTERFACEWSDL' => 'Here you can enter an alternative URL for the online GST ID check.',
 'HELP_SHOP_CONFIG_ATTENTION' => 'Caution: Even if encryption is used, Credit Card contracts usually prohibit this strictly!',
 'HELP_SHOP_CONFIG_BASKETEXCLUDE' => 'Allows to insert products only from one (root) category, if category change is detected user is asked to finalize order (go to checkout) or continue shopping (basket is cleaned in this case). Using this feature in conjunction with  properly organized category structure you can implement split baskets for different suppliers.',
 'HELP_SHOP_CONFIG_BASKETRESERVATION' => 'When disabling this option eShop reduces product stock exactly at timewhen order is confirmed by customer and checkout is finished.<br><br> With this option enabled this functionality changes: Product stock reduces and is being <b>reserved</b> when product is put into the basket. Reservation is canceled when the basket content is bought or the basket expires.',
@@ -150,12 +150,12 @@ $aLang = array(
 'HELP_SHOP_CONFIG_BIDIRECTCROSS' => 'With crossselling you can offer fitting products for a product: If e.g. to a car tires are assigned as crossselling product, the tires are shown with the car.<br>If bidirectional crossselling is activated, it works in both directions: The car is shown with the tires, too.',
 'HELP_SHOP_CONFIG_DEBIT_OLD_BANK_INFORMATION_NOT_ALLOWED' => 'Only IBAN and BIC can be entered during the checkout. Bank account number and the bank code can only be entered if this check box is not activated.',
 'HELP_SHOP_CONFIG_DELETERATINGLOGS' => 'If users rate a product, they cannot rate the product again. Here you can set after how many days users are allowed to rate a product again. Leave empty to disable - products can be rated only once per user.',
-'HELP_SHOP_CONFIG_DISABLEONLINEVATIDCHECK' => 'The online VAT ID check is executed if a customer from a foreign country inside the EU enters a VAT ID when ordering. If the VAT ID is valid, no VAT is calculated for this order.<br>If the check is disabled, the normal VAT for the according country is always calculated.',
+'HELP_SHOP_CONFIG_DISABLEONLINEVATIDCHECK' => 'The online GST ID check is executed if a customer from a foreign country inside the EU enters a VAT ID when ordering. If the GST ID is valid, no GST is calculated for this order.<br>If the check is disabled, the normal GST for the according country is always calculated.',
 'HELP_SHOP_CONFIG_DOWNLOADS' => 'Shop with downloadable products. Activate here, that products can be ordered and downloaded.',
 'HELP_SHOP_CONFIG_DOWNLOADS_PATH' => 'Path where files of downloadable products are stored.',
 'HELP_SHOP_CONFIG_DOWNLOAD_EXPIRATION_TIME' => 'Specify the time in hours, the download link is valid after the first download. This is the default setting for all products.You can change this value for every file of product in Administer Products -> Products -> Downloads.',
 'HELP_SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'If this option is activated, users have to confirm terms and conditions for intangible or downloadable products in the fourth step of the check-out process. Please make sure this option is enabled for the specific item as well!',
-'HELP_SHOP_CONFIG_ENTERNETPRICE' => 'In the admin panel, product prices must be entered as prices w/o VAT.',
+'HELP_SHOP_CONFIG_ENTERNETPRICE' => 'In the admin panel, product prices must be entered as prices w/o GST.',
 'HELP_SHOP_CONFIG_FACEBOOKCONNECT' => 'Show Facebook Connect box which allows users to log in into eShop using theirs Facebook accunt data.',
 'HELP_SHOP_CONFIG_FBCOMMENTS' => 'Comments box easily enables shop visitors to comment on your shop\'s content.',
 'HELP_SHOP_CONFIG_FBFACEPILE' => 'Facepile shows profile pictures of shops\'s visitor\'s friends who have already signed up in Facebook for your site.',
@@ -185,7 +185,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_STOCKOFFDEFAULTMESSAGE' => 'For each product you can set up a message if the product is not in stock.<br>If this setting is active, a message is shown if no specific message for for a product is entered. The default message <span class="filename_filepath_or_italic">This item is not in stock and must be back-ordered</span> is shown.',
 'HELP_SHOP_CONFIG_STOCKONDEFAULTMESSAGE' => 'For each product you can set up a message if the product is on stock.<br>If this setting is active, a message is shown if no specific message for for a product is entered. The default message <span class="filename_filepath_or_italic">Ready for delivery</span> is shown.',
 'HELP_SHOP_CONFIG_USENEGATIVESTOCK' => 'With <span class="navipath_or_inputname">Allow negative Stock Values</span> you can define how stock levels are calculated of products are out of stock:<br><ul><li>If the setting is checked, negative stock values are calculated if further units are bought.</li><li>If the setting is unchecked, the stock value never falls below 0, even if further units are bought.</li></ul>',
-'HELP_SHOP_CONFIG_VIEWNETPRICE' => 'In the store front, product prices will be shown as prices w/o VAT.',
+'HELP_SHOP_CONFIG_VIEWNETPRICE' => 'In the store front, product prices will be shown as prices w/o GST.',
 'HELP_SHOP_MAIN_ACTIVE' => 'With <span class="navipath_or_inputname">Active</span> you can enable/disable the complete eShop. If the eShop is disabled, a message saying the eShop is temporary offline is displayed to the users. This can be useful for maintenance.',
 'HELP_SHOP_MAIN_INFOEMAIL' => 'All e-mails sent via the contact page are sent to this e-mail address.',
 'HELP_SHOP_MAIN_ORDEREMAIL' => 'When users order they receive an e-mail with a summary of the order. Answers to this e-mail are sent to <span class="navipath_or_inputname">Order e-mail reply</span>.',
@@ -198,8 +198,8 @@ $aLang = array(
 'HELP_SHOP_PERF_CLEARCACHEONLOGOUT' => 'Usually the complete cache is emptied as soon as you save any changes in the eShop admin. This can lead to performance problems in admin. If this setting is activated, the cache is only emptied when you log out from eShop admin.',
 'HELP_SHOP_PERF_DISBASKETSAVING' => 'The basket of registered users is saved. When they visit your eShop again, the basket contents are loaded. If you activate this setting, the baskets aren\'t saved any more.',
 'HELP_SHOP_PERF_LOADACTION' => 'If this setting is checked, promotions like <span class="filename_filepath_or_italic">Just arrived!</span> and <span class="filename_filepath_or_italic">Top of the Shop</span> are loaded and shown.',
-'HELP_SHOP_PERF_LOADATTRIBUTES' => 'Normally attributes are only loaded in the detail view of a product. If the setting is active, the attributes are always loaded with a product.<br>This setting can be useful if you want to adept templates, e. g. showing the attributes in product lists also.',
-'HELP_SHOP_PERF_LOADDELIVERY' => 'If you deactivate this setting, no delivery costs are calculated: The delivery costs are always at 0.00 EUR.',
+'HELP_SHOP_PERF_LOADATTRIBUTES' => 'Normally characteristics are only loaded in the detail view of a product. If the setting is active, the attributes are always loaded with a product.<br>This setting can be useful if you want to adept templates, e. g. showing the characteristics in product lists also.',
+'HELP_SHOP_PERF_LOADDELIVERY' => 'If you deactivate this setting, no delivery costs are calculated: The delivery costs are always at $0.00',
 'HELP_SHOP_PERF_LOADFULLTREE' => 'If this setting is checked, the complete category tree is shown in the category navigation (all categories are expanded). This only works if the category navigation is not shown at top.',
 'HELP_SHOP_PERF_LOADPRICE' => 'If you deactivate this setting, no product prices are calculated: No prices are shown.',
 'HELP_SHOP_PERF_LOADREVIEWS' => 'Users can rate and comment products. If this setting is checked, the existing reviews/comments are loaded and shown with the product.',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), etch (6), i7 (662), lubosdz (18), stefanbalaz (15), zweistein (1)
+ * @translators: DominikS (404), ET (12), etch (6), i7 (663), lubosdz (18), stefanbalaz (15), zweistein (1)
  */
 
 $sLangName  = 'Slovenčina';
@@ -1447,7 +1447,7 @@ $aLang = array(
 'SHOP_LICENSE_ERROR_incorrect_mandate_amount' => 'Počet licencovaných čiastkových obchodov prekročený. To je dôvod, prečo sa začal skrytý odpočítavanie 7 dní. Po uplynutí tejto doby OXID eShop sa prejsť do režimu offline. Zadajte platný licenčný kľúč, alebo sa obráťte na technickú podporu!',
 'SHOP_LICENSE_ERROR_INFORMATION' => 'OXID eShop license information',
 'SHOP_LICENSE_ERROR_serial_expired' => 'Licenčný kľúč vášho OXID eShop vypršal. To je dôvod, prečo sa začalo skryté odpočítavanie 7 dní . Po uplynutí tejto doby OXID eShop prejde do režimu offline. Zadajte platný licenčný kľúč, alebo sa obráťte na technickú podporu!',
-'SHOP_LICENSE_ERROR_shop_unlicensed' => 'A problem with the license key of your OXID eShop occurred. That\'s why a hidden countdown of 7 days was started. After this period OXID eShop will go offline. Please enter the valid license key once again or contact the technical support!',
+'SHOP_LICENSE_ERROR_shop_unlicensed' => 'Nastal problém s licenčným kľúčom vášho OXID eShopu. To je dôvod, prečo bolo zahájené skryté odpočítavanie 7 dní. Po uplynutí tejto doby OXID eShop prejde do režimu offline. Zadajte prosím platný licenčný kľúč, alebo sa obráťte na technickú podporu!',
 'SHOP_LICENSE_MALL' => 'Mall režim',
 'SHOP_LICENSE_NEWSERIAL' => 'Pridať licenciu',
 'SHOP_LICENSE_ONLINECHECK' => 'Skontrolovať dostupnosť aktualizácií',

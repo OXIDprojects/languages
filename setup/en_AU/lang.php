@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: marco (3211), NHWS (56)
+ * @translators: marco (3211), NHWS (194)
  */
 
 $sLangName  = 'Australian English';
@@ -100,7 +100,7 @@ $aLang = array(
 'MOD_ZEND_PLATFORM_OR_SERVER' => 'Zend Platform or Zend Server installed',
 'PRIVACY_POLICY' => 'privacy statements',
 'SELECT_DELIVERY_COUNTRY' => 'Main delivery country',
-'SELECT_DELIVERY_COUNTRY_HINT' => 'If needed, activate easily more delivery countries in admin.',
+'SELECT_DELIVERY_COUNTRY_HINT' => 'If needed, easily activate more delivery countries in admin.',
 'SELECT_PLEASE_CHOOSE' => 'Please choose',
 'SELECT_SETUP_LANG' => 'Installation language',
 'SELECT_SETUP_LANG_SUBMIT' => 'Select',
@@ -122,7 +122,7 @@ $aLang = array(
 'STEP_1_CHECK_UPDATES' => 'Check for available updates regularly',
 'STEP_1_DESC' => 'Welcome to installation wizard of OXID eShop',
 'STEP_1_TEXT' => 'Please read carefully the following instructions to guarantee a smooth installation.
-                                                    Wishes for best success in using your OXID eShop by',
+                                                    Best Wishes for success in using your OXID eShop by',
 'STEP_1_TITLE' => 'Welcome',
 'STEP_2_TITLE' => 'License conditions',
 'STEP_3_1_CREATING_TABLES' => 'Creating tables, applying data ...',
@@ -151,7 +151,7 @@ $aLang = array(
 'STEP_4_ADMIN_LOGIN_NAME' => 'Administrator e-mail (used as login name)',
 'STEP_4_ADMIN_PASS' => 'Administrator password',
 'STEP_4_ADMIN_PASS_CONFIRM' => 'Confirm Administrator password',
-'STEP_4_ADMIN_PASS_MINCHARS' => 'freely selectable, min. 6 chars',
+'STEP_4_ADMIN_PASS_MINCHARS' => 'choose a minimum of 6 characters',
 'STEP_4_DESC' => 'Please provide neccesary data for running OXID eShop:',
 'STEP_4_SHOP_DIR' => 'Directory for OXID eShop',
 'STEP_4_SHOP_TMP_DIR' => 'Directory for temporary data',
