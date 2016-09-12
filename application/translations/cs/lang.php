@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (144), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1318), SYSKO (9), zerog (15)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (145), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1318), SYSKO (9), zerog (15)
  */
 
 $sLangName  = 'Česky';
@@ -601,7 +601,7 @@ $aLang = array(
 'PRICE_ALERT_AT' => 'Cenový alarm',
 'PRICE_ALERT_FOR_PRODUCT' => 'Cenový alerm pro zboží',
 'PRICE_ALERT_THANK_YOU_MESSAGE' => 'Děkuji vám. %s oceňuje vaše připomínky. Budeme vás informovat, jakmile cena klesne pod %s %s.',
-'PRICE_FROM' => 'z',
+'PRICE_FROM' => 'od',
 'PRINT' => 'Tisk',
 'PRODUCT' => 'Produkt',
 'PRODUCTS' => 'produkty',

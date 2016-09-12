@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1321), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1321), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -89,7 +89,7 @@ $aLang = array(
 'ARTICLE_EXTEND_NONMATERIAL' => 'Виртуальный товар',
 'ARTICLE_EXTEND_QUESTIONEMAIL' => 'Альтернативный контакт',
 'ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'Принять общие условия заключения торговых сделок',
-'ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Не учитывать все негативные скидки<br>(Распродажи, Купоны, Доставка ...)',
+'ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Игнорировать все скидки<br>(Распродажи, Купоны, Доставка ...)',
 'ARTICLE_EXTEND_TEMPLATE' => 'Альтернативный шаблон',
 'ARTICLE_EXTEND_TPRICE' => 'Рекомендуемая розничная цена',
 'ARTICLE_EXTEND_UNITNAME' => 'Единица',

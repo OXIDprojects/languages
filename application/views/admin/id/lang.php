@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: ayu (55), bih (5), irvictor (13)
+ * @translators: ayu (55), bih (6), irvictor (13)
  */
 
 $sLangName  = 'Indonesia';
@@ -651,7 +651,7 @@ $aLang = array(
 'GENERAL_BEGINDATE' => 'Valid from',
 'GENERAL_BILLADDRESS' => 'Billing Address: ',
 'GENERAL_BILLSAL' => 'Title',
-'GENERAL_BIRTHDATE' => 'Date of Birth',
+'GENERAL_BIRTHDATE' => 'Tanggal Lahir',
 'GENERAL_CARD' => 'Greeting Card',
 'GENERAL_CATEGORY' => 'Category',
 'GENERAL_CATEGORYSELECT' => 'Please select Category',
