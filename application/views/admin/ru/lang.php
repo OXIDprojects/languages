@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (15), mantgomery (2), marco (1321), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (15), mantgomery (2), marco (1325), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -1105,7 +1105,7 @@ $aLang = array(
 'OXDIAG_INTROINFORMATION_MD5_CHECKSUM' => 'MD5 checksum',
 'OXDIAG_INTROINFORMATION_MORE_INFORMATION' => 'For more detailed information check out',
 'OXDIAG_INTROINFORMATION_NO_PERSONAL_INFO' => 'It does neither collect nor transmit any license or personal information.',
-'OXDIAG_INTROINFORMATION_ONLINE_CONTACT_FORM' => 'Online Contact Form',
+'OXDIAG_INTROINFORMATION_ONLINE_CONTACT_FORM' => 'Контактная форма',
 'OXDIAG_INTROINFORMATION_OXID_ESALES_BLOG' => 'Блог OXID eSales',
 'OXDIAG_INTROINFORMATION_REVISION_DETECTED' => 'Revision which was detected',
 'OXDIAG_INTROINFORMATION_VERSION_DETECTED' => 'Version which was detected',
@@ -1116,12 +1116,12 @@ $aLang = array(
 'OXDIAG_MODIFIED' => 'Изменено',
 'OXDIAG_MODIFIEDHINTS1' => 'OXID eShop has sophisticated possibility to extend it by modules without changing shipped files. It\'s not recommended and not needed to change shop files. See also our <a href="http://www.oxidforge.org/wiki/Tutorials#How_to_Extend_OXID_eShop_With_Modules_.28Part_1.29" target=_blank>tutorials</a>.',
 'OXDIAG_MODIFIEDHINTS2' => 'Since OXID eShop 4.2.0 it\'s possible to use <a href="http://www.oxidforge.org/wiki/Downloads/4.2.0#New_Features" target=_blank>your own templates without changing shipped ones</a>.',
-'OXDIAG_MODULES' => 'Modules',
+'OXDIAG_MODULES' => 'Модули',
 'OXDIAG_MODULES_ID' => 'ID',
 'OXDIAG_MODULES_NAME' => 'Имя',
-'OXDIAG_MODULES_STATE' => 'Status',
+'OXDIAG_MODULES_STATE' => 'Состояние',
 'OXDIAG_MODULES_VENDOR' => 'Производитель',
-'OXDIAG_MODULES_VERSION' => 'Version',
+'OXDIAG_MODULES_VERSION' => 'Версия',
 'OXDIAG_NUMBER_OF_INVESTIGATED_FILES' => 'Общее число проверенных файлов',
 'OXDIAG_OBSOLETE' => 'Obsolete',
 'OXDIAG_OK' => 'Хорошо',
