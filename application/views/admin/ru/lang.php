@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (5), mantgomery (2), marco (1321), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (15), mantgomery (2), marco (1321), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -836,7 +836,7 @@ $aLang = array(
 'LANGUAGE_BASESSLURL' => 'Основной SSL URL',
 'LANGUAGE_BASEURL' => 'Базовый URL',
 'LANGUAGE_DEFAULT' => 'Стандартный язык',
-'LANGUAGE_DELETINGMAINLANG_WARNING' => 'Attention: you can\'t delete main language (with ID = 0)!',
+'LANGUAGE_DELETINGMAINLANG_WARNING' => 'Внимание: вы не можете удалить основной язык системы (ID = 0)!',
 'LANGUAGE_DESCRIPTION' => 'Название',
 'LANGUAGE_EMPTYLANGUAGENAME_ERROR' => 'Введите название языка!',
 'LANGUAGE_ERRORGENERATEVIEWS' => 'Пожалуйста, не забудьте обновить вид базы данных Сервис-> Инструменты',
@@ -971,7 +971,7 @@ $aLang = array(
 'NEWS_MAIN_SHORTDESC' => 'Заглавие',
 'NEWS_MAIN_SHOWFORGROUP' => 'Видимый для группы пользователей',
 'none' => 'нет',
-'nonstackable_serial_detected' => 'Can\'t add non stackable license key. Please insert stackable license key first.',
+'nonstackable_serial_detected' => 'Не удалось применить составной ключ лицензии. Пожалуйста, для начала укажите составной ключ.',
 'NO_PICTURES_CHANGES' => 'Нет изменений картинок',
 'OLC_ERROR_REQUEST_FAILED' => 'Сервис недоступен, попробуйте позже ... Если это не удается, проверьте, что ваш магазин может совершать исходящие соединения.',
 'OLC_ERROR_RESPONSE_NOT_VALID' => 'Сервис недоступен, попробуйте позже ... Если это не удается, проверьте, что ваш магазин может совершать исходящие соединения.',
@@ -1084,7 +1084,7 @@ $aLang = array(
 'OXDIAG_DOWNLOAD_FILE' => 'Нажмите здесь, чтобы скачать файл результата',
 'OXDIAG_EDITION' => 'Издание',
 'OXDIAG_ERRORMESSAGETEMPLATE' => 'Эти ошибки произошли',
-'OXDIAG_ERRORMESSAGEVERSIONDOESNOTEXIST' => 'OXID eShop %s %s in Revision %s does not exist.',
+'OXDIAG_ERRORMESSAGEVERSIONDOESNOTEXIST' => 'Магазин OXID eShop %s %s версии %s не найден.',
 'OXDIAG_ERRORMESSAGEWEBSERVICEISNOTREACHABLE' => 'Веб-сервис в настоящее время недоступен. Пожалуйста, повторите попытку позже.',
 'OXDIAG_ERRORMESSAGEWEBSERVICERETURNEDNOXML' => 'Веб-службы вернулись не в формате XML.',
 'OXDIAG_ERRORVERSIONCOMPARE' => 'Этого текста тут вообще-то быть не должно. Попробуйте еще раз...',
