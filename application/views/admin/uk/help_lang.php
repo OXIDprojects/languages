@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: asot (45), pianoservis (2825)
+ * @translators: asot (45), b.verbelchuk (32), pianoservis (2825)
  */
 
 $sLangName  = 'Українська';
@@ -75,7 +75,7 @@ $aLang = array(
 'HELP_CATEGORY_MAIN_PARENTID' => 'In <span class="navipath_or_inputname">Subcategory Of</span> you specify the point at which the category is to appear:<br><ul><li>If the category is not to be a subcategory of any other category, then select <span class="userinput_or_code">--</span> Off.</li><li>If the category is to be a subcategory of another category, then select the appropriate category.</li></ul>',
 'HELP_CATEGORY_MAIN_PRICEFROMTILL' => 'With <span class="navipath_or_inputname">Price From/To</span> you can specify that <span class="warning_or_important_hint">all</span> products in a certain price range are shown in this category. Enter the lower limit in the first entry field and the upper limit in the second entry field. Then <span class="warning_or_important_hint">all products of the eShop</span> within this price range are shown in this category.',
 'HELP_CATEGORY_MAIN_PROMOTION_ICON' => 'With <span class="navipath_or_inputname">promotion icon</span> and <span class="navipath_or_inputname">upload icon</span> you can upload a category picture for promotion on start page. For displaying category promotion see <span class="navipath_or_inputname">Master Settings -> Customer Info -> Top offer in categories</span>',
-'HELP_CATEGORY_MAIN_SKIPDISCOUNTS' => '<li>If <span class="navipath_or_inputname">Skip all negative discounts</span> is active, negative allowances will not be calculated for any products in this category.',
+'HELP_CATEGORY_MAIN_SKIPDISCOUNTS' => 'Якщо <span class="navipath_or_inputname">Ігнорувати всі знижки</span> активовано, то для всіх товарів даної категорії, знижки на ціни не будуть діяти.',
 'HELP_CATEGORY_MAIN_SORT' => 'You can use <span class="navipath_or_inputname">Sorting</span> to define the order in which categories are displayed: The category with the lowest number is displayed at the top, and the category with the highest number at the bottom.',
 'HELP_CATEGORY_MAIN_THUMB' => 'With <span class="navipath_or_inputname">Picture</span> and <span class="navipath_or_inputname">Upload Picture</span> you can upload a picture for this category. The picture is shown at top of the category is viewed. Select the picture in <span class="navipath_or_inputname">Upload Picture</span>. When clicking on <span class="navipath_or_inputname">Save</span>, the picture is uploaded. After uploading, the filename of the picture is shown in <span class="navipath_or_inputname">Picture</span>.',
 'HELP_CATEGORY_SEO_DESCRIPTION' => 'Цей опис інтегровано в початковий HTML код сторінки категорії. Цей текст часто відображається в результатах видачі пошукових машин. Ви можете ввести подходяший опис або залишити поле порожнім - тоді опис буде згенеровано автоматично.',
