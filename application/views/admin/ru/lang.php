@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2013
  * @version OXID eShop CE
- * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (15), mantgomery (2), marco (1325), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (39), mantgomery (2), marco (1325), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -30,7 +30,7 @@ $sLangName  = 'Русский';
 $aLang = array(
 'charset' => 'utf-8',
 'ACTIONS_LIST_MENUITEM' => 'Информация о клиентах',
-'ACTIONS_LIST_MENUSUBITEM' => 'Промоушен',
+'ACTIONS_LIST_MENUSUBITEM' => 'Продвижение',
 'ACTIONS_MAIN_ALLARTICLES' => 'Все доступные товары',
 'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Продвигаемые товары',
 'ACTIONS_MAIN_NOTSELECTED' => 'Выберите позицию из списка выше, чтобы внести изменения',
@@ -1090,7 +1090,7 @@ $aLang = array(
 'OXDIAG_ERRORVERSIONCOMPARE' => 'Этого текста тут вообще-то быть не должно. Попробуйте еще раз...',
 'OXDIAG_FINALNOTE' => 'Конец анализа.',
 'OXDIAG_FORM_LIST_ALL_FILES' => 'Перечислите все файлы (и те, которые были в порядке)',
-'OXDIAG_FORM_START_CHECK' => 'Start to check this eShop right now (may take some time)',
+'OXDIAG_FORM_START_CHECK' => 'Начать проверку магазина сейчас (может занять некоторое время)',
 'OXDIAG_GOTO' => 'к',
 'OXDIAG_HEALTH' => 'System health',
 'OXDIAG_HEALTH_FAIL' => 'НЕУДАЧА',
