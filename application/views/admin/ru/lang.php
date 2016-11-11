@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (233), mantgomery (2), marco (1329), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: ascheider (3), asot (4), compisat (26), cyberkatze (8), ET (10), ilya (233), mantgomery (2), marco (1329), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -867,7 +867,7 @@ $aLang = array(
 'MANUFACTURER_MAIN_ICONUPLOAD' => 'Загрузить иконку',
 'MANUFACTURER_MAIN_ITEMSWITHMANUFACTURER' => 'Продукты этого производителя',
 'MODULE_ACTIVATE' => 'Активировать',
-'MODULE_ACTIVATION_NOT_POSSIBLE_IN_DEMOMODE' => 'Please note: modules can\'t be activated or deactivated in demo shop mode.',
+'MODULE_ACTIVATION_NOT_POSSIBLE_IN_DEMOMODE' => 'Обратите внимание: модули не могут быть активированы или деактивированы в демо модусе',
 'MODULE_AUTHOR' => 'Автор',
 'MODULE_DEACTIVATE' => 'Дезактивировать',
 'MODULE_DELETEEXTENSION' => 'Вы действительно хотите удалить всю зарегистрированную модулем информацию и сохраненные конфигурации?',
@@ -1370,7 +1370,7 @@ $aLang = array(
 'SHOP_CONFIG_EXPORTTICKERREFRESH' => 'Number of Seconds before CSV Export Ticker is reloaded',
 'SHOP_CONFIG_FACEBOOKAPPID' => 'ID приложения',
 'SHOP_CONFIG_FACEBOOKCONFIRM' => 'Customer must enable Facebook social plugins',
-'SHOP_CONFIG_FACEBOOKCONNECT' => 'Connect',
+'SHOP_CONFIG_FACEBOOKCONNECT' => 'настройки фэйсбук коннект',
 'SHOP_CONFIG_FACEBOOKCONNECTDISABLED' => 'Facebook connect <b>is disabled</b> as it requires cURL extension to be installed into your server. Please <a href="http://www.google.de/search?source=ig&hl=de&rlz=&=&q=install+curl+library+in+php&aq=f&aqi=&aql=&oq=&gs_rfai=">install cURL</a>.',
 'SHOP_CONFIG_FBCOMMENTS' => 'Комментарии',
 'SHOP_CONFIG_FBFACEPILE' => 'Подписчики',
