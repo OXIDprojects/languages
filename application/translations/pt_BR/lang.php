@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: hwarlley (32), sancao (125), vendingtechnik (192)
  */
@@ -68,9 +68,11 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Cartão (net)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Embalagem-presente (net)',
-'BETA_NOTE' => 'Welcome to Release Candidate ',
+'BETA_NOTE' => 'Welcome to',
 'BETA_NOTE_FAQ' => '. Por favor contacte nosso %s se tiver alguma dúvida.',
 'BETA_NOTE_MIDDLE' => ' of OXID eShop ',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
 'BIC' => 'BIC',
 'BILLING_ADDRESS' => 'Endereço para facturação',
 'BILLING_SHIPPING_SETTINGS' => 'Configuração de facturação e entrega',
@@ -449,6 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'Criar conta',
 'OPEN_PERSONAL_ACCOUNT' => 'Criar conta pessoal de cliente',
 'OR' => 'ou',
+'ORDER' => 'Order',
 'ORDERS' => 'Encomendas:',
 'ORDER_COMPLETED' => 'Encomenda compelta',
 'ORDER_DATE' => 'Data de compra:',
@@ -576,7 +579,6 @@ $aLang = array(
 'PASSWORD_WAS_SEND_TO' => 'A password foi enviada para:',
 'PAY' => 'Pagamento',
 'PAYMENT_INFORMATION' => 'Informação de pagamento',
-'PAYMENT_INFO_OFF' => 'INFORMACAO DE PAGAMENTO DESLIGADO - para ativar faça alteraçao em application/views/[theme]/email/html/order_owner.tpl',
 'PAYMENT_METHOD' => 'Modo de pagamento',
 'PCS' => 'Peça',
 'PERSONAL_PHONE' => 'Telefone pessoal:',

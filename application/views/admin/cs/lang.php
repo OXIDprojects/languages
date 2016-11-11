@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (145), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1318), SYSKO (9), zerog (15)
  */
@@ -833,6 +833,7 @@ $aLang = array(
 'IS_REVERSE_PROXY_AVAILABLE' => 'Test dostupnosti reverzní proxy',
 'LANGUAGE_ABBERVATION' => 'Kód jazyka',
 'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Upozornění: Nemůžete měnit zkratku hlavního jazyka (ID 0)!',
+'LANGUAGE_ABBREVIATION_INVALID_ERROR' => 'Language abbreviation invalid! Permitted characters are a-z, A-Z, 0-9 and the underscore.',
 'LANGUAGE_ACTIVE' => 'Povoleno ve frontendu eShopu',
 'LANGUAGE_ALREADYEXISTS_ERROR' => 'Chyba: jazyk s tímto označením už existuje!',
 'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Upozornění: V adresáři /admin nebyly pro daný jazyk nalezeny žádné jazykové soubory!',
@@ -869,6 +870,7 @@ $aLang = array(
 'MANUFACTURER_MAIN_ICONUPLOAD' => 'Nahrát ikonu',
 'MANUFACTURER_MAIN_ITEMSWITHMANUFACTURER' => 'Produkty tohoto výrobce',
 'MODULE_ACTIVATE' => 'Aktivovat',
+'MODULE_ACTIVATION_NOT_POSSIBLE_IN_DEMOMODE' => 'Please note: modules can\'t be activated or deactivated in demo shop mode.',
 'MODULE_AUTHOR' => 'Autor',
 'MODULE_DEACTIVATE' => 'Deaktivovat',
 'MODULE_DELETEEXTENSION' => 'Chcete vymazat všechny informace o modulu, včetně konfiguračního nastavení a blokových informací pro předlohy?',
@@ -976,11 +978,9 @@ $aLang = array(
 'none' => 'žádná',
 'nonstackable_serial_detected' => 'Neplatná licence. Prosím zkuste zadat jiný kód.',
 'NO_PICTURES_CHANGES' => 'Žádná změna obrázků',
-'OLC_ERROR_REQUEST_FAILED' => 'Služba není k dispozici, zkuste to znovu později ... Jestli tento problém potrvá, zkontrolujte, zda váš obchod může odchozí spojení.',
 'OLC_ERROR_RESPONSE_NOT_VALID' => 'Služba není k dispozici, zkuste to znovu později ... Jestli tento problém potrvá, zkontrolujte, zda váš obchod může odchozí spojení.',
 'OLC_ERROR_RESPONSE_UNEXPECTED' => 'Služba není k dispozici, zkuste to znovu později ... Jestli tento problém potrvá, zkontrolujte, zda váš obchod může odchozí spojení.',
 'OLC_ERROR_SERIAL_NOT_VALID' => 'Kontrola licenčního klíče selhala. Zkuste to znovu, nebo kontaktujte technickou podporu pokud k tomu dojde natrvalo.',
-'OMVN_ERROR_REQUEST_FAILED' => 'Služba není k dispozici, zkuste to znovu později... Pokud tento problém přetrvá, zkontrolujte, zda váš obchod může odchozí spojení.',
 'order' => 'Objednávka',
 'ORDERFOLDER_FINISHED' => 'Dokončeno',
 'ORDERFOLDER_NEW' => 'Nový',
@@ -1367,6 +1367,7 @@ $aLang = array(
 'SHOP_CONFIG_ENABLE' => 'Povolit',
 'SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'Uživatelé mají potvrdit podmínky pro stažitelné a nehmotné produkty při finální kontrole',
 'SHOP_CONFIG_ENTERNETPRICE' => 'Zadat ceny produktů jako netto ceny (plus DPH)',
+'SHOP_CONFIG_ERROR_INVALID_VALUE' => 'Provided configuration value: %s is not valid.',
 'SHOP_CONFIG_EXCLUDENONMATERIALPRODUCTS' => 'Nezapočítávat služby (např. dárkové certifikáty) do nákladů',
 'SHOP_CONFIG_EXPORTNUMBEROFLINES' => 'Počet řádků za nastavenou dobu pro CSV Export',
 'SHOP_CONFIG_EXPORTTICKERREFRESH' => 'Počet sekund před restartováním CSV Export záznamu',

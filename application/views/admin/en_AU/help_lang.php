@@ -17,9 +17,9 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: marco (3211), NHWS (194)
+ * @translators: marco (3228), NHWS (194)
  */
 
 $sLangName  = 'Australian English';

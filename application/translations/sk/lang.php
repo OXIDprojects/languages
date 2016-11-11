@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: DominikS (404), ET (12), etch (6), i7 (664), lubosdz (18), stefanbalaz (15), zweistein (1)
  */
@@ -71,6 +71,8 @@ $aLang = array(
 'BETA_NOTE' => 'Vitajte v testovacej verzii RC',
 'BETA_NOTE_FAQ' => '. Prosím oslovte nás %s ak máte nejaké otázky.',
 'BETA_NOTE_MIDDLE' => 'od OXID eShop',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
 'BIC' => 'BIC',
 'BILLING_ADDRESS' => 'Fakturačná adresa',
 'BILLING_SHIPPING_SETTINGS' => 'Nastavenie fakturačných údajov a dodacích adries',
@@ -449,6 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'Vytvoriť účet',
 'OPEN_PERSONAL_ACCOUNT' => 'Vytvoriť zákaznícky účet',
 'OR' => 'alebo',
+'ORDER' => 'Order',
 'ORDERS' => 'Objednávky:',
 'ORDER_COMPLETED' => 'Objednávka bola vytvorená',
 'ORDER_DATE' => 'Dátum objednania:',
@@ -576,7 +579,6 @@ $aLang = array(
 'PASSWORD_WAS_SEND_TO' => 'Heslo bolo zaslané:',
 'PAY' => 'Platba',
 'PAYMENT_INFORMATION' => 'Informácie o platbe',
-'PAYMENT_INFO_OFF' => 'PLATOBNÉ INFORMÁCIE VYPNUTÉ - zapnete ich upravte application/views/[theme]/email/html/order_owner.tpl.',
 'PAYMENT_METHOD' => 'Spôsob platby',
 'PCS' => 'kusy',
 'PERSONAL_PHONE' => 'Osobný telefón',

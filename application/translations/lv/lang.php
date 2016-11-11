@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: karlis.kavacis (143)
  */
@@ -68,9 +68,11 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Greeting Card (net)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Gift Wrapping (net)',
-'BETA_NOTE' => 'Welcome to Release Candidate ',
+'BETA_NOTE' => 'Welcome to',
 'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
 'BETA_NOTE_MIDDLE' => ' of OXID eShop ',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
 'BIC' => 'Bankas Identifikācijas Kods:',
 'BILLING_ADDRESS' => 'Norēķinu adrese',
 'BILLING_SHIPPING_SETTINGS' => 'Norēķinu un Piegādes uzstādījumi',
@@ -449,6 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'Open account',
 'OPEN_PERSONAL_ACCOUNT' => 'Open personal customer account',
 'OR' => 'or',
+'ORDER' => 'Order',
 'ORDERS' => 'Pasūtījumi:',
 'ORDER_COMPLETED' => 'Pasūtījums pabeigts',
 'ORDER_DATE' => 'Pasūtījuma datums:',
@@ -576,7 +579,6 @@ $aLang = array(
 'PASSWORD_WAS_SEND_TO' => 'Parole nosūtīta uz:',
 'PAY' => 'Maksāt',
 'PAYMENT_INFORMATION' => 'Maksājuma informācija',
-'PAYMENT_INFO_OFF' => 'PAYMENT INFORMATION SWITCHED OFF - to switch it on please edit application/views/[theme]/email/html/order_owner.tpl.',
 'PAYMENT_METHOD' => 'Maksājuma veids',
 'PCS' => 'gab.',
 'PERSONAL_PHONE' => 'Privātais telefons:',

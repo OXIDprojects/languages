@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), simon.runer (573)
  */
@@ -71,6 +71,8 @@ $aLang = array(
 'BETA_NOTE' => 'Benvenuto nella versione beta',
 'BETA_NOTE_FAQ' => '. Per ogni domanda fai riferimento a %s',
 'BETA_NOTE_MIDDLE' => 'di OXID eShop',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
 'BIC' => 'BIC:',
 'BILLING_ADDRESS' => 'Indirizzo di Fatturazione',
 'BILLING_SHIPPING_SETTINGS' => 'Impostazoni Fatturazione e Spedizione',
@@ -449,6 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'Crea nuovo Account',
 'OPEN_PERSONAL_ACCOUNT' => 'Crea Account cliente',
 'OR' => 'o',
+'ORDER' => 'Order',
 'ORDERS' => 'Ordini:',
 'ORDER_COMPLETED' => 'Ordine completo',
 'ORDER_DATE' => 'Date dell\'Ordine:',
@@ -576,7 +579,6 @@ $aLang = array(
 'PASSWORD_WAS_SEND_TO' => 'La Password é stata mandata a:',
 'PAY' => 'Pagare',
 'PAYMENT_INFORMATION' => 'Informazioni Pagamenton',
-'PAYMENT_INFO_OFF' => 'PAYMENT INFORMATION SWITCHED OFF - to switch it on please edit application/views/[theme]/email/html/order_owner.tpl.',
 'PAYMENT_METHOD' => 'Metodo di Pagamento',
 'PCS' => 'pz',
 'PERSONAL_PHONE' => 'Telefono:',

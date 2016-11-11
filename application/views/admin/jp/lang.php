@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: hodota (88)
  */
@@ -830,6 +830,7 @@ $aLang = array(
 'IS_REVERSE_PROXY_AVAILABLE' => 'Test Reverse Proxy\'s availability',
 'LANGUAGE_ABBERVATION' => '略称',
 'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Attention: you can\'t change abbreviation of main language (with ID = 0)!',
+'LANGUAGE_ABBREVIATION_INVALID_ERROR' => 'Language abbreviation invalid! Permitted characters are a-z, A-Z, 0-9 and the underscore.',
 'LANGUAGE_ACTIVE' => 'フロントエンドのアクティブ',
 'LANGUAGE_ALREADYEXISTS_ERROR' => 'エラー: このような略称を持つ言語は既に存在しています！',
 'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Attention: No language files were found in /admin dir for selected language!',
@@ -866,6 +867,7 @@ $aLang = array(
 'MANUFACTURER_MAIN_ICONUPLOAD' => 'アイコンのアップロード',
 'MANUFACTURER_MAIN_ITEMSWITHMANUFACTURER' => 'このメーカーの製品',
 'MODULE_ACTIVATE' => 'Activate',
+'MODULE_ACTIVATION_NOT_POSSIBLE_IN_DEMOMODE' => 'Please note: modules can\'t be activated or deactivated in demo shop mode.',
 'MODULE_AUTHOR' => 'Author',
 'MODULE_DEACTIVATE' => 'Deactivate',
 'MODULE_DELETEEXTENSION' => 'Do you want to delete all registered module information and saved configurations?',
@@ -973,11 +975,9 @@ $aLang = array(
 'none' => 'なし',
 'nonstackable_serial_detected' => 'スタッカブルライセンスキーを追加できません。先にスタッカブルライセンスキーを入力してください。',
 'NO_PICTURES_CHANGES' => 'No pictures changes',
-'OLC_ERROR_REQUEST_FAILED' => 'Service unavailable, try again later... If this persists, please check that your shop can make outgoing connections.',
-'OLC_ERROR_RESPONSE_NOT_VALID' => 'Service unavailable, try again later... If this persists, please check that your shop can make outgoing connections.',
+'OLC_ERROR_RESPONSE_NOT_VALID' => 'Error: service unavailable, try again later... If this persists, please check that your shop can make outgoing connections.',
 'OLC_ERROR_RESPONSE_UNEXPECTED' => 'Service unavailable, try again later... If this persists, please check that your shop can make outgoing connections.',
 'OLC_ERROR_SERIAL_NOT_VALID' => 'License key check failed. Try again or contact support if this occurs permanently.',
-'OMVN_ERROR_REQUEST_FAILED' => 'Service unavailable, try again later... If this persists, please check that your shop can make outgoing connections.',
 'order' => 'ご注文',
 'ORDERFOLDER_FINISHED' => '完了',
 'ORDERFOLDER_NEW' => '新規',
@@ -1114,8 +1114,8 @@ $aLang = array(
 'OXDIAG_MAIN_TITLE' => 'Diagnostics of your OXID eShop',
 'oxdiag_menu' => 'Diagnostics tool',
 'OXDIAG_MODIFIED' => 'Modified',
-'OXDIAG_MODIFIEDHINTS1' => 'OXID eShop has sophisticated possibility to extend it by modules without changing shipped files. It\'s not recommended and not needed to change shop files. See also our <a href="http://www.oxidforge.org/wiki/Tutorials#How_to_Extend_OXID_eShop_With_Modules_.28Part_1.29" target=_blank>tutorials</a>.',
-'OXDIAG_MODIFIEDHINTS2' => 'Since OXID eShop 4.2.0 it\'s possible to use <a href="http://www.oxidforge.org/wiki/Downloads/4.2.0#New_Features" target=_blank>your own templates without changing shipped ones</a>.',
+'OXDIAG_MODIFIEDHINTS1' => 'OXID eShop has sophisticated possibility to extend it by modules without changing shipped files. It\\'s not recommended and not needed to change shop files. See also our <a href="http://blog.oxid-esales.com/2009/02/how-extend-oxid-eshop-with-modules-part-1/" target=_blank>tutorials</a>.',
+'OXDIAG_MODIFIEDHINTS2' => 'Since OXID eShop 4.2.0 it\\'s possible to use <a href="http://oxidforge.org/en/oxid-eshop-version-4-2-0.html#New_Features" target=_blank>your own templates without changing shipped ones</a>.',
 'OXDIAG_MODULES' => 'Modules',
 'OXDIAG_MODULES_ID' => 'ID',
 'OXDIAG_MODULES_NAME' => 'Name',
@@ -1364,6 +1364,7 @@ $aLang = array(
 'SHOP_CONFIG_ENABLE' => '有効',
 'SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'Users have to confirm terms and conditions for downloadable and intangible products during the check-out',
 'SHOP_CONFIG_ENTERNETPRICE' => '製品とラッピング価格はアドミンではネット価格で入力/表示される',
+'SHOP_CONFIG_ERROR_INVALID_VALUE' => 'Provided configuration value: %s is not valid.',
 'SHOP_CONFIG_EXCLUDENONMATERIALPRODUCTS' => '配送コスト計算で分からない製品は組み込まない',
 'SHOP_CONFIG_EXPORTNUMBEROFLINES' => 'CSVエクスポートでTickごとにエクスポートされた行数',
 'SHOP_CONFIG_EXPORTTICKERREFRESH' => 'CSVエクスポートTickerがリロードされる前の秒数',
@@ -1506,7 +1507,7 @@ $aLang = array(
 'SHOP_MALL_MALLINHERIT_OXWRAPPING' => 'Inherit <b>wrapping information</b> from parent shop',
 'SHOP_MALL_MALLMODE' => 'Start page type',
 'SHOP_MALL_MALLUSERS' => 'Allow users from other shops',
-'SHOP_MALL_NATIVEIMAGES' => 'Load "out" directory from active shop',
+'SHOP_MALL_NATIVEIMAGES' => 'Load /out directory from active shop',
 'SHOP_MALL_NOSTARTSITE' => 'Show main shop front page',
 'SHOP_MALL_PRICEADDITION' => 'Product price addition to base price',
 'SHOP_MALL_SAVE_INHERITANCE' => 'Save inheritance information',

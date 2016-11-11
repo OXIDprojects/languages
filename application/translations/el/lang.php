@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: dotoree (1517), georgekk2 (7), polymeris (7), rostav (28)
  */
@@ -68,9 +68,11 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Greeting Card (net)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'συν ΦΠΑ (υπολογίζεται αναλογικά)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Gift Wrapping (net)',
-'BETA_NOTE' => 'Welcome to Release Candidate ',
+'BETA_NOTE' => 'Welcome to',
 'BETA_NOTE_FAQ' => '. Παρακαλούμε ανατρέξτε στο %s μας εάν έχετε οποιεσδήποτε ερωτήσεις.',
 'BETA_NOTE_MIDDLE' => 'του OXID eShop',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
 'BIC' => 'BIC',
 'BILLING_ADDRESS' => 'Διεύθυνση χρέωσης',
 'BILLING_SHIPPING_SETTINGS' => 'Ρυθμίσεις χρέωσης και αποστολής',
@@ -449,6 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'Άνοιγμα λογαριασμού',
 'OPEN_PERSONAL_ACCOUNT' => 'Ανοίξτε προσωπικό λογαριασμό πελάτη',
 'OR' => 'ή',
+'ORDER' => 'Order',
 'ORDERS' => 'Παραγγελίες',
 'ORDER_COMPLETED' => 'Η παραγγελία ολοκληρώθηκε',
 'ORDER_DATE' => 'Ημερομηνία παραγγελίας',
@@ -576,7 +579,6 @@ $aLang = array(
 'PASSWORD_WAS_SEND_TO' => 'Κωδικός στάλθηκε σε',
 'PAY' => 'Πληρωμή',
 'PAYMENT_INFORMATION' => 'Πληροφορίες Πληρωμής',
-'PAYMENT_INFO_OFF' => 'PAYMENT INFORMATION SWITCHED OFF - to switch it on please edit application/views/[theme]/email/html/order_owner.tpl.',
 'PAYMENT_METHOD' => 'Τρόπος Πληρωμής',
 'PCS' => 'pcs',
 'PERSONAL_PHONE' => 'Προσωπικό Τηλέφωνο',

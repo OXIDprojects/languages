@@ -17,9 +17,9 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: AWIDON (2), dsb (1), marco (4706), patmat2809 (1), simoneschuppe (4), SvenBrunk (2), Thielo (1)
+ * @translators: AWIDON (2), dsb (1), marco (4738), patmat2809 (1), simoneschuppe (4), SvenBrunk (2), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';
@@ -68,9 +68,11 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Grußkarte (netto)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus MwSt. (anteilig berechnet)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Geschenkverpackung (netto)',
-'BETA_NOTE' => 'Willkommen zum Release-Kandidat',
+'BETA_NOTE' => 'Willkommen zum',
 'BETA_NOTE_FAQ' => '. Häufig gestellte Fragen und Antworten sind in der %s gelistet.',
 'BETA_NOTE_MIDDLE' => 'von OXID eShop',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => 'Release-Kandidat',
 'BIC' => 'BIC:',
 'BILLING_ADDRESS' => 'Rechnungsadresse',
 'BILLING_SHIPPING_SETTINGS' => 'Rechnungs- und Liefereinstellungen',
@@ -449,6 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'Konto eröffnen',
 'OPEN_PERSONAL_ACCOUNT' => 'Persönliches Kundenkonto eröffnen',
 'OR' => 'oder',
+'ORDER' => 'Bestellen',
 'ORDERS' => 'Bestellungen:',
 'ORDER_COMPLETED' => 'Bestellung abgeschlossen',
 'ORDER_DATE' => 'Bestellung vom:',
@@ -576,7 +579,6 @@ $aLang = array(
 'PASSWORD_WAS_SEND_TO' => 'Passwort wurde verschickt an:',
 'PAY' => 'Bezahlen',
 'PAYMENT_INFORMATION' => 'Bezahlinformation',
-'PAYMENT_INFO_OFF' => 'BEZAHLINFORMATIONEN AUSGESCHALTET - um diese einzuschalten bitte application/views/[theme]/email/html/order_owner.tpl aendern.',
 'PAYMENT_METHOD' => 'Zahlungsart',
 'PCS' => 'Stück',
 'PERSONAL_PHONE' => 'Telefon (privat):',

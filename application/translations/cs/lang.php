@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (145), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1318), SYSKO (9), zerog (15)
  */
@@ -71,6 +71,8 @@ $aLang = array(
 'BETA_NOTE' => 'Vítejte na Release Candidate',
 'BETA_NOTE_FAQ' => '. Prosím oslovte nás %s pokud máte nějaké otázky.',
 'BETA_NOTE_MIDDLE' => 'o OXID eShop',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
 'BIC' => 'BIC:',
 'BILLING_ADDRESS' => 'Fakturační adresa',
 'BILLING_SHIPPING_SETTINGS' => 'Nastavení fakturačních údajů a dodacích adres',
@@ -449,6 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'Otevřít účet',
 'OPEN_PERSONAL_ACCOUNT' => 'Otevřít osobní zákaznický účet',
 'OR' => 'nebo',
+'ORDER' => 'Order',
 'ORDERS' => 'Objednávky:',
 'ORDER_COMPLETED' => 'Objednávka byla vytvořena',
 'ORDER_DATE' => 'Datum objednání:',
@@ -576,7 +579,6 @@ $aLang = array(
 'PASSWORD_WAS_SEND_TO' => 'Heslo bylo zasláno:',
 'PAY' => 'Platba',
 'PAYMENT_INFORMATION' => 'Informace o platbě',
-'PAYMENT_INFO_OFF' => 'PLATEBNÍ INFORMACE VYPNUTO - zapněte jej upravte application/views/[theme]/email/html/order_owner.tpl.',
 'PAYMENT_METHOD' => 'Způsob platby',
 'PCS' => 'kusy',
 'PERSONAL_PHONE' => 'Osobní telefon',

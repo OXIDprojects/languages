@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: flohthuka (322), Glagnar (126), gnomic (792), krumoda (2), topconcepts (811)
  */
@@ -71,6 +71,8 @@ $aLang = array(
 'BETA_NOTE' => 'Velkommen til "Release Candidate"',
 'BETA_NOTE_FAQ' => '. Læs venligst %s hvis du har nogen spørgsmål.',
 'BETA_NOTE_MIDDLE' => 'af OXID eShop',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
 'BIC' => 'BIC:',
 'BILLING_ADDRESS' => 'Fakturaadresse',
 'BILLING_SHIPPING_SETTINGS' => 'Faktura- og leveringsindstillinger',
@@ -449,6 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'Opret konto',
 'OPEN_PERSONAL_ACCOUNT' => 'Opret personlig kundekonto',
 'OR' => 'eller',
+'ORDER' => 'Order',
 'ORDERS' => 'Bestillinger:',
 'ORDER_COMPLETED' => 'Bestilling gennemført',
 'ORDER_DATE' => 'Bestillingsdato:',
@@ -576,7 +579,6 @@ $aLang = array(
 'PASSWORD_WAS_SEND_TO' => 'Password er sendt til:',
 'PAY' => 'Betale',
 'PAYMENT_INFORMATION' => 'Betalingsinformation',
-'PAYMENT_INFO_OFF' => 'BETALINGS OPLYSNINGER SLÅET FRA - for at slå dem til skal du ændre i application/views/[theme]/email/html/order_owner.tpl.',
 'PAYMENT_METHOD' => 'Betalingsmetode',
 'PCS' => 'Stk',
 'PERSONAL_PHONE' => 'Telefon (privat):',

@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: asot (45), b.verbelchuk (32), pianoservis (2825)
  */
@@ -71,6 +71,8 @@ $aLang = array(
 'BETA_NOTE' => 'Ласкаво просимо на Release Candidate',
 'BETA_NOTE_FAQ' => '. Часті питання і відповіді перераховані в% с.',
 'BETA_NOTE_MIDDLE' => 'з OXID eShop',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
 'BIC' => 'BIC Банківський код',
 'BILLING_ADDRESS' => 'Реквізити для розрахунку',
 'BILLING_SHIPPING_SETTINGS' => 'Налаштування розрахунку і доставки',
@@ -449,6 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'Зайти в аккаунт',
 'OPEN_PERSONAL_ACCOUNT' => 'Відкрити особистий аккаунт',
 'OR' => 'або',
+'ORDER' => 'Order',
 'ORDERS' => 'Замовлення',
 'ORDER_COMPLETED' => 'Заказ оформлено',
 'ORDER_DATE' => 'Заказ від',
@@ -576,7 +579,6 @@ $aLang = array(
 'PASSWORD_WAS_SEND_TO' => 'Ми надішлемо пароль на',
 'PAY' => 'Оплатити',
 'PAYMENT_INFORMATION' => 'Інформація про оплату',
-'PAYMENT_INFO_OFF' => 'Інформація про оплату відключена - щоб включити, будь ласка, відредактуйте application/views/[theme]/email/html/order_owner.tpl.',
 'PAYMENT_METHOD' => 'Спосіб оплати',
 'PCS' => 'Шт.',
 'PERSONAL_PHONE' => 'Телефон (особистий номер)',

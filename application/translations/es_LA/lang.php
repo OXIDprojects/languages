@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: jordhy (3201), jsmaster (11)
  */
@@ -71,6 +71,8 @@ $aLang = array(
 'BETA_NOTE' => 'Bienvenido al Beta RC',
 'BETA_NOTE_FAQ' => '. Por favor refierete a nuestra %s si tienes preguntas.',
 'BETA_NOTE_MIDDLE' => 'de OXID eShop',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
 'BIC' => 'BIC',
 'BILLING_ADDRESS' => 'Dirección de cobro',
 'BILLING_SHIPPING_SETTINGS' => 'Opciones de cobro y envío',
@@ -449,6 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'Abrir cuenta',
 'OPEN_PERSONAL_ACCOUNT' => 'Abrir cuenta personal',
 'OR' => 'o',
+'ORDER' => 'Order',
 'ORDERS' => 'Órdenes',
 'ORDER_COMPLETED' => 'Orden completada',
 'ORDER_DATE' => 'Fecha de orden',
@@ -576,7 +579,6 @@ $aLang = array(
 'PASSWORD_WAS_SEND_TO' => 'Clave enviada a',
 'PAY' => 'Pagar',
 'PAYMENT_INFORMATION' => 'Información de pago',
-'PAYMENT_INFO_OFF' => 'INFORMACION DE PAGO DESACTIVADA - para activarla favor editar application/views/[theme]/email/html/order_owner.tpl.',
 'PAYMENT_METHOD' => 'Método de pago',
 'PCS' => 'pcs',
 'PERSONAL_PHONE' => 'Teléfono personal',

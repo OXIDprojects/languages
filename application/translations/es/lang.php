@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: afimage (504), diegotech (7), djraptor (1368), Espana (5), ET (219), jmatos (31), jsmaster (6), kai.gazmaga (3), mvirolde (8), nuelgoz (156), Sweetlana (2)
  */
@@ -71,6 +71,8 @@ $aLang = array(
 'BETA_NOTE' => 'Bienvenido a la Release Candidata',
 'BETA_NOTE_FAQ' => '. Por favor, si tiene alguna pregunta diríjase a nuestro %s .',
 'BETA_NOTE_MIDDLE' => 'de OXID eShop',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
 'BIC' => 'BIC:',
 'BILLING_ADDRESS' => 'Dirección de facturación',
 'BILLING_SHIPPING_SETTINGS' => 'Configuración facturación y envío',
@@ -449,6 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'Registrar cuenta',
 'OPEN_PERSONAL_ACCOUNT' => 'Abrir cuenta personal de cliente',
 'OR' => 'O',
+'ORDER' => 'Order',
 'ORDERS' => 'Pedidos',
 'ORDER_COMPLETED' => 'Pedido completato',
 'ORDER_DATE' => 'Fecha de pedido',
@@ -576,7 +579,6 @@ $aLang = array(
 'PASSWORD_WAS_SEND_TO' => 'Contraseña ha sido enviada a:',
 'PAY' => 'Pagar',
 'PAYMENT_INFORMATION' => 'Información de pago',
-'PAYMENT_INFO_OFF' => 'INFORMACIÓN DE PAGO DESACTIVADA - para activarlo por favor, edita application/views/[theme]/email/html/order_owner.tpl.',
 'PAYMENT_METHOD' => 'Método de pago',
 'PCS' => 'pcs',
 'PERSONAL_PHONE' => 'Teléfono Personal',

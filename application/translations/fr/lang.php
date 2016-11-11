@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: alexraimondo (1), chatard (318), cowboy9571 (10), ET (10), marco (1), patmat2809 (5), Phenix (203), piccobello (1), Rainbow40 (2), rava3000 (8), vikapera (376)
  */
@@ -71,6 +71,8 @@ $aLang = array(
 'BETA_NOTE' => 'Bienvenue sur la version RC',
 'BETA_NOTE_FAQ' => '. S\'il vous plaît reportez vous à notre %s si vous avez des questions.',
 'BETA_NOTE_MIDDLE' => 'de OXID eShop',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
 'BIC' => 'BIC:',
 'BILLING_ADDRESS' => 'Adresse de facturation',
 'BILLING_SHIPPING_SETTINGS' => 'Adresse de facturation & de livraison',
@@ -451,6 +453,7 @@ Si vous commandez avec votre compte client, Les liens de téléchargement appara
 'OPEN_ACCOUNT' => 'Créer un compte',
 'OPEN_PERSONAL_ACCOUNT' => 'Créer un compte client',
 'OR' => 'ou',
+'ORDER' => 'Order',
 'ORDERS' => 'Commandes:',
 'ORDER_COMPLETED' => 'Commande terminée',
 'ORDER_DATE' => 'Date de la commande:',
@@ -578,7 +581,6 @@ Si vous commandez avec votre compte client, Les liens de téléchargement appara
 'PASSWORD_WAS_SEND_TO' => 'Mot de passe envoyé à:',
 'PAY' => 'Payer',
 'PAYMENT_INFORMATION' => 'Informations de paiement',
-'PAYMENT_INFO_OFF' => 'INFORMATION DE PAYEMENT DESACTIVEE - Pour réactiver éditer S.V.P. application/views/[theme]/email/html/order_owner.tpl.',
 'PAYMENT_METHOD' => 'Moyen de paiement',
 'PCS' => 'unités',
 'PERSONAL_PHONE' => 'Téléphone personnel:',

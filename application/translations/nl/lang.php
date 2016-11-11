@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: ET (30), Gecker (1), gvlimpt (97), hoekie (37), marco (932), topconcepts (111)
  */
@@ -68,9 +68,11 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Wenskaartje (netto)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Geschenkpapier (netto)',
-'BETA_NOTE' => 'Welcome to Release Candidate ',
+'BETA_NOTE' => 'Welcome to',
 'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
 'BETA_NOTE_MIDDLE' => 'van OXID eShop',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
 'BIC' => 'BIC:',
 'BILLING_ADDRESS' => 'Factuuradres',
 'BILLING_SHIPPING_SETTINGS' => 'Factuur- en Verzendsinstellingen',
@@ -449,6 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'Account aanmaken',
 'OPEN_PERSONAL_ACCOUNT' => 'persoonlijk klantaccount aanmaken',
 'OR' => 'of',
+'ORDER' => 'Order',
 'ORDERS' => 'Bestellingen:',
 'ORDER_COMPLETED' => 'Bestelling afgesloten',
 'ORDER_DATE' => 'Bestellung van:',
@@ -576,7 +579,6 @@ $aLang = array(
 'PASSWORD_WAS_SEND_TO' => 'Wachtwoord is verstuurd naar:',
 'PAY' => 'Betalen',
 'PAYMENT_INFORMATION' => 'Betaalgegevens',
-'PAYMENT_INFO_OFF' => 'PAYMENT INFORMATION SWITCHED OFF - to switch it on please edit application/views/[theme]/email/html/order_owner.tpl.',
 'PAYMENT_METHOD' => 'Betaalwijze',
 'PCS' => 'Stuk',
 'PERSONAL_PHONE' => 'Telefoonnummer (privé):',

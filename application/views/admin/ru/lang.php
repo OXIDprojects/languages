@@ -17,9 +17,9 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (228), mantgomery (2), marco (1325), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (233), mantgomery (2), marco (1329), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -830,6 +830,7 @@ $aLang = array(
 'IS_REVERSE_PROXY_AVAILABLE' => 'Тест обратного прокси-сервера наличие',
 'LANGUAGE_ABBERVATION' => 'Сокращение Языка',
 'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Внимание: вы не можете изменить аббревиатуру основного языка (с ID = 0)!',
+'LANGUAGE_ABBREVIATION_INVALID_ERROR' => 'Language abbreviation invalid! Permitted characters are a-z, A-Z, 0-9 and the underscore.',
 'LANGUAGE_ACTIVE' => 'Активно во фронтэнде',
 'LANGUAGE_ALREADYEXISTS_ERROR' => 'Ошибка: язык с этой аббревиатурой уже существует!',
 'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Внимание: для выбранного языка не найдено языковых файлов в директории /admin',
@@ -866,6 +867,7 @@ $aLang = array(
 'MANUFACTURER_MAIN_ICONUPLOAD' => 'Загрузить иконку',
 'MANUFACTURER_MAIN_ITEMSWITHMANUFACTURER' => 'Продукты этого производителя',
 'MODULE_ACTIVATE' => 'Активировать',
+'MODULE_ACTIVATION_NOT_POSSIBLE_IN_DEMOMODE' => 'Please note: modules can\'t be activated or deactivated in demo shop mode.',
 'MODULE_AUTHOR' => 'Автор',
 'MODULE_DEACTIVATE' => 'Дезактивировать',
 'MODULE_DELETEEXTENSION' => 'Вы действительно хотите удалить всю зарегистрированную модулем информацию и сохраненные конфигурации?',
@@ -918,7 +920,7 @@ $aLang = array(
 'mxremlist' => 'Список всех отзывов',
 'mxsellist' => 'Список выборок (вариантов)',
 'mxservice' => 'Сервис',
-'mxservicearea' => 'eCommerce Services',
+'mxservicearea' => 'e-commerce Services',
 'mxshipping' => 'Правила стоимости доставки',
 'mxshippingset' => 'Настройка доставки',
 'mxshopsett' => 'Настройки магазина',
@@ -973,11 +975,9 @@ $aLang = array(
 'none' => 'нет',
 'nonstackable_serial_detected' => 'Не удалось применить составной ключ лицензии. Пожалуйста, для начала укажите составной ключ.',
 'NO_PICTURES_CHANGES' => 'Нет изменений картинок',
-'OLC_ERROR_REQUEST_FAILED' => 'Сервис недоступен, попробуйте позже ... Если это не удается, проверьте, что ваш магазин может совершать исходящие соединения.',
 'OLC_ERROR_RESPONSE_NOT_VALID' => 'Сервис недоступен, попробуйте позже ... Если это не удается, проверьте, что ваш магазин может совершать исходящие соединения.',
 'OLC_ERROR_RESPONSE_UNEXPECTED' => 'Сервис недоступен, попробуйте позже ... Если это не удается, проверьте, что ваш магазин может совершать исходящие соединения.',
 'OLC_ERROR_SERIAL_NOT_VALID' => 'Недействительный лицензионный ключ. Попробуйте еще раз или свяжитесь с техподдержкой если все равно ничего не получается.',
-'OMVN_ERROR_REQUEST_FAILED' => 'Сервис недоступен, попробуйте позже ... Если это не удается, проверьте, что ваш магазин может совершать исходящие соединения.',
 'order' => 'Заказ',
 'ORDERFOLDER_FINISHED' => 'Завершенные',
 'ORDERFOLDER_NEW' => 'Новые',
@@ -1364,8 +1364,9 @@ $aLang = array(
 'SHOP_CONFIG_ENABLE' => 'Активировать',
 'SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'Пользователи должны соглашаться с условиями приобретения цифровых товаров при оформлении заказа',
 'SHOP_CONFIG_ENTERNETPRICE' => 'Цены указаны без НДС (плюс НДС)',
+'SHOP_CONFIG_ERROR_INVALID_VALUE' => 'Provided configuration value: %s is not valid.',
 'SHOP_CONFIG_EXCLUDENONMATERIALPRODUCTS' => 'Не учитывать нематериальные товары, например, подарочные сертификаты при расчёте стоимости доставки',
-'SHOP_CONFIG_EXPORTNUMBEROFLINES' => 'Number of Lines which are exported per Tick in CSV Export',
+'SHOP_CONFIG_EXPORTNUMBEROFLINES' => 'Количества строк за тик при экспорте в CSV-файл',
 'SHOP_CONFIG_EXPORTTICKERREFRESH' => 'Number of Seconds before CSV Export Ticker is reloaded',
 'SHOP_CONFIG_FACEBOOKAPPID' => 'ID приложения',
 'SHOP_CONFIG_FACEBOOKCONFIRM' => 'Customer must enable Facebook social plugins',
@@ -1420,11 +1421,11 @@ $aLang = array(
 'SHOP_CONFIG_SETORDELETELANGUAGEURL' => 'Language dependent Base URL\'s per language (optional). Enter one URL per line. The first URL is used for the first language, the second URL for the second language and so on. An example:<br />http://www.youreshop.de/<br />http://www.youreshop.com/',
 'SHOP_CONFIG_SHIPPINGCOUNTRYVAT' => 'Для расчета НДС использовать страну назначения, а не страну где выставляется счет',
 'SHOP_CONFIG_SHOWORDERBUTTONONTHETOP' => 'Show an additional "Order now" button at the top in 4th order step (by default "Order now" button is shown only on the bottom of the page).',
-'SHOP_CONFIG_SHOWTAGS' => 'Display tags in eShop',
+'SHOP_CONFIG_SHOWTAGS' => 'Отображать тэги в магазине',
 'SHOP_CONFIG_SHOWTSCODMESSAGE' => 'Display a message about possible "cash on delivery" payment method fees',
 'SHOP_CONFIG_SHOWTSINTERNATIONALFEESMESSAGE' => 'Display a message about possible international delivery fees',
 'SHOP_CONFIG_SORTFIELDS' => 'Database Fields Product Lists can be sorted after',
-'SHOP_CONFIG_SORTITEMSLIST' => 'Users can sort Product Lists',
+'SHOP_CONFIG_SORTITEMSLIST' => 'Пользователи могут сортировать товары в категориях',
 'SHOP_CONFIG_STOCKOFFDEFAULTMESSAGE' => 'Use default "out-of-stock" Message',
 'SHOP_CONFIG_STOCKONDEFAULTMESSAGE' => 'Use default "in-stock" Message',
 'SHOP_CONFIG_STOCKWARNINGLIMIT' => 'Stock Level at which Users are informed that only a few Products remain in Stock',
@@ -1433,7 +1434,7 @@ $aLang = array(
 'SHOP_CONFIG_UNASSIGNDEFAULTCAT' => 'Убрать категорию по умолчанию',
 'SHOP_CONFIG_UPDATEVIEWS' => 'Database views needs to be updated!',
 'SHOP_CONFIG_USEGDVERSION' => 'Installed GDLib Version',
-'SHOP_CONFIG_USENEGATIVESTOCK' => 'Allow negative Stock Values',
+'SHOP_CONFIG_USENEGATIVESTOCK' => 'Разрешить негативные величины для склада',
 'SHOP_CONFIG_USESTOCK' => 'Activate Stock Management',
 'SHOP_CONFIG_VIEWNETPRICE' => 'Show net prices in frontend (B2B)',
 'SHOP_CONFIG_WARNONSAMEARTNUMS' => 'Display Warning if a Product Number already exists',
@@ -1445,7 +1446,7 @@ $aLang = array(
 'SHOP_LICENSE_ERROR_GRACE_EXPIRED' => 'The license key of your OXID eShop finally expired. Please contact the Technical Support.',
 'SHOP_LICENSE_ERROR_GRACE_WILL_EXPIRE' => 'The license key of your OXID eShop is expired. OXID eShop will go offline within 24 hours. Please enter a valid license key or contact the Technical Support!',
 'SHOP_LICENSE_ERROR_incorrect_mandate_amount' => 'The number of the licensed sub-shops exceeded. That\'s why a hidden countdown of 7 days was started. After this period OXID eShop will go offline. Please enter a valid license key or contact the technical support!',
-'SHOP_LICENSE_ERROR_INFORMATION' => 'OXID eShop license information',
+'SHOP_LICENSE_ERROR_INFORMATION' => 'Информация о лицензии OXID eShop',
 'SHOP_LICENSE_ERROR_serial_expired' => 'The license key of your OXID eShop expired. That\'s why a hidden countdown of 7 days was started. After this period OXID eShop will go offline. Please enter a valid license key or contact the technical support!',
 'SHOP_LICENSE_ERROR_shop_unlicensed' => 'A problem with the license key of your OXID eShop occurred. That\'s why a hidden countdown of 7 days was started. After this period OXID eShop will go offline. Please enter the valid license key once again or contact the technical support!',
 'SHOP_LICENSE_MALL' => 'Mall mode',
@@ -1506,7 +1507,7 @@ $aLang = array(
 'SHOP_MALL_MALLINHERIT_OXWRAPPING' => 'Inherit <b>wrapping information</b> from parent shop',
 'SHOP_MALL_MALLMODE' => 'Start page type',
 'SHOP_MALL_MALLUSERS' => 'Allow users from other shops',
-'SHOP_MALL_NATIVEIMAGES' => 'Load "out" directory from active shop',
+'SHOP_MALL_NATIVEIMAGES' => 'Load /out directory from active shop',
 'SHOP_MALL_NOSTARTSITE' => 'Show main shop front page',
 'SHOP_MALL_PRICEADDITION' => 'Product price addition to base price',
 'SHOP_MALL_SAVE_INHERITANCE' => 'Save inheritance information',

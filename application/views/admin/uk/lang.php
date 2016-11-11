@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: asot (45), b.verbelchuk (32), pianoservis (2825)
  */
@@ -830,6 +830,7 @@ $aLang = array(
 'IS_REVERSE_PROXY_AVAILABLE' => 'Тест зворотнього проксі-сервера наявність',
 'LANGUAGE_ABBERVATION' => 'Абревіатура мови',
 'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Увага: ви не можете змінити абревіатуру основної мови (з ID = 0)!',
+'LANGUAGE_ABBREVIATION_INVALID_ERROR' => 'Language abbreviation invalid! Permitted characters are a-z, A-Z, 0-9 and the underscore.',
 'LANGUAGE_ACTIVE' => 'Активно у фронтенді',
 'LANGUAGE_ALREADYEXISTS_ERROR' => 'Помилка: мова з такою абревіатурою вже існує!',
 'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Увага: для вибраної мови, не знайдено мовних файлів в директорії / admin',
@@ -866,6 +867,7 @@ $aLang = array(
 'MANUFACTURER_MAIN_ICONUPLOAD' => 'Завантажити іконку',
 'MANUFACTURER_MAIN_ITEMSWITHMANUFACTURER' => 'Продукти цього виробника',
 'MODULE_ACTIVATE' => 'Активувати',
+'MODULE_ACTIVATION_NOT_POSSIBLE_IN_DEMOMODE' => 'Please note: modules can\'t be activated or deactivated in demo shop mode.',
 'MODULE_AUTHOR' => 'Автор',
 'MODULE_DEACTIVATE' => 'Деактивувати',
 'MODULE_DELETEEXTENSION' => 'Ви дійсно хочете видалити всю зареєстровану модулем інформацію та збережену конфігурацію?',
@@ -973,11 +975,9 @@ $aLang = array(
 'none' => 'ні',
 'nonstackable_serial_detected' => 'Can\'t add non stackable license key. Please insert stackable license key first.',
 'NO_PICTURES_CHANGES' => 'Немає змін картинок',
-'OLC_ERROR_REQUEST_FAILED' => 'Сервіс недоступний, спробуйте пізніше ... Якщо це не вдається, перевірте, що ваш магазин може здійснювати вихідне сполучення.',
 'OLC_ERROR_RESPONSE_NOT_VALID' => 'Сервіс недоступний, спробуйте пізніше ... Якщо це не вдається, перевірте, що ваш магазин може здійснювати вихідні сполуки.',
 'OLC_ERROR_RESPONSE_UNEXPECTED' => 'Сервіс недоступний, спробуйте пізніше ... Якщо це не вдається, перевірте, що ваш магазин може здійснювати вихідне сполучення.',
 'OLC_ERROR_SERIAL_NOT_VALID' => 'Недійсний ліцензійний ключ. Спробуйте ще раз або зв\'яжіться з техпідтримкою якщо все одно нічого не виходить.',
-'OMVN_ERROR_REQUEST_FAILED' => 'Сервіс недоступний, спробуйте пізніше ... Якщо це не вдається, перевірте, що ваш магазин може здійснювати вихідне сполучення.',
 'order' => 'Замовлення',
 'ORDERFOLDER_FINISHED' => 'Завершується',
 'ORDERFOLDER_NEW' => 'Нові',
@@ -1114,8 +1114,8 @@ $aLang = array(
 'OXDIAG_MAIN_TITLE' => 'Diagnostics of your OXID eShop',
 'oxdiag_menu' => 'Diagnostics tool',
 'OXDIAG_MODIFIED' => 'Змінено',
-'OXDIAG_MODIFIEDHINTS1' => 'OXID eShop has sophisticated possibility to extend it by modules without changing shipped files. It\'s not recommended and not needed to change shop files. See also our <a href="http://www.oxidforge.org/wiki/Tutorials#How_to_Extend_OXID_eShop_With_Modules_.28Part_1.29" target=_blank>tutorials</a>.',
-'OXDIAG_MODIFIEDHINTS2' => 'Since OXID eShop 4.2.0 it\'s possible to use <a href="http://www.oxidforge.org/wiki/Downloads/4.2.0#New_Features" target=_blank>your own templates without changing shipped ones</a>.',
+'OXDIAG_MODIFIEDHINTS1' => 'OXID eShop has sophisticated possibility to extend it by modules without changing shipped files. It\\'s not recommended and not needed to change shop files. See also our <a href="http://blog.oxid-esales.com/2009/02/how-extend-oxid-eshop-with-modules-part-1/" target=_blank>tutorials</a>.',
+'OXDIAG_MODIFIEDHINTS2' => 'Since OXID eShop 4.2.0 it\\'s possible to use <a href="http://oxidforge.org/en/oxid-eshop-version-4-2-0.html#New_Features" target=_blank>your own templates without changing shipped ones</a>.',
 'OXDIAG_MODULES' => 'Modules',
 'OXDIAG_MODULES_ID' => 'ID',
 'OXDIAG_MODULES_NAME' => 'Ім\'я',
@@ -1364,6 +1364,7 @@ $aLang = array(
 'SHOP_CONFIG_ENABLE' => 'Enable',
 'SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'Users have to confirm terms and conditions for downloadable and intangible products during the check-out',
 'SHOP_CONFIG_ENTERNETPRICE' => 'Enter Product Prices as Net Prices (plus VAT)',
+'SHOP_CONFIG_ERROR_INVALID_VALUE' => 'Provided configuration value: %s is not valid.',
 'SHOP_CONFIG_EXCLUDENONMATERIALPRODUCTS' => 'Don\'t consider intangible Products (e.g. Gift Certificates) in Shipping Costs Calculation',
 'SHOP_CONFIG_EXPORTNUMBEROFLINES' => 'Number of Lines which are exported per Tick in CSV Export',
 'SHOP_CONFIG_EXPORTTICKERREFRESH' => 'Number of Seconds before CSV Export Ticker is reloaded',
@@ -1506,7 +1507,7 @@ $aLang = array(
 'SHOP_MALL_MALLINHERIT_OXWRAPPING' => 'Inherit <b>wrapping information</b> from parent shop',
 'SHOP_MALL_MALLMODE' => 'Start page type',
 'SHOP_MALL_MALLUSERS' => 'Allow users from other shops',
-'SHOP_MALL_NATIVEIMAGES' => 'Load "out" directory from active shop',
+'SHOP_MALL_NATIVEIMAGES' => 'Load /out directory from active shop',
 'SHOP_MALL_NOSTARTSITE' => 'Show main shop front page',
 'SHOP_MALL_PRICEADDITION' => 'Product price addition to base price',
 'SHOP_MALL_SAVE_INHERITANCE' => 'Save inheritance information',

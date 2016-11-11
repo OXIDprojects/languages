@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: patmat2809 (1), urecheatu007 (313), valdone (189)
  */
@@ -831,6 +831,7 @@ Am detectat alternative de configurare ale serverului imagine, fișierele nu vor
 'IS_REVERSE_PROXY_AVAILABLE' => 'Test Reverse Proxy\'s availability',
 'LANGUAGE_ABBERVATION' => 'Abreviere',
 'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Attention: you can\'t change abbreviation of main language (with ID = 0)!',
+'LANGUAGE_ABBREVIATION_INVALID_ERROR' => 'Language abbreviation invalid! Permitted characters are a-z, A-Z, 0-9 and the underscore.',
 'LANGUAGE_ACTIVE' => 'Active in frontend',
 'LANGUAGE_ALREADYEXISTS_ERROR' => 'Eroare: Liba cu aceasta abreviere deja exista!',
 'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Attention: No language files were found in /admin dir for selected language!',
@@ -867,6 +868,7 @@ Am detectat alternative de configurare ale serverului imagine, fișierele nu vor
 'MANUFACTURER_MAIN_ICONUPLOAD' => 'Inacrca Icon',
 'MANUFACTURER_MAIN_ITEMSWITHMANUFACTURER' => 'Produsele acestui Producator',
 'MODULE_ACTIVATE' => 'Activate',
+'MODULE_ACTIVATION_NOT_POSSIBLE_IN_DEMOMODE' => 'Please note: modules can\'t be activated or deactivated in demo shop mode.',
 'MODULE_AUTHOR' => 'Author',
 'MODULE_DEACTIVATE' => 'Deactivate',
 'MODULE_DELETEEXTENSION' => 'Do you want to delete all registered module information and saved configurations?',
@@ -974,11 +976,9 @@ Am detectat alternative de configurare ale serverului imagine, fișierele nu vor
 'none' => 'nimic',
 'nonstackable_serial_detected' => 'Can\'t add non stackable license key. Please insert stackable license key first.',
 'NO_PICTURES_CHANGES' => 'No pictures changes',
-'OLC_ERROR_REQUEST_FAILED' => 'Service unavailable, try again later... If this persists, please check that your shop can make outgoing connections.',
-'OLC_ERROR_RESPONSE_NOT_VALID' => 'Service unavailable, try again later... If this persists, please check that your shop can make outgoing connections.',
+'OLC_ERROR_RESPONSE_NOT_VALID' => 'Error: service unavailable, try again later... If this persists, please check that your shop can make outgoing connections.',
 'OLC_ERROR_RESPONSE_UNEXPECTED' => 'Service unavailable, try again later... If this persists, please check that your shop can make outgoing connections.',
 'OLC_ERROR_SERIAL_NOT_VALID' => 'License key check failed. Try again or contact support if this occurs permanently.',
-'OMVN_ERROR_REQUEST_FAILED' => 'Service unavailable, try again later... If this persists, please check that your shop can make outgoing connections.',
 'order' => 'Comanda',
 'ORDERFOLDER_FINISHED' => 'Finalizate',
 'ORDERFOLDER_NEW' => 'Nou',
@@ -1115,8 +1115,8 @@ Am detectat alternative de configurare ale serverului imagine, fișierele nu vor
 'OXDIAG_MAIN_TITLE' => 'Diagnostics of your OXID eShop',
 'oxdiag_menu' => 'Diagnostics tool',
 'OXDIAG_MODIFIED' => 'Modified',
-'OXDIAG_MODIFIEDHINTS1' => 'OXID eShop has sophisticated possibility to extend it by modules without changing shipped files. It\'s not recommended and not needed to change shop files. See also our <a href="http://www.oxidforge.org/wiki/Tutorials#How_to_Extend_OXID_eShop_With_Modules_.28Part_1.29" target=_blank>tutorials</a>.',
-'OXDIAG_MODIFIEDHINTS2' => 'Since OXID eShop 4.2.0 it\'s possible to use <a href="http://www.oxidforge.org/wiki/Downloads/4.2.0#New_Features" target=_blank>your own templates without changing shipped ones</a>.',
+'OXDIAG_MODIFIEDHINTS1' => 'OXID eShop has sophisticated possibility to extend it by modules without changing shipped files. It\\'s not recommended and not needed to change shop files. See also our <a href="http://blog.oxid-esales.com/2009/02/how-extend-oxid-eshop-with-modules-part-1/" target=_blank>tutorials</a>.',
+'OXDIAG_MODIFIEDHINTS2' => 'Since OXID eShop 4.2.0 it\\'s possible to use <a href="http://oxidforge.org/en/oxid-eshop-version-4-2-0.html#New_Features" target=_blank>your own templates without changing shipped ones</a>.',
 'OXDIAG_MODULES' => 'Modules',
 'OXDIAG_MODULES_ID' => 'ID',
 'OXDIAG_MODULES_NAME' => 'Name',
@@ -1365,6 +1365,7 @@ Am detectat alternative de configurare ale serverului imagine, fișierele nu vor
 'SHOP_CONFIG_ENABLE' => 'Enable',
 'SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'Users have to confirm terms and conditions for downloadable and intangible products during the check-out',
 'SHOP_CONFIG_ENTERNETPRICE' => 'Preturile produselor sau impachetarilor introduse/afisate in Admin sunt preturi nete',
+'SHOP_CONFIG_ERROR_INVALID_VALUE' => 'Provided configuration value: %s is not valid.',
 'SHOP_CONFIG_EXCLUDENONMATERIALPRODUCTS' => 'Nu calcula Produsele Intangibile (ex. Certificate Cadou) in Costurile de Livrare',
 'SHOP_CONFIG_EXPORTNUMBEROFLINES' => 'Numar de Linii exporatate per Tick in CSV Export',
 'SHOP_CONFIG_EXPORTTICKERREFRESH' => 'Numar de secunde inainte ca CSV Export Ticker sa fie reincarcat',
@@ -1507,7 +1508,7 @@ Am detectat alternative de configurare ale serverului imagine, fișierele nu vor
 'SHOP_MALL_MALLINHERIT_OXWRAPPING' => 'Inherit <b>wrapping information</b> from parent shop',
 'SHOP_MALL_MALLMODE' => 'Start page type',
 'SHOP_MALL_MALLUSERS' => 'Allow users from other shops',
-'SHOP_MALL_NATIVEIMAGES' => 'Load "out" directory from active shop',
+'SHOP_MALL_NATIVEIMAGES' => 'Load /out directory from active shop',
 'SHOP_MALL_NOSTARTSITE' => 'Show main shop front page',
 'SHOP_MALL_PRICEADDITION' => 'Product price addition to base price',
 'SHOP_MALL_SAVE_INHERITANCE' => 'Save inheritance information',

@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: dsb (1), ET (26), FlashLight (13), lidija (235), markm (575), rhspro (2)
  */
@@ -71,6 +71,8 @@ $aLang = array(
 'BETA_NOTE' => 'Dobrodošli v verziji (kandidatu za objavo)',
 'BETA_NOTE_FAQ' => 'V primeru vprašanj se prosimo obrnite na našo %s.',
 'BETA_NOTE_MIDDLE' => 'o OXID eShop',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
 'BIC' => 'BIC',
 'BILLING_ADDRESS' => 'Naslov za račun',
 'BILLING_SHIPPING_SETTINGS' => 'Nastavitve za račun in pošiljanje',
@@ -450,6 +452,7 @@ s potrditvijo naročila. Če ste registrirani, najdete povezave do teh artiklov 
 'OPEN_ACCOUNT' => 'Open account',
 'OPEN_PERSONAL_ACCOUNT' => 'Open personal customer account',
 'OR' => 'ali',
+'ORDER' => 'Order',
 'ORDERS' => 'Naročila',
 'ORDER_COMPLETED' => 'Naročilo zaključeno',
 'ORDER_DATE' => 'Datum naročila',
@@ -577,7 +580,6 @@ s potrditvijo naročila. Če ste registrirani, najdete povezave do teh artiklov 
 'PASSWORD_WAS_SEND_TO' => 'Geslo je bilo poslano na',
 'PAY' => 'Pay',
 'PAYMENT_INFORMATION' => 'Informacije o plačilu',
-'PAYMENT_INFO_OFF' => 'PAYMENT INFORMATION SWITCHED OFF - to switch it on please edit application/views/[theme]/email/html/order_owner.tpl.',
 'PAYMENT_METHOD' => 'Način plačila',
 'PCS' => 'pcs',
 'PERSONAL_PHONE' => 'Personal Phone',

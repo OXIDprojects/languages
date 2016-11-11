@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: DominikS (404), ET (12), etch (6), i7 (664), lubosdz (18), stefanbalaz (15), zweistein (1)
  */
@@ -830,6 +830,7 @@ $aLang = array(
 'IS_REVERSE_PROXY_AVAILABLE' => 'Dostupnosť Test reverzných proxy servera',
 'LANGUAGE_ABBERVATION' => 'Kód',
 'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Pozor: nedá zmeniť skratku hlavného jazyka (s ID = 0)!',
+'LANGUAGE_ABBREVIATION_INVALID_ERROR' => 'Language abbreviation invalid! Permitted characters are a-z, A-Z, 0-9 and the underscore.',
 'LANGUAGE_ACTIVE' => 'Aktívny v rozhraní frontendu',
 'LANGUAGE_ALREADYEXISTS_ERROR' => 'Chyba: jazyk s týmto označením už existuje!',
 'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Pozor: Adresár /admin nemá pre daný jazyk žiadne jazykové súbory!',
@@ -866,6 +867,7 @@ $aLang = array(
 'MANUFACTURER_MAIN_ICONUPLOAD' => 'Nahrať ikonku<br>(veľké súbory nahrávajte cez ftp)',
 'MANUFACTURER_MAIN_ITEMSWITHMANUFACTURER' => 'Produkty tohto výrobcu',
 'MODULE_ACTIVATE' => 'Aktivácia',
+'MODULE_ACTIVATION_NOT_POSSIBLE_IN_DEMOMODE' => 'Please note: modules can\'t be activated or deactivated in demo shop mode.',
 'MODULE_AUTHOR' => 'Autor',
 'MODULE_DEACTIVATE' => 'Deaktivovať',
 'MODULE_DELETEEXTENSION' => 'Chcete odstrániť všetky informácie o module, vrátane možnosti config a informácií a blokového pre šablóny?',
@@ -973,11 +975,9 @@ $aLang = array(
 'none' => 'žiadna',
 'nonstackable_serial_detected' => 'Neplatná licencia. Prosím skúste zadať iný kód.',
 'NO_PICTURES_CHANGES' => 'Žiadne zmeny obrázkov',
-'OLC_ERROR_REQUEST_FAILED' => 'Služba nie je k dispozícii, skúste to znova neskôr ... Ak tento problém pretrváva, skontrolujte, či váš obchod môže odchádzajúce spojenia.',
 'OLC_ERROR_RESPONSE_NOT_VALID' => 'Služba nie je k dispozícii, skúste to znova neskôr ... Ak tento problém pretrváva, skontrolujte, či váš obchod môže odchádzajúce spojenia.',
 'OLC_ERROR_RESPONSE_UNEXPECTED' => 'Služba nie je k dispozícii, skúste to znova neskôr ... Ak tento problém pretrváva, skontrolujte, či váš obchod môže odchádzajúce spojenia.',
 'OLC_ERROR_SERIAL_NOT_VALID' => 'Kontrola kľúč licencie zlyhalo. Skúste to znova, alebo kontaktujte technickú podporu pokiaľ k tomu dôjde natrvalo.',
-'OMVN_ERROR_REQUEST_FAILED' => 'Služba nie je k dispozícii, skúste to znova neskôr ... Ak tento problém pretrváva, skontrolujte, či váš obchod môže odchádzajúce spojenia.',
 'order' => 'Objednávky',
 'ORDERFOLDER_FINISHED' => 'Dokončeno',
 'ORDERFOLDER_NEW' => 'Nový',
@@ -1114,8 +1114,8 @@ $aLang = array(
 'OXDIAG_MAIN_TITLE' => 'Diagnostika Vášho OXID eShop',
 'oxdiag_menu' => 'Diagnostický nástroj',
 'OXDIAG_MODIFIED' => 'Upravený',
-'OXDIAG_MODIFIEDHINTS1' => 'OXID eShop has sophisticated possibility to extend it by modules without changing shipped files. It\'s not recommended and not needed to change shop files. See also our <a href="http://www.oxidforge.org/wiki/Tutorials#How_to_Extend_OXID_eShop_With_Modules_.28Part_1.29" target=_blank>tutorials</a>.',
-'OXDIAG_MODIFIEDHINTS2' => 'Since OXID eShop 4.2.0 it\'s possible to use <a href="http://www.oxidforge.org/wiki/Downloads/4.2.0#New_Features" target=_blank>your own templates without changing shipped ones</a>.',
+'OXDIAG_MODIFIEDHINTS1' => 'OXID eShop has sophisticated possibility to extend it by modules without changing shipped files. It\\'s not recommended and not needed to change shop files. See also our <a href="http://blog.oxid-esales.com/2009/02/how-extend-oxid-eshop-with-modules-part-1/" target=_blank>tutorials</a>.',
+'OXDIAG_MODIFIEDHINTS2' => 'Since OXID eShop 4.2.0 it\\'s possible to use <a href="http://oxidforge.org/en/oxid-eshop-version-4-2-0.html#New_Features" target=_blank>your own templates without changing shipped ones</a>.',
 'OXDIAG_MODULES' => 'Moduly',
 'OXDIAG_MODULES_ID' => 'ID',
 'OXDIAG_MODULES_NAME' => 'meno',
@@ -1364,6 +1364,7 @@ $aLang = array(
 'SHOP_CONFIG_ENABLE' => 'Povoliť',
 'SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'Users have to confirm terms and conditions for downloadable and intangible products during the check-out',
 'SHOP_CONFIG_ENTERNETPRICE' => 'Ceny produktov vložené/zobrazované v administrácii sú bez DPH',
+'SHOP_CONFIG_ERROR_INVALID_VALUE' => 'Provided configuration value: %s is not valid.',
 'SHOP_CONFIG_EXCLUDENONMATERIALPRODUCTS' => 'Do nákladov nezapočítavať služby (napr. darčekové certifikáty)',
 'SHOP_CONFIG_EXPORTNUMBEROFLINES' => 'Počet riadkov za nastavenú dobu pre CSV Export',
 'SHOP_CONFIG_EXPORTTICKERREFRESH' => 'Počet sekúnd pred reštartovaním CSV Export záznamu',

@@ -17,9 +17,9 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (228), mantgomery (2), marco (1325), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: asot (4), compisat (26), cyberkatze (8), ET (10), ilya (233), mantgomery (2), marco (1329), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -68,9 +68,11 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Поздравительная открытка (без НДС)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'плюс НДС (пропорционально расчетный)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Подарочная упаковка (без НДС)',
-'BETA_NOTE' => 'Добро пожаловать на Release Candidate',
+'BETA_NOTE' => 'Добро пожаловать на',
 'BETA_NOTE_FAQ' => '. Часто задаваемые вопросы и ответы перечислены в %s.',
 'BETA_NOTE_MIDDLE' => 'из OXID eShop',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => '\'release candidate\'',
 'BIC' => 'БИК',
 'BILLING_ADDRESS' => 'Расчётные реквизиты',
 'BILLING_SHIPPING_SETTINGS' => 'Настройки расчёта и доставки',
@@ -449,6 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'Зайти в аккаунт',
 'OPEN_PERSONAL_ACCOUNT' => 'Открыть личный аккаунт',
 'OR' => 'или',
+'ORDER' => 'Заказать',
 'ORDERS' => 'Заказы',
 'ORDER_COMPLETED' => 'Заказ оформлен',
 'ORDER_DATE' => 'Заказ от',
@@ -576,7 +579,6 @@ $aLang = array(
 'PASSWORD_WAS_SEND_TO' => 'Мы вышлем пароль на',
 'PAY' => 'Оплатить',
 'PAYMENT_INFORMATION' => 'Информация об оплате',
-'PAYMENT_INFO_OFF' => 'Информация об оплате отключена - чтобы включить, пожалуйста, отредактируйте application/views/[theme]/email/html/order_owner.tpl.',
 'PAYMENT_METHOD' => 'Способ оплаты',
 'PCS' => 'Шт.',
 'PERSONAL_PHONE' => 'Телефон (личный номер)',

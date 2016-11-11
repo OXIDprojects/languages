@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: e.mersinlioglu (45), enginistemi (4), esen.baytekin (905), glp_i (120), Justian0 (3), marco (2), McDaim (101), mykibarli (20), scaly (10), three13_de (127), ulash11 (2)
  */
@@ -71,6 +71,8 @@ $aLang = array(
 'BETA_NOTE' => 'Sürüm adayına hoşgeldiniz',
 'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
 'BETA_NOTE_MIDDLE' => ' of OXID eShop ',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
 'BIC' => 'BIC',
 'BILLING_ADDRESS' => 'fatura Adresi',
 'BILLING_SHIPPING_SETTINGS' => 'Fatura ve Teslimat Ayarları',
@@ -449,6 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'Hesap aç',
 'OPEN_PERSONAL_ACCOUNT' => 'Kişisel müşteri hesabı açın',
 'OR' => 'or',
+'ORDER' => 'Order',
 'ORDERS' => 'Siparişler:',
 'ORDER_COMPLETED' => 'Sipariş Tamamlandı',
 'ORDER_DATE' => 'Sipariş Tarihi:',
@@ -576,7 +579,6 @@ $aLang = array(
 'PASSWORD_WAS_SEND_TO' => 'Şifreniz kayıtlı e-posta adresinize gönderildi:',
 'PAY' => 'Ödeme',
 'PAYMENT_INFORMATION' => 'Ödeme Bilgileri',
-'PAYMENT_INFO_OFF' => 'PAYMENT INFORMATION SWITCHED OFF - to switch it on please edit application/views/[theme]/email/html/order_owner.tpl.',
 'PAYMENT_METHOD' => 'Ödeme Yöntemi',
 'PCS' => 'Adet',
 'PERSONAL_PHONE' => 'Kişisel Telefon:',

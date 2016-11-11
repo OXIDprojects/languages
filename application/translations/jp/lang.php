@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: hodota (88)
  */
@@ -71,6 +71,8 @@ $aLang = array(
 'BETA_NOTE' => 'リリース候補版へようこそ',
 'BETA_NOTE_FAQ' => '. もしご質問がある場合は、我々の %s までお問合せ下さい。',
 'BETA_NOTE_MIDDLE' => 'OXID eShop　の',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
 'BIC' => 'BIC',
 'BILLING_ADDRESS' => '請求先住所',
 'BILLING_SHIPPING_SETTINGS' => '請求先と配送先の設定',
@@ -449,6 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'アカウントを作成する',
 'OPEN_PERSONAL_ACCOUNT' => '個人アカウントを作成する',
 'OR' => 'または',
+'ORDER' => 'Order',
 'ORDERS' => 'ご注文:',
 'ORDER_COMPLETED' => 'ご注文が完了しました。',
 'ORDER_DATE' => 'ご注文日付:',
@@ -576,7 +579,6 @@ $aLang = array(
 'PASSWORD_WAS_SEND_TO' => 'Password was sent to',
 'PAY' => 'お支払い',
 'PAYMENT_INFORMATION' => 'お支払い情報',
-'PAYMENT_INFO_OFF' => 'PAYMENT INFORMATION SWITCHED OFF - to switch it on please edit application/views/[theme]/email/html/order_owner.tpl.',
 'PAYMENT_METHOD' => 'お支払い方法',
 'PCS' => 'pcs',
 'PERSONAL_PHONE' => '個人的な電話番号:',

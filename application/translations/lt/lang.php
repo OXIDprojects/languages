@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: abejingas (188), agladutis (24), akasauskas (14), creaturex (5), gvidas123 (1), linasg (3), mantas.vaitkunas (1), muslimukas (8), NFQ Lithuania (2756), regneo (1), sanis (1), swolou (3), tlt (204), vaidasif (75)
  */
@@ -68,9 +68,11 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Sveikinimo atvirukas',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Gift Wrapping (net)',
-'BETA_NOTE' => 'Welcome to Release Candidate ',
+'BETA_NOTE' => 'Welcome to',
 'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
 'BETA_NOTE_MIDDLE' => ' of OXID eShop ',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
 'BIC' => 'BIC:',
 'BILLING_ADDRESS' => 'Sąskaitos adresas',
 'BILLING_SHIPPING_SETTINGS' => 'Sąskaitos ir pristatymo nustatymai',
@@ -450,6 +452,7 @@ Patiktinkite adresus.',
 'OPEN_ACCOUNT' => 'Registruotis',
 'OPEN_PERSONAL_ACCOUNT' => 'Registracija',
 'OR' => 'arba',
+'ORDER' => 'Order',
 'ORDERS' => 'Užsakymai:',
 'ORDER_COMPLETED' => 'Užsakymas baigtas',
 'ORDER_DATE' => 'Užsakymo data:',
@@ -577,7 +580,6 @@ Patiktinkite adresus.',
 'PASSWORD_WAS_SEND_TO' => 'Slaptažodis buvo išsiųstas:',
 'PAY' => 'Apmokėti',
 'PAYMENT_INFORMATION' => 'Mokėjimo informacija',
-'PAYMENT_INFO_OFF' => 'PAYMENT INFORMATION SWITCHED OFF - to switch it on please edit application/views/[theme]/email/html/order_owner.tpl.',
 'PAYMENT_METHOD' => 'Mokėjimo būdas',
 'PCS' => 'vnt',
 'PERSONAL_PHONE' => 'Telefonas:',

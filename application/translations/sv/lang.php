@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: HolgerGremminger (69), marco (934), Palmer (73), rhinosmedia (4), topconcepts (118)
  */
@@ -68,9 +68,11 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Greeting Card (net)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Gift Wrapping (net)',
-'BETA_NOTE' => 'Welcome to Release Candidate ',
+'BETA_NOTE' => 'Welcome to',
 'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
 'BETA_NOTE_MIDDLE' => ' of OXID eShop ',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
 'BIC' => 'BIC:',
 'BILLING_ADDRESS' => 'Faktureringsadress',
 'BILLING_SHIPPING_SETTINGS' => 'Fakturering och frakt inställningar',
@@ -449,6 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'Öppna konto',
 'OPEN_PERSONAL_ACCOUNT' => 'Öppna personligt konto',
 'OR' => 'eller',
+'ORDER' => 'Order',
 'ORDERS' => 'Beställningar:',
 'ORDER_COMPLETED' => 'Avsluta beställning',
 'ORDER_DATE' => 'Beställning från:',
@@ -576,7 +579,6 @@ $aLang = array(
 'PASSWORD_WAS_SEND_TO' => 'Lösenord har skickats till:',
 'PAY' => 'Betala',
 'PAYMENT_INFORMATION' => 'Betalningsinformation',
-'PAYMENT_INFO_OFF' => 'PAYMENT INFORMATION SWITCHED OFF - to switch it on please edit application/views/[theme]/email/html/order_owner.tpl.',
 'PAYMENT_METHOD' => 'Betalningsmetod',
 'PCS' => 'Styck',
 'PERSONAL_PHONE' => 'Telefon (privat):',

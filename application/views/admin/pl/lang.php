@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: elaberino (5), ET (15), irus (74), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), NADi (21), p3t3r (17), pawelch (1660), pkoper (20), remiq (27), topconcepts (209)
  */
@@ -830,6 +830,7 @@ $aLang = array(
 'IS_REVERSE_PROXY_AVAILABLE' => 'Test Reverse Proxy\'s availability',
 'LANGUAGE_ABBERVATION' => 'Skrót',
 'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Uwaga: nie możesz zmienić skrótu głównego języka!',
+'LANGUAGE_ABBREVIATION_INVALID_ERROR' => 'Language abbreviation invalid! Permitted characters are a-z, A-Z, 0-9 and the underscore.',
 'LANGUAGE_ACTIVE' => 'Aktywowany na stronie publicznej',
 'LANGUAGE_ALREADYEXISTS_ERROR' => 'Błąd: język z takim skrótem już istnieje!',
 'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Uwaga: Nie znaleziono plików języka w katalogu /admin dla wybranego języka!',
@@ -866,6 +867,7 @@ $aLang = array(
 'MANUFACTURER_MAIN_ICONUPLOAD' => 'Załaduj ikonę',
 'MANUFACTURER_MAIN_ITEMSWITHMANUFACTURER' => 'Produkty od tego producenta',
 'MODULE_ACTIVATE' => 'Włącz',
+'MODULE_ACTIVATION_NOT_POSSIBLE_IN_DEMOMODE' => 'Please note: modules can\'t be activated or deactivated in demo shop mode.',
 'MODULE_AUTHOR' => 'Autor',
 'MODULE_DEACTIVATE' => 'Wyłącz',
 'MODULE_DELETEEXTENSION' => 'Czy chcesz usunąć wszystkie zarejestrowane informacje o modułach i zapisane konfiguracje?',
@@ -973,11 +975,9 @@ $aLang = array(
 'none' => 'brak',
 'nonstackable_serial_detected' => 'Nie można dodać nie stosowego klucza licencyjnego. Proszę wstawić najpierw stosowy klucz licencyjnego',
 'NO_PICTURES_CHANGES' => 'Brak zmian zdjęcia',
-'OLC_ERROR_REQUEST_FAILED' => 'Serwis niedostępny, spróbuj ponownie później... Jeśli problem nie ustępuje sprawdź, czy sklep może wykonywać połączenia wychodzące.',
 'OLC_ERROR_RESPONSE_NOT_VALID' => 'Serwis niedostępny, proszę spróbować później... Jeśli problem nie ustępuje, proszę sprawdzić, czy sklep może nawiązywać połączenia wychodzące.',
 'OLC_ERROR_RESPONSE_UNEXPECTED' => 'Usługa niedostępna, spróbuj jeszcze raz później... Jeśli ten problem nie ustaje, proszę sprawdzać, czy sklep ma otwarte połączenia.',
 'OLC_ERROR_SERIAL_NOT_VALID' => 'Nieprawidłowy klucz licencyjny. Proszę spróbować ponownie lub skontaktować się z supportem, jeżeli problem nie ustępuje.',
-'OMVN_ERROR_REQUEST_FAILED' => 'Usługa niedostępna, spróbuj jeszcze raz później... Jeśli ten problem nie ustaje, proszę sprawdzać, czy sklep ma otwarte połączenia.',
 'order' => 'Zamówienie',
 'ORDERFOLDER_FINISHED' => 'Gotowy',
 'ORDERFOLDER_NEW' => 'Nowy',
@@ -1114,8 +1114,8 @@ $aLang = array(
 'OXDIAG_MAIN_TITLE' => 'Diagnostics of your OXID eShop',
 'oxdiag_menu' => 'Diagnostics tool',
 'OXDIAG_MODIFIED' => 'Modified',
-'OXDIAG_MODIFIEDHINTS1' => 'OXID eShop has sophisticated possibility to extend it by modules without changing shipped files. It\'s not recommended and not needed to change shop files. See also our <a href="http://www.oxidforge.org/wiki/Tutorials#How_to_Extend_OXID_eShop_With_Modules_.28Part_1.29" target=_blank>tutorials</a>.',
-'OXDIAG_MODIFIEDHINTS2' => 'Since OXID eShop 4.2.0 it\'s possible to use <a href="http://www.oxidforge.org/wiki/Downloads/4.2.0#New_Features" target=_blank>your own templates without changing shipped ones</a>.',
+'OXDIAG_MODIFIEDHINTS1' => 'OXID eShop has sophisticated possibility to extend it by modules without changing shipped files. It\\'s not recommended and not needed to change shop files. See also our <a href="http://blog.oxid-esales.com/2009/02/how-extend-oxid-eshop-with-modules-part-1/" target=_blank>tutorials</a>.',
+'OXDIAG_MODIFIEDHINTS2' => 'Since OXID eShop 4.2.0 it\\'s possible to use <a href="http://oxidforge.org/en/oxid-eshop-version-4-2-0.html#New_Features" target=_blank>your own templates without changing shipped ones</a>.',
 'OXDIAG_MODULES' => 'Modules',
 'OXDIAG_MODULES_ID' => 'ID',
 'OXDIAG_MODULES_NAME' => 'Nazwa',
@@ -1364,6 +1364,7 @@ $aLang = array(
 'SHOP_CONFIG_ENABLE' => 'Włącz',
 'SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'Users have to confirm terms and conditions for downloadable and intangible products during the check-out',
 'SHOP_CONFIG_ENTERNETPRICE' => 'Wpisz ceny produktów jako ceny netto (plus VAT)',
+'SHOP_CONFIG_ERROR_INVALID_VALUE' => 'Provided configuration value: %s is not valid.',
 'SHOP_CONFIG_EXCLUDENONMATERIALPRODUCTS' => 'Nie bierz pod uwagę produktów niematerialnych (np. Bony upominkowe) w kalkulacji kosztów wysyłki',
 'SHOP_CONFIG_EXPORTNUMBEROFLINES' => 'Liczba linii, które są eksportowane przez Tick w CSV Eksport',
 'SHOP_CONFIG_EXPORTTICKERREFRESH' => 'Liczba sekund zanim CSV Export Ticker się przeładuje',

@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: alexraimondo (1), chatard (318), cowboy9571 (10), ET (10), marco (1), patmat2809 (5), Phenix (203), piccobello (1), Rainbow40 (2), rava3000 (8), vikapera (376)
  */
@@ -830,6 +830,7 @@ $aLang = array(
 'IS_REVERSE_PROXY_AVAILABLE' => 'Disponibilité d\'un test inversé.',
 'LANGUAGE_ABBERVATION' => 'Abréviation',
 'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Attention : Vous ne pouvez pas modifier l\'abréviation du langage principal (avec ID = 0) !',
+'LANGUAGE_ABBREVIATION_INVALID_ERROR' => 'Language abbreviation invalid! Permitted characters are a-z, A-Z, 0-9 and the underscore.',
 'LANGUAGE_ACTIVE' => 'Activée sur la boutique',
 'LANGUAGE_ALREADYEXISTS_ERROR' => 'Erreur: Une langue utilisant cette abréviation existe déjà!',
 'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Attention: le fichier langue choisi n\'existe pas dans le répertoire  / admin!',
@@ -866,6 +867,7 @@ $aLang = array(
 'MANUFACTURER_MAIN_ICONUPLOAD' => 'Envoi Icône',
 'MANUFACTURER_MAIN_ITEMSWITHMANUFACTURER' => 'Produits de ce Fabricant',
 'MODULE_ACTIVATE' => 'Activer',
+'MODULE_ACTIVATION_NOT_POSSIBLE_IN_DEMOMODE' => 'Please note: modules can\'t be activated or deactivated in demo shop mode.',
 'MODULE_AUTHOR' => 'Auteur',
 'MODULE_DEACTIVATE' => 'Désactiver',
 'MODULE_DELETEEXTENSION' => 'Souhaitez-vous supprimer toutes les données du module, y compris les options de configuration et blocs pour les templates ?',
@@ -973,11 +975,9 @@ $aLang = array(
 'none' => 'Aucun',
 'nonstackable_serial_detected' => 'Impossible d\'ajouter une clé de licence non empilable. Veuillez insérer une clé de licence empilable d\'abord.',
 'NO_PICTURES_CHANGES' => 'Aucun changement dans les visuels',
-'OLC_ERROR_REQUEST_FAILED' => 'Service indisponible, essayer plus tard... Si cela persiste, vérifiez s\'il vous plaît que votre boutique puisse établir des connexions sortantes.',
 'OLC_ERROR_RESPONSE_NOT_VALID' => 'Service indisponible, essayez plus tard... Si cela persiste vérifier s.v.p. que votre boutique puisse faire des connexions sortantes.',
 'OLC_ERROR_RESPONSE_UNEXPECTED' => 'Service inaccessible, réessayer plus tard... Si cela continue, vérifier s.v.p. si votre boutique peut faire des connexions sortantes.',
 'OLC_ERROR_SERIAL_NOT_VALID' => 'La vérification de la clé de licence a échoué. Réessayez ou contactez le support si cela arrive en permanence.',
-'OMVN_ERROR_REQUEST_FAILED' => 'Service inaccessible, réessayer plus tard... Si cela continue, vérifier s.v.p. si votre boutique peut faire des connexions sortantes.',
 'order' => 'Commande',
 'ORDERFOLDER_FINISHED' => 'Terminées',
 'ORDERFOLDER_NEW' => 'Nouvelles',
@@ -1364,6 +1364,7 @@ $aLang = array(
 'SHOP_CONFIG_ENABLE' => 'Activée',
 'SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'Les usagers doivent confirmer qu\'ils acceptent les termes et conditions pour tous les produits téléchargables et/ou intangible pendant le processus d\'achat.',
 'SHOP_CONFIG_ENTERNETPRICE' => 'Les prix des produits et emballages saisis/affichés dans l\'administration sont des prix HT',
+'SHOP_CONFIG_ERROR_INVALID_VALUE' => 'Provided configuration value: %s is not valid.',
 'SHOP_CONFIG_EXCLUDENONMATERIALPRODUCTS' => 'Ne pas prendre en compte les produits immatériels (ex: cartes cadeaux virtuelles) dans les frais de livraison',
 'SHOP_CONFIG_EXPORTNUMBEROFLINES' => 'Nombre de lignes à exporter par cycle dans les exports CSV.',
 'SHOP_CONFIG_EXPORTTICKERREFRESH' => 'Délai en secondes entre chaque cycle d\'export CSV',

@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: crashover (330), fifo (9), marco (1), Marcus77 (35), val (933)
  */
@@ -68,9 +68,11 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Поздравителна картичка (нето)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'плюс ДДС (пропорционално пресметнат)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Опаковка за подарък (нето)',
-'BETA_NOTE' => 'Welcome to Release Candidate ',
+'BETA_NOTE' => 'Welcome to',
 'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
 'BETA_NOTE_MIDDLE' => ' of OXID eShop ',
+'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
 'BIC' => 'BIC',
 'BILLING_ADDRESS' => 'Адрес за фактуриране',
 'BILLING_SHIPPING_SETTINGS' => 'Настройки за фактуриране и доставка',
@@ -449,6 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'Отвори акаунт',
 'OPEN_PERSONAL_ACCOUNT' => 'Open personal customer account',
 'OR' => 'или',
+'ORDER' => 'Order',
 'ORDERS' => 'Поръчки:',
 'ORDER_COMPLETED' => 'Поръчката е завършена',
 'ORDER_DATE' => 'Дата на поръчката:',
@@ -576,7 +579,6 @@ $aLang = array(
 'PASSWORD_WAS_SEND_TO' => 'Password was sent to',
 'PAY' => 'Pay',
 'PAYMENT_INFORMATION' => 'Payment Information',
-'PAYMENT_INFO_OFF' => 'PAYMENT INFORMATION SWITCHED OFF - to switch it on please edit application/views/[theme]/email/html/order_owner.tpl.',
 'PAYMENT_METHOD' => 'Payment Method',
 'PCS' => 'бр',
 'PERSONAL_PHONE' => 'Телефон:',

@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: afimage (504), diegotech (7), djraptor (1368), Espana (5), ET (219), jmatos (31), jsmaster (6), kai.gazmaga (3), mvirolde (8), nuelgoz (156), Sweetlana (2)
  */
@@ -833,6 +833,7 @@ $aLang = array(
 'IS_REVERSE_PROXY_AVAILABLE' => 'Disponibilidad de prueba del proxy inverso',
 'LANGUAGE_ABBERVATION' => 'Abreviación',
 'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Atención: No puedes cambiar la abreviación del idioma principal (con ID=0)',
+'LANGUAGE_ABBREVIATION_INVALID_ERROR' => 'Language abbreviation invalid! Permitted characters are a-z, A-Z, 0-9 and the underscore.',
 'LANGUAGE_ACTIVE' => 'Activo en frontend',
 'LANGUAGE_ALREADYEXISTS_ERROR' => 'Error: el lenguaje con esta abreviación como ya existe!',
 'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Atención: No se han encontrado ficheros de idioma en el directorio /admin para el idioma seleccionado!',
@@ -869,6 +870,7 @@ $aLang = array(
 'MANUFACTURER_MAIN_ICONUPLOAD' => 'Subir Icono',
 'MANUFACTURER_MAIN_ITEMSWITHMANUFACTURER' => 'Los productos de este fabricante',
 'MODULE_ACTIVATE' => 'Activar',
+'MODULE_ACTIVATION_NOT_POSSIBLE_IN_DEMOMODE' => 'Please note: modules can\'t be activated or deactivated in demo shop mode.',
 'MODULE_AUTHOR' => 'Autor',
 'MODULE_DEACTIVATE' => 'Desactivar',
 'MODULE_DELETEEXTENSION' => '¿Quieres eliminar toda la información registrada del módulo y las configuraciones guardadas?',
@@ -976,11 +978,9 @@ $aLang = array(
 'none' => 'ninguno',
 'nonstackable_serial_detected' => 'Puede  t agregar claves de licencia no apilables. Por favor, introduzca la llave de licencia apilables en primer lugar.',
 'NO_PICTURES_CHANGES' => 'No hay cambios en imagen',
-'OLC_ERROR_REQUEST_FAILED' => 'Servicio indisponible, inténtelo más tarde... Si esto persiste, por favor compruebe que tu tienda puede hacer conexiones salientes.',
 'OLC_ERROR_RESPONSE_NOT_VALID' => 'Servicio indisponible, inténtelo más tarde... Si esto persiste, por favor compruebe que tu tienda puede hacer conexiones salientes.',
 'OLC_ERROR_RESPONSE_UNEXPECTED' => 'Servicio indisponible, inténtelo más tarde... Si esto persiste, por favor compruebe que tu tienda puede hacer conexiones salientes.',
 'OLC_ERROR_SERIAL_NOT_VALID' => 'Comprobación de licencia fallida. Inténtelo de nuevo o contacte con el soporte si esto ocurre permanentemente.',
-'OMVN_ERROR_REQUEST_FAILED' => 'Servicio indisponible, inténtelo más tarde... Si esto persiste, por favor compruebe que tu tienda puede hacer conexiones salientes.',
 'order' => 'Pedido',
 'ORDERFOLDER_FINISHED' => 'Terminado',
 'ORDERFOLDER_NEW' => 'Nuevo',
@@ -1367,6 +1367,7 @@ $aLang = array(
 'SHOP_CONFIG_ENABLE' => 'Habilitar',
 'SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'Usuarios tienen que confirmar términos y condiciones para productos descargables e intangibles durante el proceso de compra',
 'SHOP_CONFIG_ENTERNETPRICE' => 'Producto y los precios de embalaje de regalo entró / aparecen en Admin son precios netos',
+'SHOP_CONFIG_ERROR_INVALID_VALUE' => 'Provided configuration value: %s is not valid.',
 'SHOP_CONFIG_EXCLUDENONMATERIALPRODUCTS' => 'No considerar los productos intangibles (por ejemplo, certificados de regalo) en el cálculo de los costes de envío',
 'SHOP_CONFIG_EXPORTNUMBEROFLINES' => 'Número de líneas que se exportan por garrapatas en formato CSV Exportar',
 'SHOP_CONFIG_EXPORTTICKERREFRESH' => 'Número de segundos antes de CSV Exportar Pizarra se vuelve a cargar',
