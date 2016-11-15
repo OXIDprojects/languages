@@ -17,9 +17,9 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: dsb (5), marco (4104)
+ * @translators: dsb (5), marco (4355)
  */
 
 $sLangName  = 'Deutsch';
@@ -68,7 +68,7 @@ $aLang = array(
 'HEADER_META_MAIN_TITLE' => 'OXID eShop Installationsassistent',
 'HEADER_TEXT_SETUP_NOT_RUNS_AUTOMATICLY' => 'Sollte das Setup nicht nach einigen Sekunden automatisch weiterspringen, dann klicken Sie bitte',
 'HERE' => 'hier',
-'LOAD_DYN_CONTENT_NOTICE' => '<p>Wenn diese Option gesetzt ist, sehen Sie ein zusätzliches Menü im Administrationsbereich Ihres OXID eShop.</p><p>Über dieses Menü erhalten Sie weitere Informationen über eCommerce Services, wie z.B. Google Produktsuche oder econda.</p> <p>Sie können diese Einstellung im Administrationsbereich jederzeit wieder ändern.</p>',
+'LOAD_DYN_CONTENT_NOTICE' => '<p>Wenn diese Option gesetzt ist, sehen Sie ein zusätzliches Menü im Administrationsbereich Ihres OXID eShop.</p><p>Über dieses Menü erhalten Sie weitere Informationen über E-Commerce Services, wie z.B. Google Produktsuche oder econda.</p> <p>Sie können diese Einstellung im Administrationsbereich jederzeit wieder ändern.</p>',
 'MOD_ALLOW_URL_FOPEN' => 'allow_url_fopen oder fsockopen auf Port 80',
 'MOD_BC_MATH' => 'BCMath',
 'MOD_BUG53632' => 'Mögliche Probleme mit Server durch PHP Bugs',
@@ -107,7 +107,7 @@ $aLang = array(
 'SELECT_SHOP_LANG' => 'Sprache für Shop',
 'SELECT_SHOP_LANG_HINT' => 'Aktivieren Sie weitere Sprachen im Administrationsbereich, falls gewünscht.',
 'SELECT_SHOP_LOCATION' => 'Ihre Region',
-'SELECT_SHOP_LOCATION_HINT' => 'Bitte wählen Sie eine Region, auf die der Shop ausgerichtet ist. Abhängig davon werden zusätzliche eCommerce Services vom OXID Server nachgeladen, wenn Sie das erlauben.',
+'SELECT_SHOP_LOCATION_HINT' => 'Bitte wählen Sie eine Region, auf die der Shop ausgerichtet ist. Abhängig davon werden zusätzliche E-Commerce Services vom OXID Server nachgeladen, wenn Sie das erlauben.',
 'SETUP_CONFIG_PERMISSIONS' => 'WICHTIG: Aus Sicherheitsgründen setzen Sie Ihre config.inc.php Datei auf read-only-Modus!',
 'SETUP_DIR_DELETE_NOTICE' => 'WICHTIG: Bitte löschen Sie Ihr Setup-Verzeichnis falls dieses nicht bereits automatisch entfernt wurde!',
 'STEP_0_DESC' => 'In diesem Schritt wird überprüft, ob Ihr System die Voraussetzungen erfüllt:',

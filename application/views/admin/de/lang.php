@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: dsb (5), marco (4104)
+ * @translators: dsb (5), marco (4355)
  */
 
 $sLangName  = 'Deutsch';

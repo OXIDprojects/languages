@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: dsb (1), ET (26), FlashLight (13), lidija (235), markm (575), rhspro (2)
  */
@@ -68,7 +68,7 @@ $aLang = array(
 'HEADER_META_MAIN_TITLE' => 'OXID eShop installation wizard',
 'HEADER_TEXT_SETUP_NOT_RUNS_AUTOMATICLY' => 'If setup does not continue in a few seconds, please click ',
 'HERE' => 'here',
-'LOAD_DYN_CONTENT_NOTICE' => '<p>If checkbox is set, you will see an additional menu in the admin area of your OXID eShop.</p><p>In that menu you get further information about eCommerce services like Google product search.</p> <p>You can change these settings at any time.</p>',
+'LOAD_DYN_CONTENT_NOTICE' => '<p>If checkbox is set, you will see an additional menu in the admin area of your OXID eShop.</p><p>In that menu you get further information about e-commerce services like Google product search.</p> <p>You can change these settings at any time.</p>',
 'MOD_ALLOW_URL_FOPEN' => 'allow_url_fopen or fsockopen to port 80',
 'MOD_BC_MATH' => 'BCMath',
 'MOD_BUG53632' => 'Possible issues on server due to PHP Bugs',
@@ -107,7 +107,7 @@ $aLang = array(
 'SELECT_SHOP_LANG' => 'Shop language',
 'SELECT_SHOP_LANG_HINT' => 'If needed, activate easily more languages in admin.',
 'SELECT_SHOP_LOCATION' => 'Your market',
-'SELECT_SHOP_LOCATION_HINT' => 'Please choose the market to which shop is focused. According to it, additional eCommerce Services will be loaded from OXID server, if you allow that.',
+'SELECT_SHOP_LOCATION_HINT' => 'Please choose the market to which shop is focused. According to it, additional e-commerce Services will be loaded from OXID server, if you allow that.',
 'SETUP_CONFIG_PERMISSIONS' => 'Due to security reasons put your config.inc.php file to read-only mode!',
 'SETUP_DIR_DELETE_NOTICE' => 'Due to security reasons remove setup directory if not yet done during installation.',
 'STEP_0_DESC' => 'In this step we check if your system fits the requirements:',

@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: crashover (330), fifo (9), marco (1), Marcus77 (35), val (933)
  */

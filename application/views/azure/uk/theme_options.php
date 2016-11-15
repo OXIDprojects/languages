@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: asot (45), b.verbelchuk (32), pianoservis (2825)
  */

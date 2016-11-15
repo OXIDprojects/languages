@@ -17,7 +17,7 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
  * @translators: DominikS (404), ET (12), etch (6), i7 (664), lubosdz (18), stefanbalaz (15), zweistein (1)
  */
@@ -68,7 +68,7 @@ $aLang = array(
 'HEADER_META_MAIN_TITLE' => 'Sprievodca inštaláciou OXID eShop',
 'HEADER_TEXT_SETUP_NOT_RUNS_AUTOMATICLY' => 'Ak inštalácia nebude pokračovať automaticky o niekoľko sekúnd, kliknite prosím',
 'HERE' => 'sem',
-'LOAD_DYN_CONTENT_NOTICE' => '<p>If checkbox is set, you will see an additional menu in the admin area of your OXID eShop.</p><p>In that menu you get further information about eCommerce services like Google product search.</p> <p>You can change these settings at any time.</p>',
+'LOAD_DYN_CONTENT_NOTICE' => '<p>If checkbox is set, you will see an additional menu in the admin area of your OXID eShop.</p><p>In that menu you get further information about e-commerce services like Google product search.</p> <p>You can change these settings at any time.</p>',
 'MOD_ALLOW_URL_FOPEN' => 'allow_url_fopen or fsockopen to port 80',
 'MOD_BC_MATH' => 'BCMath',
 'MOD_BUG53632' => 'Possible issues on server due to PHP Bugs',
@@ -107,7 +107,7 @@ $aLang = array(
 'SELECT_SHOP_LANG' => 'Jazyk obchodu',
 'SELECT_SHOP_LANG_HINT' => 'V prípade potreby je neskôr možné v administrácii e-shopu jednoducho aktivovať ďalšie jazyky.',
 'SELECT_SHOP_LOCATION' => 'Váš trh',
-'SELECT_SHOP_LOCATION_HINT' => 'Please choose the market to which shop is focused. According to it, additional eCommerce Services will be loaded from OXID server, if you allow that.',
+'SELECT_SHOP_LOCATION_HINT' => 'Please choose the market to which shop is focused. According to it, additional e-commerce Services will be loaded from OXID server, if you allow that.',
 'SETUP_CONFIG_PERMISSIONS' => 'Due to security reasons put your config.inc.php file to read-only mode!',
 'SETUP_DIR_DELETE_NOTICE' => 'Due to security reasons remove setup directory if not yet done during installation.',
 'STEP_0_DESC' => 'In this step we check if your system fits the requirements:',

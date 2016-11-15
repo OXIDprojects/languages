@@ -17,9 +17,9 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: AWIDON (2), dsb (1), marco (4738), patmat2809 (1), simoneschuppe (4), SvenBrunk (2), Thielo (1)
+ * @translators: AWIDON (2), dsb (1), marco (4748), patmat2809 (1), simoneschuppe (4), SvenBrunk (2), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';

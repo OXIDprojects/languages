@@ -17,9 +17,9 @@
  *
  * @link      http://www.oxid-esales.com
  * @package   lang
- * @copyright (C) OXID eSales AG 2003-2013
+ * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: AWIDON (2), dsb (1), marco (4738), patmat2809 (1), simoneschuppe (4), SvenBrunk (2), Thielo (1)
+ * @translators: AWIDON (2), dsb (1), marco (4748), patmat2809 (1), simoneschuppe (4), SvenBrunk (2), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';
@@ -68,7 +68,7 @@ $aLang = array(
 'HEADER_META_MAIN_TITLE' => 'OXID eShop Installationsassistent',
 'HEADER_TEXT_SETUP_NOT_RUNS_AUTOMATICLY' => 'Sollte das Setup nicht nach einigen Sekunden automatisch weiterspringen, dann klick bitte',
 'HERE' => 'hier',
-'LOAD_DYN_CONTENT_NOTICE' => '<p>Wenn diese Option gesetzt ist, siehst Du ein zusätzliches Menü im Administrationsbereich Deines OXID eShop.</p><p>Über dieses Menü erhälst Du weitere Informationen über eCommerce Services, wie z.B. Google Produktsuche oder econda.</p> <p>Du kannst diese Einstellung im Administrationsbereich jederzeit wieder ändern.</p>',
+'LOAD_DYN_CONTENT_NOTICE' => '<p>Wenn diese Option gesetzt ist, siehst Du ein zusätzliches Menü im Administrationsbereich Deines OXID eShop.</p><p>Über dieses Menü erhälst Du weitere Informationen über E-Commerce Services, wie z.B. Google Produktsuche oder econda.</p> <p>Du kannst diese Einstellung im Administrationsbereich jederzeit wieder ändern.</p>',
 'MOD_ALLOW_URL_FOPEN' => 'allow_url_fopen oder fsockopen auf Port 80',
 'MOD_BC_MATH' => 'BCMath',
 'MOD_BUG53632' => 'Mögliche Probleme mit Server durch PHP Bugs',
@@ -107,7 +107,7 @@ $aLang = array(
 'SELECT_SHOP_LANG' => 'Sprache für Shop',
 'SELECT_SHOP_LANG_HINT' => 'Aktiviere weitere Sprachen im Administrationsbereich, falls gewünscht.',
 'SELECT_SHOP_LOCATION' => 'Deine Region',
-'SELECT_SHOP_LOCATION_HINT' => 'Bitte wähle eine Region, auf die der Shop ausgerichtet ist. Abhängig davon werden zusätzliche eCommerce Services vom OXID Server nachgeladen, wenn Sie das erlauben.',
+'SELECT_SHOP_LOCATION_HINT' => 'Bitte wähle eine Region, auf die der Shop ausgerichtet ist. Abhängig davon werden zusätzliche E-Commerce Services vom OXID Server nachgeladen, wenn Sie das erlauben.',
 'SETUP_CONFIG_PERMISSIONS' => 'WICHTIG: Aus Sicherheitsgründen setz die Datei config.inc.php auf read-only-Modus!',
 'SETUP_DIR_DELETE_NOTICE' => 'WICHTIG: Bitte lösch das Setup-Verzeichnis falls dieses nicht bereits automatisch entfernt wurde!',
 'STEP_0_DESC' => 'In diesem Schritt wird überprüft, ob Dein System die Voraussetzungen erfüllt:',
