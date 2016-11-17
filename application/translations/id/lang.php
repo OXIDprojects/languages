@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: ayu (55), bih (6), irvictor (13)
+ * @translators: ayu (55), bih (23), irvictor (13)
  */
 
 $sLangName  = 'Indonesia';
@@ -39,16 +39,16 @@ $aLang = array(
 'ADD_TAGS' => 'tambahkan label',
 'ADD_THIS_PAGE_TO' => 'tambahkan halaman ini',
 'ADD_TO_CART' => 'tambahkan ke dalam keranjang',
-'ADD_TO_GIFT_REGISTRY' => 'Add to gift registry',
-'ADD_TO_LISTMANIA_LIST' => 'Add to listmania list',
-'ADD_TO_WISH_LIST' => 'Add to wish list',
+'ADD_TO_GIFT_REGISTRY' => 'Tambah ke daftar hadiah',
+'ADD_TO_LISTMANIA_LIST' => 'Tambah ke daftar listmania',
+'ADD_TO_WISH_LIST' => 'Tambah ke daftar keinginan',
 'ADD_WRAPPING' => 'Tambahkan pembungkus hadiah',
-'ADD_YOUR_COMMENTS' => 'Add your comments',
+'ADD_YOUR_COMMENTS' => 'Tambahkan komentar anda',
 'ALL' => 'semua',
 'ALL_BRANDS' => 'Semua merek',
-'ALL_LISTMANIA' => 'All listmania',
-'ALREADY_ADDED_TAG' => 'You already tagged this text',
-'ALREADY_CUSTOMER' => 'I am already a customer',
+'ALL_LISTMANIA' => 'Semua Listmania',
+'ALREADY_ADDED_TAG' => 'Anda sudah menandakan teks ini',
+'ALREADY_CUSTOMER' => 'Saya sudah jadi pelanggan',
 'APPLAY' => 'terapkan',
 'ARTNUM' => 'Product number',
 'ATENTION_GREETING_CARD' => 'Attention - greeting card!',

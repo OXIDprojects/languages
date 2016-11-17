@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: ayu (55), bih (6), irvictor (13)
+ * @translators: ayu (55), bih (23), irvictor (13)
  */
 
 $sLangName  = 'Indonesia';
@@ -43,12 +43,12 @@ $aLang = array(
 'ADMINLINKS_LIST_MENUSUBITEM' => 'tautan',
 'ADMINLINKS_LIST_TITLE' => 'administrasi tautan OXID',
 'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Pilih semua',
-'ADMIN_MALL_SELECT_NONE_SHOPS' => 'Select none',
+'ADMIN_MALL_SELECT_NONE_SHOPS' => 'Hilangkan Semua Pilihan',
 'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b>Catatan:</b> terdeteksi konfigurasi server gambar alternatif, file tidak akan diunggah ke lokasi jauh. Silahkan lakukan sinronisasi manual',
-'amount' => 'Amount',
-'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => 'Assign Attributes',
-'ARTICLE_ATTRIBUTE_ASSIGNSELECTLIST' => 'Assign Selection Lists',
-'ARTICLE_ATTRIBUTE_ITEMSATTRIBUTE' => 'Product\'s Attributes',
+'amount' => 'Jumlah',
+'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => 'Tetapkan atribut',
+'ARTICLE_ATTRIBUTE_ASSIGNSELECTLIST' => 'Tetapkan daftar pilihan',
+'ARTICLE_ATTRIBUTE_ITEMSATTRIBUTE' => 'Atribut produk ini',
 'ARTICLE_ATTRIBUTE_ITEMSSELLIST' => 'daftar pilihan produk',
 'ARTICLE_ATTRIBUTE_NOATTRIBUTE' => 'Atribut yang tersedia',
 'ARTICLE_ATTRIBUTE_NOATTRIBUTES' => 'Silahkan pilih satu atribut!',
@@ -60,8 +60,8 @@ $aLang = array(
 'ARTICLE_BUNDLE_ALLITEMS' => 'semua produk yang tersedia',
 'ARTICLE_BUNDLE_ASSIGNARTICLE' => 'tetapkan produk',
 'ARTICLE_BUNDLE_ASSIGNEDARTICLE' => 'Produk Dibundel :',
-'ARTICLE_BUNDLE_UNASSIGNARTICLE' => 'Unassign Product',
-'ARTICLE_CROSSSELLING_ALLITEMS' => 'All available Products',
+'ARTICLE_BUNDLE_UNASSIGNARTICLE' => 'Batalkan penetapan produk',
+'ARTICLE_CROSSSELLING_ALLITEMS' => 'Semua produk yang tersedia',
 'ARTICLE_CROSSSELLING_ASSIGNACCESSORIES' => 'Tetapkan Aksesoris',
 'ARTICLE_CROSSSELLING_ASSIGNCROSSSELLING' => 'Tetapkan Penjualan Silang',
 'ARTICLE_CROSSSELLING_CROSSSELLING' => 'Produk yang mirip',
@@ -90,7 +90,7 @@ $aLang = array(
 'ARTICLE_EXTEND_QUESTIONEMAIL' => 'Kontak alternatif',
 'ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'Konfirmasi syarat dan ketentuan',
 'ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Lewati semua Diskon Negatif <br>(Diskon, Voucher, Pengiriman ...)',
-'ARTICLE_EXTEND_TEMPLATE' => 'Alt. Template',
+'ARTICLE_EXTEND_TEMPLATE' => 'Template alternatif',
 'ARTICLE_EXTEND_TPRICE' => 'RRP',
 'ARTICLE_EXTEND_UNITNAME' => 'Unit',
 'ARTICLE_EXTEND_UNITQUANTITY' => 'Quantity',
