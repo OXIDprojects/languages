@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: ascheider (3), asot (4), compisat (26), cyberkatze (8), ET (10), ilya (915), mantgomery (2), marco (1330), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: ascheider (10), asot (4), compisat (26), cyberkatze (8), ET (10), ilya (915), mantgomery (2), marco (1330), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -34,8 +34,8 @@ $aLang = array(
 'HELP_SHOP_THEME_blUseGAEcommerceTracking' => 'Please keep in mind that this option needs to be enabled in your Google Analytics account, too. Manual: <a href="https://support.google.com/analytics/answer/1009612?hl=en&ref_topic=1037061" target="_blank">Link</a>',
 'HELP_SHOP_THEME_iNewBasketItemMessage' => 'When customer adds products to cart, OXID eShop can behave differently. Set up what shall happen to give proper feedback to customer.',
 'HELP_SHOP_THEME_sBackgroundColor' => 'Specified as a hexadecimal value.<br>E.g.: #D83434',
-'HELP_SHOP_THEME_sBackgroundPath' => 'This is relative to the path <code>/out/flow/img/backgrounds/</code>.',
-'HELP_SHOP_THEME_sBlogUrl' => 'E.g.: http://blog.oxid-esales.com',
+'HELP_SHOP_THEME_sBackgroundPath' => 'Относительно к пути <code>/out/flow/img/backgrounds/</code>.',
+'HELP_SHOP_THEME_sBlogUrl' => 'Например: http://blog.oxid-esales.com',
 'HELP_SHOP_THEME_sCatIconsize' => 'In category view, the category pictures of subcategories are displayed in the defined size.',
 'HELP_SHOP_THEME_sCatPromotionsize' => 'Category promotion on start page needs special size for category pictures. Define size of those pictures here.',
 'HELP_SHOP_THEME_sCatThumbnailsize' => 'In category view, the picture of the selected category is displayed in the defined size.',
@@ -43,13 +43,13 @@ $aLang = array(
 'HELP_SHOP_THEME_sDeliveryDaysOnStock' => 'The estimated date on which you expect delivery of the order to the customer. If the order contains multiple items, select the latest delivery date. If you message a range of days, please include the later end of the range. (e.g., 7 days if your range is 5-7 days).',
 'HELP_SHOP_THEME_sEcondaAccountId' => 'Please enter your econda ID.<br>Format: XXXXXXXX-XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX-X.<br>Please keep in mind to activate the econda Webshop Controlling in your shop.',
 'HELP_SHOP_THEME_sEcondaRecommendationsAID' => '',
-'HELP_SHOP_THEME_sEmailLogo' => 'This is relative to the path <code>/out/flow/img/</code>.',
-'HELP_SHOP_THEME_sFacebookUrl' => 'E.g.: https://www.facebook.com/oxidesales',
+'HELP_SHOP_THEME_sEmailLogo' => 'Относительно к пути <code>/out/flow/img/</code>.',
+'HELP_SHOP_THEME_sFacebookUrl' => 'Например: https://www.facebook.com/oxidesales',
 'HELP_SHOP_THEME_sFaviconFile' => 'This favicon is meant to be displayed in the browser\'s tab.<br>In general, this is an ico file.<br>This is relative to the path <code>/out/flow/img/favicons/</code>.',
 'HELP_SHOP_THEME_sFaviconMSTileColor' => 'Specified as a hexadecimal value.<br>E.g.: #D83434',
-'HELP_SHOP_THEME_sGATrackingId' => 'E.g.: UA-XXXXXXXX-1',
-'HELP_SHOP_THEME_sGoogleMapsAddr' => 'E.g.: OXID eSales AG, Bertoldstraße 48, 79098 Freiburg',
-'HELP_SHOP_THEME_sGooglePlusUrl' => 'E.g.: https://plus.google.com/114133952363540971062',
+'HELP_SHOP_THEME_sGATrackingId' => 'Например: UA-XXXXXXXX-1',
+'HELP_SHOP_THEME_sGoogleMapsAddr' => 'Например: XID eSales AG, Bertoldstraße 48, 79098 Freiburg',
+'HELP_SHOP_THEME_sGooglePlusUrl' => 'Например: https://plus.google.com/114133952363540971062',
 'HELP_SHOP_THEME_sGoogleShoppingAccountId' => 'Provide this field only if you submit feeds for Google Shopping.<br><br>Account ID from Google Merchant Center. This value should match the account ID you use to submit your <a href="https://support.google.com/merchants/answer/188494#US" target="_blank">product data feed to Google Shopping</a> through Google Merchant center. If you have a MCA account, use the subaccount ID associated with that product feed.',
 'HELP_SHOP_THEME_sGoogleVendorId' => 'You can find this ID in your Trusted Stores Merchant Dashboard.',
 'HELP_SHOP_THEME_sIconsize' => 'Icons are the smallest pictures of a product. They are used: <br><ul><li>in the shopping cart.</li><li>if products are shown in the right menu (e.g. in <span class="filename_filepath_or_italic">TOP of the Shop</span> and <span class="filename_filepath_or_italic">Bargain</span>).</li></ul>For avoiding design issues caused by too big icons the icons are resized. Enter the maximum size for icons here.',
