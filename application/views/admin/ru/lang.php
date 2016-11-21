@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: ascheider (10), asot (4), compisat (26), cyberkatze (8), ET (10), ilya (915), mantgomery (2), marco (1330), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: ascheider (10), asot (4), compisat (26), cyberkatze (8), ET (10), ilya (968), mantgomery (2), marco (1330), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -29,7 +29,7 @@ $sLangName  = 'Русский';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACTIONS_LIST_MENUITEM' => 'Информация о клиентах',
+'ACTIONS_LIST_MENUITEM' => 'Информация для покупателей',
 'ACTIONS_LIST_MENUSUBITEM' => 'Продвижение',
 'ACTIONS_MAIN_ALLARTICLES' => 'Все доступные товары',
 'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Продвигаемые товары',

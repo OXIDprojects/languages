@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: ascheider (10), asot (4), compisat (26), cyberkatze (8), ET (10), ilya (915), mantgomery (2), marco (1330), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: ascheider (10), asot (4), compisat (26), cyberkatze (8), ET (10), ilya (968), mantgomery (2), marco (1330), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -33,7 +33,7 @@ $aLang = array(
 'HELP_SHOP_THEME_blSliderShowImageCaption' => 'A caption is visible, when the active slide has an assigned product.',
 'HELP_SHOP_THEME_blUseGAEcommerceTracking' => 'Please keep in mind that this option needs to be enabled in your Google Analytics account, too. Manual: <a href="https://support.google.com/analytics/answer/1009612?hl=en&ref_topic=1037061" target="_blank">Link</a>',
 'HELP_SHOP_THEME_iNewBasketItemMessage' => 'When customer adds products to cart, OXID eShop can behave differently. Set up what shall happen to give proper feedback to customer.',
-'HELP_SHOP_THEME_sBackgroundColor' => 'Specified as a hexadecimal value.<br>E.g.: #D83434',
+'HELP_SHOP_THEME_sBackgroundColor' => 'В формате: #D83434',
 'HELP_SHOP_THEME_sBackgroundPath' => 'Относительно к пути <code>/out/flow/img/backgrounds/</code>.',
 'HELP_SHOP_THEME_sBlogUrl' => 'Например: http://blog.oxid-esales.com',
 'HELP_SHOP_THEME_sCatIconsize' => 'In category view, the category pictures of subcategories are displayed in the defined size.',
@@ -53,9 +53,9 @@ $aLang = array(
 'HELP_SHOP_THEME_sGoogleShoppingAccountId' => 'Provide this field only if you submit feeds for Google Shopping.<br><br>Account ID from Google Merchant Center. This value should match the account ID you use to submit your <a href="https://support.google.com/merchants/answer/188494#US" target="_blank">product data feed to Google Shopping</a> through Google Merchant center. If you have a MCA account, use the subaccount ID associated with that product feed.',
 'HELP_SHOP_THEME_sGoogleVendorId' => 'You can find this ID in your Trusted Stores Merchant Dashboard.',
 'HELP_SHOP_THEME_sIconsize' => 'Icons are the smallest pictures of a product. They are used: <br><ul><li>in the shopping cart.</li><li>if products are shown in the right menu (e.g. in <span class="filename_filepath_or_italic">TOP of the Shop</span> and <span class="filename_filepath_or_italic">Bargain</span>).</li></ul>For avoiding design issues caused by too big icons the icons are resized. Enter the maximum size for icons here.',
-'HELP_SHOP_THEME_sLogoFile' => 'This is relative to the path <code>/out/flow/img/</code>.',
-'HELP_SHOP_THEME_sLogoHeight' => 'Specify in as a pixel value.',
-'HELP_SHOP_THEME_sLogoWidth' => 'Specify in as a pixel value.',
+'HELP_SHOP_THEME_sLogoFile' => 'Зависит от пути к папке <code>/out/flow/img/</code>',
+'HELP_SHOP_THEME_sLogoHeight' => 'Укажите размер в пикселях.',
+'HELP_SHOP_THEME_sLogoWidth' => 'Укажите размер в пикселях.',
 'HELP_SHOP_THEME_sManufacturerIconsize' => 'Manufacturer\'s/brand logo is shown on start page in manufacturer\'s slider.',
 'HELP_SHOP_THEME_sPageLanguage' => 'The locale should be in the format of <language>_<country><br><br><Language> is a two-letter language code defined in ISO 639-1, and <country> is a two-letter country code defined in ISO 3166-1 alpha-2. Usually <country> should be all capitalized, and <language> should be in lowercase. e.g. en_US, en_GB, en_AU, fr_FR, de_DE, or ja_JP.',
 'HELP_SHOP_THEME_sShippingDaysNotOnStock' => 'The estimated date on which you will ship the order; this is different from the estimated delivery date.<br><br>If the order contains multiple items, select the latest estimated ship date.<br><br>If you message to your customers a range of days, please include the later end of the range. (e.g., 7 days if your shipping range is 5-7 days).<br><br>The date provided here will be provided to the customer via email.<br><br>The customer will receive a post purchase survey after the Estimated Ship Date has passed.',
@@ -63,7 +63,7 @@ $aLang = array(
 'HELP_SHOP_THEME_sShoppingCountry' => 'Provide this field only if you submit feeds for Google Shopping.<br><br>Account country from Google Shopping. This value should match the account country you use to submit your <a href="https://support.google.com/merchants/answer/188494#US" target="_blank">product data feed to Google Shopping</a>.<br><br>The value of the country parameter should be a <a href="http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2" target="_blank">two-letter ISO 3166 country code</a>.<br><br>For example, values could be US, GB, AU, FR, DE, JP.',
 'HELP_SHOP_THEME_sShoppingLanguage' => 'Provide this field only if you submit feeds for Google Shopping.<br><br>Account language from Google Shopping. This value should match the account language you use to submit your <a href="https://support.google.com/merchants/answer/188494#US" target="_blank">product data feed to Google Shopping</a>.<br><br>The value of the language parameter should be a <a href="http://en.wikipedia.org/wiki/ISO_639-1" target="_blank">two-letter ISO 639-1 language code</a>.<br><br>For example, values could be en, fr, de, ja.',
 'HELP_SHOP_THEME_sThumbnailsize' => 'Thumbnails are small product pictures. They are used:<br><ul><li>in product lists.</li><li>in promotions displayed in the middle of the front page, e. g. <span class="filename_filepath_or_italic">Just arrived!</span>.</li></ul>For avoiding design issues caused by too big thumbnails the thumbnails are resized. Enter the maximum size for thumbnails here.',
-'HELP_SHOP_THEME_sTwitterUrl' => 'E.g.: https://twitter.com/OXID_eSales',
+'HELP_SHOP_THEME_sTwitterUrl' => 'Например: https://twitter.com/OXID_eSales',
 'HELP_SHOP_THEME_sYouTubeUrl' => 'E.g.: https://www.youtube.com/user/oxidesales',
 'SHOP_THEME_aDetailImageSizes' => 'Размер картинки товара (ширина*высота)',
 'SHOP_THEME_aNrofCatArticles' => 'Количество товаров в списках (категории, поиск)<br><br>Внимание: большое количество товаров (выше 100) может повлиять на производительность!',
@@ -145,15 +145,15 @@ $aLang = array(
 'SHOP_THEME_sDeliveryDaysNotOnStock' => 'Количество дней доставки товара, которого <b>нет</b> на складе.',
 'SHOP_THEME_sDeliveryDaysOnStock' => 'Количество дней доставки товара, который <b>в наличии</b> на складе.',
 'SHOP_THEME_sEcondaAccountId' => 'ID сервиса econda',
-'SHOP_THEME_sEcondaRecommendationsAID' => '',
-'SHOP_THEME_sEcondaRecommendationsFromBasket' => '',
-'SHOP_THEME_sEcondaRecommendationsFromDetails' => '',
-'SHOP_THEME_sEcondaRecommendationsFromList' => '',
-'SHOP_THEME_sEcondaRecommendationsFromStart' => '',
-'SHOP_THEME_sEcondaRecommendationsToBasket' => '',
-'SHOP_THEME_sEcondaRecommendationsToDetails' => '',
-'SHOP_THEME_sEcondaRecommendationsToList' => '',
-'SHOP_THEME_sEcondaRecommendationsToStart' => '',
+'SHOP_THEME_sEcondaRecommendationsAID' => 'Сервис рекомендаций Econda (недоступно в России).',
+'SHOP_THEME_sEcondaRecommendationsFromBasket' => 'Сервис рекомендаций Econda (недоступно в России).',
+'SHOP_THEME_sEcondaRecommendationsFromDetails' => 'Сервис рекомендаций Econda (недоступно в России).',
+'SHOP_THEME_sEcondaRecommendationsFromList' => 'Сервис рекомендаций Econda (недоступно в России).',
+'SHOP_THEME_sEcondaRecommendationsFromStart' => 'Сервис рекомендаций Econda (недоступно в России).',
+'SHOP_THEME_sEcondaRecommendationsToBasket' => 'Сервис рекомендаций Econda (недоступно в России).',
+'SHOP_THEME_sEcondaRecommendationsToDetails' => 'Сервис рекомендаций Econda (недоступно в России).',
+'SHOP_THEME_sEcondaRecommendationsToList' => 'Сервис рекомендаций Econda (недоступно в России).',
+'SHOP_THEME_sEcondaRecommendationsToStart' => 'Сервис рекомендаций Econda (недоступно в России).',
 'SHOP_THEME_sEcondaWidgetIdBasket' => 'ID виджета рекомендаций econda для корзины',
 'SHOP_THEME_sEcondaWidgetIdDetails' => 'ID виджета рекомендаций econda для страницы товара',
 'SHOP_THEME_sEcondaWidgetIdList' => 'ID виджета рекомендаций econda для страницы поиска',
