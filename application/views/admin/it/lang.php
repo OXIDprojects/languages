@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (2), simon.runer (573)
+ * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (19), simon.runer (573)
  */
 
 $sLangName  = 'Italiano';
@@ -42,8 +42,8 @@ $aLang = array(
 'ADMINLINKS_LIST_MENUITEM' => 'Informazioni per il cliente',
 'ADMINLINKS_LIST_MENUSUBITEM' => 'Promozioni',
 'ADMINLINKS_LIST_TITLE' => '[OXID aministrazione link]',
-'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Select All',
-'ADMIN_MALL_SELECT_NONE_SHOPS' => 'Select none',
+'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Seleziona tutti',
+'ADMIN_MALL_SELECT_NONE_SHOPS' => 'Annulla selezioni',
 'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b>Note:</b> Alternative image server configuration detected, files will not be uploaded to remote location. Please take care about synchronization manually.',
 'amount' => 'Ammontare',
 'ARTICLE_ATTRIBUTE_ASSIGNATTRIBUTE' => 'Assegna Attributi',
@@ -230,7 +230,7 @@ $aLang = array(
 'ARTICLE_VARIANT_SELECTLIST' => 'Liste selezione',
 'ARTICLE_VARIANT_SORT' => 'Ordina per',
 'ARTICLE_VARIANT_STOCK' => 'Magazzino',
-'ARTICLE_VARIANT_VARNAME' => 'Name of Selection',
+'ARTICLE_VARIANT_VARNAME' => 'Nome della selezione',
 'ARTICLE_VARIANT_VARSAVE' => 'Salva variante',
 'ARTICLE_VARIANT_YOUWANTTODELETE' => 'Sei sicuro di voler cancellare questa variante?',
 'ATTRIBUTE_CATEGORY_ALLCATEGORY' => 'Tutte le categorie disponibili',

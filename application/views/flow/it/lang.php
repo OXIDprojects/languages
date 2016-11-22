@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (2), simon.runer (573)
+ * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (19), simon.runer (573)
  */
 
 $sLangName  = 'Italiano';
@@ -31,28 +31,28 @@ $aLang = array(
 'charset' => 'utf-8',
 'BACK_TO_OVERVIEW' => 'to overview',
 'DD_BASKET_BACK_TO_SHOP' => 'back to shop',
-'DD_CLOSE_MODAL' => 'close',
-'DD_CONTACT_ADDRESS_HEADING' => 'Address',
-'DD_CONTACT_FORM_HEADING' => 'Contact',
-'DD_CONTACT_PAGE_HEADING' => 'Contact us!',
-'DD_CONTACT_THANKYOU1' => 'Thank you.',
+'DD_CLOSE_MODAL' => 'chiudere',
+'DD_CONTACT_ADDRESS_HEADING' => 'indirizzo',
+'DD_CONTACT_FORM_HEADING' => 'contatto',
+'DD_CONTACT_PAGE_HEADING' => 'contattateci',
+'DD_CONTACT_THANKYOU1' => 'grazie',
 'DD_CONTACT_THANKYOU2' => ' appreciates your comments.',
 'DD_DEMO_ADMIN_TOOL' => 'Open admin interface',
 'DD_DOWNLOADLINKS_HEADING' => 'Your download links - Order',
-'DD_DOWNLOADS_DOWNLOAD_TOOLTIP' => 'downloaded',
+'DD_DOWNLOADS_DOWNLOAD_TOOLTIP' => 'scaricato',
 'DD_ERR_404_CONTACT_BUTTON' => 'to the contact page',
 'DD_ERR_404_CONTACT_TEXT' => 'May we assist you?<br>Feel free to call us or write an email:',
 'DD_ERR_404_START_BUTTON' => 'Go to home page',
 'DD_ERR_404_START_TEXT' => 'You may find the information you want from our home page:',
-'DD_FILE_ATTRIBUTES_FILENAME' => 'File name:',
-'DD_FILE_ATTRIBUTES_FILESIZE' => 'File size:',
+'DD_FILE_ATTRIBUTES_FILENAME' => 'nome del file',
+'DD_FILE_ATTRIBUTES_FILESIZE' => 'dimensione del file',
 'DD_FILE_ATTRIBUTES_OCLOCK' => 'o\'clock',
 'DD_FOOTER_CONTACT_INFO' => 'Contact:',
 'DD_FOOTER_FOLLOW_US' => 'Follow us:',
 'DD_FORGOT_PASSWORD_HEADING' => 'Forgot password',
 'DD_FORM_VALIDATION_CHECKONE' => 'Please select at least one option.',
 'DD_FORM_VALIDATION_INTEGER' => 'There are no decimal places allowed.',
-'DD_FORM_VALIDATION_NEGATIVENUMBER' => 'Please enter a negative number.',
+'DD_FORM_VALIDATION_NEGATIVENUMBER' => 'prego immettere un numero negativo',
 'DD_FORM_VALIDATION_NUMBER' => 'Please enter a number.',
 'DD_FORM_VALIDATION_PASSWORDAGAIN' => 'Passwords do not match.',
 'DD_FORM_VALIDATION_POSITIVENUMBER' => 'Please enter a positive number.',
@@ -91,7 +91,7 @@ $aLang = array(
 'DD_USER_BILLING_LABEL_STATE' => 'State:',
 'DD_USER_SHIPPING_ADD_DELIVERY_ADDRESS' => 'add delivery address',
 'DD_USER_SHIPPING_LABEL_STATE' => 'State:',
-'DD_USER_SHIPPING_SELECT_ADDRESS' => 'select',
+'DD_USER_SHIPPING_SELECT_ADDRESS' => 'seleziona',
 'DD_WISHLIST_HEADING' => 'Wishlist',
 'DETAILS_VPE_MESSAGE_1' => 'This product can only be ordered in packaging units of ',
 'DETAILS_VPE_MESSAGE_2' => '',

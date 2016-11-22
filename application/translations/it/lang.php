@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (2), simon.runer (573)
+ * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (19), simon.runer (573)
  */
 
 $sLangName  = 'Italiano';
@@ -68,7 +68,7 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Carta Regalo (esclusa IVA)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'più IVA (calcolata proporzionalmente)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Costo Imballaggio (escl. IVA)',
-'BETA_NOTE' => 'Benvenuto nella versione beta',
+'BETA_NOTE' => 'Benvenuto al',
 'BETA_NOTE_FAQ' => '. Per ogni domanda fai riferimento a %s',
 'BETA_NOTE_MIDDLE' => 'di OXID eShop',
 'BETA_NOTE_RELEASE_BETA' => 'Beta',
@@ -127,8 +127,8 @@ $aLang = array(
 'CURRENT_PRODUCT' => 'Articolo attuale',
 'CUSTOMERS_ALSO_BOUGHT' => 'Clienti che hanno comprato questo articolo, hanno comprato anche:',
 'DATE' => 'Data',
-'DAY' => 'giorno',
-'DAYS' => 'giorni',
+'DAY' => 'Giorno',
+'DAYS' => 'Giorni',
 'DEDUCTION' => 'Sconto',
 'DELIVERABLE' => 'Disponibile:',
 'DELIVERYTIME' => 'Tempo di consegna:',
