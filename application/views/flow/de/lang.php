@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: dsb (5), marco (4355)
+ * @translators: dsb (5), marco (4356)
  */
 
 $sLangName  = 'Deutsch';
@@ -95,7 +95,7 @@ $aLang = array(
 'DD_WISHLIST_HEADING' => 'Wunschzettel',
 'DETAILS_VPE_MESSAGE_1' => 'Dieser Artikel kann nur in Verpackungseinheiten zu je',
 'DETAILS_VPE_MESSAGE_2' => 'erworben werden.',
-'FOOTER_NEWSLETTER_INFO' => 'Die neuesten Produkte und die besten Angebote per E-Mail, damit Ihr nichts mehr verpasst.',
+'FOOTER_NEWSLETTER_INFO' => 'Die neuesten Produkte und die besten Angebote per E-Mail, damit Sie nichts mehr verpassen!',
 'MANUFACTURERSLIDER_SUBHEAD' => 'Wir präsentieren Ihnen hier unsere sorgsam ausgewählten Marken, deren Produkte Sie in unserem Shop finden.',
 'OF' => 'von',
 'PAGE_DETAILS_CUSTOMERS_ALSO_BOUGHT_SUBHEADER' => 'Kunden die sich diesen Artikel gekauft haben, kauften auch folgende Artikel.',

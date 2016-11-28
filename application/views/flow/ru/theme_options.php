@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: ascheider (10), asot (4), compisat (26), cyberkatze (8), ET (10), ilya (968), mantgomery (2), marco (1330), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: ascheider (10), asot (4), compisat (26), cyberkatze (8), ET (10), ilya (981), mantgomery (2), marco (1337), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -41,15 +41,13 @@ $aLang = array(
 'HELP_SHOP_THEME_sCatThumbnailsize' => 'In category view, the picture of the selected category is displayed in the defined size.',
 'HELP_SHOP_THEME_sDeliveryDaysNotOnStock' => 'The estimated date on which you expect delivery of the order to the customer. If the order contains multiple items, select the latest delivery date. If you message a range of days, please include the later end of the range. (e.g., 7 days if your range is 5-7 days).',
 'HELP_SHOP_THEME_sDeliveryDaysOnStock' => 'The estimated date on which you expect delivery of the order to the customer. If the order contains multiple items, select the latest delivery date. If you message a range of days, please include the later end of the range. (e.g., 7 days if your range is 5-7 days).',
-'HELP_SHOP_THEME_sEcondaAccountId' => 'Please enter your econda ID.<br>Format: XXXXXXXX-XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX-X.<br>Please keep in mind to activate the econda Webshop Controlling in your shop.',
-'HELP_SHOP_THEME_sEcondaRecommendationsAID' => '',
 'HELP_SHOP_THEME_sEmailLogo' => 'Относительно к пути <code>/out/flow/img/</code>.',
 'HELP_SHOP_THEME_sFacebookUrl' => 'Например: https://www.facebook.com/oxidesales',
 'HELP_SHOP_THEME_sFaviconFile' => 'This favicon is meant to be displayed in the browser\'s tab.<br>In general, this is an ico file.<br>This is relative to the path <code>/out/flow/img/favicons/</code>.',
-'HELP_SHOP_THEME_sFaviconMSTileColor' => 'Specified as a hexadecimal value.<br>E.g.: #D83434',
+'HELP_SHOP_THEME_sFaviconMSTileColor' => 'Например: #D83434',
 'HELP_SHOP_THEME_sGATrackingId' => 'Например: UA-XXXXXXXX-1',
-'HELP_SHOP_THEME_sGoogleMapsAddr' => 'Например: XID eSales AG, Bertoldstraße 48, 79098 Freiburg',
-'HELP_SHOP_THEME_sGooglePlusUrl' => 'Например: https://plus.google.com/114133952363540971062',
+'HELP_SHOP_THEME_sGoogleMapsAddr' => 'Например: OXID eSales AG, Bertoldstraße 48, DE-79098 Freiburg, Германия',
+'HELP_SHOP_THEME_sGooglePlusUrl' => 'Например: E.g.: https://plus.google.com/communities/105836295757364457233',
 'HELP_SHOP_THEME_sGoogleShoppingAccountId' => 'Provide this field only if you submit feeds for Google Shopping.<br><br>Account ID from Google Merchant Center. This value should match the account ID you use to submit your <a href="https://support.google.com/merchants/answer/188494#US" target="_blank">product data feed to Google Shopping</a> through Google Merchant center. If you have a MCA account, use the subaccount ID associated with that product feed.',
 'HELP_SHOP_THEME_sGoogleVendorId' => 'You can find this ID in your Trusted Stores Merchant Dashboard.',
 'HELP_SHOP_THEME_sIconsize' => 'Icons are the smallest pictures of a product. They are used: <br><ul><li>in the shopping cart.</li><li>if products are shown in the right menu (e.g. in <span class="filename_filepath_or_italic">TOP of the Shop</span> and <span class="filename_filepath_or_italic">Bargain</span>).</li></ul>For avoiding design issues caused by too big icons the icons are resized. Enter the maximum size for icons here.',
@@ -63,8 +61,8 @@ $aLang = array(
 'HELP_SHOP_THEME_sShoppingCountry' => 'Provide this field only if you submit feeds for Google Shopping.<br><br>Account country from Google Shopping. This value should match the account country you use to submit your <a href="https://support.google.com/merchants/answer/188494#US" target="_blank">product data feed to Google Shopping</a>.<br><br>The value of the country parameter should be a <a href="http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2" target="_blank">two-letter ISO 3166 country code</a>.<br><br>For example, values could be US, GB, AU, FR, DE, JP.',
 'HELP_SHOP_THEME_sShoppingLanguage' => 'Provide this field only if you submit feeds for Google Shopping.<br><br>Account language from Google Shopping. This value should match the account language you use to submit your <a href="https://support.google.com/merchants/answer/188494#US" target="_blank">product data feed to Google Shopping</a>.<br><br>The value of the language parameter should be a <a href="http://en.wikipedia.org/wiki/ISO_639-1" target="_blank">two-letter ISO 639-1 language code</a>.<br><br>For example, values could be en, fr, de, ja.',
 'HELP_SHOP_THEME_sThumbnailsize' => 'Thumbnails are small product pictures. They are used:<br><ul><li>in product lists.</li><li>in promotions displayed in the middle of the front page, e. g. <span class="filename_filepath_or_italic">Just arrived!</span>.</li></ul>For avoiding design issues caused by too big thumbnails the thumbnails are resized. Enter the maximum size for thumbnails here.',
-'HELP_SHOP_THEME_sTwitterUrl' => 'Например: https://twitter.com/OXID_eSales',
-'HELP_SHOP_THEME_sYouTubeUrl' => 'E.g.: https://www.youtube.com/user/oxidesales',
+'HELP_SHOP_THEME_sTwitterUrl' => 'Например: https://twitter.com/OXIDforge',
+'HELP_SHOP_THEME_sYouTubeUrl' => 'Например: https://www.youtube.com/user/oxidesales',
 'SHOP_THEME_aDetailImageSizes' => 'Размер картинки товара (ширина*высота)',
 'SHOP_THEME_aNrofCatArticles' => 'Количество товаров в списках (категории, поиск)<br><br>Внимание: большое количество товаров (выше 100) может повлиять на производительность!',
 'SHOP_THEME_aNrofCatArticlesInGrid' => 'Решётка: количество товаров в списках (категории, поиск)<br><br>Внимание: большое количество товаров (выше 100) может повлиять на производительность!',
@@ -144,16 +142,6 @@ $aLang = array(
 'SHOP_THEME_sDefaultListDisplayType_line' => 'Список',
 'SHOP_THEME_sDeliveryDaysNotOnStock' => 'Количество дней доставки товара, которого <b>нет</b> на складе.',
 'SHOP_THEME_sDeliveryDaysOnStock' => 'Количество дней доставки товара, который <b>в наличии</b> на складе.',
-'SHOP_THEME_sEcondaAccountId' => 'ID сервиса econda',
-'SHOP_THEME_sEcondaRecommendationsAID' => 'Сервис рекомендаций Econda (недоступно в России).',
-'SHOP_THEME_sEcondaRecommendationsFromBasket' => 'Сервис рекомендаций Econda (недоступно в России).',
-'SHOP_THEME_sEcondaRecommendationsFromDetails' => 'Сервис рекомендаций Econda (недоступно в России).',
-'SHOP_THEME_sEcondaRecommendationsFromList' => 'Сервис рекомендаций Econda (недоступно в России).',
-'SHOP_THEME_sEcondaRecommendationsFromStart' => 'Сервис рекомендаций Econda (недоступно в России).',
-'SHOP_THEME_sEcondaRecommendationsToBasket' => 'Сервис рекомендаций Econda (недоступно в России).',
-'SHOP_THEME_sEcondaRecommendationsToDetails' => 'Сервис рекомендаций Econda (недоступно в России).',
-'SHOP_THEME_sEcondaRecommendationsToList' => 'Сервис рекомендаций Econda (недоступно в России).',
-'SHOP_THEME_sEcondaRecommendationsToStart' => 'Сервис рекомендаций Econda (недоступно в России).',
 'SHOP_THEME_sEcondaWidgetIdBasket' => 'ID виджета рекомендаций econda для корзины',
 'SHOP_THEME_sEcondaWidgetIdDetails' => 'ID виджета рекомендаций econda для страницы товара',
 'SHOP_THEME_sEcondaWidgetIdList' => 'ID виджета рекомендаций econda для страницы поиска',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: marco (3237), NHWS (194)
+ * @translators: marco (3469), NHWS (194)
  */
 
 $sLangName  = 'Australian English';

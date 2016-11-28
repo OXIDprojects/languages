@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: dsb (5), marco (4355)
+ * @translators: dsb (5), marco (4356)
  */
 
 $sLangName  = 'Deutsch';
@@ -41,8 +41,6 @@ $aLang = array(
 'HELP_SHOP_THEME_sCatThumbnailsize' => 'In der Kategorieübersicht wird das Bild der ausgewählten Kategorie in der hier definierten Größe angezeigt.',
 'HELP_SHOP_THEME_sDeliveryDaysNotOnStock' => 'Dies ist das voraussichtliche Datum, an dem Sie mit der Lieferung der Bestellung an den Kunden rechnen. Wenn die Bestellung mehrere Artikel umfasst, wählen Sie das späteste voraussichtliche Lieferdatum. Wenn Sie einen Lieferzeitraum nennen, geben Sie den letzten Tag des Zeitraums an, bei 5 bis 7 Tagen also 7 Tage.',
 'HELP_SHOP_THEME_sDeliveryDaysOnStock' => 'Dies ist das voraussichtliche Datum, an dem Sie mit der Lieferung der Bestellung an den Kunden rechnen. Wenn die Bestellung mehrere Artikel umfasst, wählen Sie das späteste voraussichtliche Lieferdatum. Wenn Sie einen Lieferzeitraum nennen, geben Sie den letzten Tag des Zeitraums an, bei 5 bis 7 Tagen also 7 Tage.',
-'HELP_SHOP_THEME_sEcondaAccountId' => 'Please enter your econda ID.<br>Format: XXXXXXXX-XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX-X.<br>Please keep in mind to activate the econda Webshop Controlling in your shop.',
-'HELP_SHOP_THEME_sEcondaRecommendationsAID' => 'Geben Sie hier Ihre econda Account-ID ein.<br>Diese hat üblicherweise folgendes Format: XXXXXXXX-XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX-X.<br>Bitte denken Sie daran, das econda Webshop Controlling zu aktivieren.',
 'HELP_SHOP_THEME_sEmailLogo' => 'Relativ zu dem Pfad <code>/out/flow/img/</code>.',
 'HELP_SHOP_THEME_sFacebookUrl' => 'Bsp.: https://www.facebook.com/oxidesales',
 'HELP_SHOP_THEME_sFaviconFile' => 'Hiermit ist das Favicon gemeint, welches im Browser auch beim Tab angezeigt wird.<br>In der Regel handelt es sich hier um eine .ico-Datei.<br>Relativ zu dem Pfad <code>/out/flow/img/favicons/</code>.',
@@ -144,16 +142,6 @@ $aLang = array(
 'SHOP_THEME_sDefaultListDisplayType_line' => 'Liste',
 'SHOP_THEME_sDeliveryDaysNotOnStock' => 'Anz. der Tage bis zur Lieferung einer Bestellung, bei der mind. 1 Artikel nicht auf Lager ist. (Erforderlich)',
 'SHOP_THEME_sDeliveryDaysOnStock' => 'Anz. der Tage bis zur Lieferung einer Bestellung mit Artikeln, die alle auf Lager sind. (Erforderlich)',
-'SHOP_THEME_sEcondaAccountId' => 'econda-ID',
-'SHOP_THEME_sEcondaRecommendationsAID' => 'Account-ID',
-'SHOP_THEME_sEcondaRecommendationsFromBasket' => 'Starte Ausgabe der Recommendations ab Artikel',
-'SHOP_THEME_sEcondaRecommendationsFromDetails' => 'Starte Ausgabe der Recommendations ab Artikel',
-'SHOP_THEME_sEcondaRecommendationsFromList' => 'Starte Ausgabe der Recommendations ab Artikel',
-'SHOP_THEME_sEcondaRecommendationsFromStart' => 'Starte Ausgabe der Recommendations ab Artikel',
-'SHOP_THEME_sEcondaRecommendationsToBasket' => 'Stoppe Ausgabe der Recommendations ab Artikel',
-'SHOP_THEME_sEcondaRecommendationsToDetails' => 'Stoppe Ausgabe der Recommendations ab Artikel',
-'SHOP_THEME_sEcondaRecommendationsToList' => 'Stoppe Ausgabe der Recommendations ab Artikel',
-'SHOP_THEME_sEcondaRecommendationsToStart' => 'Stoppe Ausgabe der Recommendations ab Artikel',
 'SHOP_THEME_sEcondaWidgetIdBasket' => 'Recommendation-Widget-ID für Warenkorb',
 'SHOP_THEME_sEcondaWidgetIdDetails' => 'Recommendation-Widget-ID für Detailseite',
 'SHOP_THEME_sEcondaWidgetIdList' => 'Recommendation-Widget-ID für Listenansicht',

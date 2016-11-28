@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: ascheider (10), asot (4), compisat (26), cyberkatze (8), ET (10), ilya (968), mantgomery (2), marco (1330), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: ascheider (10), asot (4), compisat (26), cyberkatze (8), ET (10), ilya (981), mantgomery (2), marco (1337), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -38,8 +38,8 @@ $aLang = array(
 'DD_CONTACT_THANKYOU1' => 'Спасибо!',
 'DD_CONTACT_THANKYOU2' => 'благодарит за комментарий.',
 'DD_DEMO_ADMIN_TOOL' => 'Открыть панель администратора',
-'DD_DOWNLOADLINKS_HEADING' => 'Ваши ссылки для скачивания - Заказ',
-'DD_DOWNLOADS_DOWNLOAD_TOOLTIP' => 'скачано',
+'DD_DOWNLOADLINKS_HEADING' => 'Ваши ссылки для скачивания - заказы',
+'DD_DOWNLOADS_DOWNLOAD_TOOLTIP' => 'скачать',
 'DD_ERR_404_CONTACT_BUTTON' => 'связаться с нами',
 'DD_ERR_404_CONTACT_TEXT' => 'Нужна помощь?<br>Позвоните или напишите нам:',
 'DD_ERR_404_START_BUTTON' => 'Перейти на главную',
@@ -98,7 +98,7 @@ $aLang = array(
 'FOOTER_NEWSLETTER_INFO' => 'Получайте информацию о новинках и акциях на e-mail.',
 'MANUFACTURERSLIDER_SUBHEAD' => 'Бренды, представленные в каталоге товаров',
 'OF' => 'из',
-'PAGE_DETAILS_CUSTOMERS_ALSO_BOUGHT_SUBHEADER' => 'Клиенты, купившие этот товар, также приобрели.',
+'PAGE_DETAILS_CUSTOMERS_ALSO_BOUGHT_SUBHEADER' => 'Клиенты, купившие этот товар, также приобрели:',
 'SEARCH_SUBMIT' => 'Искать',
 'SEARCH_TITLE' => 'поиск ...',
 'START_BARGAIN_HEADER' => 'Товары недели',
