@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: asot (45), b.verbelchuk (32), pianoservis (2825)
+ * @translators: asot (59), b.verbelchuk (32), pianoservis (2825)
  */
 
 $sLangName  = 'Українська';
@@ -71,7 +71,7 @@ $aLang = array(
 'BETA_NOTE' => 'Ласкаво просимо на Release Candidate',
 'BETA_NOTE_FAQ' => '. Часті питання і відповіді перераховані в% с.',
 'BETA_NOTE_MIDDLE' => 'з OXID eShop',
-'BETA_NOTE_RELEASE_BETA' => 'Beta',
+'BETA_NOTE_RELEASE_BETA' => 'Бета версія',
 'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
 'BIC' => 'BIC Банківський код',
 'BILLING_ADDRESS' => 'Реквізити для розрахунку',

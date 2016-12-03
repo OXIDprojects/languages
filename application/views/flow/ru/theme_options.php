@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: ascheider (10), asot (4), compisat (26), cyberkatze (8), ET (10), ilya (981), mantgomery (2), marco (1337), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: ascheider (10), asot (4), compisat (26), cyberkatze (8), ET (10), ilya (986), mantgomery (2), marco (1337), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -29,9 +29,9 @@ $sLangName  = 'Русский';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'HELP_SHOP_THEME_blShowListDisplayType' => 'Decide if the visitor of your store can select the type of the product list in store front. If this options is not activated, your visitors will see the lists displayed like you adjusted in the drop box "Default product list type".',
-'HELP_SHOP_THEME_blSliderShowImageCaption' => 'A caption is visible, when the active slide has an assigned product.',
-'HELP_SHOP_THEME_blUseGAEcommerceTracking' => 'Please keep in mind that this option needs to be enabled in your Google Analytics account, too. Manual: <a href="https://support.google.com/analytics/answer/1009612?hl=en&ref_topic=1037061" target="_blank">Link</a>',
+'HELP_SHOP_THEME_blShowListDisplayType' => 'Эта опция позволяет определить смогут ли пользователи вашего магазина сортировать товары на его главной странице. Если опция не активна, товары будут отсортированы согласно настройкам "Сортировка товаров по умолчанию".',
+'HELP_SHOP_THEME_blSliderShowImageCaption' => 'Будет отображаться название товара, когда он привязан к активному слайду.',
+'HELP_SHOP_THEME_blUseGAEcommerceTracking' => 'Пожалуйста, имейте в виду, что эту опцию нужно также активировать в вашем аккаунте Google Analytics. Руководство доступно по этой <a href="https://support.google.com/analytics/answer/1009612?hl=en&ref_topic=1037061" target="_blank">Ссылке</a>.',
 'HELP_SHOP_THEME_iNewBasketItemMessage' => 'When customer adds products to cart, OXID eShop can behave differently. Set up what shall happen to give proper feedback to customer.',
 'HELP_SHOP_THEME_sBackgroundColor' => 'В формате: #D83434',
 'HELP_SHOP_THEME_sBackgroundPath' => 'Относительно к пути <code>/out/flow/img/backgrounds/</code>.',

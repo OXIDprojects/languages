@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (145), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1318), SYSKO (9), zerog (15)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (145), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1388), SYSKO (9), zerog (15)
  */
 
 $sLangName  = 'Česky';
@@ -68,11 +68,11 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Blahopřání (netto)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => '+ DPH (úměrně vypočítané)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Dárkové balení (netto)',
-'BETA_NOTE' => 'Vítejte na Release Candidate',
+'BETA_NOTE' => 'Vítejte na',
 'BETA_NOTE_FAQ' => '. Prosím oslovte nás %s pokud máte nějaké otázky.',
 'BETA_NOTE_MIDDLE' => 'o OXID eShop',
 'BETA_NOTE_RELEASE_BETA' => 'Beta',
-'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
+'BETA_NOTE_RELEASE_RC' => 'Kandidát pro uvolnění/release',
 'BIC' => 'BIC:',
 'BILLING_ADDRESS' => 'Fakturační adresa',
 'BILLING_SHIPPING_SETTINGS' => 'Nastavení fakturačních údajů a dodacích adres',

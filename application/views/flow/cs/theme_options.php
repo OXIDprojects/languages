@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (145), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1318), SYSKO (9), zerog (15)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (145), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1388), SYSKO (9), zerog (15)
  */
 
 $sLangName  = 'Česky';
@@ -35,7 +35,7 @@ $aLang = array(
 'HELP_SHOP_THEME_iNewBasketItemMessage' => 'When customer adds products to cart, OXID eShop can behave differently. Set up what shall happen to give proper feedback to customer.',
 'HELP_SHOP_THEME_sBackgroundColor' => 'Specified as a hexadecimal value.<br>E.g.: #D83434',
 'HELP_SHOP_THEME_sBackgroundPath' => 'This is relative to the path <code>/out/flow/img/backgrounds/</code>.',
-'HELP_SHOP_THEME_sBlogUrl' => 'E.g.: http://blog.oxid-esales.com',
+'HELP_SHOP_THEME_sBlogUrl' => 'Např.: http://blog.oxid-esales.com',
 'HELP_SHOP_THEME_sCatIconsize' => 'In category view, the category pictures of subcategories are displayed in the defined size.',
 'HELP_SHOP_THEME_sCatPromotionsize' => 'Category promotion on start page needs special size for category pictures. Define size of those pictures here.',
 'HELP_SHOP_THEME_sCatThumbnailsize' => 'In category view, the picture of the selected category is displayed in the defined size.',
@@ -52,7 +52,7 @@ $aLang = array(
 'HELP_SHOP_THEME_sGoogleVendorId' => 'You can find this ID in your Trusted Stores Merchant Dashboard.',
 'HELP_SHOP_THEME_sIconsize' => 'Icons are the smallest pictures of a product. They are used: <br><ul><li>in the shopping cart.</li><li>if products are shown in the right menu (e.g. in <span class="filename_filepath_or_italic">TOP of the Shop</span> and <span class="filename_filepath_or_italic">Bargain</span>).</li></ul>For avoiding design issues caused by too big icons the icons are resized. Enter the maximum size for icons here.',
 'HELP_SHOP_THEME_sLogoFile' => 'This is relative to the path <code>/out/flow/img/</code>.',
-'HELP_SHOP_THEME_sLogoHeight' => 'Specify in as a pixel value.',
+'HELP_SHOP_THEME_sLogoHeight' => 'Údaje v pixelech',
 'HELP_SHOP_THEME_sLogoWidth' => 'Specify in as a pixel value.',
 'HELP_SHOP_THEME_sManufacturerIconsize' => 'Manufacturer\'s/brand logo is shown on start page in manufacturer\'s slider.',
 'HELP_SHOP_THEME_sPageLanguage' => 'The locale should be in the format of <language>_<country><br><br><Language> is a two-letter language code defined in ISO 639-1, and <country> is a two-letter country code defined in ISO 3166-1 alpha-2. Usually <country> should be all capitalized, and <language> should be in lowercase. e.g. en_US, en_GB, en_AU, fr_FR, de_DE, or ja_JP.',

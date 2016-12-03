@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: asot (45), b.verbelchuk (32), pianoservis (2825)
+ * @translators: asot (59), b.verbelchuk (32), pianoservis (2825)
  */
 
 $sLangName  = 'Українська';
@@ -30,33 +30,33 @@ $sLangName  = 'Українська';
 $aLang = array(
 'charset' => 'utf-8',
 'BACK_TO_OVERVIEW' => 'to overview',
-'DD_BASKET_BACK_TO_SHOP' => 'back to shop',
-'DD_CLOSE_MODAL' => 'close',
-'DD_CONTACT_ADDRESS_HEADING' => 'Address',
-'DD_CONTACT_FORM_HEADING' => 'Contact',
-'DD_CONTACT_PAGE_HEADING' => 'Contact us!',
-'DD_CONTACT_THANKYOU1' => 'Thank you.',
+'DD_BASKET_BACK_TO_SHOP' => 'повернутися до магазину',
+'DD_CLOSE_MODAL' => 'закрити',
+'DD_CONTACT_ADDRESS_HEADING' => 'Адреса',
+'DD_CONTACT_FORM_HEADING' => 'Контакти',
+'DD_CONTACT_PAGE_HEADING' => 'Зворотній зв\'язок',
+'DD_CONTACT_THANKYOU1' => 'Дякую!',
 'DD_CONTACT_THANKYOU2' => ' appreciates your comments.',
 'DD_DEMO_ADMIN_TOOL' => 'Open admin interface',
 'DD_DOWNLOADLINKS_HEADING' => 'Your download links - orders',
-'DD_DOWNLOADS_DOWNLOAD_TOOLTIP' => 'download',
+'DD_DOWNLOADS_DOWNLOAD_TOOLTIP' => 'завантажити',
 'DD_ERR_404_CONTACT_BUTTON' => 'to contact page',
 'DD_ERR_404_CONTACT_TEXT' => 'May we assist you?<br>Feel free to call us or write an email:',
-'DD_ERR_404_START_BUTTON' => 'Go to home page',
+'DD_ERR_404_START_BUTTON' => 'Перейти на головну',
 'DD_ERR_404_START_TEXT' => 'You may find the requested information from our home page:',
 'DD_FILE_ATTRIBUTES_FILENAME' => 'File name:',
 'DD_FILE_ATTRIBUTES_FILESIZE' => 'File size:',
-'DD_FILE_ATTRIBUTES_OCLOCK' => 'o\'clock',
-'DD_FOOTER_CONTACT_INFO' => 'Contact:',
+'DD_FILE_ATTRIBUTES_OCLOCK' => 'годин',
+'DD_FOOTER_CONTACT_INFO' => 'Контакти',
 'DD_FOOTER_FOLLOW_US' => 'Follow us:',
 'DD_FORGOT_PASSWORD_HEADING' => 'Forgot password',
-'DD_FORM_VALIDATION_CHECKONE' => 'Please select at least one option.',
+'DD_FORM_VALIDATION_CHECKONE' => 'Виберіть варіант',
 'DD_FORM_VALIDATION_INTEGER' => 'There are no decimal places allowed.',
 'DD_FORM_VALIDATION_NEGATIVENUMBER' => 'Please enter a negative number.',
 'DD_FORM_VALIDATION_NUMBER' => 'Please enter a number.',
-'DD_FORM_VALIDATION_PASSWORDAGAIN' => 'Passwords do not match.',
+'DD_FORM_VALIDATION_PASSWORDAGAIN' => 'Паролі не співпадають.',
 'DD_FORM_VALIDATION_POSITIVENUMBER' => 'Please enter a positive number.',
-'DD_FORM_VALIDATION_REQUIRED' => 'Please specify a value for this required field.',
+'DD_FORM_VALIDATION_REQUIRED' => 'Заповніть обов\'язкове поле',
 'DD_FORM_VALIDATION_VALIDEMAIL' => 'Please enter a valid email address.',
 'DD_GUESTBOOK_ENTRIES' => 'Entries',
 'DD_GUESTBOOK_ENTRY_FROM' => 'by',

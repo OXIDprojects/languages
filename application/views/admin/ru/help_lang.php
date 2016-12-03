@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: ascheider (10), asot (4), compisat (26), cyberkatze (8), ET (10), ilya (981), mantgomery (2), marco (1337), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: ascheider (10), asot (4), compisat (26), cyberkatze (8), ET (10), ilya (986), mantgomery (2), marco (1337), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -182,7 +182,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_SHOWTSINTERNATIONALFEESMESSAGE' => 'In the 4th step of the checkout process the CMS page "oxtsinternationalfees" is additionally displayed.',
 'HELP_SHOP_CONFIG_SORTFIELDS' => 'Here you can define the database fields which can be used for sorting product lists. Enter one field per row.<br>The most common entries are:<ul><li>oxtitle = Title</li><li>oxprice = Price</li><li>oxvarminprice = The lowest price if variants with different prices are used.</li><li>oxartnum = Product numbers</li><li>oxrating = Rating of the products</li><li>oxstock = Stock</li></ul>',
 'HELP_SHOP_CONFIG_STOCKOFFDEFAULTMESSAGE' => 'For each product you can set up a message if the product is not in stock.<br>If this setting is active, a message is shown if no specific message for for a product is entered. The default message <span class="filename_filepath_or_italic">This item is not in stock and must be back-ordered</span> is shown.',
-'HELP_SHOP_CONFIG_STOCKONDEFAULTMESSAGE' => 'For each product you can set up a message if the product is on stock.<br>If this setting is active, a message is shown if no specific message for for a product is entered. The default message <span class="filename_filepath_or_italic">Ready for shipping</span> is shown.',
+'HELP_SHOP_CONFIG_STOCKONDEFAULTMESSAGE' => 'Для всех товаров вы можете указать сообщение о наличии по умолчанию.<br>Если настройка активна, то показывается это сообщение, в случае если у товара не указано собственное сообщение. В этом случае отображается сообщение <span class="filename_filepath_or_italic">В наличии</span>.',
 'HELP_SHOP_CONFIG_USENEGATIVESTOCK' => 'With <span class="navipath_or_inputname">Allow negative Stock Values</span> you can define how stock levels are calculated of products are out of stock:<br><ul><li>If the setting is checked, negative stock values are calculated if further units are bought.</li><li>If the setting is unchecked, the stock value never falls below 0, even if further units are bought.</li></ul>',
 'HELP_SHOP_CONFIG_VIEWNETPRICE' => 'Цены отображаются в нетто.',
 'HELP_SHOP_MAIN_ACTIVE' => 'With <span class="navipath_or_inputname">Active</span> you can enable/disable the complete eShop. If the eShop is disabled, a message saying the eShop is temporary offline is displayed to the users. This can be useful for maintenance.',
