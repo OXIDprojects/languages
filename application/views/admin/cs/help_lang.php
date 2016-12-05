@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (145), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1388), SYSKO (9), zerog (15)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (145), inquisitor8 (414), jadi82 (7), marco (1), ondrej123 (2), RSee (1551), SYSKO (9), zerog (15)
  */
 
 $sLangName  = 'Česky';
@@ -131,7 +131,7 @@ $aLang = array(
 'HELP_PAYMENT_MAIN_SORT' => 'V <span class="navipath_or_inputname">Třízení</span> můžete zvolit pořadí platebních metod zobrazených uživateli; metoda s nejnižším číslem je první.',
 'HELP_PROMOTIONS_BANNER_PICTUREANDLINK' => 'Nahrejte obrázek banneru a zadejte jeho URL, na které povede po kliknutí na banner. Pokud je k banneru přiřazen produkt a URL není zadáno, po kliknutí na banner se zobrazí detail produktu.',
 'HELP_REVERSE_PROXY_GET_BACKEND' => 'Administrativní oblast je zobrazena bez reverzní proxy. Varnish header nemůže být přijat.',
-'HELP_REVERSE_PROXY_GET_FRONTEND' => 'Kontroluje, zda je reverzní proxy k dispozici pro frontend. <br />Test může selhat, pokud používáte odlišné protokoly (http/https) pro administraci a frontend.',
+'HELP_REVERSE_PROXY_GET_FRONTEND' => 'Zkontroluje, zda Reverse Proxy je k dispozici pro frontend. Hlavička úvodní stránky obchodu je ověřena. <br> Test by mohl selhat, pokud (HTTP / HTTPS) používáte pro různé domény nebo protokoly pro admin panel a přední stranu obchodu.',
 'HELP_SELECTLIST_MAIN_FIELDS' => 'Všechny dostupné možnosti jsou zobrazeny v seznamu <span class="navipath_or_inputname">Polí</span>. Můžete přidat nové pole pro přidání nových možností. Více informací v <a href="http://www.oxid-esales.com/en/resources/help-faq/eshop-manual/implementing-simple-variants-selection-lists">návodu</a> na webu OXID eSales.',
 'HELP_SELECTLIST_MAIN_TITLEIDENT' => 'V <span class="navipath_or_inputname">Pracovní název</span> můžete zadat dodatečný název, který ale nebude uživatelům Vašeho eShopu zobrazen. Tento pracovní název můžete např. použít pro rozlišení podobných výběrových seznamů (např. <span class="filename_filepath_or_italic">Velikost pro kalhoty</span> a <span class="filename_filepath_or_italic">Velikost pro košile</span>).',
 'HELP_SHOP_CACHE_CLASSES' => 'Zde nastavíte, které view-třídy adresáře jsou cachovány.<br> Měňte toto nastavení, pokud jste obeznámeni s mechanismem cachování !',

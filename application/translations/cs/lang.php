@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (145), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1388), SYSKO (9), zerog (15)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (145), inquisitor8 (414), jadi82 (7), marco (1), ondrej123 (2), RSee (1551), SYSKO (9), zerog (15)
  */
 
 $sLangName  = 'Česky';
@@ -451,7 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'Otevřít účet',
 'OPEN_PERSONAL_ACCOUNT' => 'Otevřít osobní zákaznický účet',
 'OR' => 'nebo',
-'ORDER' => 'Order',
+'ORDER' => 'Objednat',
 'ORDERS' => 'Objednávky:',
 'ORDER_COMPLETED' => 'Objednávka byla vytvořena',
 'ORDER_DATE' => 'Datum objednání:',

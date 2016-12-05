@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (145), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1388), SYSKO (9), zerog (15)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (145), inquisitor8 (414), jadi82 (7), marco (1), ondrej123 (2), RSee (1551), SYSKO (9), zerog (15)
  */
 
 $sLangName  = 'Česky';
@@ -43,7 +43,7 @@ $aLang = array(
 'DD_ERR_404_CONTACT_BUTTON' => 'ke stránce s kontakty',
 'DD_ERR_404_CONTACT_TEXT' => 'Můžeme Vám nějak pomoci?<br>Klidně nám zavolejte, nebo napište e-mail:',
 'DD_ERR_404_START_BUTTON' => 'Na úvodní stránku',
-'DD_ERR_404_START_TEXT' => 'You may find the requested information from our home page:',
+'DD_ERR_404_START_TEXT' => 'Požadované informace můžete najít na naší domovské stránce:',
 'DD_FILE_ATTRIBUTES_FILENAME' => 'Jméno souboru:',
 'DD_FILE_ATTRIBUTES_FILESIZE' => 'Velikost souboru:',
 'DD_FILE_ATTRIBUTES_OCLOCK' => 'hodin',
@@ -66,7 +66,7 @@ $aLang = array(
 'DD_LINKS_NO_ENTRIES' => 'Bohužel nejsou k dispozici žádné odkazy/linky.',
 'DD_LISTLOCATOR_FILTER_ATTRIBUTES' => 'Filtr:',
 'DD_LIST_SHOW_MORE' => 'Prohlédnout produkty...',
-'DD_LOGIN_ACCOUNT_PANEL_CREATE_BODY' => 'By creating an account with our store, you will be guided through the checkout process faster. In addition, you can store multiple shipping addresses and track orders in your account.',
+'DD_LOGIN_ACCOUNT_PANEL_CREATE_BODY' => 'Vytvořením účtu v našem obchodě, budete vedeni přes pokladní proces rychlejší. Kromě toho si můžete uložit více dodacích adres a sledování objednávek v účtu.',
 'DD_LOGIN_ACCOUNT_PANEL_CREATE_TITLE' => 'Otevřít účet',
 'DD_LOGIN_ACCOUNT_PANEL_LOGIN_TITLE' => 'Přihlášení',
 'DD_MINIBASKET_CONTINUE_SHOPPING' => 'nakupovat dále',
@@ -96,18 +96,18 @@ $aLang = array(
 'DETAILS_VPE_MESSAGE_1' => 'Tento produkt lze objednat jen v balení po',
 'DETAILS_VPE_MESSAGE_2' => 'kusů.',
 'FOOTER_NEWSLETTER_INFO' => 'Buďte informováni o nových produktech a nejlepších nabídkách pomocí e-mailu!',
-'MANUFACTURERSLIDER_SUBHEAD' => 'We present our carefully selected brands, whose products can be found in our shop.',
-'OF' => 'of',
-'PAGE_DETAILS_CUSTOMERS_ALSO_BOUGHT_SUBHEADER' => 'Customers who bought this item also bought one of the following products.',
-'SEARCH_SUBMIT' => 'Search',
-'SEARCH_TITLE' => 'Enter a search term...',
-'START_BARGAIN_HEADER' => 'Week\'s Special',
-'START_BARGAIN_SUBHEADER' => 'Save money with our current bargains!',
-'START_NEWEST_HEADER' => 'Just arrived',
-'START_NEWEST_SUBHEADER' => 'Fresh as it gets. One minute in the box and now already in store.',
-'START_TOP_PRODUCTS_HEADER' => 'Top seller',
-'START_TOP_PRODUCTS_SUBHEADER' => 'Only 2 products, but the best we can offer you.',
-'WIDGET_PRODUCT_RELATED_PRODUCTS_ACCESSORIES_SUBHEADER' => 'The following products fit well to this product.',
-'WIDGET_PRODUCT_RELATED_PRODUCTS_CROSSSELING_SUBHEADER' => 'Customers who viewed this product also viewed the following products.',
-'WIDGET_PRODUCT_RELATED_PRODUCTS_SIMILAR_SUBHEADER' => 'Take a look at our similar products.',
+'MANUFACTURERSLIDER_SUBHEAD' => 'Prezentujeme Vám pečlivě vybrané značky, jejichž produkty naleznete v našem obchodě.',
+'OF' => 'od',
+'PAGE_DETAILS_CUSTOMERS_ALSO_BOUGHT_SUBHEADER' => 'Zákazníci, kteří koupili tento produkt, koupili i tyto následující produkty.',
+'SEARCH_SUBMIT' => 'Hledat',
+'SEARCH_TITLE' => 'Zadejte výraz pro vyhledání...',
+'START_BARGAIN_HEADER' => 'Nabídky týdne',
+'START_BARGAIN_SUBHEADER' => 'Ušetřete peníze aktuální supernabídkou!',
+'START_NEWEST_HEADER' => 'Právě dorazilo',
+'START_NEWEST_SUBHEADER' => 'Čerstvěji to nejde. Právě teď v bedně a hned i v obchodě.',
+'START_TOP_PRODUCTS_HEADER' => 'Top produkty',
+'START_TOP_PRODUCTS_SUBHEADER' => 'Jen 2 produkty, za to ale ty nejlepší, které Vám můžeme nabídnout.',
+'WIDGET_PRODUCT_RELATED_PRODUCTS_ACCESSORIES_SUBHEADER' => 'Následující produkty se hodí k tomuto produktu',
+'WIDGET_PRODUCT_RELATED_PRODUCTS_CROSSSELING_SUBHEADER' => 'Zákaznící, kteří si prohlédli tento produkt, se podívali i na následující produkty.',
+'WIDGET_PRODUCT_RELATED_PRODUCTS_SIMILAR_SUBHEADER' => 'Koukněte též na naše podobné produkty.',
 );

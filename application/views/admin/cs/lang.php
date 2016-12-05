@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (145), inquisitor8 (400), jadi82 (7), marco (1), ondrej123 (2), RSee (1388), SYSKO (9), zerog (15)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (145), inquisitor8 (414), jadi82 (7), marco (1), ondrej123 (2), RSee (1551), SYSKO (9), zerog (15)
  */
 
 $sLangName  = 'Česky';
@@ -833,7 +833,7 @@ $aLang = array(
 'IS_REVERSE_PROXY_AVAILABLE' => 'Test dostupnosti reverzní proxy',
 'LANGUAGE_ABBERVATION' => 'Kód jazyka',
 'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Upozornění: Nemůžete měnit zkratku hlavního jazyka (ID 0)!',
-'LANGUAGE_ABBREVIATION_INVALID_ERROR' => 'Language abbreviation invalid! Permitted characters are a-z, A-Z, 0-9 and the underscore.',
+'LANGUAGE_ABBREVIATION_INVALID_ERROR' => 'Zkratka jazyka je nepřípustná! Povoleny jsou znaky a-z, A-Z, 0-9 a podtržítko.',
 'LANGUAGE_ACTIVE' => 'Povoleno ve frontendu eShopu',
 'LANGUAGE_ALREADYEXISTS_ERROR' => 'Chyba: jazyk s tímto označením už existuje!',
 'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Upozornění: V adresáři /admin nebyly pro daný jazyk nalezeny žádné jazykové soubory!',
@@ -870,7 +870,7 @@ $aLang = array(
 'MANUFACTURER_MAIN_ICONUPLOAD' => 'Nahrát ikonu',
 'MANUFACTURER_MAIN_ITEMSWITHMANUFACTURER' => 'Produkty tohoto výrobce',
 'MODULE_ACTIVATE' => 'Aktivovat',
-'MODULE_ACTIVATION_NOT_POSSIBLE_IN_DEMOMODE' => 'Please note: modules can\'t be activated or deactivated in demo shop mode.',
+'MODULE_ACTIVATION_NOT_POSSIBLE_IN_DEMOMODE' => 'Poznámka: V módu demo-shopu nelze moduly ani aktivovat, ani deaktivovat.',
 'MODULE_AUTHOR' => 'Autor',
 'MODULE_DEACTIVATE' => 'Deaktivovat',
 'MODULE_DELETEEXTENSION' => 'Chcete vymazat všechny informace o modulu, včetně konfiguračního nastavení a blokových informací pro předlohy?',
@@ -978,7 +978,7 @@ $aLang = array(
 'none' => 'žádná',
 'nonstackable_serial_detected' => 'Neplatná licence. Prosím zkuste zadat jiný kód.',
 'NO_PICTURES_CHANGES' => 'Žádná změna obrázků',
-'OLC_ERROR_RESPONSE_NOT_VALID' => 'Služba není k dispozici, zkuste to znovu později ... Jestli tento problém potrvá, zkontrolujte, zda váš obchod může odchozí spojení.',
+'OLC_ERROR_RESPONSE_NOT_VALID' => 'Služba není k dispozici, zkuste to znovu později ... Jestli tento problém potrvá, zkontrolujte, zda váš obchod může vytvořit odchozí spojení.',
 'OLC_ERROR_RESPONSE_UNEXPECTED' => 'Služba není k dispozici, zkuste to znovu později ... Jestli tento problém potrvá, zkontrolujte, zda váš obchod může odchozí spojení.',
 'OLC_ERROR_SERIAL_NOT_VALID' => 'Kontrola licenčního klíče selhala. Zkuste to znovu, nebo kontaktujte technickou podporu pokud k tomu dojde natrvalo.',
 'order' => 'Objednávka',
@@ -1117,7 +1117,7 @@ $aLang = array(
 'OXDIAG_MAIN_TITLE' => 'Diagnostika Vášeho OXID eShopu',
 'oxdiag_menu' => 'Diagnostický nástroj',
 'OXDIAG_MODIFIED' => 'Upravený',
-'OXDIAG_MODIFIEDHINTS1' => 'OXID eShop má sofistikovanou možnost rozšíření pomocí modulů bez změny odeslaných souborů. Nedoporučuje se a není nutné měnit soubory eShopu. Viz také naše <a href="http://www.oxidforge.org/wiki/Tutorials#How_to_Extend_OXID_eShop_With_Modules_.28Part_1.29" target=_blank>návody</a>.',
+'OXDIAG_MODIFIEDHINTS1' => 'OXID eShop má sofistikovanou možnost rozšíření pomocí modulů bez změny odeslaných souborů. Nedoporučuje se a není nutné měnit soubory eShopu. Viz také naše <a href="http://blog.oxid-esales.com/2009/02/how-extend-oxid-eshop-with-modules-part-1/" target=_blank>tutorials</a>.',
 'OXDIAG_MODIFIEDHINTS2' => 'Od té doby, kdy je OXID eShop ve verzi 4.2.0 je možné používat <a href="http://www.oxidforge.org/wiki/Downloads/4.2.0#New_Features" target=_blank> své vlastní šablony beze nutnosti měnit ty již odeslané</a> .',
 'OXDIAG_MODULES' => 'Moduly',
 'OXDIAG_MODULES_ID' => 'ID',
@@ -1367,7 +1367,7 @@ $aLang = array(
 'SHOP_CONFIG_ENABLE' => 'Povolit',
 'SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'Uživatelé mají potvrdit podmínky pro stažitelné a nehmotné produkty při finální kontrole',
 'SHOP_CONFIG_ENTERNETPRICE' => 'Zadat ceny produktů jako netto ceny (plus DPH)',
-'SHOP_CONFIG_ERROR_INVALID_VALUE' => 'Provided configuration value: %s is not valid.',
+'SHOP_CONFIG_ERROR_INVALID_VALUE' => 'Zadaná hodnota konfigurace %s je neplatná.',
 'SHOP_CONFIG_EXCLUDENONMATERIALPRODUCTS' => 'Nezapočítávat služby (např. dárkové certifikáty) do nákladů',
 'SHOP_CONFIG_EXPORTNUMBEROFLINES' => 'Počet řádků za nastavenou dobu pro CSV Export',
 'SHOP_CONFIG_EXPORTTICKERREFRESH' => 'Počet sekund před restartováním CSV Export záznamu',
@@ -1450,7 +1450,7 @@ $aLang = array(
 'SHOP_LICENSE_ERROR_GRACE_WILL_EXPIRE' => 'Platnost licenčního klíče vašeho OXID eShopu vypršela. OXID eShop bude off-line do 24 hodin. Zadejte prosím platný licenční klíč, nebo se obraťte na technickou podporu!',
 'SHOP_LICENSE_ERROR_incorrect_mandate_amount' => 'Počet licencovaných dílčích obchodů překročen. Proto byl zahájen skrytý odpočet 7 dnů. Po uplynutí této doby OXID eShop se přepne do režimu offline. Zadejte prosím platný licenční klíč, nebo se obraťte na technickou podporu!',
 'SHOP_LICENSE_ERROR_INFORMATION' => 'OXID eShop license information',
-'SHOP_LICENSE_ERROR_serial_expired' => 'Licenční klíč vašeho OXID eShop vypršel. To je důvod, proč bylo zahájeno skryté odpočítávání 7 dní . Po uplynutí této doby OXID eShop přejde do režimu offline. Zadejte prosím platný licenční klíč, nebo se obraťte na technickou podporu!',
+'SHOP_LICENSE_ERROR_serial_expired' => 'Licenční klíč vašeho OXID eShopu vypršel. To je důvod, proč bylo zahájeno skryté odpočítávání 7 dní . Po uplynutí této doby OXID eShop přejde do režimu offline. Zadejte prosím platný licenční klíč, nebo se obraťte na technickou podporu!',
 'SHOP_LICENSE_ERROR_shop_unlicensed' => 'Nastal problém s licenčním klíčem vašeho OXID eShopu. To je důvod, proč bylo zahájeno skryté odpočítávání 7 dní. Po uplynutí této doby OXID eShop přejde do režimu offline. Zadejte prosím platný licenční klíč, nebo se obraťte na technickou podporu!',
 'SHOP_LICENSE_MALL' => 'Mall mode',
 'SHOP_LICENSE_NEWSERIAL' => 'Přidat licenci',
@@ -1510,7 +1510,7 @@ $aLang = array(
 'SHOP_MALL_MALLINHERIT_OXWRAPPING' => 'Zdědit všechna <b>dárková balení</b> z rodičovského obchodu',
 'SHOP_MALL_MALLMODE' => 'Typ hlavní stránky (Start page)',
 'SHOP_MALL_MALLUSERS' => 'Povolit uživatele z ostatních obchodů',
-'SHOP_MALL_NATIVEIMAGES' => 'Načíst adresář "out" z aktivního obchodu',
+'SHOP_MALL_NATIVEIMAGES' => 'Načíst adresář /out z aktivního obchodu',
 'SHOP_MALL_NOSTARTSITE' => 'Ukázat hlavní obchod',
 'SHOP_MALL_PRICEADDITION' => 'Cenová přirážka na základní cenu',
 'SHOP_MALL_SAVE_INHERITANCE' => 'Uložit informace o dědění',
