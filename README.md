@@ -9,13 +9,13 @@ All translations made by the community are distributed under the open source lic
 
 ##Installation
 
-1. Upload the files you find in this package to the shop root of your running OXID eShop installation. Take care you keep the folder structure as you find it in this package.
+1. Upload the files you find in this package to the shop root of your running OXID eShop installation. Take care you keep the folder structure as you find it in this package. Or even better: use the [OXID Module Connector](https://github.com/OXIDprojects/OXID-Module-Connector) (OMC) for automatic installation.
 2. Go to the admin panel -> Master settings -> Languages and activate the language of your choosing
 3. Go to the admin panel -> Service -> Tools and hit the button "Update DB views now". Clean the tmp/ folder.
 4. Enjoy!
 
 For more information please visit
-http://wiki.oxidforge.org/Tutorials/Language_handling
+https://oxidforge.org/en/language-handling.html
 
 ##Warranty and support
 
