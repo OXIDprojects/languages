@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: crashover (330), fifo (9), marco (1), Marcus77 (35), val (1076)
+ * @translators: crashover (330), fifo (9), marco (2), Marcus77 (35), val (1076)
  */
 
 $sLangName  = 'Български';
@@ -474,7 +474,7 @@ $aLang = array(
 'EXCEPTION_CONNECTION_NODB' => 'Няма връзка с база данни!',
 'EXCEPTION_COULDNOTWRITETOFILE' => 'Не може да бъде отворено',
 'EXCEPTION_DELETING_VALID_FILE' => 'Не може да изтриете файла, докато има валидни сваляния',
-'EXCEPTION_DISABLED_DOWNLOADABLE_PRODUCTS' => 'За да използвате тази функция във фронтенда, трябва да разрешите опцията \\'Разрешете продукти за сваляне\\' в Основни настройки -> Базови настройки -> Настройки -> Продукти за сваляне.',
+'EXCEPTION_DISABLED_DOWNLOADABLE_PRODUCTS' => 'За да използвате тази функция във фронтенда, трябва да разрешите опцията \'Разрешете продукти за сваляне\' в Основни настройки -> Базови настройки -> Настройки -> Продукти за сваляне.',
 'EXCEPTION_FILENAMEINVALIDCHARS' => 'Грешни символи в името на файла',
 'EXCEPTION_FILENOTFOUND' => 'Файлът не е намерен (виж EXCEPTION_LOG.txt за подробности',
 'EXCEPTION_FILEUPLOADERROR_1' => 'Качения файл надвишава максималния разрешен размер',
