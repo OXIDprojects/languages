@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: ET (30), Gecker (1), gvlimpt (97), hoekie (37), marco (932), topconcepts (111)
+ * @translators: ET (30), Gecker (1), gvlimpt (97), hoekie (37), marco (932), OnlineShopNRW (2), topconcepts (111)
  */
 
 $sLangName  = 'Nederlands';

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: patmat2809 (1), urecheatu007 (313), valdone (189)
+ * @translators: imarius (93), patmat2809 (1), urecheatu007 (313), valdone (189)
  */
 
 $sLangName  = 'Română';
@@ -53,17 +53,17 @@ $aLang = array(
 'ERROR_DB_ALREADY_EXISTS' => 'EROARE: Se pare ca exista deja o instalare de OXID eShop in baza de date %s. Trebuie stearsa inainte de continuare!',
 'ERROR_DB_CONNECT' => 'EROARE: Nu este posibila conectarea la baza de date!',
 'ERROR_FILL_ALL_FIELDS' => 'EROARE: Trebuie completate toate campurile necesare!',
-'ERROR_MYSQL_VERSION_DOES_NOT_FIT_REQUIREMENTS' => 'MySQL version does not fit system requiremens',
+'ERROR_MYSQL_VERSION_DOES_NOT_FIT_REQUIREMENTS' => 'Versiunea de MySQL nu indeplineste cerintele minime de sistem',
 'ERROR_NOT_AVAILABLE' => 'ERROR: %s not found!',
-'ERROR_NOT_WRITABLE' => 'ERROR: %s not writeable!',
+'ERROR_NOT_WRITABLE' => 'Eroare: Nu se poate scrie pe %s !',
 'ERROR_OPENING_SQL_FILE' => 'ERROR: Can not open SQL file %s!',
-'ERROR_PASSWORDS_DO_NOT_MATCH' => 'Passwords do not match!',
+'ERROR_PASSWORDS_DO_NOT_MATCH' => 'Parolele nu se potrivesc!',
 'ERROR_PASSWORD_TOO_SHORT' => 'Password is too short!',
-'ERROR_SETUP_CANCELLED' => 'Setup has been cancelled because you didn\'t accept the license conditions.',
+'ERROR_SETUP_CANCELLED' => 'Instalarea a fost anulata deoarece nu ati acceptat conditiile licentei.',
 'ERROR_USER_NAME_DOES_NOT_MATCH_PATTERN' => 'Please enter a valid e-mail address!',
-'ERROR_VIEWS_CANT_CREATE' => 'ERROR: Can\'t create views. Please check your database user privileges.',
+'ERROR_VIEWS_CANT_CREATE' => 'EROARE: Nu se pot crea vizualizari. Va rugam sa verificati privilegiile utilizatorului bazei de date.',
 'ERROR_VIEWS_CANT_DROP' => 'ERROR: Can\'t drop views. Please check your database user privileges.',
-'ERROR_VIEWS_CANT_SELECT' => 'ERROR: Can\'t select from views. Please check your database user privileges.',
+'ERROR_VIEWS_CANT_SELECT' => 'EROARE: Nu se poate selecta din vizualizari. Va rugam sa verificati privilegiile utilizatorului bazei de date.',
 'FOOTER_OXID_ESALES' => '© OXID eSales AG 2003 - Y',
 'HEADER_META_MAIN_TITLE' => 'OXID eShop installation wizard',
 'HEADER_TEXT_SETUP_NOT_RUNS_AUTOMATICLY' => 'If setup does not continue in a few seconds, please click ',

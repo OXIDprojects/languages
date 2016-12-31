@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: flohthuka (322), Glagnar (126), gnomic (792), krumoda (2), topconcepts (811)
+ * @translators: flohthuka (322), frederik (2), Glagnar (126), gnomic (792), krumoda (2), topconcepts (811)
  */
 
 $sLangName  = 'Dansk';

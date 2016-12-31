@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: topconcepts (182)
+ * @translators: frederik (4), topconcepts (182)
  */
 
 $sLangName  = 'Norsk Bokmål';
@@ -86,8 +86,8 @@ $aLang = array(
 'ARTICLE_EXTEND_LENGTH' => 'L:',
 'ARTICLE_EXTEND_MASS' => 'Dimensions',
 'ARTICLE_EXTEND_MEDIAURLS' => 'Media URLs',
-'ARTICLE_EXTEND_NONMATERIAL' => 'Intangible Product',
-'ARTICLE_EXTEND_QUESTIONEMAIL' => 'Alt. Contact',
+'ARTICLE_EXTEND_NONMATERIAL' => 'Immaterielle produkter',
+'ARTICLE_EXTEND_QUESTIONEMAIL' => 'alternativ kontakt',
 'ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'Confirm terms and conditions',
 'ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Skip all negative Discounts<br>(Discounts, Vouchers, Delivery ...)',
 'ARTICLE_EXTEND_TEMPLATE' => 'Alt. Template',
