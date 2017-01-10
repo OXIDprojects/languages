@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: frederik (4), topconcepts (182)
+ * @translators: frederik (12), topconcepts (182)
  */
 
 $sLangName  = 'Norsk Bokmål';

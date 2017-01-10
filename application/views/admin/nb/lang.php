@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: frederik (4), topconcepts (182)
+ * @translators: frederik (12), topconcepts (182)
  */
 
 $sLangName  = 'Norsk Bokmål';
@@ -29,10 +29,10 @@ $sLangName  = 'Norsk Bokmål';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACTIONS_LIST_MENUITEM' => 'Customer Information',
-'ACTIONS_LIST_MENUSUBITEM' => 'Promotions',
-'ACTIONS_MAIN_ALLARTICLES' => 'All available Products',
-'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Promoted Products',
+'ACTIONS_LIST_MENUITEM' => 'Kundeopplysninger',
+'ACTIONS_LIST_MENUSUBITEM' => 'Kampanjer',
+'ACTIONS_MAIN_ALLARTICLES' => 'Alle tilgjengelige produkter',
+'ACTIONS_MAIN_ALLARTICLESWITHATTR' => 'Relaterte produkter',
 'ACTIONS_MAIN_NOTSELECTED' => 'Please select one from above list to make changes',
 'ADMINGB_LIST_AUTHOR' => 'Author',
 'ADMINGB_LIST_ENTRY' => 'Entry',
@@ -88,7 +88,7 @@ $aLang = array(
 'ARTICLE_EXTEND_MEDIAURLS' => 'Media URLs',
 'ARTICLE_EXTEND_NONMATERIAL' => 'Immaterielle produkter',
 'ARTICLE_EXTEND_QUESTIONEMAIL' => 'alternativ kontakt',
-'ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'Confirm terms and conditions',
+'ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'Bekreft vilkår og betingelser',
 'ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Skip all negative Discounts<br>(Discounts, Vouchers, Delivery ...)',
 'ARTICLE_EXTEND_TEMPLATE' => 'Alt. Template',
 'ARTICLE_EXTEND_TPRICE' => 'RRP',
