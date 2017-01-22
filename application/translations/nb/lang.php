@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: frederik (12), topconcepts (182)
+ * @translators: frederik (72), topconcepts (182)
  */
 
 $sLangName  = 'Norsk Bokmål';
@@ -33,23 +33,23 @@ $aLang = array(
 'ACCOUNT' => 'Konto',
 'ACCOUNT_INFORMATION' => 'Kontoopplysninger',
 'ADD' => 'legge til',
-'ADDITIONAL_INFO' => 'Additional info',
-'ADDRESS' => 'Address',
-'ADDRESSES' => 'Addresses',
-'ADD_TAGS' => 'Add tags',
-'ADD_THIS_PAGE_TO' => 'Add this page to',
+'ADDITIONAL_INFO' => 'tilleggsinformasjon',
+'ADDRESS' => 'Adresse',
+'ADDRESSES' => 'Adresser',
+'ADD_TAGS' => 'Legg til merkelapper',
+'ADD_THIS_PAGE_TO' => 'Registrere hos',
 'ADD_TO_CART' => 'Add to cart',
-'ADD_TO_GIFT_REGISTRY' => 'Add to gift registry',
+'ADD_TO_GIFT_REGISTRY' => 'På ønskelisten',
 'ADD_TO_LISTMANIA_LIST' => 'Add to listmania list',
-'ADD_TO_WISH_LIST' => 'Add to wish list',
+'ADD_TO_WISH_LIST' => 'Legg til i ønskelisten',
 'ADD_WRAPPING' => 'Add gift wrap',
-'ADD_YOUR_COMMENTS' => 'Add your comments',
-'ALL' => 'All',
+'ADD_YOUR_COMMENTS' => 'Din meddelelse',
+'ALL' => 'Alt',
 'ALL_BRANDS' => 'All Brands',
-'ALL_LISTMANIA' => 'All listmania',
+'ALL_LISTMANIA' => 'Alle favorittlister',
 'ALREADY_ADDED_TAG' => 'You already tagged this text',
-'ALREADY_CUSTOMER' => 'I am already a customer',
-'APPLAY' => 'Apply',
+'ALREADY_CUSTOMER' => 'jeg er allerede kunde',
+'APPLAY' => 'Godkjenn',
 'ARTNUM' => 'Product number',
 'ATENTION_GREETING_CARD' => 'Attention - greeting card!',
 'AUTHOR' => 'Author',
