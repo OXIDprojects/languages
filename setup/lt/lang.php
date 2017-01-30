@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (24), akasauskas (14), creaturex (5), gvidas123 (1), linasg (3), mantas.vaitkunas (1), muslimukas (8), NFQ Lithuania (2756), regneo (1), sanis (1), swolou (3), tlt (204), vaidasif (75)
+ * @translators: abejingas (188), agladutis (24), akasauskas (14), creaturex (5), dumus (93), gvidas123 (1), linasg (3), mantas.vaitkunas (1), muslimukas (8), NFQ Lithuania (2756), regneo (1), sanis (1), swolou (3), tlt (204), vaidasif (75)
  */
 
 $sLangName  = 'Lietuvių';
@@ -38,7 +38,7 @@ $aLang = array(
 'BUTTON_RADIO_LICENCE_ACCEPT' => 'Su licencijos sąlygomis sutinku.',
 'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'Nesutinku su sąlygomis',
 'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => '<strong>Neįdiegti</strong> demonstracinės parduotuvės duomenų',
-'BUTTON_START_INSTALL' => 'Restart setup',
+'BUTTON_START_INSTALL' => 'Perkrauti nustatymus',
 'BUTTON_WRITE_DATA' => 'Išsaugoti ir tęsti',
 'BUTTON_WRITE_LICENCE' => 'Išsaugoti licenzijos raktą',
 'ERROR_BAD_DEMODATA' => 'ERROR: Issue while inserting this SQL statements: ',
