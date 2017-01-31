@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (24), akasauskas (14), creaturex (5), dumus (93), gvidas123 (1), linasg (3), mantas.vaitkunas (1), muslimukas (8), NFQ Lithuania (2756), regneo (1), sanis (1), swolou (3), tlt (204), vaidasif (75)
+ * @translators: abejingas (188), agladutis (24), akasauskas (14), creaturex (5), dumus (94), gvidas123 (1), linasg (3), mantas.vaitkunas (1), muslimukas (8), NFQ Lithuania (2756), regneo (1), sanis (1), swolou (3), tlt (204), vaidasif (75)
  */
 
 $sLangName  = 'Lietuvių';
@@ -461,7 +461,7 @@ Attention: Diferencijuojama kaina turi būti mažesnė nei normali kaina.',
 'EMAIL_PRICEALARM_CUSTOMER_CLICKHERE1' => 'To get directly to the product please click ',
 'EMAIL_PRICEALARM_CUSTOMER_CLICKHERE2' => 'čia',
 'EMAIL_PRICEALARM_CUSTOMER_HAVEPRICEALARM' => 'we have a Price Alert in',
-'EMAIL_PRICEALARM_CUSTOMER_HY' => 'Hallo,',
+'EMAIL_PRICEALARM_CUSTOMER_HY' => 'Sveiki,',
 'EMAIL_PRICEALARM_CUSTOMER_ITEM1' => 'The Product',
 'EMAIL_PRICEALARM_CUSTOMER_ITEM2' => 'you\'re interested in and you offered a price of',
 'EMAIL_PRICEALARM_CUSTOMER_ITEM3' => 'is now available for',
