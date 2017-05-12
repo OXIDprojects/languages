@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (19), simon.runer (573)
+ * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (21), simon.runer (573)
  */
 
 $sLangName  = 'Italiano';
@@ -95,7 +95,7 @@ $aLang = array(
 'DD_WISHLIST_HEADING' => 'Wishlist',
 'DETAILS_VPE_MESSAGE_1' => 'This product can only be ordered in packaging units of ',
 'DETAILS_VPE_MESSAGE_2' => 'pieces.',
-'FOOTER_NEWSLETTER_INFO' => 'Get informed about the latest products and offers per email.',
+'FOOTER_NEWSLETTER_INFO' => 'Ottieni informazioni sugli ultimi prodotti e offerte via email.',
 'MANUFACTURERSLIDER_SUBHEAD' => 'We present our carefully selected brands, whose products can be found in our shop.',
 'OF' => 'of',
 'PAGE_DETAILS_CUSTOMERS_ALSO_BOUGHT_SUBHEADER' => 'Customers who bought this item also bought one of the following products.',
