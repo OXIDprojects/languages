@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3112), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3524), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -40,7 +40,7 @@ $aLang = array(
 'HELP_SHOP_THEME_sCatPromotionsize' => 'Azok a kategóriák, amelyek a kezdőoldalon jelennek meg, szándék szerint más méretet igényelnek. Ezt állíthatja be itt.',
 'HELP_SHOP_THEME_sCatThumbnailsize' => 'Határozza meg a kategória képek méretét pixelben (szélesség*magasság)',
 'HELP_SHOP_THEME_sDeliveryDaysNotOnStock' => 'Ez alatt az megrendelés szállításának előre kiszámítható dátumát értjük. Amennyiben a megrendelés több terméket tartalmaz, válassza ki a legkésőbbi szállítási időpontot.<br><br>Ha az ügyfeleinek egy időtartamot jelöl meg, akkor adja meg az időtartam utolsó napját. Ha például 5-7 napon belül történik megrendelés szállítása, akkor adjon meg 7 napot.',
-'HELP_SHOP_THEME_sDeliveryDaysOnStock' => 'The estimated date on which you expect delivery of the order to the customer. If the order contains multiple items, select the latest delivery date. If you message a range of days, please include the later end of the range. (e.g., 7 days if your range is 5-7 days).',
+'HELP_SHOP_THEME_sDeliveryDaysOnStock' => 'Ez az előre látható szállítás dátuma, amelyet a vásárlónak megnevez. Amennyiben a megrendelés több terméket tartalmaz, akkor adja meg a szállítás legkésőbbi dátumát. Ha ön a szállítás időtartamát tekinti, pl. 5-7 nap, akkor adja meg az időtartam legkésőbbi napját, azaz 7 napot.',
 'HELP_SHOP_THEME_sEmailLogo' => 'Relativ elérési út <code>/out/flow/img/</code>.',
 'HELP_SHOP_THEME_sFacebookUrl' => 'Pl.: https://www.facebook.com/oxidesales',
 'HELP_SHOP_THEME_sFaviconFile' => 'A Favicon alatt az az ikon értendő, amely az ön weboldalán a böngésző fülén megjelenik.<br>Általában egy .ico kiterjesztésű fájl.<br>Relativ elérési útvonal <code>/out/flow/img/favicons/</code>.',

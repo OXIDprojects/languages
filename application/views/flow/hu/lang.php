@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3112), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3524), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -95,7 +95,7 @@ $aLang = array(
 'DD_WISHLIST_HEADING' => 'Kívánságlista',
 'DETAILS_VPE_MESSAGE_1' => 'Ez a termék csak csomagolási egységben, egységenként',
 'DETAILS_VPE_MESSAGE_2' => 'vásárolható.',
-'FOOTER_NEWSLETTER_INFO' => 'A legújabb termékek és a legjobb termékek ajánlása e-mailben, hogy ne mulasszon el semmit.',
+'FOOTER_NEWSLETTER_INFO' => 'A legújabb- és a legjobb termékek ajánlása e-mailben, hogy ne mulasszon el semmit.',
 'MANUFACTURERSLIDER_SUBHEAD' => 'Bemutatjuk önnek az általunk gondosan kiválasztott márkáinkat, amelyek termékei az áruházunkban kaphatók.',
 'OF' => 'von',
 'PAGE_DETAILS_CUSTOMERS_ALSO_BOUGHT_SUBHEADER' => 'Az ügyfelek, akik ezt a terméket vásárolták, a következő termékeket vásárolták.',

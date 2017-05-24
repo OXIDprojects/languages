@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3112), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3524), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -30,7 +30,7 @@ $sLangName  = 'Magyar';
 $aLang = array(
 'charset' => 'utf-8',
 'HELP_SHOP_THEME_blShowListDisplayType' => 'Az ügyfél is kiválaszthatja a megjelenítendő terméklista típusát a vásárlói nézetben? Amennyiben ez az opció nem aktív, akkor a terméklistanézet úgy jelenik meg, ahogy Ön a "Alapértelmezett termélista típusa" opciósmezőben kiválasztotta.',
-'HELP_SHOP_THEME_iNewBasketItemMessage' => 'When customer adds products to cart, OXID eShop can behave differently. Set up what shall happen to give proper feedback to customer.',
+'HELP_SHOP_THEME_iNewBasketItemMessage' => 'Ha a vásárlók egy terméket a kosárba helyeznek az oxid különböző visszajelzési műveleteket végezhet el.',
 'HELP_SHOP_THEME_sCatIconsize' => 'Az alkategória képek előnézete akkor jelenik meg, ha felhasználó azok között a kategóriák között navigál, amelyek alkategóriákat is tartalmaznak.',
 'HELP_SHOP_THEME_sCatPromotionsize' => 'Azok a kategóriák, amelyek a kezdőoldalon jelennek meg, szándék szerint más méretet igényelnek. Ezt állíthatja be itt.',
 'HELP_SHOP_THEME_sCatThumbnailsize' => 'Határozza meg a kategória képek méretét pixelben (szélesség*magasság)',
@@ -51,11 +51,11 @@ $aLang = array(
 'SHOP_THEME_GROUP_display' => 'Megjelenítés',
 'SHOP_THEME_GROUP_features' => 'Funkciók',
 'SHOP_THEME_GROUP_images' => 'Képek',
-'SHOP_THEME_iNewBasketItemMessage' => 'Select action when product is added to cart',
-'SHOP_THEME_iNewBasketItemMessage_0' => 'None',
-'SHOP_THEME_iNewBasketItemMessage_1' => 'Display message',
-'SHOP_THEME_iNewBasketItemMessage_2' => 'Open popup',
-'SHOP_THEME_iNewBasketItemMessage_3' => 'Open basket',
+'SHOP_THEME_iNewBasketItemMessage' => 'Ha egy termék a kosárba kerül, a következő művelet futtatása',
+'SHOP_THEME_iNewBasketItemMessage_0' => 'Ne tegyen semmit',
+'SHOP_THEME_iNewBasketItemMessage_1' => 'Jelzés megjelenítése',
+'SHOP_THEME_iNewBasketItemMessage_2' => 'Felpattanó ablak megjelenítése',
+'SHOP_THEME_iNewBasketItemMessage_3' => 'Kosár megnyitása',
 'SHOP_THEME_iTopNaviCatCount' => 'A navigációs menüben megjelenített kategóriák száma, a további kategóriák a "Több" menüre kattintva jelennek meg.',
 'SHOP_THEME_sCatIconsize' => 'Az alkategóriaképek mérete pixelben (szélesség*magasság)',
 'SHOP_THEME_sCatPromotionsize' => 'A kezdőlapon megjelenő kategóriaképek mérete pixelben (szélesség*magasság)',

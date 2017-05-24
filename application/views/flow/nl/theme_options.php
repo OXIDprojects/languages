@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: ET (30), Gecker (1), gvlimpt (97), hoekie (37), marco (932), OnlineShopNRW (2), topconcepts (111)
+ * @translators: ET (30), Gecker (1), gvlimpt (97), hoekie (38), marco (932), OnlineShopNRW (2), topconcepts (111)
  */
 
 $sLangName  = 'Nederlands';
@@ -78,7 +78,7 @@ $aLang = array(
 'SHOP_THEME_blFooterShowNews' => 'Use news link',
 'SHOP_THEME_blFooterShowNewsletter' => 'Use newsletter link',
 'SHOP_THEME_blFooterShowNewsletterForm' => 'Use newsletter form',
-'SHOP_THEME_blFullwidthLayout' => 'Activate full with layout',
+'SHOP_THEME_blFullwidthLayout' => 'Activate full width layout',
 'SHOP_THEME_blGAAnonymizeIPs' => 'Anonymize IP-Adresses',
 'SHOP_THEME_blShowBirthdayFields' => 'Display input fields for date of birth when users enter their personal data',
 'SHOP_THEME_blShowFinalStep' => 'Show order confirmation after order is finished (5th Step in Checkout)',
