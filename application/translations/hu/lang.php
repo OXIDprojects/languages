@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3524), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3530), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -267,7 +267,7 @@ $aLang = array(
 'GUESTBOOK' => 'Vendégkönyv',
 'HAVE_A_LOOK' => 'Nézd meg',
 'HAVE_YOU_FORGOTTEN_PASSWORD' => 'Elfelejtette a jelszavát?',
-'HAVE_YOU_SEEN' => 'Ajánlott termékek?',
+'HAVE_YOU_SEEN' => 'Látta már?',
 'HELP' => 'Súgó',
 'HERE_YOU_CAN_ENETER_MESSAGE' => 'Ha közlendője van számunkra, itt megteheti.',
 'HERE_YOU_SET_UP_NEW_PASSWORD' => 'Semmi baj! Itt beállíthat egy új jelszót.',
@@ -671,7 +671,7 @@ $aLang = array(
 'SEND_GIFT_REGISTRY' => 'Kívánságlista küldése',
 'SEND_INVITE_TO' => 'Meghívó küldése, címzett',
 'SERVICES' => 'Szervíz',
-'SHIPMENT_TO' => 'A szállítmány küldése, címzett',
+'SHIPMENT_TO' => 'A szállítmány címzettje',
 'SHIPMENT_TRACKING' => 'Link a szállítás követéséhez',
 'SHIPPED' => 'elküldve!',
 'SHIPPING' => 'Szállítás',
@@ -692,7 +692,7 @@ $aLang = array(
 'STAR' => 'Csillag',
 'STARS' => 'Csillag',
 'START_DOWNLOADING_UNTIL' => 'Kérem kezdje meg a letöltést - letöltés kezdetének határideje',
-'STATUS' => 'Státusz',
+'STATUS' => 'Állapot',
 'STAY_INFORMED' => 'Tájékozódjon!',
 'STEPS_BASKET' => '1. A kosár áttekintése',
 'STEPS_ORDER' => '4. Ellenőriz és elküld',

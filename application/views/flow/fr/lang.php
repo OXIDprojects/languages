@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: alexraimondo (1), chatard (318), cowboy9571 (10), ET (10), marco (1), patmat2809 (5), Phenix (203), piccobello (1), Rainbow40 (2), rava3000 (8), vikapera (376)
+ * @translators: alexraimondo (1), Alpha-Sys (5), chatard (318), cowboy9571 (10), ET (10), marco (1), patmat2809 (5), Phenix (203), piccobello (1), Rainbow40 (2), rava3000 (8), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -29,7 +29,7 @@ $sLangName  = 'Français';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'BACK_TO_OVERVIEW' => 'to overview',
+'BACK_TO_OVERVIEW' => 'Retour à l\'aperçu',
 'DD_BASKET_BACK_TO_SHOP' => 'back to shop',
 'DD_CLOSE_MODAL' => 'close',
 'DD_CONTACT_ADDRESS_HEADING' => 'Address',
@@ -92,14 +92,14 @@ $aLang = array(
 'DD_USER_SHIPPING_ADD_DELIVERY_ADDRESS' => 'add delivery address',
 'DD_USER_SHIPPING_LABEL_STATE' => 'State:',
 'DD_USER_SHIPPING_SELECT_ADDRESS' => 'select',
-'DD_WISHLIST_HEADING' => 'Wishlist',
+'DD_WISHLIST_HEADING' => 'Liste de souhaits',
 'DETAILS_VPE_MESSAGE_1' => 'This product can only be ordered in packaging units of ',
 'DETAILS_VPE_MESSAGE_2' => 'pieces.',
 'FOOTER_NEWSLETTER_INFO' => 'Get informed about the latest products and offers per email.',
 'MANUFACTURERSLIDER_SUBHEAD' => 'We present our carefully selected brands, whose products can be found in our shop.',
-'OF' => 'of',
-'PAGE_DETAILS_CUSTOMERS_ALSO_BOUGHT_SUBHEADER' => 'Customers who bought this item also bought one of the following products.',
-'SEARCH_SUBMIT' => 'Search',
+'OF' => 'sur',
+'PAGE_DETAILS_CUSTOMERS_ALSO_BOUGHT_SUBHEADER' => 'Lies clients ayant commandé ce produits ont également été séduits par:',
+'SEARCH_SUBMIT' => 'Rechercher',
 'SEARCH_TITLE' => 'Enter a search term...',
 'START_BARGAIN_HEADER' => 'Week\'s Special',
 'START_BARGAIN_SUBHEADER' => 'Save money with our current bargains!',

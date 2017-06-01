@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (21), simon.runer (573)
+ * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (21), jonashess (7), simon.runer (573)
  */
 
 $sLangName  = 'Italiano';
@@ -75,7 +75,7 @@ $aLang = array(
 'DD_NEWSLETTER_OPTIN_HEADING' => 'Your newsletter subscription',
 'DD_ORDERSHIPPED_HEADING' => 'Delivery confirmation - Order',
 'DD_ORDER_CUST_HEADING' => 'Order',
-'DD_ORDER_ORDERDATE' => 'Date:',
+'DD_ORDER_ORDERDATE' => 'Data:',
 'DD_OWNER_REMINDER_HEADING' => 'Low stock',
 'DD_PRICEALARM_HEADING' => 'Pricealarm',
 'DD_PRODUCTMAIN_STOCKSTATUS' => 'Stock',

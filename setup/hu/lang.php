@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3524), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3530), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -120,7 +120,7 @@ $aLang = array(
                                                     79098 Freiburg<br>
                                                     Deutschland<br>',
 'STEP_1_CHECK_UPDATES' => 'Frissítések rendszeres ellenőrzése.',
-'STEP_1_DESC' => 'Willkommen beim Installationsassistenten für den OXID eShop',
+'STEP_1_DESC' => 'Üdvözli Önt az OXID eShop telepítő asszisztense',
 'STEP_1_TEXT' => '<p>A sikeres és egyszerű telepítés érdekében, szánjon arra időt, hogy a következő pontokat figyelmesen olvassa el lépésről, lépésre.</p> <p>Sok sikert kívánunk az OXID eShop-hoz!</p>',
 'STEP_1_TITLE' => 'Üdvözöljük!',
 'STEP_2_TITLE' => 'Licencfeltételek',

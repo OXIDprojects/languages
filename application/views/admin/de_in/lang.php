@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: AWIDON (2), dsb (1), marco (4982), patmat2809 (1), simoneschuppe (4), SvenBrunk (2), Thielo (1)
+ * @translators: AWIDON (2), dsb (1), jonashess (1), marco (4982), patmat2809 (1), simoneschuppe (4), SvenBrunk (2), Thielo (1)
  */
 
 $sLangName  = 'Deutsch informell';
@@ -484,7 +484,7 @@ $aLang = array(
 'EXCEPTION_FILEUPLOADERROR_6' => 'Temporärer Ordner nicht verfügbar',
 'EXCEPTION_FILEUPLOADERROR_7' => 'Schreibfehler',
 'EXCEPTION_FILEUPLOADERROR_8' => 'Ungültige Dateiendung',
-'EXCEPTION_MODULE_NOT_LOADED' => 'Module kann nicht geladen werden',
+'EXCEPTION_MODULE_NOT_LOADED' => 'Modul kann nicht geladen werden',
 'EXCEPTION_NODESCRIPTIONADDED' => 'Bitte Beschreibung angeben',
 'EXCEPTION_NOFILE' => 'Keine Dateien hochgeladen',
 'EXCEPTION_NOMEDIAADDED' => 'Bitte Medien URL angeben',

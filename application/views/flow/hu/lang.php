@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3524), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3530), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -79,7 +79,7 @@ $aLang = array(
 'DD_OWNER_REMINDER_HEADING' => 'Raktárkészlet alacsony',
 'DD_PRICEALARM_HEADING' => 'Árriasztás',
 'DD_PRODUCTMAIN_STOCKSTATUS' => 'Raktármennyiség',
-'DD_RATING_CUSTOMERRATINGS' => 'Ügyfél vélemények',
+'DD_RATING_CUSTOMERRATINGS' => 'Ügyfél vélemény',
 'DD_RECOMMENDATION_EDIT_BACK_TO_LIST' => 'Vissza az áttekintéshez',
 'DD_REGISTER_HEADING' => 'Az ön regisztrálása',
 'DD_ROLES_BEMAIN_UIROOTHEADER' => 'Menü',
