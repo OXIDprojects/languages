@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3530), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3640), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -38,7 +38,7 @@ $aLang = array(
 'DD_CONTACT_THANKYOU1' => 'Köszönjük az üzenetét',
 'DD_CONTACT_THANKYOU2' => '.',
 'DD_DEMO_ADMIN_TOOL' => 'Admin-Tool indítása',
-'DD_DOWNLOADLINKS_HEADING' => 'Megrendelési linkje - Megrendelés',
+'DD_DOWNLOADLINKS_HEADING' => 'Letöltési linkje - Megrendelés',
 'DD_DOWNLOADS_DOWNLOAD_TOOLTIP' => 'letöltés',
 'DD_ERR_404_CONTACT_BUTTON' => 'a Kapcsolatok oldalra',
 'DD_ERR_404_CONTACT_TEXT' => 'Közvetlen segítségre van szüksége?<br>Szívesen fogadjuk a hívását, vagy az e-mailjét:',
@@ -56,24 +56,24 @@ $aLang = array(
 'DD_FORM_VALIDATION_NUMBER' => 'Kérem, adjon meg egy számot.',
 'DD_FORM_VALIDATION_PASSWORDAGAIN' => 'A megadott jelszavak nem egyeznek.',
 'DD_FORM_VALIDATION_POSITIVENUMBER' => 'Kérem, adjon meg egy pozitív egész számot.',
-'DD_FORM_VALIDATION_REQUIRED' => 'Kérem adja meg az értéket.',
+'DD_FORM_VALIDATION_REQUIRED' => 'Kérem, adja meg az értéket.',
 'DD_FORM_VALIDATION_VALIDEMAIL' => 'Kérem, adjon meg egy érvényes e-mail címet.',
 'DD_GUESTBOOK_ENTRIES' => 'Bejegyzések',
-'DD_GUESTBOOK_ENTRY_FROM' => 'Feladó',
-'DD_GUESTBOOK_ENTRY_ON' => 'címzett',
+'DD_GUESTBOOK_ENTRY_FROM' => 'Szerző:',
+'DD_GUESTBOOK_ENTRY_ON' => '| bejegyzés kelte:',
 'DD_INVITE_HEADING' => 'Termékajánlás',
 'DD_INVITE_LINK' => 'Link',
 'DD_LINKS_NO_ENTRIES' => 'Sajnos még nem adott meg egy linket sem.',
 'DD_LISTLOCATOR_FILTER_ATTRIBUTES' => 'Szűrés:',
 'DD_LIST_SHOW_MORE' => 'Termékek megtekintése...',
-'DD_LOGIN_ACCOUNT_PANEL_CREATE_BODY' => 'Az áruházunkba történő bejelentkezése segítéségével könnyebben jut a megrendelési folyamathoz, továbbá több szállítási címet adhat meg, és a megrendeléseit is nyomon követheti.',
+'DD_LOGIN_ACCOUNT_PANEL_CREATE_BODY' => 'Az áruházunkba történő bejelentkezése révén gyorsabban jut a megrendelési folyamat befejezéséhez, továbbá több szállítási címet adhat meg, és a megrendeléseit is nyomon követheti.',
 'DD_LOGIN_ACCOUNT_PANEL_CREATE_TITLE' => 'Fiók nyitása',
 'DD_LOGIN_ACCOUNT_PANEL_LOGIN_TITLE' => 'Bejelentkezés',
 'DD_MINIBASKET_CONTINUE_SHOPPING' => 'tovább vásárol',
 'DD_MINIBASKET_MODAL_TABLE_PRICE' => 'Összérték',
 'DD_MINIBASKET_MODAL_TABLE_TITLE' => 'Termék',
-'DD_NEWSLETTER_OPTIN_HEADING' => 'Hírlevél bejelentkezés',
-'DD_ORDERSHIPPED_HEADING' => 'Szállítási visszaigazolás - Megrendelés',
+'DD_NEWSLETTER_OPTIN_HEADING' => 'Hírlevél feliratkozás',
+'DD_ORDERSHIPPED_HEADING' => 'Szállítás visszaigazolása - Megrendelés',
 'DD_ORDER_CUST_HEADING' => 'Megrendelés',
 'DD_ORDER_ORDERDATE' => 'Dátum:',
 'DD_OWNER_REMINDER_HEADING' => 'Raktárkészlet alacsony',
@@ -81,7 +81,7 @@ $aLang = array(
 'DD_PRODUCTMAIN_STOCKSTATUS' => 'Raktármennyiség',
 'DD_RATING_CUSTOMERRATINGS' => 'Ügyfél vélemény',
 'DD_RECOMMENDATION_EDIT_BACK_TO_LIST' => 'Vissza az áttekintéshez',
-'DD_REGISTER_HEADING' => 'Az ön regisztrálása',
+'DD_REGISTER_HEADING' => 'Az ön regisztrációja',
 'DD_ROLES_BEMAIN_UIROOTHEADER' => 'Menü',
 'DD_SIDEBAR_CATEGORYTREE' => 'Kategóriák',
 'DD_SIDEBAR_TAGCLOUD' => 'Kulcsszavak',
@@ -108,6 +108,6 @@ $aLang = array(
 'START_TOP_PRODUCTS_HEADER' => 'Legnépszerűbb',
 'START_TOP_PRODUCTS_SUBHEADER' => 'Csak 2 termék, viszont a legjobbak, amit önnek kínálhatunk.',
 'WIDGET_PRODUCT_RELATED_PRODUCTS_ACCESSORIES_SUBHEADER' => 'A következő termékek illenek az ön által választott termékhez.',
-'WIDGET_PRODUCT_RELATED_PRODUCTS_CROSSSELING_SUBHEADER' => 'Az ügyfelek, akik ezt a terméket megtekintették, a következő termékeket megtekintették.',
+'WIDGET_PRODUCT_RELATED_PRODUCTS_CROSSSELING_SUBHEADER' => 'Azok az ügyfeleink, akik ezt a terméket megtekintették, megtekintették a következő termékeket is.',
 'WIDGET_PRODUCT_RELATED_PRODUCTS_SIMILAR_SUBHEADER' => 'Tekintse meg a hasonló termékeinket is.',
 );

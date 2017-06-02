@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3530), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3640), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -29,7 +29,7 @@ $sLangName  = 'Magyar';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ACCESSORIES' => 'Kellék',
+'ACCESSORIES' => 'Kiegészítők',
 'ACCOUNT' => 'Fiók',
 'ACCOUNT_INFORMATION' => 'Fiókinformációk',
 'ADD' => 'hozzáad',
@@ -68,9 +68,9 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Üdvözlőkártya (nettó)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => '+ ÁFA (százalékosan kiszámítva)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Díszcsomagolás (nettó)',
-'BETA_NOTE' => 'Üdvözöljük az OXID eShop béta verziónál',
+'BETA_NOTE' => 'Üdvözöljük az OXID eShop',
 'BETA_NOTE_FAQ' => '. A gyakran feltett kérdések és válaszok itt vannak felsorolva %s .',
-'BETA_NOTE_MIDDLE' => 'béta verziónál',
+'BETA_NOTE_MIDDLE' => 'béta verziójánál',
 'BETA_NOTE_RELEASE_BETA' => 'Beta',
 'BETA_NOTE_RELEASE_RC' => 'Release-jelölt',
 'BIC' => 'BIC',
@@ -244,21 +244,21 @@ $aLang = array(
 'FIRST_LAST_NAME' => 'Családnév',
 'FIRST_NAME' => 'Keresztnév',
 'FORGOT_PASSWORD' => 'Elfelejtette a jelszavát?',
-'FOR_MORE_INFORMATION' => 'további informaciókért.',
+'FOR_MORE_INFORMATION' => 'további információkért.',
 'FROM' => 'Feladó',
 'fullDateFormat' => 'Y.m.d H:i:s',
 'GIFT_OPTION' => 'Ajándékopciók',
 'GIFT_REGISTRY' => 'Kívánságlista',
 'GIFT_REGISTRY_EMPTY' => 'A Kívánságlista üres.',
-'GIFT_REGISTRY_OF' => 'Kívánságlista küldője',
+'GIFT_REGISTRY_OF' => 'Kívánságlista létrehozója',
 'GIFT_REGISTRY_OF_2' => 'Kívánságlistám',
-'GIFT_REGISTRY_OF_3' => 'Szívélyes üdvözletünk a kívánságlistánál',
+'GIFT_REGISTRY_OF_3' => 'Üdvözöljük a kívánságlistánál',
 'GIFT_REGISTRY_SEARCH_RESULTS' => 'Kívánságlista keresési eredmény',
 'GIFT_REGISTRY_SENT_SUCCESSFULLY' => 'A kivánságlistáját sikeresen elküldtük a %s címzettnek!',
 'GIFT_WRAPPING' => 'Díszcsomagolás',
 'GIFT_WRAPPING_GREETING_CARD' => 'Díszcsomagolás/Üdvözlőkártya',
 'GO' => 'Go!',
-'GRAND_TOTAL' => 'Összeg',
+'GRAND_TOTAL' => 'Végösszeg',
 'GREETING' => 'Üdvözletem,',
 'GREETING_CARD' => 'Üdvözlőkártya',
 'GREETING_MESSAGE' => 'Üdvözlőszöveg',
