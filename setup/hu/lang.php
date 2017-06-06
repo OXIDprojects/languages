@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3640), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3667), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -94,7 +94,7 @@ $aLang = array(
 'MOD_SERVER_PERMISSIONS' => 'Fájlhozzáférési jog (CHMOD)',
 'MOD_SESSION_AUTOSTART' => 'A session.auto_start-ot ki kell kapcsolni!',
 'MOD_SOAP' => 'SOAP',
-'MOD_TOKENIZER' => 'Felismerő',
+'MOD_TOKENIZER' => 'Tokenizer',
 'MOD_UNICODE_SUPPORT' => 'UTF-8 támogatás',
 'MOD_ZEND_OPTIMIZER' => 'Zend Optimizer vagy Zend Guard Loader telepítve van',
 'MOD_ZEND_PLATFORM_OR_SERVER' => 'Zend Platform Zend Server telepítve',

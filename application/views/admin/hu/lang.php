@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3640), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3667), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -859,7 +859,7 @@ $aLang = array(
 'mainCategory' => 'Főkat.',
 'MAIN_INFO' => 'Információ',
 'MAIN_TITLE' => '[Kezdőlap]',
-'mallAdmin' => 'Admin mail',
+'mallAdmin' => 'Mall Admin',
 'MANUFACTURER_LIST_MENUITEM' => 'Törzsadatok',
 'MANUFACTURER_LIST_MENUSUBITEM' => 'Gyártó',
 'MANUFACTURER_LIST_TITLE' => 'Gyártók listája',
@@ -871,7 +871,7 @@ $aLang = array(
 'MODULE_AUTHOR' => 'Szerző',
 'MODULE_DEACTIVATE' => 'Deaktiválás',
 'MODULE_DELETEEXTENSION' => 'Szeretné az összes regisztrált modulinformációkat és a mentett konfigurációs beállításokat törölni?',
-'MODULE_DRAGANDDROP' => 'A modulok sorrendjének meváltoztatásához, húzza a megnevezést lejjeb vagy feljebb. Einträge ziehen, um Reihenfolge der Module zu ändern. Meváltoztatott sorrend mentése.',
+'MODULE_DRAGANDDROP' => 'A modulok sorrendjének meváltoztatásához, húzza a megnevezést lejjeb vagy feljebb. Meváltoztatott sorrend mentése.',
 'MODULE_EDITEXTENSION' => 'A kiterjesztés modulinformációinak szerkesztése',
 'MODULE_ENABLEACTIVATIONTEXT' => 'A kiterjesztés nem rendelkezik Metadata-fájllal. A kiterjesztés regisztrálásához, egyszeri alkalommal be kell írnia, hogy melyik osztályt (Class) terjeszti ki az adott modul (Például: oxorder => myModule/myModuleOxorder).',
 'MODULE_ENTERMODULEEXTENDSCLASSES' => 'Az osztályok, amelyek kiterjesztésre kerülnek',
@@ -975,9 +975,9 @@ $aLang = array(
 'none' => 'egysem',
 'nonstackable_serial_detected' => 'Egy, nem kiterjeszhető licenszkulcs nem adható hozzá. Kérem, adja meg ezt a licenszkulcsot az első helyen.',
 'NO_PICTURES_CHANGES' => 'Nincs változtatás a képeknél',
-'OLC_ERROR_RESPONSE_NOT_VALID' => 'A szolgáltatás nem elérhető. Kérem, kísérelje meg mégegyszer, vagy vegye fel a kapcsolatot a szofver támogatással, amennyiben a probléma továbbra is fennáll. Ellenőrizze továbbá, hogy a shop fel tud-e építeni külső kapcsolatot.',
-'OLC_ERROR_RESPONSE_UNEXPECTED' => 'A szolgáltatás nem elérhető. Kérem, kísérelje meg mégegyszer, vagy vegye fel a kapcsolatot a szofver támogatással, amennyiben a probléma továbbra is fennáll. Ellenőrizze továbbá, hogy a shop fel tud-e építeni külső kapcsolatot.',
-'OLC_ERROR_SERIAL_NOT_VALID' => 'Lizenzkulcs azonosítása sikertelen. Kérem, kísérelje meg mégegyszer, vagy vegye fel a kapcsolatot a szofver támogatással, amennyiben a probléma továbbra is fennáll.',
+'OLC_ERROR_RESPONSE_NOT_VALID' => 'A szolgáltatás nem elérhető. Kérem, kísérelje meg még egyszer, vagy vegye fel a kapcsolatot a szofver támogatással, amennyiben a probléma továbbra is fennáll. Ellenőrizze továbbá, hogy a shop fel tud-e építeni külső kapcsolatot.',
+'OLC_ERROR_RESPONSE_UNEXPECTED' => 'A szolgáltatás nem elérhető. Kérem, kísérelje meg még egyszer, vagy vegye fel a kapcsolatot a szofver támogatással, amennyiben a probléma továbbra is fennáll. Ellenőrizze továbbá, hogy a shop fel tud-e építeni külső kapcsolatot.',
+'OLC_ERROR_SERIAL_NOT_VALID' => 'Lizenzkulcs azonosítása sikertelen. Kérem, kísérelje meg még egyszer, vagy vegye fel a kapcsolatot a szofver támogatással, amennyiben a probléma továbbra is fennáll.',
 'order' => 'Megrendelés',
 'ORDERFOLDER_FINISHED' => 'Feldolgozva',
 'ORDERFOLDER_NEW' => 'Új',
@@ -1056,7 +1056,7 @@ $aLang = array(
 'ORDER_PACKAGE_MENUSUBITEM' => 'Száll. lista',
 'ORDER_PACKAGE_ORDERNR1' => 'Nr.',
 'ORDER_PACKAGE_ORDERNR2' => 'Megrendelés időpontja',
-'ORDER_PACKAGE_PACKLIST' => 'S Z Á L L Í T Á S I    L I S T A',
+'ORDER_PACKAGE_PACKLIST' => 'S Z Á L L Í T Á S I  L I S T A',
 'ORDER_PACKAGE_REMARK' => 'Közlemény',
 'ORDER_PACKAGE_SHOWPACKLIST' => 'Száll. lista nyomtatása',
 'ORDER_PACKAGE_TITLE' => 'OXID Száll. lista',
@@ -1086,7 +1086,7 @@ $aLang = array(
 'OXDIAG_EDITION' => 'Kiadás',
 'OXDIAG_ERRORMESSAGETEMPLATE' => 'Előforduló hibák',
 'OXDIAG_ERRORMESSAGEVERSIONDOESNOTEXIST' => 'Nem létezik OXID eShop %s %s ezzel a reviziószámmal %s.',
-'OXDIAG_ERRORMESSAGEWEBSERVICEISNOTREACHABLE' => 'A webszervíz jelenleg nem elérhető. Kérjük kísérelje meg később mégegyszer.',
+'OXDIAG_ERRORMESSAGEWEBSERVICEISNOTREACHABLE' => 'A webszervíz jelenleg nem elérhető. Kérjük kísérelje meg később még egyszer.',
 'OXDIAG_ERRORMESSAGEWEBSERVICERETURNEDNOXML' => 'A webszervíz nem eredményezett XML-t.',
 'OXDIAG_ERRORVERSIONCOMPARE' => 'Ennek a szövegnek nem kellene megjelennie. Kísérelje meg újra.',
 'OXDIAG_FINALNOTE' => 'A kiértékelés vége',
@@ -1156,12 +1156,12 @@ $aLang = array(
 'PAYMENT_LIST_MENUITEM' => 'Áruház beállításai',
 'PAYMENT_LIST_MENUSUBITEM' => 'Fizetési módok',
 'PAYMENT_MAIN_ADDPRICE' => 'Felár/engedmény',
-'PAYMENT_MAIN_ADDSUMRULES' => 'A felár alapára/Ármérséklés<br />tartalom',
+'PAYMENT_MAIN_ADDSUMRULES' => 'Alapár Áremelés<br/>Árcsökkentés',
 'PAYMENT_MAIN_ADDSUMRULES_ALLGOODS' => '1. Vásárlási érték a kosárban',
 'PAYMENT_MAIN_ADDSUMRULES_DISCOUNTS' => '2. Ármérséklés',
-'PAYMENT_MAIN_ADDSUMRULES_GIFTS' => '5. Ajándékutalvány/Üdvözlőkártya',
+'PAYMENT_MAIN_ADDSUMRULES_GIFTS' => '5. Díszcsomagolás/Üdvözlőkártya',
 'PAYMENT_MAIN_ADDSUMRULES_SHIPCOSTS' => '4. Szállítási költség',
-'PAYMENT_MAIN_ADDSUMRULES_VOUCHERS' => '3. Utalvány',
+'PAYMENT_MAIN_ADDSUMRULES_VOUCHERS' => '3. Utalványok',
 'PAYMENT_MAIN_AMOUNT' => 'Vásárlási érték',
 'PAYMENT_MAIN_AVAILIBLEINGROUP' => 'Hozzárendelt Felhasználói csoportok',
 'PAYMENT_MAIN_FROM' => 'tól',
@@ -1173,7 +1173,7 @@ $aLang = array(
 'PAYMENT_MAIN_SELECTED' => 'Alapértelmezett',
 'PAYMENT_MAIN_TILL' => 'ig',
 'PAYMENT_OVERVIEW_HOWMANYPAYMENTS' => 'Hány vásárlás történt ezzel a fizetési móddal',
-'PAYMENT_RDFA_ADVICE' => '<b>Információ:</b> Csak a azt a fizetési módokat válassza ki, amelyek a GoodRelations-ban meg vannak határozva, és a Ön fizetési módjának <b>%s</b> megfelelnek.',
+'PAYMENT_RDFA_ADVICE' => '<b>Információ:</b> Csak azokat azt a fizetési módokat válassza ki, amelyek a GoodRelations-ban meg vannak határozva, és a Ön fizetési módjának <b>%s</b> megfelelnek.',
 'PAYMENT_RDFA_AMERICANEXPRESS' => 'American Express',
 'PAYMENT_RDFA_ASIGN_PAYMENT' => 'Fizetési mód hozzárendelése',
 'PAYMENT_RDFA_BYBANKTRANSFERINADVANCE' => 'Előre utalás',
