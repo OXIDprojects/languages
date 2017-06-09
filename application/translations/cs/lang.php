@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (145), inquisitor8 (414), jadi82 (7), marco (1), ondrej123 (2), RSee (1551), SYSKO (9), zerog (15)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (145), inquisitor8 (414), jadi82 (7), marco (1), ondrej123 (2), RSee (1551), SYSKO (9), zerog (18)
  */
 
 $sLangName  = 'Česky';
@@ -452,7 +452,7 @@ $aLang = array(
 'OPEN_PERSONAL_ACCOUNT' => 'Otevřít osobní zákaznický účet',
 'OR' => 'nebo',
 'ORDER' => 'Objednat',
-'ORDERS' => 'Objednávky:',
+'ORDERS' => 'Objednávky',
 'ORDER_COMPLETED' => 'Objednávka byla vytvořena',
 'ORDER_DATE' => 'Datum objednání:',
 'ORDER_EMPTY_HISTORY' => 'Historie neobsahuje žádné objednávky',
@@ -694,7 +694,7 @@ $aLang = array(
 'START_DOWNLOADING_UNTIL' => 'Prosím spusťte stahování do',
 'STATUS' => 'Stav:',
 'STAY_INFORMED' => 'Buďte informováni!',
-'STEPS_BASKET' => '1. Košík-přehled',
+'STEPS_BASKET' => '1. Košík - přehled',
 'STEPS_ORDER' => '4. Zkontrolovat a odeslat',
 'STEPS_PAY' => '3. Druh doručení a platby',
 'STEPS_SEND' => '2. Adresy - zvolit',
@@ -743,7 +743,7 @@ $aLang = array(
 'TRUSTED_SHOP_UNAVAILABLE_PROTECTION' => 'Trusted Shops ochrana zákazníků nemůže být z technických důvodu přidána do košíku. Přesto můžete dokončit svou objednávku bez ochrany zákazníků. Pokud budete mít otázky a připomínky, kontaktujte prosím service@trustedshops.co.uk.',
 'UNIT_PRICE' => 'Jednotková cena',
 'UNSUBSCRIBE' => 'Odhlásit se',
-'UPDATE' => 'aktualizovat',
+'UPDATE' => 'Aktualizovat',
 'UPDATE_SHIPPING_CARRIER' => 'Aktualizovat dopravce',
 'UPDATE_YOUR_BILLING_SHIPPING_SETTINGS' => 'Aktualizovat Vaše nastavení fakturačních a dodacích údajů/adres',
 'USED_COUPONS' => 'Následující poukázky budou použity',

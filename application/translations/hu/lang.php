@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3667), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3668), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -629,7 +629,7 @@ $aLang = array(
 'RATINGS' => 'Értékelések',
 'READY' => 'Kész!',
 'READY_FOR_SHIPPING' => 'azonnal szállítható.',
-'READ_AND_CONFIRM_TERMS' => 'Kérem fogadja el az Általános Szerződésünket.',
+'READ_AND_CONFIRM_TERMS' => 'Kérem, fogadja el az Általános Szerződésünket.',
 'REASON' => 'Indok',
 'REBATE' => 'Engedmény',
 'RECIPIENT_EMAIL' => 'A címzett E-Mail-címe',
