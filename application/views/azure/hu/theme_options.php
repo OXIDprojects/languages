@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3668), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3694), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -43,7 +43,7 @@ $aLang = array(
 'SHOP_THEME_blShowBirthdayFields' => 'A születési dátum mező megjelenítése',
 'SHOP_THEME_blShowListDisplayType' => 'Terméklista típusok megjelenítése a terméklistáknál',
 'SHOP_THEME_bl_showCompareList' => 'Termékösszehasonlítás aktiválása',
-'SHOP_THEME_bl_showGiftWrapping' => 'Ajándékcsomagolás aktiválása',
+'SHOP_THEME_bl_showGiftWrapping' => 'Díszcsomagolás aktiválása',
 'SHOP_THEME_bl_showListmania' => 'Kedvenclisták aktiválása',
 'SHOP_THEME_bl_showOpenId' => 'Open ID Login aktiválása',
 'SHOP_THEME_bl_showVouchers' => 'Utalványok aktiválása',

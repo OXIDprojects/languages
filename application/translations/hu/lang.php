@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3668), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3694), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -795,8 +795,8 @@ $aLang = array(
 '_UNIT_KG' => 'kg',
 '_UNIT_L' => 'l',
 '_UNIT_M' => 'm',
-'_UNIT_M2' => 'm˛',
-'_UNIT_M3' => 'mł',
+'_UNIT_M2' => 'm²',
+'_UNIT_M3' => 'm³',
 '_UNIT_ML' => 'ml',
 '_UNIT_MM' => 'mm',
 '_UNIT_PIECE' => 'db',

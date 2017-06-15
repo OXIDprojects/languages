@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3668), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3694), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -127,7 +127,7 @@ $aLang = array(
 'STEP_3_1_CREATING_TABLES' => 'Táblázatok létrehozása, adatok másolása...',
 'STEP_3_1_DB_CONNECT_IS_OK' => 'Az adatbázishoz való csatlakozás ellenőrzése, sikeres...',
 'STEP_3_1_DB_CREATE_IS_OK' => 'Az adatbázis %s sikeresen létrehozva...',
-'STEP_3_1_TITLE' => 'Adatbázis - folyamatban...',
+'STEP_3_1_TITLE' => 'Adatbázis - létrehozás folyamatban...',
 'STEP_3_2_CONTINUE_INSTALL_OVER_EXISTING_DB' => 'Abban az esetben, ha mégis telepíteni szeretné, és a régi adatokat felül szeretné írni, kattinson',
 'STEP_3_2_CREATING_DATA' => 'Az adatbázis létrehozva!<br>Kérem várjon...',
 'STEP_3_2_TITLE' => 'Adatbázis - Táblázatok létrehozása...',
@@ -139,14 +139,14 @@ $aLang = array(
 'STEP_3_DB_PASSWORD_SHOW' => 'Jelszó megjelenítése',
 'STEP_3_DB_USER_NAME' => 'Adatbázis felhasználónév',
 'STEP_3_DESC' => 'Az adatbázis létrehozása  előtt szükség van még néhány adatra:',
-'STEP_3_TITLE' => 'Datenbank',
+'STEP_3_TITLE' => 'Adatbázis',
 'STEP_3_UTFINFO' => 'Az UTF-8 karakterkódolás jobban kezeli a különleges karaktereket mint a többi kódolás. Ez különösen a többnyelvű shopok számára fontos. Ugyanakkor az eShop kissé lassúbb az UTF-8-cal, mint a standard karakterkódolással(ISO 8859-15). <br /> Ha szándékában áll több különböző karakterkészlettel rendelkező nyelvet (pl.: magyar, orosz, lengyel, német) használni a shopban, használja az UTF-8 kódolást. Ha ön azonban több hasonló karakterkészlettel rendelkező nyelvet kíván használni (Pl.: német, angol, francia), akkor nincs szüksége az UTF-8-ra.',
 'STEP_3_UTFMODE' => 'UTF-8 karakterkódolás használata',
 'STEP_3_UTFNOTSUPPORTED' => 'Az OXID eShop nem alkalmazható UTF-8 karakterkódolással, mert::',
 'STEP_3_UTFNOTSUPPORTED1' => 'az mbstring PHP-Modul hiányzik',
 'STEP_3_UTFNOTSUPPORTED2' => 'a telepített PCRE-Verzió UTF-8 nincs támogatva',
 'STEP_4_1_DATA_WAS_WRITTEN' => 'Az adatok ellenőrzése és írása sikeres!<br>Kérem várjon...',
-'STEP_4_1_TITLE' => 'Könyvtárak - folyamatban...',
+'STEP_4_1_TITLE' => 'Könyvtárak - létrehozás folyamatban...',
 'STEP_4_ADMIN_LOGIN_NAME' => 'Adminisztrátori e-mail (felhasználónévként lesz használva)',
 'STEP_4_ADMIN_PASS' => 'Adminisztrátori jelszó',
 'STEP_4_ADMIN_PASS_CONFIRM' => 'Adminisztrátori jelszó megerősítése',
@@ -163,7 +163,7 @@ $aLang = array(
 'STEP_5_LICENCE_KEY' => 'Licenc-kulcs',
 'STEP_5_TITLE' => 'OXID eShop Licenc',
 'STEP_6_DESC' => 'Az Ön OXID eShop telepítése sikeresen befejeződött.',
-'STEP_6_LINK_TO_SHOP' => 'Tovább az eShop-baa',
+'STEP_6_LINK_TO_SHOP' => 'Tovább az eShop-ba',
 'STEP_6_LINK_TO_SHOP_ADMIN_AREA' => 'Továbblépés az eShop Adminisztrációjához',
 'STEP_6_TITLE' => 'OXID eShop telepítése sikeres',
 'STEP_6_TO_SHOP' => 'Tovább az eShop-hoz',
