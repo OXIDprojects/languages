@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3694), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3697), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -87,10 +87,10 @@ $aLang = array(
 'ARTICLE_EXTEND_MASS' => 'Méret',
 'ARTICLE_EXTEND_MEDIAURLS' => 'Médiafájlok',
 'ARTICLE_EXTEND_NONMATERIAL' => 'Szellemi termék',
-'ARTICLE_EXTEND_QUESTIONEMAIL' => 'Helyettes tárgyalópartner.',
+'ARTICLE_EXTEND_QUESTIONEMAIL' => 'Helyettes tárgyalópartner',
 'ARTICLE_EXTEND_SHOWCUSTOMAGREEMENT' => 'ÁSZF elfogadása',
 'ARTICLE_EXTEND_SKIPDISCOUNTS' => 'Összes neg. kedvezmény ignorálása.',
-'ARTICLE_EXTEND_TEMPLATE' => 'Régi Sablon',
+'ARTICLE_EXTEND_TEMPLATE' => 'Alternatív sablon',
 'ARTICLE_EXTEND_TPRICE' => 'UVP*',
 'ARTICLE_EXTEND_UNITNAME' => 'Mennyiségi egység',
 'ARTICLE_EXTEND_UNITQUANTITY' => 'Mennyiség',
@@ -121,7 +121,7 @@ $aLang = array(
 'ARTICLE_MAIN_ACTIVEFROM' => 'tól',
 'ARTICLE_MAIN_ACTIVETO' => 'ig',
 'ARTICLE_MAIN_ACTIVFROMTILL' => 'vagy aktív',
-'ARTICLE_MAIN_ALDPRICE' => 'Alt. ár',
+'ARTICLE_MAIN_ALDPRICE' => 'Alternatív ár',
 'ARTICLE_MAIN_ALLOWCUST' => 'Szerkesztés engedélyezése',
 'ARTICLE_MAIN_ARTCOPY' => 'Term. másolás',
 'ARTICLE_MAIN_ARTNUM' => 'Term.-Nr.',
