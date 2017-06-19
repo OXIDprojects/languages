@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3697), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3700), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -399,7 +399,7 @@ $aLang = array(
 'dyn_interface' => 'Interfész',
 'dyn_menu' => 'Szervízfelület',
 'dyn_technics' => 'Technika',
-'DYN_TRUSTED_ACTIVE' => 'Megbízható áruház pecsét megjelenítése',
+'DYN_TRUSTED_ACTIVE' => 'Megbízható áruház védjegy megjelenítése',
 'DYN_TRUSTED_AMAZON_PAYMENTS' => 'Amazon Payments',
 'DYN_TRUSTED_CANCELLED' => 'A hitelesítés lejárt',
 'DYN_TRUSTED_CASH_ON_DELIVERY' => 'Vezetéknév',

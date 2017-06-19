@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3697), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3700), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -381,7 +381,7 @@ $aLang = array(
 'MESSAGE_SUBMIT_BOTTOM' => 'Kérjük, ellenőrizzen minden adatot, mielőtt a megrendelését lezárná!',
 'MESSAGE_THANKYOU_FOR_SUBSCRIBING_NEWSLETTERS' => 'Köszönjük, hogy megrendelte Hírlevélszolgáltatásunkat.',
 'MESSAGE_TO_BE_LOGGED_WRITE_GUESTBOOK' => 'A vendégkönyvbe való beíráshoz jelentkezzen be.',
-'MESSAGE_TRUSTED_SHOPS_SEAL_OF_APPROVAL' => 'egy a Trusted Shops által ellenőrzött online kereskedő, tanusító pecséttel és vásárlói védelemmel. Részletek...',
+'MESSAGE_TRUSTED_SHOPS_SEAL_OF_APPROVAL' => 'egy a Trusted Shops által ellenőrzött online kereskedő, tanusító védjeggyel és vásárlói védelemmel. Részletek...',
 'MESSAGE_UNAVAILABLE_SHIPPING_METHOD' => 'Az Ön által választott szállítási mód már nem áll rendelkezésre. Kérjük, válassszon egy másik szállítási módot!',
 'MESSAGE_VERIFY_YOUR_EMAIL' => 'Kérem, ellenőrizze az e-mail-címét!',
 'MESSAGE_WELCOME_REGISTERED_USER' => 'Üdvözöljük Önt a regisztrált vásárlóink körében!',

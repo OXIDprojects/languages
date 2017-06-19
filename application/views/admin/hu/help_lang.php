@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3697), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3700), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -99,7 +99,7 @@ beállítás hatályon kívül helyezi ezt, így a régi SEO URL megmarad és ne
 'HELP_DISCOUNT_MAIN_AMOUNT' => 'A <span class="navipath_or_inputname">Vásárolt mennyiség</span>-nél állíthatja be, hogy az árcsökkentés a vásárolt mennyiségre vonatkozóan érvényes. Ha azonban az engedmény minden vásárlási mennyiségre érvényes, akkor adja meg <span class="navipath_or_inputname">tól</span> és <span class="navipath_or_inputname">ig</span> a <span class="userinput_or_code">0</span> értéket.',
 'HELP_DISCOUNT_MAIN_PRICE' => 'A <span class="navipath_or_inputname">Vásárlási érték</span>-nél állíthatja be, hogy az árcsökkentés csak meghatározott értéktől vonatkozóan érvényes. Ha az árcsökkentés minden vásárlásra lenne érvényes, akkor adja meg a <span class="navipath_or_inputname">tól</span> és <span class="navipath_or_inputname">ig</span> <span class="userinput_or_code">mezőkbe a 0 értéket</span>.',
 'HELP_DISCOUNT_MAIN_REBATE' => 'Az <span class="navipath_or_inputname">Engedmény</span>-nél állíthatja be a kedvezmény mértékét. A beviteli mező után álló listából választhatja ki, hogy az engedmény aszolút vagy százalékos legyen-e. Az itm választásakor egy terméket adunk ajándékként, amelyet a Termék kiválasztása gombra kattintva választhat ki:<ul><li><span class="userinput_or_code">abs</span>: Az engedmény abszolút, pl.: 5 Euro.</li><li><span class="userinput_or_code">%</span>: Az engedmény százalékos: pl.: 10 %-a a vásárlás összegének.</li></ul>',
-'HELP_DYN_TRUSTED_ACTIVE' => 'Ha ezt az opciót aktiválja, akkor a shop vásárlói oldalán megjelenik a Trusted Shop (Megbízható áruház) pecsétje.',
+'HELP_DYN_TRUSTED_ACTIVE' => 'Ha ezt az opciót aktiválja, akkor a shop vásárlói oldalán megjelenik a Trusted Shop (Megbízható áruház) védjegye.',
 'HELP_DYN_TRUSTED_PASSWORD' => 'Ha az ügyfeleinek a térítésköteles Trusted Shops Excellence vásárlói védelmet felajánlja, akkor a Trusted Shops Webservice-hez jelszó (wsPasswort) megadása szükséges. A Classic vásárlói védelemhez nincs szükség jelszóra.',
 'HELP_DYN_TRUSTED_RATINGS_ID' => 'Az ügyfélértékelésekhez szükséges Trusted Shops ID-t a megbízást visszaigazoló e-mailben kapja meg a Trusted Shops-tól. Ha ön már tagja a Trusted Shops-nak, használja az ismert Trusted Shops ID-jét. A zöld lámpa jelzi önnek, hogy a Trusted Shops ügyfélérétkelés ellenőrizve lett és aktiválásra került, miután az ön megadott adatai mentésre kerültek.',
 'HELP_DYN_TRUSTED_RATINGS_ORDEREMAIL' => 'Aktiválja ezt az opciót  annak érdekében, hogy a "Értékeljen bennünket!" gomb megjelenjen a megrendelést visszaigazoló e-mailben.',
