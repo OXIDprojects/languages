@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3700), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3723), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -568,8 +568,8 @@ $aLang = array(
 'GENERAL_ARTICLE_OXMPN' => 'Gyártó-Termékszám',
 'GENERAL_ARTICLE_OXNONMATERIAL' => 'Szellemi',
 'GENERAL_ARTICLE_OXNOSTOCKTEXT' => 'Információ, ha a termék nincs raktáron',
-'GENERAL_ARTICLE_OXORDERINFO' => 'Megrendelési. Info',
-'GENERAL_ARTICLE_OXPARENTID' => 'Azonosító szám fő termék',
+'GENERAL_ARTICLE_OXORDERINFO' => 'Megrendelési információ',
+'GENERAL_ARTICLE_OXPARENTID' => 'Főtermék azonosító szám',
 'GENERAL_ARTICLE_OXPIC1' => 'Kép1',
 'GENERAL_ARTICLE_OXPIC10' => 'Kép10',
 'GENERAL_ARTICLE_OXPIC11' => 'Kép11',

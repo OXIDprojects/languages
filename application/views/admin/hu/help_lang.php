@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3700), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3723), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -250,7 +250,7 @@ beállítás hatályon kívül helyezi ezt, így a régi SEO URL megmarad és ne
 'HELP_SHOP_SYSTEM_VARIANTSSELECTION' => 'A programban vannak olyan listák, amelyekhez terméket lehet rendelni, pl.: a terméket a leértekelendő árukhoz rendeljük. Ha ez a beállítás aktív, akkor ezek a listák a variánsoknál is megjelennek.',
 'HELP_USER_EXTEND_BONI' => 'Itt adhatja meg a felhasználó hitelképességi indexét. A hitelképességgel tudja befolyásolni azt, hogy a felhasználó számára milyen fizetési módok állnak a rendelkezésre.',
 'HELP_USER_EXTEND_EMAILFAILED' => 'Ha a felhasználónak nem sikerült e-mailt küldeni (Pl. az e-mail cím hibásan lett megadva, akkor aktiválja a mezőt. Ezután nem lesz a hírlevél elküldve erre a címre. A további e-mailek továbbra is továbbítva lesznek.',
-'HELP_USER_EXTEND_NEWSLETTER' => 'Itt jelenik meg az, hogy a felhasználó megrendelte-e a hírlevélszolgáltatást, vagy sem.',
+'HELP_USER_EXTEND_NEWSLETTER' => 'Itt jelenik meg az, hogy a felhasználó megrendelte-e a hírlevél szolgáltatást, vagy sem.',
 'HELP_USER_MAIN_HASPASSWORD' => 'Itt az jelenik meg, hogy a felhasználó rendelkezik-e jelszóval. Ebből meg tudja állapítani, hogy a felhasználó regisztrálta magát, vagy sem:<ul><li>Ha egy jelszó létezik, akkor a felhasználó regisztrálta magát.</li><li>Ha nincs jelszó, akkor a vásárló rendelt ugyan, de regisztráció nélkül.</li></ul>',
 'HELP_USER_PAYMENT_METHODS' => 'A fizetés fülön elvégezheti a következőket:<ul><li>A felhasználó fizetési módjait megjeleníteni, és kezelni.<li>Új fizetési módokat létrehozni, alapértelmezett értéket definiálni pl.: Banki levonás/Banki terhelés.</li></ul>',
 'HELP_VOUCHERSERIE_MAIN_ALLOWOTHERSERIES' => 'Itt állíthatja be azt, hogy a felhasználó különböző sorozatú használhat fel egy megrendelésnél.',
