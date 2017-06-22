@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: hwarlley (32), sancao (125), vendingtechnik (192)
+ * @translators: hwarlley (32), sancao (125), vendingtechnik (224)
  */
 
 $sLangName  = 'Português do Brasil';
@@ -31,23 +31,23 @@ $aLang = array(
 'charset' => 'utf-8',
 'BACK_TO_OVERVIEW' => 'to overview',
 'DD_BASKET_BACK_TO_SHOP' => 'back to shop',
-'DD_CLOSE_MODAL' => 'close',
-'DD_CONTACT_ADDRESS_HEADING' => 'Address',
+'DD_CLOSE_MODAL' => 'féchar',
+'DD_CONTACT_ADDRESS_HEADING' => 'Endereço',
 'DD_CONTACT_FORM_HEADING' => 'Contact',
-'DD_CONTACT_PAGE_HEADING' => 'Contact us!',
-'DD_CONTACT_THANKYOU1' => 'Thank you.',
+'DD_CONTACT_PAGE_HEADING' => 'Entre em contato conosco',
+'DD_CONTACT_THANKYOU1' => 'Obrigado por sua mensagem',
 'DD_CONTACT_THANKYOU2' => ' appreciates your comments.',
 'DD_DEMO_ADMIN_TOOL' => 'Open admin interface',
 'DD_DOWNLOADLINKS_HEADING' => 'Your download links - orders',
-'DD_DOWNLOADS_DOWNLOAD_TOOLTIP' => 'download',
+'DD_DOWNLOADS_DOWNLOAD_TOOLTIP' => 'baixar',
 'DD_ERR_404_CONTACT_BUTTON' => 'to contact page',
 'DD_ERR_404_CONTACT_TEXT' => 'May we assist you?<br>Feel free to call us or write an email:',
 'DD_ERR_404_START_BUTTON' => 'Go to home page',
 'DD_ERR_404_START_TEXT' => 'You may find the requested information from our home page:',
 'DD_FILE_ATTRIBUTES_FILENAME' => 'File name:',
 'DD_FILE_ATTRIBUTES_FILESIZE' => 'File size:',
-'DD_FILE_ATTRIBUTES_OCLOCK' => 'o\'clock',
-'DD_FOOTER_CONTACT_INFO' => 'Contact:',
+'DD_FILE_ATTRIBUTES_OCLOCK' => 'ora',
+'DD_FOOTER_CONTACT_INFO' => 'Contato',
 'DD_FOOTER_FOLLOW_US' => 'Follow us:',
 'DD_FORGOT_PASSWORD_HEADING' => 'Forgot password',
 'DD_FORM_VALIDATION_CHECKONE' => 'Please select at least one option.',
