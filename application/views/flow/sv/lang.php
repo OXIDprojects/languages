@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: angelhardt (78), HolgerGremminger (69), marco (934), Palmer (73), rhinosmedia (4), topconcepts (118)
+ * @translators: angelhardt (80), HolgerGremminger (69), marco (934), Palmer (73), rhinosmedia (4), topconcepts (118)
  */
 
 $sLangName  = 'Svenska';
@@ -93,8 +93,8 @@ $aLang = array(
 'DD_USER_SHIPPING_LABEL_STATE' => 'Län:',
 'DD_USER_SHIPPING_SELECT_ADDRESS' => 'välja',
 'DD_WISHLIST_HEADING' => 'Önskelista',
-'DETAILS_VPE_MESSAGE_1' => 'Dieser Artikel kann nur in Verpackungseinheiten zu je',
-'DETAILS_VPE_MESSAGE_2' => 'erworben werden.',
+'DETAILS_VPE_MESSAGE_1' => 'Denna artikel kan bara köpas i förpackingsenhet med',
+'DETAILS_VPE_MESSAGE_2' => 'Styck.',
 'FOOTER_NEWSLETTER_INFO' => 'Get informed about the latest products and offers per email.',
 'MANUFACTURERSLIDER_SUBHEAD' => 'We present our carefully selected brands, whose products can be found in our shop.',
 'OF' => 'från',
