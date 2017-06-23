@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (24), akasauskas (14), creaturex (5), dumus (94), gvidas123 (1), linasg (3), mantas.vaitkunas (1), muslimukas (8), NFQ Lithuania (2756), regneo (1), sanis (1), swolou (3), tlt (204), vaidasif (75)
+ * @translators: abejingas (188), agladutis (24), akasauskas (14), creaturex (5), dumus (94), gvidas123 (1), linasg (3), mantas.vaitkunas (1), marco (1), muslimukas (8), NFQ Lithuania (2756), regneo (1), sanis (1), swolou (3), tlt (204), vaidasif (75)
  */
 
 $sLangName  = 'Lietuvių';
