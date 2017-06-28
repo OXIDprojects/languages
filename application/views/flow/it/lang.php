@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (21), jonashess (7), simon.runer (573)
+ * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (21), jonashess (20), simon.runer (573)
  */
 
 $sLangName  = 'Italiano';
@@ -64,7 +64,7 @@ $aLang = array(
 'DD_INVITE_HEADING' => 'Article recommendation',
 'DD_INVITE_LINK' => 'Link',
 'DD_LINKS_NO_ENTRIES' => 'Unfortunately, there are no links available.',
-'DD_LISTLOCATOR_FILTER_ATTRIBUTES' => 'Filter:',
+'DD_LISTLOCATOR_FILTER_ATTRIBUTES' => 'filtro:',
 'DD_LIST_SHOW_MORE' => 'View products...',
 'DD_LOGIN_ACCOUNT_PANEL_CREATE_BODY' => 'By creating an account with our store, you will be guided through the checkout process faster. In addition, you can store multiple shipping addresses and track orders in your account.',
 'DD_LOGIN_ACCOUNT_PANEL_CREATE_TITLE' => 'Open account',
@@ -74,7 +74,7 @@ $aLang = array(
 'DD_MINIBASKET_MODAL_TABLE_TITLE' => 'Article',
 'DD_NEWSLETTER_OPTIN_HEADING' => 'Your newsletter subscription',
 'DD_ORDERSHIPPED_HEADING' => 'Delivery confirmation - Order',
-'DD_ORDER_CUST_HEADING' => 'Order',
+'DD_ORDER_CUST_HEADING' => 'ordine',
 'DD_ORDER_ORDERDATE' => 'Data:',
 'DD_OWNER_REMINDER_HEADING' => 'Low stock',
 'DD_PRICEALARM_HEADING' => 'Pricealarm',
@@ -83,16 +83,16 @@ $aLang = array(
 'DD_RECOMMENDATION_EDIT_BACK_TO_LIST' => 'back to overview',
 'DD_REGISTER_HEADING' => 'Your registration',
 'DD_ROLES_BEMAIN_UIROOTHEADER' => 'Menu',
-'DD_SIDEBAR_CATEGORYTREE' => 'Categories',
+'DD_SIDEBAR_CATEGORYTREE' => 'categorie',
 'DD_SIDEBAR_TAGCLOUD' => 'Tags',
-'DD_SORT_ASC' => 'ascending',
-'DD_SORT_DESC' => 'descending',
+'DD_SORT_ASC' => 'ascendente',
+'DD_SORT_DESC' => 'decrescente',
 'DD_SUGGEST_HEADING' => 'Article recommendation',
-'DD_USER_BILLING_LABEL_STATE' => 'State:',
+'DD_USER_BILLING_LABEL_STATE' => 'stato:',
 'DD_USER_SHIPPING_ADD_DELIVERY_ADDRESS' => 'add delivery address',
-'DD_USER_SHIPPING_LABEL_STATE' => 'State:',
+'DD_USER_SHIPPING_LABEL_STATE' => 'stato:',
 'DD_USER_SHIPPING_SELECT_ADDRESS' => 'seleziona',
-'DD_WISHLIST_HEADING' => 'Wishlist',
+'DD_WISHLIST_HEADING' => 'lista dei desideri',
 'DETAILS_VPE_MESSAGE_1' => 'This product can only be ordered in packaging units of ',
 'DETAILS_VPE_MESSAGE_2' => 'pieces.',
 'FOOTER_NEWSLETTER_INFO' => 'Ottieni informazioni sugli ultimi prodotti e offerte via email.',

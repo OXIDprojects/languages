@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (21), jonashess (7), simon.runer (573)
+ * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (21), jonashess (20), simon.runer (573)
  */
 
 $sLangName  = 'Italiano';
@@ -329,7 +329,7 @@ $aLang = array(
 'DELIVERYSET_MAIN_ALLDELIVERYCOST' => 'All Shipping Cost Rules',
 'DELIVERYSET_MAIN_ASSIGNDELIVERY' => 'Assign Shipping Cost Rules',
 'DELIVERYSET_MAIN_SELDELIVERYCOST' => 'Assigned Shipping Cost Rules',
-'DELIVERYSET_PAYMENT_ALLPAYMENTS' => 'All Payment Methods',
+'DELIVERYSET_PAYMENT_ALLPAYMENTS' => 'tutti i metodi di pagamento',
 'DELIVERYSET_PAYMENT_ASSIGNPAYMENT' => 'Assegna modalità di pagamento',
 'DELIVERYSET_PAYMENT_SELPAYMENTS' => 'Modalità di pagamento assegnate',
 'DELIVERY_ARTICLES_ALLATRICLES' => 'Tutti i prodotti',
@@ -387,7 +387,7 @@ $aLang = array(
 'DYNBASE_ADDCATTOCAMPAIGN' => 'Add category to campaign parameter',
 'DYNBASE_DO_LINK' => 'The Partner can also pick-up this file himself - please note following Link: ',
 'DYNBASE_DO_SUCCESS' => 'Success! Your export file can be downloaded <a href="%s" target="blank">here</a>',
-'DYNSCREEN_LIST_SERVICE' => 'Service Area',
+'DYNSCREEN_LIST_SERVICE' => 'area di servizio',
 'DYNSCREEN_LOCAL_TEXT' => 'Some general info about e-commerce services ...',
 'DYNSCREEN_LOCAL_TITLE' => 'eCommerce Services',
 'DYNSCREEN_TITLE' => 'Marketing',
@@ -397,7 +397,7 @@ $aLang = array(
 'DYN_ECONDA_COPY_FILE' => 'You have to copy the file "emos2.js" which you receive from Econda into the directory %s',
 'dyn_efire' => 'OXID eFire',
 'dyn_interface' => 'Interfaccia',
-'dyn_menu' => 'Servicearea',
+'dyn_menu' => 'area di servizio',
 'dyn_technics' => 'Tecnica',
 'DYN_TRUSTED_ACTIVE' => 'Show Trusted Shops seal',
 'DYN_TRUSTED_AMAZON_PAYMENTS' => 'Amazon Payments',
@@ -468,8 +468,8 @@ $aLang = array(
 'EMAIL_PRICEALARM_CUSTOMER_PRICEALARMIN' => 'Price Alert in ',
 'EMAIL_PRICEALARM_CUSTOMER_TEAM1' => 'Your',
 'EMAIL_PRICEALARM_CUSTOMER_TEAM2' => 'Team',
-'ERROR_MESSAGE_SYSTEMCOMPONENT_CLASSNOTFOUND' => 'Class "%s" not found',
-'ERROR_MESSAGE_SYSTEMCOMPONENT_FUNCTIONNOTFOUND' => 'Function "%s" not found',
+'ERROR_MESSAGE_SYSTEMCOMPONENT_CLASSNOTFOUND' => 'Class "%s" non trovato',
+'ERROR_MESSAGE_SYSTEMCOMPONENT_FUNCTIONNOTFOUND' => 'Function "%s" non trovato',
 'EXCEPTION_ACCESSRIGHT_ACCESSDENIED' => 'Access denied, no sufficient rights!',
 'EXCEPTION_CONNECTION_NODB' => 'Nessuna connessione al database',
 'EXCEPTION_COULDNOTWRITETOFILE' => 'Could not write to file',
