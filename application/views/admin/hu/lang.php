@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3739), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3744), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -1207,11 +1207,11 @@ $aLang = array(
 'PRICEALARM_MAIL_SENDPRICEALARMEMAIL1' => 'Az Áralku E-Mail-ek az ügyfelekhez való küldéséhez kérem,',
 'PRICEALARM_MAIL_SENDPRICEALARMEMAIL2' => 'kattintson ide.',
 'PRICEALARM_MAIN_CUSTOMER' => 'Ügyfél',
-'PRICEALARM_MAIN_CUSTOMERPRICE' => 'Ügyfél  Ár',
+'PRICEALARM_MAIN_CUSTOMERPRICE' => 'Ügyfél ár',
 'PRICEALARM_MAIN_EMAIL' => 'E-Mail',
 'PRICEALARM_MAIN_EMAILSEND' => 'E-Mail küldése',
 'PRICEALARM_MAIN_ERROR' => 'Hiba történt az E-Mail küldésénél',
-'PRICEALARM_MAIN_MAILINGDATE' => 'Küldés Dátum',
+'PRICEALARM_MAIN_MAILINGDATE' => 'Küldés dátuma',
 'PRICEALARM_MAIN_PRODUCT' => 'Termék',
 'PRICEALARM_MAIN_REGULARPRICE' => 'Normál Ár',
 'PRICEALARM_MAIN_SUBSCRIPTIONDATE' => 'Lemondás Dátuma',
@@ -1229,7 +1229,7 @@ $aLang = array(
 'PROMOTIONS_BANNER_PICTUREUPLOAD' => 'Kép kiválasztása',
 'PROMOTIONS_MAIN_TYPE_ACTION' => 'Akció',
 'PROMOTIONS_MAIN_TYPE_BANNER' => 'Banner',
-'PROMOTIONS_MAIN_TYPE_PROMO' => 'Promoció',
+'PROMOTIONS_MAIN_TYPE_PROMO' => 'Promóció',
 'PROMOTION_LIST_ACTIVE' => 'Aktív',
 'PROMOTION_LIST_ALL' => 'Mind',
 'PROMOTION_LIST_EXPIRED' => 'Lejárt',
@@ -1246,7 +1246,7 @@ $aLang = array(
 'REPORT_SEARCHSTRINGS_INTIME' => 'A következő keresőszavak lettek megadva az Ön által megadott időtartamon belül',
 'REPORT_SEARCHSTRINGS_SEARCHSRT' => 'Keresőszavak',
 'REPORT_TOP_CLICKED_CATEGORIES' => 'A katintott kategóriák toplistája',
-'REPORT_TOP_CLICKED_CATEGORIES_CLICKPERCAT' => 'Kategóriákénti kattintások',
+'REPORT_TOP_CLICKED_CATEGORIES_CLICKPERCAT' => 'Kategóriákra történő kattintások',
 'REPORT_TOP_VIEWED_PRODUCTS' => 'A megtekintett termékek toplistája',
 'REPORT_TOP_VIEWED_PRODUCTS_VIEWEDITEMS' => 'Milyen gyakran nézték meg a terméket',
 'REPORT_USER_PER_GROUP' => 'Ügyfelek felhasználói csoportok szerint',
@@ -1387,7 +1387,7 @@ $aLang = array(
 'SHOP_CONFIG_LOAD_DYNAMIC_PAGES' => 'Oxid szerverkapcsolat engedélyezése.',
 'SHOP_CONFIG_MAXGBENTRIESPERDAY' => 'Vendégkönyvbe írások maximális száma, amelyet minden ügyfél naponta bejegyezhet',
 'SHOP_CONFIG_MIDLLECUSTOMERPRICE' => 'Vásárlási érték, amelytől az ügyfél a "Közepes forgalom" ügyfelek csoportjába nyer besorolást',
-'SHOP_CONFIG_MINORDERPRICE' => 'Legkisebb vásárlási érték (Üresen hagyni, amennyiben nem kívánja meghatározni.)',
+'SHOP_CONFIG_MINORDERPRICE' => 'Legkisebb vásárlási érték (Hagyja üresen, amennyiben nem kívánja meghatározni.)',
 'SHOP_CONFIG_MUSTFILLFIELDS' => '"Kötelező"- kitöltési mezők az ügyfelek regisztrációs folyamatánál',
 'SHOP_CONFIG_MWSTSETTING' => 'ÁFA-beállítások Lexware Faktura programhoz',
 'SHOP_CONFIG_NEWARTBYINSERT' => 'A legújabb termékeket a listába való felvétel idejétől beszámítani. (Vagy pedig a legutolsó változtatás dátuma szerint.*)',
