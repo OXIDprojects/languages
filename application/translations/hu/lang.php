@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3744), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3753), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -209,7 +209,7 @@ $aLang = array(
 'ERROR_MESSAGE_RECOMMLIST_NOTITLE' => 'A megnevezés nincs megadva',
 'ERROR_MESSAGE_SYSTEMCOMPONENT_CLASSNOTFOUND' => 'Class "%s" nem található',
 'ERROR_MESSAGE_SYSTEMCOMPONENT_FUNCTIONNOTFOUND' => '"%s" Funkció nem található',
-'ERROR_MESSAGE_UNKNOWN_ERROR' => 'Ismeretlen Hiba',
+'ERROR_MESSAGE_UNKNOWN_ERROR' => 'Ismeretlen hiba',
 'ERROR_MESSAGE_UNLICENSED1' => 'Az áruház nem rendelkezik licensszel. Adjon meg a shop adminban egy érvényes licenszkódot, vagy vegye fel a kapcsolatot',
 'ERROR_MESSAGE_USER_NOVALIDLOGIN' => 'Hibás E-Mail-cím vagy jelszó!',
 'ERROR_MESSAGE_USER_NOVALUES' => 'Az E-Mail-t és a jelszót meg kell adni!',
@@ -349,7 +349,7 @@ $aLang = array(
 'MESSAGE_NEWSLETTER_CONGRATULATIONS' => 'Gratulálunk!',
 'MESSAGE_NEWSLETTER_FOR_SUBSCRIPTION_BONUS' => 'Itt az alkalom! Vigye el a Hírlevél-szolgáltatás megrendeléséért járó bónusz pontokat!',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION' => 'A hírlevél szolgáltatásunkat bármikor lemondhatja',
-'MESSAGE_NEWSLETTER_SUBSCRIPTION_ACTIVATED' => 'Ezennel aktíválta az áruházunk Hírelvél szolgáltatását.',
+'MESSAGE_NEWSLETTER_SUBSCRIPTION_ACTIVATED' => 'Ezennel aktiválta az áruházunk Hírlevél szolgáltatását.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_CANCELED' => 'A Hírlevél szolgáltatásunkról való leíratkozás sikeresen végrehajtva.',
 'MESSAGE_NEWSLETTER_SUBSCRIPTION_SUCCESS' => 'A Hírlevél szolgáltatás sikeresen megrendelve.',
 'MESSAGE_NOT_ABLE_TO_SEND_EMAIL' => 'Sajnos nem tudtuk Önnek a Hírlevél szolgáltatás megrendelését igazoló E-Mail-t elküldeni.',

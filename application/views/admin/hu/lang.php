@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3744), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3753), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -1559,12 +1559,12 @@ $aLang = array(
 'SHOP_PERF_LOADNEWS' => 'Hírek megjelenítése',
 'SHOP_PERF_LOADNEWSONLYSTART' => 'Hírek megjelenítése csak a kezdőoldalon',
 'SHOP_PERF_LOADPRICE' => 'Termékek árainak megjelenítése',
-'SHOP_PERF_LOADPRICEFORADDLIST' => 'Az árak megjelenítése a  "Legnépszerűbb termékek"-nél és "Most érkezett!"',
+'SHOP_PERF_LOADPRICEFORADDLIST' => 'Az árak megjelenítése a  "Legnépszerűbb termékek"-nél és "Most érkezett!" termékeknél',
 'SHOP_PERF_LOADREVIEWS' => 'Kommentárok és értékelések aktíválása',
 'SHOP_PERF_LOADSELECTLIST' => 'Variánsok megjelenítése',
 'SHOP_PERF_LOADSELECTLISTSINALIST' => 'Variánsok megjelenítése a terméklistáknál',
 'SHOP_PERF_LOADSIMILAR' => 'Hasonló termékek megjelenítése',
-'SHOP_PERF_LOADTREEFORSEARCH' => 'A kategóriafákat a keresésnél betölteni (A keresést lehet az egyes kategóriákra is korlátozni)',
+'SHOP_PERF_LOADTREEFORSEARCH' => 'A kategóriafák betöltése a keresésnél (A keresést lehet az egyes kategóriákra is korlátozni)',
 'SHOP_PERF_LOADVARIANTS' => 'Variánsok megjelenítése a terméklistáknál (pl. keresési erdemények, Ketegórianézet). Ez a beállítás nagyon igénybe veszi a memóriát, és a gyengébb szervereknél problémát okozhat.',
 'SHOP_PERF_NEWESTARTICLES' => 'A legújabb termékek listája (Most érkezett!)',
 'SHOP_PERF_PARSELONGDESCINSMARTY' => 'A Termékleírás és kategórialeírás futtatása a Smarty-val',
@@ -1712,7 +1712,7 @@ $aLang = array(
 'STASTISTIC_SERVICE_DELETE' => 'Bejegyzések törlése',
 'STASTISTIC_SERVICE_LOGCOUNT' => 'Naplóbeírások mennyisége',
 'STASTISTIC_SERVICE_OLDER' => 'Korábbi, mint',
-'SUBJECT_UNABLE_TO_SEND_VIA_CURL' => 'A adatok nem küldhetők el az Oxd szervernek a CURL keresztül',
+'SUBJECT_UNABLE_TO_SEND_VIA_CURL' => 'A adatok nem küldhetők el az Oxid szervernek a CURL keresztül',
 'SYSREQ_ALLOW_URL_FOPEN' => 'allow_url_fopen vagy fsockopen a 80-as porton',
 'SYSREQ_BC_MATH' => 'BCMath',
 'SYSREQ_BUG53632' => 'Lehetséges szerverprobléma PHP Bug',
@@ -1916,7 +1916,7 @@ $aLang = array(
 'TOOLTIPS_NEWACTIONS' => 'Új művelet létrehozása',
 'TOOLTIPS_NEWADDRESS' => 'Új cím',
 'TOOLTIPS_NEWARTICLE' => 'Új termék létrehozása',
-'TOOLTIPS_NEWCATEGORY' => 'Új Kategória létrehozása',
+'TOOLTIPS_NEWCATEGORY' => 'Új kategória létrehozása',
 'TOOLTIPS_NEWCATTREE' => 'Kategóriafa új beolvasása',
 'TOOLTIPS_NEWCONTENT' => 'Új CMS-oldal létrehozása',
 'TOOLTIPS_NEWCOUNTRY' => 'Új ország létrehozása',
