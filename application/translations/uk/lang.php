@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: asot (59), b.verbelchuk (32), pianoservis (2825)
+ * @translators: asot (59), b.verbelchuk (32), pianoservis (3900)
  */
 
 $sLangName  = 'Українська';
@@ -68,7 +68,7 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Вітальна листівка (без ПДВ)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'плюс ПДВ',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Подарункова упаковка (без ПДВ)',
-'BETA_NOTE' => 'Ласкаво просимо на Release Candidate',
+'BETA_NOTE' => 'Ласкаво просимо на',
 'BETA_NOTE_FAQ' => '. Часті питання і відповіді перераховані в% с.',
 'BETA_NOTE_MIDDLE' => 'з OXID eShop',
 'BETA_NOTE_RELEASE_BETA' => 'Бета версія',
@@ -451,7 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'Зайти в аккаунт',
 'OPEN_PERSONAL_ACCOUNT' => 'Відкрити особистий аккаунт',
 'OR' => 'або',
-'ORDER' => 'Order',
+'ORDER' => 'Замовити',
 'ORDERS' => 'Замовлення',
 'ORDER_COMPLETED' => 'Заказ оформлено',
 'ORDER_DATE' => 'Заказ від',

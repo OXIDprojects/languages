@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: ascheider (10), asot (4), compisat (26), cyberkatze (8), ET (10), ilya (1095), mantgomery (2), marco (1339), muslimukas (4), Natalia I (244), pianoservis (334), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
+ * @translators: ascheider (10), asot (4), compisat (26), cyberkatze (8), ET (10), ilya (1095), mantgomery (2), marco (1339), muslimukas (4), Natalia I (244), pianoservis (345), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (49), vlad13 (1)
  */
 
 $sLangName  = 'Русский';
@@ -1510,7 +1510,7 @@ $aLang = array(
 'SHOP_MALL_NATIVEIMAGES' => 'Загружать папку /out из активного магазина',
 'SHOP_MALL_NOSTARTSITE' => 'Показывать главную страницу основного магазина',
 'SHOP_MALL_PRICEADDITION' => 'Стоимость товаров как производная основной стоимости',
-'SHOP_MALL_SAVE_INHERITANCE' => 'Сохранить заимствуемую информацию',
+'SHOP_MALL_SAVE_INHERITANCE' => 'Сохранить заимствованную информацию',
 'SHOP_MALL_SEPARATENUMBERING' => 'Отдельная нумерация магазинов',
 'SHOP_MALL_SHOPSSLSHOPURL' => 'SSL URL магазина',
 'SHOP_MALL_SHOPURL' => 'URL магазина',
@@ -1646,7 +1646,7 @@ $aLang = array(
 'SHOP_SEO_STDURL' => 'Стандартные URL-ы',
 'SHOP_SEO_TITLEPREFIX' => 'Префикс заголовка',
 'SHOP_SEO_TITLESUFFIX' => 'Суффикс заголовка',
-'SHOP_SYSTEM_ATTRIBUTESPERCENT' => 'Количество одинаковых атрибутов для схожих товаров (%)',
+'SHOP_SYSTEM_ATTRIBUTESPERCENT' => 'Количество одинаковых атрибутов для похожих товаров (%)',
 'SHOP_SYSTEM_BLLOGGING' => 'Активировать сбор лог-файлов',
 'SHOP_SYSTEM_DEFAULTIMAGEQUALITY' => 'Качество изображений от 0 (низкое) до 100 (высокое)',
 'SHOP_SYSTEM_DISABLENAVBARS' => 'Не отображать основные элементы сайта при оформлении заказа',
