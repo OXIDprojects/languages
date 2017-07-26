@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), etch (6), i7 (664), lubosdz (18), stefanbalaz (15), zweistein (1)
+ * @translators: DominikS (404), ET (12), etch (6), i7 (664), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
  */
 
 $sLangName  = 'Slovenčina';
@@ -174,7 +174,7 @@ $aLang = array(
 'HELP_SHOP_CONFIG_POINTSFORREGISTRATION' => 'Množstvo používateľských kreditov, ktoré sízka pozývateľ. Pozvaný použivateľ sa musí zaregistrovat, aby tieto body získal. Získané body sú uložené v zázname používateľa a prevádzkovateľ eShopu ich môže využiť k akémukoľvek účelu.',
 'HELP_SHOP_CONFIG_PSLOGIN' => 'Prihlásenie do privátneho predaja mení eShop na eShop len pre členov. Umožňuje to vytvárať komunity zákazníkov s podobnými záujmami. Toto nastavenie obmedzuje prístup ku všetkým stránkam eShopu.',
 'HELP_SHOP_CONFIG_SEARCHFIELDS' => 'Tu môžete zadať parametre, podľa ktorých bude možné vyhľadávať. Do každého riadku zadávajte len jeden parameter.<br />Najčastejšie parametre:<ul><li>oxtitle = Titul</li><li>oxshortdesc = Krátky popis</li><li>oxsearchkeys = Kľúčové slová</li><li>oxartnum = Číslo výrobku</li><li>oxtags	= Značky</li></ul>',
-'HELP_SHOP_CONFIG_SHOP_CONFIG_FACEBOOKAPPID' => 'Aby ste mohli vašu stránku pripojiť k facebooku zadajte Application ID. Ako pripojiť váš web k Facebooku si môžete prečítať v anglickom <a href="http://wiki.oxidforge.org/Tutorials/Connecting_website_to_facebook" target="_blank" target="_blank">návode</a>.',
+'HELP_SHOP_CONFIG_SHOP_CONFIG_FACEBOOKAPPID' => 'Ak chcete prepojiť vaše webové stránky s Facebook, musíte zadať ID aplikácie. Ako prepojiť vaše webové stránky s Facebook, si môžete prečítať v <a href="http://oxidforge.org/en/connecting-website-to-facebook.html" target="_blank">návode po anglicky</a>.',
 'HELP_SHOP_CONFIG_SHOP_CONFIG_FACEBOOKCONFIRM' => 'To protect customer privacy, the display of the Facebook social plugins must be explicitly confirmed. Only after confirmation data is shared with Facebook.',
 'HELP_SHOP_CONFIG_SHOP_CONFIG_FBSECRETKEY' => 'Abý ste zaistili bezpečné spojenie medzi vašou stránkou a Facebookom, musíte zadať Secure Key, ktorý získáte pri registrácii vášho webu do FacebookuPrečítajte si <a href="http://wiki.oxidforge.org/Tutorials/Connecting_website_to_facebook" target="_blank" target="_blank">návod</a> ako prepojiť web s Facebookom.',
 'HELP_SHOP_CONFIG_SHOWTAGS' => 'If not checked, no tags will be displayed in eShop. Pages that could be called via tag URL, are not accessible.',

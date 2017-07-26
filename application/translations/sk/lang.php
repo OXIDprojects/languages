@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), etch (6), i7 (664), lubosdz (18), stefanbalaz (15), zweistein (1)
+ * @translators: DominikS (404), ET (12), etch (6), i7 (664), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
  */
 
 $sLangName  = 'Slovenčina';
@@ -68,7 +68,7 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Blahoželanie (net)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 's DPH (úmerne vypočítané)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Darčekové balenie (net)',
-'BETA_NOTE' => 'Vitajte v testovacej verzii RC',
+'BETA_NOTE' => 'Vitajte v',
 'BETA_NOTE_FAQ' => '. Prosím oslovte nás %s ak máte nejaké otázky.',
 'BETA_NOTE_MIDDLE' => 'od OXID eShop',
 'BETA_NOTE_RELEASE_BETA' => 'Beta',

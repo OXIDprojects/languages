@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), etch (6), i7 (664), lubosdz (18), stefanbalaz (15), zweistein (1)
+ * @translators: DominikS (404), ET (12), etch (6), i7 (664), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
  */
 
 $sLangName  = 'Slovenčina';
@@ -33,21 +33,21 @@ $aLang = array(
 'HELP_SHOP_THEME_blSliderShowImageCaption' => 'A caption is visible, when the active slide has an assigned product.',
 'HELP_SHOP_THEME_blUseGAEcommerceTracking' => 'Please keep in mind that this option needs to be enabled in your Google Analytics account, too. Manual: <a href="https://support.google.com/analytics/answer/1009612?hl=en&ref_topic=1037061" target="_blank">Link</a>',
 'HELP_SHOP_THEME_iNewBasketItemMessage' => 'When customer adds products to cart, OXID eShop can behave differently. Set up what shall happen to give proper feedback to customer.',
-'HELP_SHOP_THEME_sBackgroundColor' => 'Specified as a hexadecimal value.<br>E.g.: #D83434',
+'HELP_SHOP_THEME_sBackgroundColor' => 'Určené ako hexadecimálna hodnota.<br>Napríklad: #D83434',
 'HELP_SHOP_THEME_sBackgroundPath' => 'This is relative to the path <code>/out/flow/img/backgrounds/</code>.',
-'HELP_SHOP_THEME_sBlogUrl' => 'E.g.: http://blog.oxid-esales.com',
+'HELP_SHOP_THEME_sBlogUrl' => 'Napríklad: http://blog.oxid-esales.com',
 'HELP_SHOP_THEME_sCatIconsize' => 'In category view, the category pictures of subcategories are displayed in the defined size.',
 'HELP_SHOP_THEME_sCatPromotionsize' => 'Category promotion on start page needs special size for category pictures. Define size of those pictures here.',
 'HELP_SHOP_THEME_sCatThumbnailsize' => 'In category view, the picture of the selected category is displayed in the defined size.',
 'HELP_SHOP_THEME_sDeliveryDaysNotOnStock' => 'The estimated date on which you expect delivery of the order to the customer. If the order contains multiple items, select the latest delivery date. If you message a range of days, please include the later end of the range. (e.g., 7 days if your range is 5-7 days).',
 'HELP_SHOP_THEME_sDeliveryDaysOnStock' => 'The estimated date on which you expect delivery of the order to the customer. If the order contains multiple items, select the latest delivery date. If you message a range of days, please include the later end of the range. (e.g., 7 days if your range is 5-7 days).',
 'HELP_SHOP_THEME_sEmailLogo' => 'This is relative to the path <code>/out/flow/img/</code>.',
-'HELP_SHOP_THEME_sFacebookUrl' => 'E.g.: https://www.facebook.com/oxidesales',
+'HELP_SHOP_THEME_sFacebookUrl' => 'Napríklad: https://www.facebook.com/oxidesales',
 'HELP_SHOP_THEME_sFaviconFile' => 'This favicon is meant to be displayed in the browser\'s tab.<br>In general, this is an ico file.<br>This is relative to the path <code>/out/flow/img/favicons/</code>.',
-'HELP_SHOP_THEME_sFaviconMSTileColor' => 'Specified as a hexadecimal value.<br>E.g.: #D83434',
-'HELP_SHOP_THEME_sGATrackingId' => 'E.g.: UA-XXXXXXXX-1',
-'HELP_SHOP_THEME_sGoogleMapsAddr' => 'E.g.: OXID eSales AG, Bertoldstraße 48, 79098 Freiburg',
-'HELP_SHOP_THEME_sGooglePlusUrl' => 'E.g.: https://plus.google.com/114133952363540971062',
+'HELP_SHOP_THEME_sFaviconMSTileColor' => 'Určené ako hexadecimálna hodnota.<br>Napríklad: #D83434',
+'HELP_SHOP_THEME_sGATrackingId' => 'Napríklad: UA-XXXXXXXX-1',
+'HELP_SHOP_THEME_sGoogleMapsAddr' => 'Napríklad: OXID eSales AG, Bertoldstraße 48, 79098 Freiburg',
+'HELP_SHOP_THEME_sGooglePlusUrl' => 'Napríklad: https://plus.google.com/114133952363540971062',
 'HELP_SHOP_THEME_sGoogleShoppingAccountId' => 'Provide this field only if you submit feeds for Google Shopping.<br><br>Account ID from Google Merchant Center. This value should match the account ID you use to submit your <a href="https://support.google.com/merchants/answer/188494#US" target="_blank">product data feed to Google Shopping</a> through Google Merchant center. If you have a MCA account, use the subaccount ID associated with that product feed.',
 'HELP_SHOP_THEME_sGoogleVendorId' => 'You can find this ID in your Trusted Stores Merchant Dashboard.',
 'HELP_SHOP_THEME_sIconsize' => 'Icons are the smallest pictures of a product. They are used: <br><ul><li>in the shopping cart.</li><li>if products are shown in the right menu (e.g. in <span class="filename_filepath_or_italic">TOP of the Shop</span> and <span class="filename_filepath_or_italic">Bargain</span>).</li></ul>For avoiding design issues caused by too big icons the icons are resized. Enter the maximum size for icons here.',
@@ -61,8 +61,8 @@ $aLang = array(
 'HELP_SHOP_THEME_sShoppingCountry' => 'Provide this field only if you submit feeds for Google Shopping.<br><br>Account country from Google Shopping. This value should match the account country you use to submit your <a href="https://support.google.com/merchants/answer/188494#US" target="_blank">product data feed to Google Shopping</a>.<br><br>The value of the country parameter should be a <a href="http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2" target="_blank">two-letter ISO 3166 country code</a>.<br><br>For example, values could be US, GB, AU, FR, DE, JP.',
 'HELP_SHOP_THEME_sShoppingLanguage' => 'Provide this field only if you submit feeds for Google Shopping.<br><br>Account language from Google Shopping. This value should match the account language you use to submit your <a href="https://support.google.com/merchants/answer/188494#US" target="_blank">product data feed to Google Shopping</a>.<br><br>The value of the language parameter should be a <a href="http://en.wikipedia.org/wiki/ISO_639-1" target="_blank">two-letter ISO 639-1 language code</a>.<br><br>For example, values could be en, fr, de, ja.',
 'HELP_SHOP_THEME_sThumbnailsize' => 'Thumbnails are small product pictures. They are used:<br><ul><li>in product lists.</li><li>in promotions displayed in the middle of the front page, e. g. <span class="filename_filepath_or_italic">Just arrived!</span>.</li></ul>For avoiding design issues caused by too big thumbnails the thumbnails are resized. Enter the maximum size for thumbnails here.',
-'HELP_SHOP_THEME_sTwitterUrl' => 'E.g.: https://twitter.com/OXID_eSales',
-'HELP_SHOP_THEME_sYouTubeUrl' => 'E.g.: https://www.youtube.com/user/oxidesales',
+'HELP_SHOP_THEME_sTwitterUrl' => 'Napríklad: https://twitter.com/OXID_eSales',
+'HELP_SHOP_THEME_sYouTubeUrl' => 'Napríklad: https://www.youtube.com/user/oxidesales',
 'SHOP_THEME_aDetailImageSizes' => 'Product picture size (width*height)',
 'SHOP_THEME_aNrofCatArticles' => 'Number of products which can be shown in a product lists (category pages, search results)<br><br>Attention: A large number of products per page (above 100) can cause performance loss!',
 'SHOP_THEME_aNrofCatArticlesInGrid' => 'Grid view: Number of products which can be shown in a product lists (category pages, search results)<br><br>Attention: A large number of products per page (above 100) can cause performance loss!',
