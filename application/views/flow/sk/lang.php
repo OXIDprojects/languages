@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), etch (6), i7 (664), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
+ * @translators: DominikS (404), ET (12), etch (6), i7 (668), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
  */
 
 $sLangName  = 'Slovenčina';
@@ -36,7 +36,7 @@ $aLang = array(
 'DD_CONTACT_FORM_HEADING' => 'Kontakt',
 'DD_CONTACT_PAGE_HEADING' => 'Kontaktujte nás!',
 'DD_CONTACT_THANKYOU1' => 'Ďakujem.',
-'DD_CONTACT_THANKYOU2' => ' appreciates your comments.',
+'DD_CONTACT_THANKYOU2' => 'Ďakujeme za Vaše pripomeniky',
 'DD_DEMO_ADMIN_TOOL' => 'Otvoriť administrátorské rozhranie',
 'DD_DOWNLOADLINKS_HEADING' => 'Your download links - orders',
 'DD_DOWNLOADS_DOWNLOAD_TOOLTIP' => 'Stiahnuť',

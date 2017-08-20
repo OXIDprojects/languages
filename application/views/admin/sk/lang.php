@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), etch (6), i7 (664), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
+ * @translators: DominikS (404), ET (12), etch (6), i7 (668), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
  */
 
 $sLangName  = 'Slovenčina';
@@ -1337,7 +1337,7 @@ $aLang = array(
 'SHOP_CONFIG_BASKETRESERVATIONTIMEOUT' => 'Doba platnosti košíka (v sekundách)',
 'SHOP_CONFIG_BIDIRECTCROSS' => 'Povoliť obojsmerný krížový predaj',
 'SHOP_CONFIG_CALCDELVATONTOP' => 'DPH nie je započítaná v cene poštovného',
-'SHOP_CONFIG_CALCPAYVATONTOP' => 'Enter Payment Method Charges as net Price (plus VAT)',
+'SHOP_CONFIG_CALCPAYVATONTOP' => 'Zadať poplatky pre druhy platieb ako netto-cenu (plus DPH)',
 'SHOP_CONFIG_CALCULATEVATFORDELIVERY' => 'Započítať poštovné do výpočtu výšky DPH',
 'SHOP_CONFIG_CALCULATEVATFORWRAPPING' => 'Do výpočtu výšky DPH započítať darčekové balenie',
 'SHOP_CONFIG_CALCULATEVATOFORPAYCHARGE' => 'Započítať daň z platby',
