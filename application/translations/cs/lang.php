@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (145), inquisitor8 (414), jadi82 (7), marco (1), ondrej123 (2), RSee (1551), SYSKO (9), zerog (18)
+ * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (146), inquisitor8 (414), jadi82 (7), marco (1), ondrej123 (2), RSee (1551), SYSKO (9), zerog (18)
  */
 
 $sLangName  = 'Česky';
@@ -707,7 +707,7 @@ $aLang = array(
 'SUBMIT_ORDER' => 'Potvrdit závazně objednávku',
 'SUBSCRIBE' => 'Přihlásit se',
 'SUCCESS' => 'V pořádku!',
-'SUM' => 'Hodnota zboží:',
+'SUM' => 'Hodnota zboží',
 'SURCHARGE' => 'Příplatek',
 'SURCHARGE_PLUS_PERCENT_AMOUNT' => 'Doplatek DPH %s%% Částka',
 'S_CATEGORY_PRODUCTS' => '%s produktů z kategorie',

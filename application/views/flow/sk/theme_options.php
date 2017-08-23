@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), etch (6), i7 (668), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
+ * @translators: DominikS (404), ET (12), etch (6), i7 (685), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
  */
 
 $sLangName  = 'Slovenčina';
@@ -56,8 +56,8 @@ $aLang = array(
 'HELP_SHOP_THEME_sLogoWidth' => 'Specify in as a pixel value.',
 'HELP_SHOP_THEME_sManufacturerIconsize' => 'Manufacturer\'s/brand logo is shown on start page in manufacturer\'s slider.',
 'HELP_SHOP_THEME_sPageLanguage' => 'The locale should be in the format of <language>_<country><br><br><Language> is a two-letter language code defined in ISO 639-1, and <country> is a two-letter country code defined in ISO 3166-1 alpha-2. Usually <country> should be all capitalized, and <language> should be in lowercase. e.g. en_US, en_GB, en_AU, fr_FR, de_DE, or ja_JP.',
-'HELP_SHOP_THEME_sShippingDaysNotOnStock' => 'The estimated date on which you will ship the order; this is different from the estimated delivery date.<br><br>If the order contains multiple items, select the latest estimated ship date.<br><br>If you message to your customers a range of days, please include the later end of the range. (e.g., 7 days if your shipping range is 5-7 days).<br><br>The date provided here will be provided to the customer via email.<br><br>The customer will receive a post purchase survey after the Estimated Ship Date has passed.',
-'HELP_SHOP_THEME_sShippingDaysOnStock' => 'The estimated date on which you will ship the order; this is different from the estimated delivery date.<br><br>If the order contains multiple items, select the latest estimated ship date.<br><br>If you message to your customers a range of days, please include the later end of the range. (e.g., 7 days if your shipping range is 5-7 days).<br><br>The date provided here will be provided to the customer via email.<br><br>The customer will receive a post purchase survey after the Estimated Ship Date has passed.',
+'HELP_SHOP_THEME_sShippingDaysNotOnStock' => 'Predpokladaný termín, pri ktorom bude odoslaná objednávka; To sa líši od predpokladaného dátumu dodania. <br> V prípade, že objednávka bude obsahovať viac položiek. vyberte posledný približný dátum odoslania. <br> Ak je hlásenie zákazníkom v rozsahu dní. uveďte koniec rozsahu. (Napríklad 7 dní, ak váš rozsah pre prepravu je 5-7 dní). <br> Dátum tu uvedený bude poskytovaný zákazníkovi prostredníctvom e-mailu. <br> Zákazník dostane prehľad potvrdenia, že lehota nákupu približný dátum odoslania vypršala.',
+'HELP_SHOP_THEME_sShippingDaysOnStock' => 'Tu sa jedná o približný dátum odoslania objednávky; nejedná sa o predpokladaný dátum dodania.<br><br>Pokiaľ objednávka obsahuje viac produktov, zvoľte to najvzdialenejší predpokladaný dátum odoslania.<br><br>Pokiaľ udávate zákazníkovi časový interval, zadajte posledný deň tohoto úseku. Pokiaľ napr. zasielate v rozmedzí od 5 do 7 dní, zadajte 7 dní.<br><br>Tento tu zadaný termín bude zákazníkovi oznámený e-mailom.<br><br>Po predpokladanom dátume odoslania bude zákazníkovi odoslaný dotazník ohľadom nákupu.',
 'HELP_SHOP_THEME_sShoppingCountry' => 'Provide this field only if you submit feeds for Google Shopping.<br><br>Account country from Google Shopping. This value should match the account country you use to submit your <a href="https://support.google.com/merchants/answer/188494#US" target="_blank">product data feed to Google Shopping</a>.<br><br>The value of the country parameter should be a <a href="http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2" target="_blank">two-letter ISO 3166 country code</a>.<br><br>For example, values could be US, GB, AU, FR, DE, JP.',
 'HELP_SHOP_THEME_sShoppingLanguage' => 'Provide this field only if you submit feeds for Google Shopping.<br><br>Account language from Google Shopping. This value should match the account language you use to submit your <a href="https://support.google.com/merchants/answer/188494#US" target="_blank">product data feed to Google Shopping</a>.<br><br>The value of the language parameter should be a <a href="http://en.wikipedia.org/wiki/ISO_639-1" target="_blank">two-letter ISO 639-1 language code</a>.<br><br>For example, values could be en, fr, de, ja.',
 'HELP_SHOP_THEME_sThumbnailsize' => 'Thumbnails are small product pictures. They are used:<br><ul><li>in product lists.</li><li>in promotions displayed in the middle of the front page, e. g. <span class="filename_filepath_or_italic">Just arrived!</span>.</li></ul>For avoiding design issues caused by too big thumbnails the thumbnails are resized. Enter the maximum size for thumbnails here.',
@@ -167,8 +167,8 @@ $aLang = array(
 'SHOP_THEME_sLogoWidth' => 'Width of header logo',
 'SHOP_THEME_sManufacturerIconsize' => 'Manufacturer\'s/brand logo size',
 'SHOP_THEME_sPageLanguage' => 'Language of your Shop in ISO',
-'SHOP_THEME_sShippingDaysNotOnStock' => 'Amount of days till shipping of an order that has <b>not</b> all articles in stock.',
-'SHOP_THEME_sShippingDaysOnStock' => 'Amount of days till shipping of an order that has all articles in stock.',
+'SHOP_THEME_sShippingDaysNotOnStock' => 'Počet dní do odoslania objednávky, v prípade že aspoň 1 produkt nie je skladom.(povinné)',
+'SHOP_THEME_sShippingDaysOnStock' => 'Počet dní do odoslania objednávky s produktami, ktoré sú všetky skladom. (povinné)',
 'SHOP_THEME_sShoppingCountry' => 'Google Shopping-Feed Country (optional)',
 'SHOP_THEME_sShoppingLanguage' => 'Google Shopping-Feed Sprache (optional)',
 'SHOP_THEME_sStartPageListDisplayType' => 'Product list type on Start page',

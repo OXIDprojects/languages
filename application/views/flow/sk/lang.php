@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), etch (6), i7 (668), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
+ * @translators: DominikS (404), ET (12), etch (6), i7 (685), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
  */
 
 $sLangName  = 'Slovenčina';
@@ -89,7 +89,7 @@ $aLang = array(
 'DD_SORT_DESC' => 'descending',
 'DD_SUGGEST_HEADING' => 'Article recommendation',
 'DD_USER_BILLING_LABEL_STATE' => 'Štát:',
-'DD_USER_SHIPPING_ADD_DELIVERY_ADDRESS' => 'add delivery address',
+'DD_USER_SHIPPING_ADD_DELIVERY_ADDRESS' => 'pridať ďalšiu adresu',
 'DD_USER_SHIPPING_LABEL_STATE' => 'Štát:',
 'DD_USER_SHIPPING_SELECT_ADDRESS' => 'Vybrať',
 'DD_WISHLIST_HEADING' => 'Wishlist',

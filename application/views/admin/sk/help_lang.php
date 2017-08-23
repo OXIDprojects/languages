@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), etch (6), i7 (668), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
+ * @translators: DominikS (404), ET (12), etch (6), i7 (685), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
  */
 
 $sLangName  = 'Slovenčina';
@@ -227,7 +227,7 @@ $aLang = array(
 'HELP_SHOP_RDFA_RATING_MIN' => 'Possible minimum value refer to the scale used for ratings in your shop. This value is not the lowest current rating of a product!',
 'HELP_SHOP_RDFA_SHOW_PRODUCTSTOCK' => 'If this option is on means, that the real product stock is shown.',
 'HELP_SHOP_RDFA_SUBMIT_URL' => 'Submits your shop URL to GR-Notify page. There the URL is saved and forwarded to Linked Open Commerce & Semantic Web search engines and endpoints.',
-'HELP_SHOP_RDFA_VAT' => 'This option specifies whether the tax (VAT) is included in the price and delivery/payment costs or not.',
+'HELP_SHOP_RDFA_VAT' => 'Tato voľba určuje, či má byť daň (DPH) zahrnutá v cene a platobných a dodacích poplatkoch alebo nie.',
 'HELP_SHOP_SEO_IDSSEPARATOR' => 'Oddelovač sa používa v prípade viacslovných názvov namiesto medzier, napr. www.vášobchod.cz/kategória-s-viacslovným-názvom<br />Ako základný oddelovač je použitý znak -.',
 'HELP_SHOP_SEO_RESERVEDWORDS' => 'Niektoré URL sú potrebné na prevádzku eShopu, napr. www.youreshop.com/admin pre prístup do administrácie. Pokiaľ pomenujete kategóriu <i>admin</i>, SEO URL bude taktiež www.youreshop.com/admin, do kategórie se teda nebudete vedieť dostať. Preto bude použitá SEO URL prípona. Tu môžete nadefinovať, ku ktorým URL má byť prípona pridaná automaticky.',
 'HELP_SHOP_SEO_SAFESEOPREF' => 'Pokiaľ je v kategórii viac výrobkov s rovnakým názvom, majú rovnaké SEO URL. Preto majú aj SEO príponu. Pokým žiadnu príponu nedefinujete, bude použité slovo <i>oxid</i>.',

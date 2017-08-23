@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), etch (6), i7 (668), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
+ * @translators: DominikS (404), ET (12), etch (6), i7 (685), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
  */
 
 $sLangName  = 'Slovenčina';
@@ -258,7 +258,7 @@ $aLang = array(
 'GIFT_WRAPPING' => 'Darčekové balenie:',
 'GIFT_WRAPPING_GREETING_CARD' => 'Darčekové balenie/blahoželanie',
 'GO' => 'choď!',
-'GRAND_TOTAL' => 'Celkom:',
+'GRAND_TOTAL' => 'Celkom',
 'GREETING' => 'Ahoj,',
 'GREETING_CARD' => 'Blahoželanie',
 'GREETING_MESSAGE' => 'Text blahoželania',
@@ -286,7 +286,7 @@ $aLang = array(
 'INVALID_TAGS_REMOVED' => 'Neplatné značky odstránené',
 'INVITE_TO_SHOP' => 'Pozvánka od %s na návštevu %s',
 'INVITE_YOUR_FRIENDS' => 'Pozvite Vašich priateľov',
-'ITEMS_IN_BASKET' => 'Položky v košíku:',
+'ITEMS_IN_BASKET' => 'Položky v košíku',
 'JUST_ARRIVED' => 'Najnovší tovar',
 'KEEP_LOGGED_IN' => 'Zapamätať si prihlásenie:',
 'KG' => 'kg',
@@ -707,7 +707,7 @@ $aLang = array(
 'SUBMIT_ORDER' => 'Potvrdiť objednávku',
 'SUBSCRIBE' => 'Prihlásiť sa',
 'SUCCESS' => 'V poriadku!',
-'SUM' => 'Celkom:',
+'SUM' => 'Celkom',
 'SURCHARGE' => 'Príplatok',
 'SURCHARGE_PLUS_PERCENT_AMOUNT' => 'Doplatok DPH %s%% Suma',
 'S_CATEGORY_PRODUCTS' => '%s tovar kategórie',
@@ -722,8 +722,8 @@ $aLang = array(
 'TOP_OF_THE_SHOP' => 'Najpredávanejšie',
 'TOP_SHOP_PRODUCTS' => 'Najpredávanejšie',
 'TOTAL' => 'Spolu',
-'TOTAL_GROSS' => 'Celkom tovaru (s DPH):',
-'TOTAL_NET' => 'Celkom tovaru (bez DPH):',
+'TOTAL_GROSS' => 'Celkom tovar (s DPH):',
+'TOTAL_NET' => 'Celkom tovar (bez DPH):',
 'TOTAL_QUANTITY' => 'Celkové množstvo',
 'TO_CART' => 'Do košíka',
 'TO_MY_WISHLIST' => 'Prejsť na môj zoznam želaní',

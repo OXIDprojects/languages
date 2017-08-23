@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), etch (6), i7 (668), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
+ * @translators: DominikS (404), ET (12), etch (6), i7 (685), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
  */
 
 $sLangName  = 'Slovenčina';
@@ -867,13 +867,13 @@ $aLang = array(
 'MANUFACTURER_MAIN_ICONUPLOAD' => 'Nahrať ikonku<br>(veľké súbory nahrávajte cez ftp)',
 'MANUFACTURER_MAIN_ITEMSWITHMANUFACTURER' => 'Produkty tohto výrobcu',
 'MODULE_ACTIVATE' => 'Aktivácia',
-'MODULE_ACTIVATION_NOT_POSSIBLE_IN_DEMOMODE' => 'Please note: modules can\'t be activated or deactivated in demo shop mode.',
+'MODULE_ACTIVATION_NOT_POSSIBLE_IN_DEMOMODE' => 'Poznámka: V módu demo-shopu nie je možné moduly ani aktivovať, ani deaktivovať.',
 'MODULE_AUTHOR' => 'Autor',
 'MODULE_DEACTIVATE' => 'Deaktivovať',
 'MODULE_DELETEEXTENSION' => 'Chcete odstrániť všetky informácie o module, vrátane možnosti config a informácií a blokového pre šablóny?',
 'MODULE_DRAGANDDROP' => 'Presuňte položky, meniť moduly objednávky. Po zmene poradia, stlačte tlačidlo Uložiť pre uloženie aktuálnych modulov objednávky.',
 'MODULE_EDITEXTENSION' => 'Upraviť informácie o module',
-'MODULE_ENABLEACTIVATIONTEXT' => 'Module has no metadata file, so for registering module you must manually enter which classes module extends (e.g. oxorder => myModule/myModuleOxorder). This must be done only once.',
+'MODULE_ENABLEACTIVATIONTEXT' => 'Rozšírenie nemá žiadny metadata-súbor. Pre zaregistrovanie rozšírenia, je treba jen jednou zapísať, ktoré triedy modul rozširujú (príklad:oxorder => myModule/myModuleOxorder).',
 'MODULE_ENTERMODULEEXTENDSCLASSES' => 'Rozšírené triedy',
 'MODULE_ENTERMODULEID' => 'ID modulu',
 'MODULE_ENTERMODULENAME' => 'Názov modulu',
@@ -1323,11 +1323,11 @@ $aLang = array(
 'SHOP_CACHE_TITLE' => 'Dynamic Content Caching',
 'SHOP_CACHE_WARNING_CONTENTCACHE_ENABLED' => 'We recommend to not use "Dynamic Content Caching" and "Reverse Proxy" at the same time, as it could slow down the performance.',
 'SHOP_CONFIG_ACTIVECATEGORYBYSTART' => 'Zvolit kategorii jako výchozí',
-'SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_BIGGEST_NET' => 'Calculate VAT according to the biggest net value',
+'SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_BIGGEST_NET' => 'DPH sa vypočíta z najvyššej netto-hodnoty',
 'SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_METHOD' => 'Výpočet DPH z doplnkových služieb',
 'SHOP_CONFIG_ADDITIONAL_SERVICE_VAT_CALCULATION_PROPORTIONAL' => 'Dph vypočítať proporcionálne',
 'SHOP_CONFIG_ALLOWUNEVENAMOUNTS' => 'Povolit objednávanie časti balenia (napr. 1,5)',
-'SHOP_CONFIG_ALTVATIDCHECKINTERFACEWSDL' => 'Alternative URL for online VAT ID check',
+'SHOP_CONFIG_ALTVATIDCHECKINTERFACEWSDL' => 'Alternatívny URL pre online kontrolu DIČ/UstId',
 'SHOP_CONFIG_ASSIGNDEFAULTCAT' => 'Priradiť výchozí kategorii',
 'SHOP_CONFIG_ASSIGNEDDEFAULTCAT' => 'Výchozí kategorie:',
 'SHOP_CONFIG_AUTOICONS' => 'Generovanie ikoniek prebieha automaticky z náhľadu(to môže na chvíľu spomaliť beh systému)',
@@ -1627,7 +1627,7 @@ $aLang = array(
 'SHOP_RDFA_SUBMIT_URL' => 'Odoslať URL',
 'SHOP_RDFA_TECH_CONFIG' => 'Globálne nastavenie',
 'SHOP_RDFA_URL' => 'URL obchodu',
-'SHOP_RDFA_VAT' => 'Are the prices and costs shown to the purchaser <b>incl.</b> or <b>excl. VAT</b>?',
+'SHOP_RDFA_VAT' => 'Sú ceny a náklady zákazníkom zobrazené <b>s </b> alebo <b>bez DPH</b>?',
 'SHOP_RDFA_VAT_EX' => 'bez DPH',
 'SHOP_RDFA_VAT_INC' => 's DPH',
 'SHOP_SEO_DEFSEOLANGUAGE' => 'Predvolený jazyk pre SEO URL',
