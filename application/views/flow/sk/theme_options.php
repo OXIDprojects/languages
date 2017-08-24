@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), etch (6), i7 (685), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
+ * @translators: DominikS (404), ET (12), etch (6), i7 (754), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
  */
 
 $sLangName  = 'Slovenčina';
@@ -29,27 +29,27 @@ $sLangName  = 'Slovenčina';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'HELP_SHOP_THEME_blShowListDisplayType' => 'Decide if the visitor of your store can select the type of the product list in store front. If this options is not activated, your visitors will see the lists displayed like you adjusted in the drop box "Default product list type".',
-'HELP_SHOP_THEME_blSliderShowImageCaption' => 'A caption is visible, when the active slide has an assigned product.',
-'HELP_SHOP_THEME_blUseGAEcommerceTracking' => 'Please keep in mind that this option needs to be enabled in your Google Analytics account, too. Manual: <a href="https://support.google.com/analytics/answer/1009612?hl=en&ref_topic=1037061" target="_blank">Link</a>',
-'HELP_SHOP_THEME_iNewBasketItemMessage' => 'When customer adds products to cart, OXID eShop can behave differently. Set up what shall happen to give proper feedback to customer.',
+'HELP_SHOP_THEME_blShowListDisplayType' => 'Rozhodnite sa, či návštevník vášho obchodu môže vybrať typ zoznamu produktov v prednej časti obchodu. Ak tieto možnosti nie sú aktivované, vaši návštevníci uvidia zobrazené zoznamy, ako ste si upravili do rámčeka "Predvolený typ zoznamu produktov".',
+'HELP_SHOP_THEME_blSliderShowImageCaption' => 'Titulok je viditeľný, ak má aktívny snímok priradený produkt.',
+'HELP_SHOP_THEME_blUseGAEcommerceTracking' => 'Nezabudnite, že táto možnosť musí byť povolená aj vo vašom účte Google Analytics. Manuál:<a href="https://support.google.com/analytics/answer/1009612?hl=en&ref_topic=1037061" target="_blank">Link</a>',
+'HELP_SHOP_THEME_iNewBasketItemMessage' => 'Keď zákazník pridá produkty do košíka, OXID eShop sa môže správať inak. Nastavte, čo sa stane, aby zákazník poskytol správnu spätnú väzbu.',
 'HELP_SHOP_THEME_sBackgroundColor' => 'Určené ako hexadecimálna hodnota.<br>Napríklad: #D83434',
-'HELP_SHOP_THEME_sBackgroundPath' => 'This is relative to the path <code>/out/flow/img/backgrounds/</code>.',
+'HELP_SHOP_THEME_sBackgroundPath' => 'Toto je relatívne k ceste <code>/out/flow/img/backgrounds/</code>.',
 'HELP_SHOP_THEME_sBlogUrl' => 'Napríklad: http://blog.oxid-esales.com',
-'HELP_SHOP_THEME_sCatIconsize' => 'In category view, the category pictures of subcategories are displayed in the defined size.',
-'HELP_SHOP_THEME_sCatPromotionsize' => 'Category promotion on start page needs special size for category pictures. Define size of those pictures here.',
-'HELP_SHOP_THEME_sCatThumbnailsize' => 'In category view, the picture of the selected category is displayed in the defined size.',
-'HELP_SHOP_THEME_sDeliveryDaysNotOnStock' => 'The estimated date on which you expect delivery of the order to the customer. If the order contains multiple items, select the latest delivery date. If you message a range of days, please include the later end of the range. (e.g., 7 days if your range is 5-7 days).',
-'HELP_SHOP_THEME_sDeliveryDaysOnStock' => 'The estimated date on which you expect delivery of the order to the customer. If the order contains multiple items, select the latest delivery date. If you message a range of days, please include the later end of the range. (e.g., 7 days if your range is 5-7 days).',
-'HELP_SHOP_THEME_sEmailLogo' => 'This is relative to the path <code>/out/flow/img/</code>.',
+'HELP_SHOP_THEME_sCatIconsize' => 'V zobrazení kategórie sa zobrazujú kategórie obrázkov podkategórií v definovanej veľkosti.',
+'HELP_SHOP_THEME_sCatPromotionsize' => 'Propagácia kategórie na úvodnej stránke potrebuje špeciálnu veľkosť obrázkov kategórie. Tu definujte veľkosť týchto obrázkov.',
+'HELP_SHOP_THEME_sCatThumbnailsize' => 'V zobrazení kategórie sa zobrazuje obrázok vybranej kategórie v definovanej veľkosti.',
+'HELP_SHOP_THEME_sDeliveryDaysNotOnStock' => 'Odhadovaný dátum, od ktorého očakávate doručenie objednávky zákazníkovi. Ak objednávka obsahuje viac položiek, vyberte najnovší dátum doručenia. Ak oznámete niekoľko dní, uveďte prosím neskorší koniec rozsahu. (Napr. 7 dní, ak je váš rozsah 5-7 dní).',
+'HELP_SHOP_THEME_sDeliveryDaysOnStock' => 'Odhadovaný dátum, od ktorého očakávate doručenie objednávky zákazníkovi. Ak objednávka obsahuje viac položiek, vyberte najnovší dátum doručenia. Ak oznámete niekoľko dní, uveďte prosím neskorší koniec rozsahu. (Napr. 7 dní, ak je váš rozsah 5-7 dní).',
+'HELP_SHOP_THEME_sEmailLogo' => 'Toto je relatívne k ceste <code>/out/flow/img/</code>.',
 'HELP_SHOP_THEME_sFacebookUrl' => 'Napríklad: https://www.facebook.com/oxidesales',
-'HELP_SHOP_THEME_sFaviconFile' => 'This favicon is meant to be displayed in the browser\'s tab.<br>In general, this is an ico file.<br>This is relative to the path <code>/out/flow/img/favicons/</code>.',
+'HELP_SHOP_THEME_sFaviconFile' => 'Táto favikón sa má zobrazovať na karte prehliadača. <br> Vo všeobecnosti ide o súbor ico. <br> Je to relatívne k ceste <code>/out/flow/img/favicons/</code>.',
 'HELP_SHOP_THEME_sFaviconMSTileColor' => 'Určené ako hexadecimálna hodnota.<br>Napríklad: #D83434',
 'HELP_SHOP_THEME_sGATrackingId' => 'Napríklad: UA-XXXXXXXX-1',
 'HELP_SHOP_THEME_sGoogleMapsAddr' => 'Napríklad: OXID eSales AG, Bertoldstraße 48, 79098 Freiburg',
 'HELP_SHOP_THEME_sGooglePlusUrl' => 'Napríklad: https://plus.google.com/114133952363540971062',
-'HELP_SHOP_THEME_sGoogleShoppingAccountId' => 'Provide this field only if you submit feeds for Google Shopping.<br><br>Account ID from Google Merchant Center. This value should match the account ID you use to submit your <a href="https://support.google.com/merchants/answer/188494#US" target="_blank">product data feed to Google Shopping</a> through Google Merchant center. If you have a MCA account, use the subaccount ID associated with that product feed.',
-'HELP_SHOP_THEME_sGoogleVendorId' => 'You can find this ID in your Trusted Stores Merchant Dashboard.',
+'HELP_SHOP_THEME_sGoogleShoppingAccountId' => 'Zadajte toto pole len vtedy, ak odovzdáte informačné kanály pre službu Nákupy Google. <br> <br> ID účtu Google Merchant Center. Táto hodnota by mala zodpovedať ID účtu, ktorý používate na odoslanie <a href="https://support.google.com/merchants/answer/188494#US" target="_blank">product data feed to Google Shopping</a> Prostredníctvom služby Google Merchant Center. Ak máte účet MCA, použite ID podúčtu priradeného k danému informačnému kanálu produktu.',
+'HELP_SHOP_THEME_sGoogleVendorId' => 'Toto ID nájdete v informačnom paneli Dôveryhodných obchodov - Trusted Stores Merchant Dashboard.',
 'HELP_SHOP_THEME_sIconsize' => 'Icons are the smallest pictures of a product. They are used: <br><ul><li>in the shopping cart.</li><li>if products are shown in the right menu (e.g. in <span class="filename_filepath_or_italic">TOP of the Shop</span> and <span class="filename_filepath_or_italic">Bargain</span>).</li></ul>For avoiding design issues caused by too big icons the icons are resized. Enter the maximum size for icons here.',
 'HELP_SHOP_THEME_sLogoFile' => 'This is relative to the path <code>/out/flow/img/</code>.',
 'HELP_SHOP_THEME_sLogoHeight' => 'Specify in as a pixel value.',

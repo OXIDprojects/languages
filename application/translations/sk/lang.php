@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), etch (6), i7 (685), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
+ * @translators: DominikS (404), ET (12), etch (6), i7 (754), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
  */
 
 $sLangName  = 'Slovenčina';
@@ -72,7 +72,7 @@ $aLang = array(
 'BETA_NOTE_FAQ' => '. Prosím oslovte nás %s ak máte nejaké otázky.',
 'BETA_NOTE_MIDDLE' => 'od OXID eShop',
 'BETA_NOTE_RELEASE_BETA' => 'Beta',
-'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
+'BETA_NOTE_RELEASE_RC' => 'Kandidát pre uvolnenie/release',
 'BIC' => 'BIC',
 'BILLING_ADDRESS' => 'Fakturačná adresa',
 'BILLING_SHIPPING_SETTINGS' => 'Nastavenie fakturačných údajov a dodacích adries',
@@ -451,7 +451,7 @@ $aLang = array(
 'OPEN_ACCOUNT' => 'Vytvoriť účet',
 'OPEN_PERSONAL_ACCOUNT' => 'Vytvoriť zákaznícky účet',
 'OR' => 'alebo',
-'ORDER' => 'Order',
+'ORDER' => 'Objednať',
 'ORDERS' => 'Objednávky:',
 'ORDER_COMPLETED' => 'Objednávka bola vytvorená',
 'ORDER_DATE' => 'Dátum objednania:',
@@ -612,7 +612,7 @@ $aLang = array(
 'PRODUCT_COMPARISON' => 'Porovnanie tovaru',
 'PRODUCT_DETAILS' => 'Detaily tovaru',
 'PRODUCT_IMAGES' => 'Obrázky tovaru',
-'PRODUCT_NO' => 'Kód:',
+'PRODUCT_NO' => 'Kód',
 'PRODUCT_POST_CARD_FROM' => 'Pohľadnica od',
 'PRODUCT_RATING' => 'Hodnotenie produktu',
 'PRODUCT_REVIEW' => 'Recenzia tovaru',
