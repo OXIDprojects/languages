@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (21), jonashess (20), simon.runer (573)
+ * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (23), jonashess (20), simon.runer (573)
  */
 
 $sLangName  = 'Italiano';
@@ -249,7 +249,7 @@ $aLang = array(
 'AUCTMASTER_DO_SUCCESS' => 'Successo! Tutti i prodotti sono stati trasmessi.',
 'AUCTMASTER_DO_TITLE' => 'Import/Export',
 'AUCTMASTER_DO_UNKNOWNERROR' => 'Errore sconosciuto!',
-'BOTTOMNAVIITEM_ATTENTION' => 'ATTENTION: This function can delete categories - backup before execution!',
+'BOTTOMNAVIITEM_ATTENTION' => 'ATTENZIONE: questa funzione può cancellare delle categorie - prima di eseguirla fare una copia di sicurezza.',
 'BUTTON_DOWNLOAD' => 'Scarica',
 'CATEGORY_LIST_MENUSUBITEM' => 'Categorie',
 'CATEGORY_MAIN_ACTIVE' => 'Attivo',

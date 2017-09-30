@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (21), jonashess (20), simon.runer (573)
+ * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (23), jonashess (20), simon.runer (573)
  */
 
 $sLangName  = 'Italiano';
@@ -30,7 +30,7 @@ $sLangName  = 'Italiano';
 $aLang = array(
 'charset' => 'utf-8',
 'BACK_TO_OVERVIEW' => 'to overview',
-'DD_BASKET_BACK_TO_SHOP' => 'back to shop',
+'DD_BASKET_BACK_TO_SHOP' => 'ritorna allo shop',
 'DD_CLOSE_MODAL' => 'chiudere',
 'DD_CONTACT_ADDRESS_HEADING' => 'indirizzo',
 'DD_CONTACT_FORM_HEADING' => 'contatto',

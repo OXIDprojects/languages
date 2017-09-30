@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: alexraimondo (1), Alpha-Sys (5), chatard (318), cowboy9571 (10), ET (10), marco (2), patmat2809 (5), Phenix (203), piccobello (1), Rainbow40 (2), rava3000 (8), vikapera (376)
+ * @translators: alexraimondo (1), Alpha-Sys (5), chatard (318), cowboy9571 (10), ET (10), marco (3), patmat2809 (5), Phenix (203), piccobello (1), Rainbow40 (2), rava3000 (8), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -655,7 +655,7 @@ Si vous commandez avec votre compte client, Les liens de téléchargement appara
 'ROOT_CATEGORY_CHANGED' => 'Catégorie prinicpale changée',
 'SAVE' => 'Enregistrer',
 'SAVE_RATING_AND_REVIEW' => 'Enregister votre évaluation',
-'SEARCH' => 'Rechercher',
+'SEARCH' => 'Recherchér',
 'SEARCH_FOR_LISTS' => 'Rechercher davantage de listes:',
 'SEARCH_FOR_PRODUCTS_CATEGORY_VENDOR' => 'recherche de \'%s\' produits <TAG_CATEGORY> <TAG_VENDOR>',
 'SEARCH_FOR_PRODUCTS_CATEGORY_VENDOR_MANUFACTURER' => 'recherche de \'%s\' produits <TAG_CATEGORY> <TAG_VENDOR> <TAG_MANUFACTURER>',
