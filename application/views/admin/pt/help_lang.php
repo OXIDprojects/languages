@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: goncalop (66), johnjase (172), monteiro (2)
+ * @translators: goncalop (66), johnjase (172), monteiro (182)
  */
 
 $sLangName  = 'Português';

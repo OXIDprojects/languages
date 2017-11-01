@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: imarius (93), patmat2809 (1), urecheatu007 (313), valdone (189)
+ * @translators: imarius (93), ovidiu (175), patmat2809 (1), urecheatu007 (313), valdone (189)
  */
 
 $sLangName  = 'Română';

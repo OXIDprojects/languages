@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: imarius (93), patmat2809 (1), urecheatu007 (313), valdone (189)
+ * @translators: imarius (93), ovidiu (175), patmat2809 (1), urecheatu007 (313), valdone (189)
  */
 
 $sLangName  = 'Română';
@@ -58,9 +58,9 @@ $aLang = array(
 'ERROR_NOT_WRITABLE' => 'Eroare: Nu se poate scrie pe %s !',
 'ERROR_OPENING_SQL_FILE' => 'ERROR: Can not open SQL file %s!',
 'ERROR_PASSWORDS_DO_NOT_MATCH' => 'Parolele nu se potrivesc!',
-'ERROR_PASSWORD_TOO_SHORT' => 'Password is too short!',
+'ERROR_PASSWORD_TOO_SHORT' => 'Parola este prea scurta',
 'ERROR_SETUP_CANCELLED' => 'Instalarea a fost anulata deoarece nu ati acceptat conditiile licentei.',
-'ERROR_USER_NAME_DOES_NOT_MATCH_PATTERN' => 'Please enter a valid e-mail address!',
+'ERROR_USER_NAME_DOES_NOT_MATCH_PATTERN' => 'Va rugam introduceti o casuta postala valida !',
 'ERROR_VIEWS_CANT_CREATE' => 'EROARE: Nu se pot crea vizualizari. Va rugam sa verificati privilegiile utilizatorului bazei de date.',
 'ERROR_VIEWS_CANT_DROP' => 'ERROR: Can\'t drop views. Please check your database user privileges.',
 'ERROR_VIEWS_CANT_SELECT' => 'EROARE: Nu se poate selecta din vizualizari. Va rugam sa verificati privilegiile utilizatorului bazei de date.',

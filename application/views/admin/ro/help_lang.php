@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: imarius (93), patmat2809 (1), urecheatu007 (313), valdone (189)
+ * @translators: imarius (93), ovidiu (175), patmat2809 (1), urecheatu007 (313), valdone (189)
  */
 
 $sLangName  = 'Română';
@@ -98,7 +98,7 @@ $aLang = array(
 'HELP_DISCOUNT_MAIN_AMOUNT' => 'You can use <span class="navipath_or_inputname">Quantity</span> to specify that the discount is only valid for certain purchase quantities. If you want the discount to be valid for all purchase quantities, enter <span class="userinput_or_code">0</span> in <span class="navipath_or_inputname">From</span> and <span class="userinput_or_code">0</span> in <span class="navipath_or_inputname">To</span>.',
 'HELP_DISCOUNT_MAIN_PRICE' => 'You can use <span class="navipath_or_inputname">Purchase Price</span> to specify that the discount is only valid for certain purchase prices. If the discount is to be valid for all purchase prices, enter <span class="userinput_or_code">0</span> in <span class="navipath_or_inputname">From</span> and <span class="userinput_or_code">0</span> in <span class="navipath_or_inputname">To</span>.',
 'HELP_DISCOUNT_MAIN_REBATE' => 'In <span class="navipath_or_inputname">Discount</span>, you specify the magnitude of the discount. You can use the selection list after the entry field to specify whether the discount is to be applied as an absolute discount or as a percentage discount:<ul><li><span class="userinput_or_code">abs</span>: The discount is an absolute discount, e.g. EUR 5.</li><li><span class="userinput_or_code">%</span>: The discount is a percentage discount, e.g. 10 percent of the purchase price.</li><li><span class="userinput_or_code">itm</span>: Discount in the form of a free product. Set the amount of this product. Choose "Multiply" if the amount of discounted product in shopping cart should be multiplied with the amount of the free product.</li></ul>',
-'HELP_DYN_TRUSTED_ACTIVE' => 'Check this option to display the Trusted Shops Seal on shop.',
+'HELP_DYN_TRUSTED_ACTIVE' => 'Bifeaza aceasta optiune pentru a afişa sigiliul de încredere pe magazin.',
 'HELP_DYN_TRUSTED_PASSWORD' => 'A password (wsPassword) for the Trusted Shops webservice is required if you offer the Trusted Shops Buyer Protection Excellence to your customers. Buyer Protection Classic does not require a password.',
 'HELP_DYN_TRUSTED_RATINGS_ID' => 'You will receive your Trusted Shops ID for Customer Ratings in the order conformation e-mail. If you are already a member of Trusted Shops, please use your known Trusted Shops ID. The green light indicates that the Customer Ratings have been verified and enabled after saving your settings.',
 'HELP_DYN_TRUSTED_RATINGS_ORDEREMAIL' => 'Enable the button "Write a review!" in "Order confirmation" e-mail subsequent to an order by switching this option on.',

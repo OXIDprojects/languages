@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: goncalop (66), johnjase (172), monteiro (2)
+ * @translators: goncalop (66), johnjase (172), monteiro (182)
  */
 
 $sLangName  = 'Português';
@@ -33,14 +33,14 @@ $aLang = array(
 'BUTTON_BEGIN_INSTALL' => 'Instalação iniciada',
 'BUTTON_DB_INSTALL' => 'Criar base de dados agora',
 'BUTTON_LICENCE' => 'Continuar',
-'BUTTON_PROCEED_INSTALL' => 'Proceed with setup',
+'BUTTON_PROCEED_INSTALL' => 'Avançar com a configuração',
 'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Install demodata',
 'BUTTON_RADIO_LICENCE_ACCEPT' => 'Eu aceito as condições de licensa',
 'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'Eu não aceito as condições de licensa',
-'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => 'Do <strong>not</strong> install demodata',
+'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => '<strong>Não instale</strong> dados de demonstração.',
 'BUTTON_START_INSTALL' => 'Restart setup',
 'BUTTON_WRITE_DATA' => 'Gravar e continuar',
-'BUTTON_WRITE_LICENCE' => 'Save license key',
+'BUTTON_WRITE_LICENCE' => 'Salvar chave licença',
 'ERROR_BAD_DEMODATA' => 'ERROR: Issue while inserting this SQL statements: ',
 'ERROR_BAD_SERIAL_NUMBER' => 'ERROR: Wrong license key!',
 'ERROR_BAD_SQL' => 'ERROR: Issue while inserting this SQL statements: ',
@@ -50,16 +50,16 @@ $aLang = array(
 'ERROR_COULD_NOT_OPEN_CONFIG_FILE' => 'Could not open %s for reading! Please consult our FAQ, forum or contact OXID Support staff!',
 'ERROR_COULD_NOT_READ_FILE' => 'Setup could not open "%s" for reading!',
 'ERROR_COULD_NOT_WRITE_TO_FILE' => 'Setup could not write to "%s"!',
-'ERROR_DB_ALREADY_EXISTS' => 'ERROR: Seems there is already OXID eShop installed in database %s. Please delete it prior continuing!',
+'ERROR_DB_ALREADY_EXISTS' => 'ERRO: Parece que já existe uma instalação Oxid eShop na base de dados %s. Por favor elimine antes de continuar!',
 'ERROR_DB_CONNECT' => 'ERROR: No database connection possible!',
 'ERROR_FILL_ALL_FIELDS' => 'ERROR: Please fill in all needed fields!',
 'ERROR_MYSQL_VERSION_DOES_NOT_FIT_REQUIREMENTS' => 'MySQL version does not fit system requiremens',
-'ERROR_NOT_AVAILABLE' => 'ERROR: %s not found!',
+'ERROR_NOT_AVAILABLE' => 'ERRO: %s não encontrado!',
 'ERROR_NOT_WRITABLE' => 'ERROR: %s not writeable!',
 'ERROR_OPENING_SQL_FILE' => 'ERROR: Can not open SQL file %s!',
-'ERROR_PASSWORDS_DO_NOT_MATCH' => 'Passwords do not match!',
+'ERROR_PASSWORDS_DO_NOT_MATCH' => 'As passwords não coincidem!',
 'ERROR_PASSWORD_TOO_SHORT' => 'Password is too short!',
-'ERROR_SETUP_CANCELLED' => 'Setup has been cancelled because you didn\'t accept the license conditions.',
+'ERROR_SETUP_CANCELLED' => 'O setup foi cancelado porque não aceitou as condições da licença.',
 'ERROR_USER_NAME_DOES_NOT_MATCH_PATTERN' => 'Please enter a valid e-mail address!',
 'ERROR_VIEWS_CANT_CREATE' => 'ERROR: Can\'t create views. Please check your database user privileges.',
 'ERROR_VIEWS_CANT_DROP' => 'ERROR: Can\'t drop views. Please check your database user privileges.',
