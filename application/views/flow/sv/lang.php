@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: angelhardt (80), HolgerGremminger (69), marco (934), Palmer (73), rhinosmedia (4), skogsverktyg (131), topconcepts (118)
+ * @translators: angelhardt (80), HolgerGremminger (69), marco (934), Palmer (73), rhinosmedia (4), skogsverktyg (205), topconcepts (118)
  */
 
 $sLangName  = 'Svenska';
