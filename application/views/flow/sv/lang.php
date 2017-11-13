@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: angelhardt (80), HolgerGremminger (69), marco (934), Palmer (73), rhinosmedia (4), skogsverktyg (205), topconcepts (118)
+ * @translators: angelhardt (80), HolgerGremminger (69), marco (934), Palmer (73), rhinosmedia (4), skogsverktyg (224), topconcepts (118)
  */
 
 $sLangName  = 'Svenska';
@@ -29,15 +29,15 @@ $sLangName  = 'Svenska';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'BACK_TO_OVERVIEW' => 'to overview',
+'BACK_TO_OVERVIEW' => 'till översikt',
 'DD_BASKET_BACK_TO_SHOP' => 'tillbaka till butiken',
 'DD_CLOSE_MODAL' => 'stäng',
 'DD_CONTACT_ADDRESS_HEADING' => 'Adress',
 'DD_CONTACT_FORM_HEADING' => 'kontaktformulär',
 'DD_CONTACT_PAGE_HEADING' => 'Kontakta oss!',
-'DD_CONTACT_THANKYOU1' => 'Thank you.',
-'DD_CONTACT_THANKYOU2' => ' appreciates your comments.',
-'DD_DEMO_ADMIN_TOOL' => 'Open admin interface',
+'DD_CONTACT_THANKYOU1' => 'Tack för din meddelande',
+'DD_CONTACT_THANKYOU2' => 'Recensioner välkomnas.',
+'DD_DEMO_ADMIN_TOOL' => 'Starta administratorverktyg',
 'DD_DOWNLOADLINKS_HEADING' => 'Din registrering',
 'DD_DOWNLOADS_DOWNLOAD_TOOLTIP' => 'ladda ner',
 'DD_ERR_404_CONTACT_BUTTON' => 'till kontaktformuläret',
@@ -64,7 +64,7 @@ $aLang = array(
 'DD_INVITE_HEADING' => 'Artikelrekommendation',
 'DD_INVITE_LINK' => 'länk',
 'DD_LINKS_NO_ENTRIES' => 'Det finns tyvärr inga länkar än.',
-'DD_LISTLOCATOR_FILTER_ATTRIBUTES' => 'Filter:',
+'DD_LISTLOCATOR_FILTER_ATTRIBUTES' => 'Filter',
 'DD_LIST_SHOW_MORE' => 'titta på produkter...',
 'DD_LOGIN_ACCOUNT_PANEL_CREATE_BODY' => 'Genom din registrering i vår web-butik är det smidigare att beställa. Dessutom kan du spara flera leveransadresser och du kan följa dina beställningar.',
 'DD_LOGIN_ACCOUNT_PANEL_CREATE_TITLE' => 'skapa kundkonto',
@@ -82,7 +82,7 @@ $aLang = array(
 'DD_RATING_CUSTOMERRATINGS' => 'Kundrecensioner',
 'DD_RECOMMENDATION_EDIT_BACK_TO_LIST' => 'tillbaka till översikten',
 'DD_REGISTER_HEADING' => 'Din registrering',
-'DD_ROLES_BEMAIN_UIROOTHEADER' => 'Menu',
+'DD_ROLES_BEMAIN_UIROOTHEADER' => 'Meny',
 'DD_SIDEBAR_CATEGORYTREE' => 'Kategorier',
 'DD_SIDEBAR_TAGCLOUD' => 'Slagord',
 'DD_SORT_ASC' => 'nerstigande',
@@ -95,19 +95,19 @@ $aLang = array(
 'DD_WISHLIST_HEADING' => 'Önskelista',
 'DETAILS_VPE_MESSAGE_1' => 'Denna artikel kan bara köpas i förpackingsenhet med',
 'DETAILS_VPE_MESSAGE_2' => 'Styck.',
-'FOOTER_NEWSLETTER_INFO' => 'Get informed about the latest products and offers per email.',
-'MANUFACTURERSLIDER_SUBHEAD' => 'We present our carefully selected brands, whose products can be found in our shop.',
+'FOOTER_NEWSLETTER_INFO' => 'Nyaste produkter och bästa erbjudande via mejl att du inte missa någonting!',
+'MANUFACTURERSLIDER_SUBHEAD' => 'Här presenterar vi våra utvalda varumärken, deras produkter finns i vår webbutik.',
 'OF' => 'från',
-'PAGE_DETAILS_CUSTOMERS_ALSO_BOUGHT_SUBHEADER' => 'Customers who bought this item also bought one of the following products.',
+'PAGE_DETAILS_CUSTOMERS_ALSO_BOUGHT_SUBHEADER' => 'Andra kunder som köpte denna artikel, köpte även följande artiklar.',
 'SEARCH_SUBMIT' => 'sök',
 'SEARCH_TITLE' => 'Ange sökord...',
-'START_BARGAIN_HEADER' => 'Week\'s Special',
-'START_BARGAIN_SUBHEADER' => 'Save money with our current bargains!',
-'START_NEWEST_HEADER' => 'Just arrived',
-'START_NEWEST_SUBHEADER' => 'Fresh as it gets. One minute in the box and now already in store.',
-'START_TOP_PRODUCTS_HEADER' => 'Top seller',
-'START_TOP_PRODUCTS_SUBHEADER' => 'Only 2 products, but the best we can offer you.',
-'WIDGET_PRODUCT_RELATED_PRODUCTS_ACCESSORIES_SUBHEADER' => 'The following products fit well to this product.',
-'WIDGET_PRODUCT_RELATED_PRODUCTS_CROSSSELING_SUBHEADER' => 'Customers who viewed this product also viewed the following products.',
-'WIDGET_PRODUCT_RELATED_PRODUCTS_SIMILAR_SUBHEADER' => 'Take a look at our similar products.',
+'START_BARGAIN_HEADER' => 'Veckans deal',
+'START_BARGAIN_SUBHEADER' => 'Gör ett klipp med våra erbjudanden.',
+'START_NEWEST_HEADER' => 'Precis inkommit',
+'START_NEWEST_SUBHEADER' => 'Färskare blir det inte. ut ur paketet direkt till butiken.',
+'START_TOP_PRODUCTS_HEADER' => 'Bästsäljare',
+'START_TOP_PRODUCTS_SUBHEADER' => 'Bara 2 produkter men dem bästa som vi kan erbjuda.',
+'WIDGET_PRODUCT_RELATED_PRODUCTS_ACCESSORIES_SUBHEADER' => 'Följande artiklar passar bra till den artikel.',
+'WIDGET_PRODUCT_RELATED_PRODUCTS_CROSSSELING_SUBHEADER' => 'Kunder som kollade den artikel, kollade även dessa artiklar.',
+'WIDGET_PRODUCT_RELATED_PRODUCTS_SIMILAR_SUBHEADER' => 'Kolla artiklar som är likvärdiga.',
 );
