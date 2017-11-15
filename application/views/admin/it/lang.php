@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (23), jonashess (20), simon.runer (573)
+ * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (23), jonashess (22), simon.runer (573)
  */
 
 $sLangName  = 'Italiano';
@@ -492,7 +492,7 @@ $aLang = array(
 'EXCEPTION_PARENT_THEME_NOT_FOUND' => 'Cannot find parent theme',
 'EXCEPTION_PARENT_VERSION_MISMATCH' => 'Parent theme version is not compatible',
 'EXCEPTION_PARENT_VERSION_UNSPECIFIED' => 'Parent theme did not specify version',
-'EXCEPTION_SYSTEMCOMPONENT_TEMPLATENOTFOUND' => 'Template "%s" not found',
+'EXCEPTION_SYSTEMCOMPONENT_TEMPLATENOTFOUND' => 'Template "%s" non trovato',
 'EXCEPTION_THEME_NOT_LOADED' => 'Theme could not be loaded',
 'EXCEPTION_THEME_SHOULD_BE_ONLY_IN_DATABASE' => 'Theme should not be defined in config.inc.php',
 'EXCEPTION_UNSPECIFIED_PARENT_VERSIONS' => 'Compatible parent theme version not specified',

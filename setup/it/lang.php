@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (23), jonashess (20), simon.runer (573)
+ * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (23), jonashess (22), simon.runer (573)
  */
 
 $sLangName  = 'Italiano';
@@ -54,7 +54,7 @@ $aLang = array(
 'ERROR_DB_CONNECT' => 'ERROR: No database connection possible!',
 'ERROR_FILL_ALL_FIELDS' => 'ERROR: Please fill in all needed fields!',
 'ERROR_MYSQL_VERSION_DOES_NOT_FIT_REQUIREMENTS' => 'MySQL version does not fit system requiremens',
-'ERROR_NOT_AVAILABLE' => 'ERROR: %s not found!',
+'ERROR_NOT_AVAILABLE' => 'ERRORE: %s non trovato!',
 'ERROR_NOT_WRITABLE' => 'ERROR: %s not writeable!',
 'ERROR_OPENING_SQL_FILE' => 'ERROR: Can not open SQL file %s!',
 'ERROR_PASSWORDS_DO_NOT_MATCH' => 'Passwords do not match!',
