@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (23), jonashess (22), simon.runer (573)
+ * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (23), jonashess (32), simon.runer (573)
  */
 
 $sLangName  = 'Italiano';
@@ -49,7 +49,7 @@ $aLang = array(
 'DD_FILE_ATTRIBUTES_OCLOCK' => 'o\'clock',
 'DD_FOOTER_CONTACT_INFO' => 'Contact:',
 'DD_FOOTER_FOLLOW_US' => 'Follow us:',
-'DD_FORGOT_PASSWORD_HEADING' => 'Forgot password',
+'DD_FORGOT_PASSWORD_HEADING' => 'password dimenticata',
 'DD_FORM_VALIDATION_CHECKONE' => 'Please select at least one option.',
 'DD_FORM_VALIDATION_INTEGER' => 'There are no decimal places allowed.',
 'DD_FORM_VALIDATION_NEGATIVENUMBER' => 'prego immettere un numero negativo',

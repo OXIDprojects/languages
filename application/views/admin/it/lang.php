@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (23), jonashess (22), simon.runer (573)
+ * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (23), jonashess (32), simon.runer (573)
  */
 
 $sLangName  = 'Italiano';
@@ -346,7 +346,7 @@ $aLang = array(
 'DELIVERY_MAIN_FINALIZE' => 'Don\'t calculate further Rules if this Rule matches',
 'DELIVERY_MAIN_ONETIMEPERITEM' => ' Once for each different product',
 'DELIVERY_MAIN_ONETIMEPERITEMINWK' => 'Per ogni prodotto',
-'DELIVERY_MAIN_ONETIMEPERWK' => ' Once per Cart',
+'DELIVERY_MAIN_ONETIMEPERWK' => 'Una volta per cestino',
 'DELIVERY_MAIN_ORDER' => 'Order of Rule Processing',
 'DELIVERY_MAIN_PARAM' => 'Payment Method',
 'DELIVERY_MAIN_PRICE' => 'Price Surcharge/Discount',
@@ -652,13 +652,13 @@ $aLang = array(
 'GENERAL_BILLADDRESS' => 'Indirizzo di fatturazione',
 'GENERAL_BILLSAL' => 'Title',
 'GENERAL_BIRTHDATE' => 'Data di nascita',
-'GENERAL_CARD' => 'Greeting Card',
+'GENERAL_CARD' => 'Biglietto di auguri',
 'GENERAL_CATEGORY' => 'Categoria',
 'GENERAL_CATEGORYSELECT' => 'Seleziona una categoria',
 'GENERAL_CHANGEPRODUCT' => 'Choose product',
 'GENERAL_CLICKFORDETAILS' => '(Clicca per maggiori info)',
 'GENERAL_COMPANY' => 'Azienda',
-'GENERAL_COPY' => 'Copy',
+'GENERAL_COPY' => 'Copiare',
 'GENERAL_COPYTOSUBSHOPS' => 'Copy to subshops',
 'GENERAL_COUNTRY' => 'Paesi',
 'GENERAL_DATE' => 'Data',
@@ -692,7 +692,7 @@ $aLang = array(
 'GENERAL_FROM' => 'Da',
 'GENERAL_FROMCATEGORY' => 'Dalla categoria:',
 'GENERAL_IBRUTTO' => 'Product Gross Price',
-'GENERAL_ICON' => 'Icon',
+'GENERAL_ICON' => 'Icona',
 'GENERAL_IDENT' => 'Ident',
 'GENERAL_INETTO' => 'Product Net Price',
 'GENERAL_INFOLDER' => 'Cartella',
@@ -713,9 +713,9 @@ $aLang = array(
 'GENERAL_LIST_LAST' => 'last',
 'GENERAL_LIST_NEXT' => 'prossimo',
 'GENERAL_LIST_PREV' => 'previous',
-'GENERAL_MANUEL' => 'Manual',
+'GENERAL_MANUEL' => 'manuale',
 'GENERAL_MANUELL' => 'manual',
-'GENERAL_MANUFACTURER' => 'Manufacturer',
+'GENERAL_MANUFACTURER' => 'Produttore',
 'GENERAL_MAX_DOWNLOADS_COUNT' => 'Maximum count of downloads',
 'GENERAL_MAX_FILE_UPLOAD' => 'max.',
 'GENERAL_MAX_PICTURE_DIMENSIONS' => 'max. 1500*1500 px',
@@ -821,7 +821,7 @@ $aLang = array(
 'GENIMPORT_TABLE' => 'Tabella',
 'GENIMPORT_TOTALROWS' => 'Total rows imported',
 'GENIMPORT_UPLOADFILE' => 'Carica file',
-'GIFTCARD_COSTS' => 'Greeting Card',
+'GIFTCARD_COSTS' => 'Biglietto di auguri',
 'HELP_ARTICLE_MAIN_PRICE' => 'This price is inherited to product\'s variants.<ul><li>Depending on the shop settings net price or gross price is input/shown.</li><li>Gross price is always shown in parentheses.</li></ul>',
 'HELP_SHOP_CONFIG_PARCELSERVICE' => 'Please fill in the tracking URL of your shipping provider. <i>##ID##</i> is a placeholder and will be replaced with the respective tracking number.',
 'HOME_DESC' => 'Welcome to the OXID eShop Admin. This is an overview of the main areas and functions.',
