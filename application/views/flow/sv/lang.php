@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: angelhardt (80), HolgerGremminger (69), marco (934), Palmer (73), rhinosmedia (4), skogsverktyg (224), topconcepts (118)
+ * @translators: angelhardt (80), HolgerGremminger (69), marco (934), Palmer (73), rhinosmedia (4), skogsverktyg (820), topconcepts (118)
  */
 
 $sLangName  = 'Svenska';
@@ -47,8 +47,8 @@ $aLang = array(
 'DD_FILE_ATTRIBUTES_FILENAME' => 'Filnamn:',
 'DD_FILE_ATTRIBUTES_FILESIZE' => 'Filstorlek:',
 'DD_FILE_ATTRIBUTES_OCLOCK' => 'Klocka',
-'DD_FOOTER_CONTACT_INFO' => 'Kontakt:',
-'DD_FOOTER_FOLLOW_US' => 'Följ oss:',
+'DD_FOOTER_CONTACT_INFO' => 'DD_FOOTER_KONTAKT_INFO',
+'DD_FOOTER_FOLLOW_US' => 'DD_FOOTER_FÖLJER_OSS',
 'DD_FORGOT_PASSWORD_HEADING' => 'glömt lösenord',
 'DD_FORM_VALIDATION_CHECKONE' => 'Var snäll och välj minst en option.',
 'DD_FORM_VALIDATION_INTEGER' => 'Siffror efter kommat är ej tillåtna.',
@@ -73,7 +73,7 @@ $aLang = array(
 'DD_MINIBASKET_MODAL_TABLE_PRICE' => 'Totalsumma',
 'DD_MINIBASKET_MODAL_TABLE_TITLE' => 'Artikel',
 'DD_NEWSLETTER_OPTIN_HEADING' => 'Din nyhetsbrev-prenumeration',
-'DD_ORDERSHIPPED_HEADING' => 'Leveransbekräftelse - Beställning',
+'DD_ORDERSHIPPED_HEADING' => 'DD_LEVERANSSKICKAT_HEADING',
 'DD_ORDER_CUST_HEADING' => 'Beställning',
 'DD_ORDER_ORDERDATE' => 'Datum:',
 'DD_OWNER_REMINDER_HEADING' => 'Lagersaldo lågt',
@@ -93,8 +93,8 @@ $aLang = array(
 'DD_USER_SHIPPING_LABEL_STATE' => 'Län:',
 'DD_USER_SHIPPING_SELECT_ADDRESS' => 'välja',
 'DD_WISHLIST_HEADING' => 'Önskelista',
-'DETAILS_VPE_MESSAGE_1' => 'Denna artikel kan bara köpas i förpackingsenhet med',
-'DETAILS_VPE_MESSAGE_2' => 'Styck.',
+'DETAILS_VPE_MESSAGE_1' => 'Dieser Artikel kann nur in Verpackungseinheiten zu je',
+'DETAILS_VPE_MESSAGE_2' => 'erworben werden.',
 'FOOTER_NEWSLETTER_INFO' => 'Nyaste produkter och bästa erbjudande via mejl att du inte missa någonting!',
 'MANUFACTURERSLIDER_SUBHEAD' => 'Här presenterar vi våra utvalda varumärken, deras produkter finns i vår webbutik.',
 'OF' => 'från',
