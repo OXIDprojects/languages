@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3753), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3763), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -46,7 +46,7 @@ $aLang = array(
 'ADD_YOUR_COMMENTS' => 'Közlemény',
 'ALL' => 'Összes',
 'ALL_BRANDS' => 'Összes márka',
-'ALL_LISTMANIA' => 'Összes kedvenc',
+'ALL_LISTMANIA' => 'Összes kedvenc listám',
 'ALREADY_ADDED_TAG' => 'Ez a Címszó már létezik',
 'ALREADY_CUSTOMER' => 'Már rendelkezem ügyfélfiókkal',
 'APPLAY' => 'Elfogad',
@@ -60,7 +60,7 @@ $aLang = array(
 'BANK' => 'Bank neve',
 'BANK_ACCOUNT_HOLDER' => 'Számlatulajdonos',
 'BANK_ACCOUNT_NUMBER' => 'Számlaszám  vagy IBAN',
-'BANK_CODE' => 'BLZ vagy BIC',
+'BANK_CODE' => 'A bank száma vagy BIC',
 'BANK_DETAILS' => 'Bank adatai',
 'BARGAIN' => 'Alkalmi akció',
 'BARGAIN_PRODUCTS' => 'A legjobb alkalmi akciók',

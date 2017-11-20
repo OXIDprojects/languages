@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3753), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3763), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -41,7 +41,7 @@ $aLang = array(
 'ADMINGB_TITLE' => '[Vendégkönyv]',
 'ADMINLINKS_LIST_MENUITEM' => 'Ügyféinformáció',
 'ADMINLINKS_LIST_MENUSUBITEM' => 'Linkek',
-'ADMINLINKS_LIST_TITLE' => '[Linkkezelés]',
+'ADMINLINKS_LIST_TITLE' => '[OXID Linkkezelés]',
 'ADMIN_MALL_SELECT_ALL_SHOPS' => 'Összes kiválasztása',
 'ADMIN_MALL_SELECT_NONE_SHOPS' => 'Egyiket sem',
 'ALTERNATIVE_IMAGE_SERVER_NOTE' => '<b>INFORMÁCIÓ:</b> A shop úgy lett beállítva, hogy a termékképek egy külső szerverről töltődnek be. Az adatok viszont nem ide lesznek feltöltve. Biztosítsa a kézi szinkronizációt.',
@@ -75,7 +75,7 @@ $aLang = array(
 'ARTICLE_EXTEND_DESCRIPTION' => 'Leírás',
 'ARTICLE_EXTEND_DIMENSIONS_UNIT' => 'm',
 'ARTICLE_EXTEND_ENTERURL' => 'Létező média URL-k megadása <br>(PDF, Film, mp3 vagy YouTube!)',
-'ARTICLE_EXTEND_ERRORSAVINGTPRICE' => 'Figyelem: UVP-nek nagyobbnak kell lennie a szabott árnál!',
+'ARTICLE_EXTEND_ERRORSAVINGTPRICE' => 'Figyelem: Az ajánlott kiskereskedelmi árnak nagyobbnak kell lennie a szabott árnál!',
 'ARTICLE_EXTEND_EXTURL' => 'Külső URL',
 'ARTICLE_EXTEND_FILE' => 'Fájl',
 'ARTICLE_EXTEND_FILEUPLOAD' => 'Fájl feltöltése',
@@ -123,8 +123,8 @@ $aLang = array(
 'ARTICLE_MAIN_ACTIVFROMTILL' => 'vagy aktív',
 'ARTICLE_MAIN_ALDPRICE' => 'Alternatív ár',
 'ARTICLE_MAIN_ALLOWCUST' => 'Szerkesztés engedélyezése',
-'ARTICLE_MAIN_ARTCOPY' => 'Term. másolás',
-'ARTICLE_MAIN_ARTNUM' => 'Term.-Nr.',
+'ARTICLE_MAIN_ARTCOPY' => 'Term. másolása',
+'ARTICLE_MAIN_ARTNUM' => 'Term.szám',
 'ARTICLE_MAIN_DISTEAN' => 'Gyártó EAN',
 'ARTICLE_MAIN_EAN' => 'EAN',
 'ARTICLE_MAIN_ERRORSAVINGARTICLE' => 'Figyelem: Ez a termékszám már létezik!',
@@ -187,7 +187,7 @@ $aLang = array(
 'ARTICLE_PICTURES_ZOOM4UPLOAD' => 'Nagyítás 4 feltöltés:',
 'ARTICLE_REVIEW_ACTIVE' => 'Aktív',
 'ARTICLE_REVIEW_DELETE' => 'Törlés',
-'ARTICLE_REVIEW_POSTEDFROM' => 'Elküldve :',
+'ARTICLE_REVIEW_POSTEDFROM' => 'Feladó neve :',
 'ARTICLE_REVIEW_SAVE' => 'Mentés',
 'ARTICLE_REVIEW_TEXT' => 'Text:',
 'ARTICLE_RIGHTS_ALLGROUPS' => 'Összes felhasználócsoport',
@@ -221,7 +221,7 @@ $aLang = array(
 'ARTICLE_STOCK_WEEKS' => 'Hét',
 'ARTICLE_USERDEF_USERDEFRANGE' => 'Testreszabható terület - Az ön által meghatározott mezőket itt adhatja hozzá.',
 'ARTICLE_VARIANT_ACTIVE' => 'Aktív',
-'ARTICLE_VARIANT_ARTNUM' => 'Term.-Sz..',
+'ARTICLE_VARIANT_ARTNUM' => 'Term.szám',
 'ARTICLE_VARIANT_ARTSAVE' => 'Mentés',
 'ARTICLE_VARIANT_CHOICE' => 'Variáns',
 'ARTICLE_VARIANT_EDIT' => 'Szerkeszt',
@@ -295,7 +295,7 @@ $aLang = array(
 'CATEGORY_RIGHTS_SETGROUPS_VISIBLE' => 'Kizárólag a következő felhasználói csoport láthatja',
 'CATEGORY_TEXT_SAVE' => 'Mentés',
 'CATEGORY_UPDATE_CLOSE' => 'Bezár',
-'CATEGORY_UPDATE_TITLE' => '[Kategóriák beazonosítása]',
+'CATEGORY_UPDATE_TITLE' => '[Kategóriák indexelése]',
 'CMSFOLDER_EMAILS' => 'E-Mailek',
 'CMSFOLDER_NONE' => 'nincs',
 'CMSFOLDER_PRODUCTINFO' => 'Termék Információk',
