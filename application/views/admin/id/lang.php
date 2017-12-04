@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: ayu (55), bih (23), irvictor (13)
+ * @translators: ayu (55), bih (27), irvictor (13)
  */
 
 $sLangName  = 'Indonesia';
@@ -93,9 +93,9 @@ $aLang = array(
 'ARTICLE_EXTEND_TEMPLATE' => 'Template alternatif',
 'ARTICLE_EXTEND_TPRICE' => 'RRP',
 'ARTICLE_EXTEND_UNITNAME' => 'Unit',
-'ARTICLE_EXTEND_UNITQUANTITY' => 'Quantity',
+'ARTICLE_EXTEND_UNITQUANTITY' => 'Jumlah',
 'ARTICLE_EXTEND_UPDATEMEDIA' => 'Update media',
-'ARTICLE_EXTEND_UPDATEPRICE' => 'Base price:',
+'ARTICLE_EXTEND_UPDATEPRICE' => 'Harga basis:',
 'ARTICLE_EXTEND_UPDATEPRICEA' => 'A:',
 'ARTICLE_EXTEND_UPDATEPRICEB' => 'B:',
 'ARTICLE_EXTEND_UPDATEPRICEC' => 'C:',
