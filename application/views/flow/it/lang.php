@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (23), jonashess (32), JongenWerkzeugtechnik (44), simon.runer (573)
+ * @translators: bRanzo (210), DC-NICO (41), Effettofresnel (121), ET (205), helli (23), jonashess (33), JongenWerkzeugtechnik (44), simon.runer (573)
  */
 
 $sLangName  = 'Italiano';
@@ -70,7 +70,7 @@ $aLang = array(
 'DD_LOGIN_ACCOUNT_PANEL_CREATE_TITLE' => 'Open account',
 'DD_LOGIN_ACCOUNT_PANEL_LOGIN_TITLE' => 'Login',
 'DD_MINIBASKET_CONTINUE_SHOPPING' => 'continue shopping',
-'DD_MINIBASKET_MODAL_TABLE_PRICE' => 'Total',
+'DD_MINIBASKET_MODAL_TABLE_PRICE' => 'importo totale',
 'DD_MINIBASKET_MODAL_TABLE_TITLE' => 'Article',
 'DD_NEWSLETTER_OPTIN_HEADING' => 'Your newsletter subscription',
 'DD_ORDERSHIPPED_HEADING' => 'Delivery confirmation - Order',
