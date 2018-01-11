@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: alexraimondo (1), Alpha-Sys (5), chatard (318), cowboy9571 (10), ET (10), marco (7), patmat2809 (5), Phenix (203), piccobello (1), Rainbow40 (2), rava3000 (8), vikapera (376)
+ * @translators: alexraimondo (1), Alpha-Sys (5), chatard (318), cowboy9571 (10), ET (10), ftn2018 (236), marco (7), patmat2809 (5), Phenix (203), piccobello (1), Rainbow40 (2), rava3000 (8), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -830,7 +830,7 @@ $aLang = array(
 'IS_REVERSE_PROXY_AVAILABLE' => 'Disponibilité d\'un test inversé.',
 'LANGUAGE_ABBERVATION' => 'Abréviation',
 'LANGUAGE_ABBRCHANGEMAINLANG_WARNING' => 'Attention : Vous ne pouvez pas modifier l\'abréviation du langage principal (avec ID = 0) !',
-'LANGUAGE_ABBREVIATION_INVALID_ERROR' => 'Language abbreviation invalid! Permitted characters are a-z, A-Z, 0-9 and the underscore.',
+'LANGUAGE_ABBREVIATION_INVALID_ERROR' => 'Abréviation de la langue invalide! Les caractères autorisés sont a-z, A-Z, 0-9 et le trait de soulignement.',
 'LANGUAGE_ACTIVE' => 'Activée sur la boutique',
 'LANGUAGE_ALREADYEXISTS_ERROR' => 'Erreur: Une langue utilisant cette abréviation existe déjà!',
 'LANGUAGE_BACKEND_NOTRANSLATIONS_WARNING' => 'Attention: le fichier langue choisi n\'existe pas dans le répertoire  / admin!',
@@ -867,7 +867,7 @@ $aLang = array(
 'MANUFACTURER_MAIN_ICONUPLOAD' => 'Envoi Icône',
 'MANUFACTURER_MAIN_ITEMSWITHMANUFACTURER' => 'Produits de ce Fabricant',
 'MODULE_ACTIVATE' => 'Activer',
-'MODULE_ACTIVATION_NOT_POSSIBLE_IN_DEMOMODE' => 'Please note: modules can\'t be activated or deactivated in demo shop mode.',
+'MODULE_ACTIVATION_NOT_POSSIBLE_IN_DEMOMODE' => 'Attention: les modules ne peuvent pas être activés ou désactivés en mode démo shop.',
 'MODULE_AUTHOR' => 'Auteur',
 'MODULE_DEACTIVATE' => 'Désactiver',
 'MODULE_DELETEEXTENSION' => 'Souhaitez-vous supprimer toutes les données du module, y compris les options de configuration et blocs pour les templates ?',
@@ -1364,7 +1364,7 @@ $aLang = array(
 'SHOP_CONFIG_ENABLE' => 'Activée',
 'SHOP_CONFIG_ENABLE_INTANGIBLE_PRODUCTS_AGREEMENT' => 'Les usagers doivent confirmer qu\'ils acceptent les termes et conditions pour tous les produits téléchargables et/ou intangible pendant le processus d\'achat.',
 'SHOP_CONFIG_ENTERNETPRICE' => 'Les prix des produits et emballages saisis/affichés dans l\'administration sont des prix HT',
-'SHOP_CONFIG_ERROR_INVALID_VALUE' => 'Provided configuration value: %s is not valid.',
+'SHOP_CONFIG_ERROR_INVALID_VALUE' => 'Valeur de configuration fournie:%s n\'est pas valide.',
 'SHOP_CONFIG_EXCLUDENONMATERIALPRODUCTS' => 'Ne pas prendre en compte les produits immatériels (ex: cartes cadeaux virtuelles) dans les frais de livraison',
 'SHOP_CONFIG_EXPORTNUMBEROFLINES' => 'Nombre de lignes à exporter par cycle dans les exports CSV.',
 'SHOP_CONFIG_EXPORTTICKERREFRESH' => 'Délai en secondes entre chaque cycle d\'export CSV',

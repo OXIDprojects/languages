@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: alexraimondo (1), Alpha-Sys (5), chatard (318), cowboy9571 (10), ET (10), marco (7), patmat2809 (5), Phenix (203), piccobello (1), Rainbow40 (2), rava3000 (8), vikapera (376)
+ * @translators: alexraimondo (1), Alpha-Sys (5), chatard (318), cowboy9571 (10), ET (10), ftn2018 (236), marco (7), patmat2809 (5), Phenix (203), piccobello (1), Rainbow40 (2), rava3000 (8), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -72,7 +72,7 @@ $aLang = array(
 'BETA_NOTE_FAQ' => '. S\'il vous plaît reportez vous à notre %s si vous avez des questions.',
 'BETA_NOTE_MIDDLE' => 'de OXID eShop',
 'BETA_NOTE_RELEASE_BETA' => 'Bêta',
-'BETA_NOTE_RELEASE_RC' => 'Release Candidate',
+'BETA_NOTE_RELEASE_RC' => 'Libération du Candidat',
 'BIC' => 'BIC:',
 'BILLING_ADDRESS' => 'Adresse de facturation',
 'BILLING_SHIPPING_SETTINGS' => 'Adresse de facturation & de livraison',
@@ -453,7 +453,7 @@ Si vous commandez avec votre compte client, Les liens de téléchargement appara
 'OPEN_ACCOUNT' => 'Créer un compte',
 'OPEN_PERSONAL_ACCOUNT' => 'Créer un compte client',
 'OR' => 'ou',
-'ORDER' => 'Order',
+'ORDER' => 'Ordre',
 'ORDERS' => 'Commandes:',
 'ORDER_COMPLETED' => 'Commande terminée',
 'ORDER_DATE' => 'Date de la commande:',
