@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: alexraimondo (1), Alpha-Sys (5), chatard (318), cowboy9571 (10), ET (10), ftn2018 (236), marco (7), patmat2809 (5), Phenix (203), piccobello (1), Rainbow40 (2), rava3000 (8), vikapera (376)
+ * @translators: alexraimondo (1), Alpha-Sys (5), chatard (318), cowboy9571 (10), ET (10), ftn2018 (236), marco (9), patmat2809 (5), Phenix (203), piccobello (1), Rainbow40 (2), rava3000 (8), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -68,7 +68,7 @@ $aLang = array(
 'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Cartes-cadeaux (total)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'Total du panier tva incluse',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Emballage cadeau (net).',
-'BETA_NOTE' => 'Bienvenue sur la version RC',
+'BETA_NOTE' => 'Bienvenue sur',
 'BETA_NOTE_FAQ' => '. S\'il vous plaît reportez vous à notre %s si vous avez des questions.',
 'BETA_NOTE_MIDDLE' => 'de OXID eShop',
 'BETA_NOTE_RELEASE_BETA' => 'Bêta',

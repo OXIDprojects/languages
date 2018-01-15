@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: alexraimondo (1), Alpha-Sys (5), chatard (318), cowboy9571 (10), ET (10), ftn2018 (236), marco (7), patmat2809 (5), Phenix (203), piccobello (1), Rainbow40 (2), rava3000 (8), vikapera (376)
+ * @translators: alexraimondo (1), Alpha-Sys (5), chatard (318), cowboy9571 (10), ET (10), ftn2018 (236), marco (9), patmat2809 (5), Phenix (203), piccobello (1), Rainbow40 (2), rava3000 (8), vikapera (376)
  */
 
 $sLangName  = 'Français';
@@ -1745,7 +1745,7 @@ $aLang = array(
 'SYSREQ_PHP4_COMPAT' => 'Zend compatibility mode doit être off',
 'SYSREQ_PHP_CONFIG' => 'Configuration PHP',
 'SYSREQ_PHP_EXTENNSIONS' => 'Extensions PHP',
-'SYSREQ_PHP_VERSION' => 'Version PHP minimale 5.2.0',
+'SYSREQ_PHP_VERSION' => 'Version PHP minimale 5.3.25',
 'SYSREQ_PHP_XML' => 'PHP XML',
 'SYSREQ_REGISTER_GLOBALS' => 'register_globals doit être off',
 'SYSREQ_REQUEST_URI' => 'REQUEST_URI activé',
