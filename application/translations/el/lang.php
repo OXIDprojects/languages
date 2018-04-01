@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: dotoree (1517), georgekk2 (7), polymeris (7), rostav (28)
+ * @translators: dotoree (1517), georgekk2 (7), polymeris (7), rostav (28), vanilla thunder (1)
  */
 
 $sLangName  = 'Ελληνικά';
@@ -478,7 +478,7 @@ $aLang = array(
 'OXFREESHIPPING' => 'Δωρεάν Μεταφορικά',
 'OXHEIGHT' => 'Ύψος',
 'OXID' => 'Internal Identno.',
-'OXID_ESALES_URL' => 'http://www.eShop-esales.com/',
+'OXID_ESALES_URL' => 'http://www.oxid-esales.com/',
 'OXID_ESALES_URL_TITLE' => 'Καλάθι εμπορευμάτων software by eShop eSales',
 'OXINSERT' => 'Δημιουργήθηκε στις',
 'OXISCONFIGURABLE' => 'Το προϊόν είναι προσαρμόσιμο',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: allabreve (3763), koikaam (227), patmat2809 (7)
+ * @translators: allabreve (3765), koikaam (227), patmat2809 (7)
  */
 
 $sLangName  = 'Magyar';
@@ -117,8 +117,8 @@ $aLang = array(
 'CONTACT' => 'Kapcsolat',
 'CONTINUE_SHOPPING' => 'Tovább vásárol',
 'CONTINUE_TO_NEXT_STEP' => 'Tovább a következő lépéshez',
-'COOKIE_NOTE' => 'Webáruházunk Cookies-t használ az optimális vásárlási élmény elérése érdekében. Ekkor pl.: a nyelvbeállítás vagy más Session-információk az Ön gépére is el lesznek küldve. Ezen információk nélkül a webáruház funkciói csak korlátozottan működnek.',
-'COOKIE_NOTE_DISAGREE' => 'Amennyiben nem ért egyet a Cookies használatával, kattintson ide.',
+'COOKIE_NOTE' => 'Webáruházunk sütiket (Cookies) használ az optimális vásárlási élmény elérése érdekében. Ekkor pl.: a nyelvbeállítás vagy más Session-információk az Ön gépére is el lesznek küldve. Ezen információk nélkül a webáruház funkciói csak korlátozottan működnek.',
+'COOKIE_NOTE_DISAGREE' => 'Amennyiben nem ért egyet a sütik használatával, kattintson ide.',
 'COUNTRY' => 'Ország',
 'COUPON' => 'Utalvány',
 'COUPON_NOT_ACCEPTED' => 'Az Utalványt %s nem tudjuk elfogadni.',

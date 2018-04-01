@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: dsb (5), marco (4356)
+ * @translators: BLA (1), dsb (5), marco (4356)
  */
 
 $sLangName  = 'Deutsch';
@@ -601,7 +601,7 @@ $aLang = array(
 'PRICE' => 'Preis',
 'PRICE_ALERT' => '<b>[!]</b> Preisalarm!',
 'PRICE_ALERT_AT' => 'Preisalarm im',
-'PRICE_ALERT_FOR_PRODUCT' => 'Preisalarm fuer Artikel',
+'PRICE_ALERT_FOR_PRODUCT' => 'Preisalarm für Artikel',
 'PRICE_ALERT_THANK_YOU_MESSAGE' => 'Vielen Dank für Ihre Nachricht an %s. Sie bekommen eine Nachricht von uns, sobald der Preis unter %s %s fällt.',
 'PRICE_FROM' => 'ab',
 'PRINT' => 'Diese Seite drucken',
