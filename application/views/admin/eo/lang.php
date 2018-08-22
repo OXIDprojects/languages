@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: nikandrojac (195)
+ * @translators: nikandrojac (199)
  */
 
 $sLangName  = 'Esperanto';
@@ -58,7 +58,7 @@ $aLang = array(
 'ARTICLE_ATTRIBUTE_SELECTONEATTR' => 'Bv elekti atributon:',
 'ARTICLE_ATTRIBUTE_TOOMANYATTRIBUTES' => 'Bv selekti nur unu atributon!',
 'ARTICLE_BUNDLE_ALLITEMS' => 'Ĉiuj disponeblaj artikoloj',
-'ARTICLE_BUNDLE_ASSIGNARTICLE' => 'Assign Product',
+'ARTICLE_BUNDLE_ASSIGNARTICLE' => 'Asignu artikolon',
 'ARTICLE_BUNDLE_ASSIGNEDARTICLE' => 'Asignata artikolo:',
 'ARTICLE_BUNDLE_UNASSIGNARTICLE' => 'Malasignu artikolon',
 'ARTICLE_CROSSSELLING_ALLITEMS' => 'Ĉiuj disponeblaj artikoloj',
@@ -76,7 +76,7 @@ $aLang = array(
 'ARTICLE_EXTEND_DIMENSIONS_UNIT' => 'm',
 'ARTICLE_EXTEND_ENTERURL' => 'Enigu ekzistanta amaskomunikila URL <br>(ekstera PDF, filmo aŭ Jutubo!)',
 'ARTICLE_EXTEND_ERRORSAVINGTPRICE' => 'Attention: RRP price must be bigger than normal price.',
-'ARTICLE_EXTEND_EXTURL' => 'External URL',
+'ARTICLE_EXTEND_EXTURL' => 'Eksterna URL',
 'ARTICLE_EXTEND_FILE' => 'Dosiero',
 'ARTICLE_EXTEND_FILEUPLOAD' => 'Alŝuti dosieron:',
 'ARTICLE_EXTEND_FREESHIPPING' => 'Senpaga sendo',
@@ -135,7 +135,7 @@ $aLang = array(
 'ARTICLE_MAIN_MPN' => 'Fabrikanta artikolnombro (MPN)',
 'ARTICLE_MAIN_NONE' => '-- neniu --',
 'ARTICLE_MAIN_PARENTNOTBUYABLE' => 'Atento: Gepatra produkto ne povas esti aĉetita.',
-'ARTICLE_MAIN_PRICE' => 'Price',
+'ARTICLE_MAIN_PRICE' => 'Prezo',
 'ARTICLE_MAIN_PRICEA' => 'A:',
 'ARTICLE_MAIN_PRICEB' => 'B:',
 'ARTICLE_MAIN_PRICEC' => 'C:',
@@ -209,7 +209,7 @@ $aLang = array(
 'ARTICLE_STOCK_MAXDELTIME' => 'al',
 'ARTICLE_STOCK_MINDELTIME' => 'Inter',
 'ARTICLE_STOCK_MONTHS' => 'Monatoj',
-'ARTICLE_STOCK_NOSTOCKTEXT' => 'Out Of Stock Message',
+'ARTICLE_STOCK_NOSTOCKTEXT' => 'Mesaĝo kiam ne en stoko',
 'ARTICLE_STOCK_ORDERINFO' => 'Add. info in order confirmation mail.',
 'ARTICLE_STOCK_PRICE' => 'Price',
 'ARTICLE_STOCK_REMINDACTIV' => 'Send e-mail if stock falls below value',
