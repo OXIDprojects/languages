@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: nikandrojac (199)
+ * @translators: nikandrojac (244)
  */
 
 $sLangName  = 'Esperanto';
@@ -59,16 +59,16 @@ $aLang = array(
 'BACK_TO_START_PAGE' => 'Reen al la hejmo',
 'BANK' => 'Banknomo',
 'BANK_ACCOUNT_HOLDER' => 'Konto posedanto',
-'BANK_ACCOUNT_NUMBER' => 'Account no. or IBAN',
+'BANK_ACCOUNT_NUMBER' => 'Konto n-ro aŭ IBAN',
 'BANK_CODE' => 'Bank code or BIC',
 'BANK_DETAILS' => 'Bank details',
 'BARGAIN' => 'Bargain',
 'BARGAIN_PRODUCTS' => 'Bargain products',
-'BASKET_EMPTY' => 'The shopping cart is empty.',
-'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Greeting Card (net)',
+'BASKET_EMPTY' => 'Via aĉetoĉaro malplenas.',
+'BASKET_TOTAL_GIFTCARD_COSTS_NET' => 'Saluto karto (neta)',
 'BASKET_TOTAL_PLUS_PROPORTIONAL_VAT' => 'plus VAT (proportionally calculated)',
 'BASKET_TOTAL_WRAPPING_COSTS_NET' => 'Gift Wrapping (net)',
-'BETA_NOTE' => 'Welcome to',
+'BETA_NOTE' => 'Bonvenon al',
 'BETA_NOTE_FAQ' => '. Please refer to our %s if you have any questions.',
 'BETA_NOTE_MIDDLE' => ' of OXID eShop ',
 'BETA_NOTE_RELEASE_BETA' => 'Beta',

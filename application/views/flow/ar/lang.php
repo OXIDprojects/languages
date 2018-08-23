@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: benmoh (17), menhem-it (152), tarazi (33)
+ * @translators: benmoh (17), menhem-it (152), mohamad.alshehabie (167), tarazi (33)
  */
 
 $sLangName  = 'العربية';
@@ -29,7 +29,7 @@ $sLangName  = 'العربية';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'BACK_TO_OVERVIEW' => 'to overview',
+'BACK_TO_OVERVIEW' => 'لمحة عامة',
 'DD_BASKET_BACK_TO_SHOP' => 'back to shop',
 'DD_CLOSE_MODAL' => 'close',
 'DD_CONTACT_ADDRESS_HEADING' => 'Address',

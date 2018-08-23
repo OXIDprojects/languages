@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: nikandrojac (199)
+ * @translators: nikandrojac (244)
  */
 
 $sLangName  = 'Esperanto';
@@ -29,7 +29,7 @@ $sLangName  = 'Esperanto';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'BACK_TO_OVERVIEW' => 'to overview',
+'BACK_TO_OVERVIEW' => 'Al superrigardo',
 'DD_BASKET_BACK_TO_SHOP' => 'back to shop',
 'DD_CLOSE_MODAL' => 'close',
 'DD_CONTACT_ADDRESS_HEADING' => 'Address',

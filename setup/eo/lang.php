@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: nikandrojac (199)
+ * @translators: nikandrojac (244)
  */
 
 $sLangName  = 'Esperanto';
@@ -29,7 +29,7 @@ $sLangName  = 'Esperanto';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'ATTENTION' => 'Attention, important',
+'ATTENTION' => 'Atendu, gravas!',
 'BUTTON_BEGIN_INSTALL' => 'Start installation',
 'BUTTON_DB_INSTALL' => 'Create database now',
 'BUTTON_LICENCE' => 'Continue',
