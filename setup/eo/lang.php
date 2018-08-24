@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: nikandrojac (244)
+ * @translators: nikandrojac (305)
  */
 
 $sLangName  = 'Esperanto';
@@ -31,16 +31,16 @@ $aLang = array(
 'charset' => 'utf-8',
 'ATTENTION' => 'Atendu, gravas!',
 'BUTTON_BEGIN_INSTALL' => 'Start installation',
-'BUTTON_DB_INSTALL' => 'Create database now',
-'BUTTON_LICENCE' => 'Continue',
-'BUTTON_PROCEED_INSTALL' => 'Proceed with setup',
+'BUTTON_DB_INSTALL' => 'Kreu nun datumbazon',
+'BUTTON_LICENCE' => 'Akcepti',
+'BUTTON_PROCEED_INSTALL' => 'Komencu instali',
 'BUTTON_RADIO_INSTALL_DB_DEMO' => 'Install demodata',
-'BUTTON_RADIO_LICENCE_ACCEPT' => 'I accept license conditions.',
-'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'I do not accept license conditions.',
+'BUTTON_RADIO_LICENCE_ACCEPT' => 'Mi akzeptas la kondiĉoj de rajtigilo',
+'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'Mi ne akceptas la kondiĉoj de rajtigilo.',
 'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => 'Do <strong>not</strong> install demodata',
-'BUTTON_START_INSTALL' => 'Restart setup',
-'BUTTON_WRITE_DATA' => 'Save and continue',
-'BUTTON_WRITE_LICENCE' => 'Save license key',
+'BUTTON_START_INSTALL' => 'Rekomencu la instalado',
+'BUTTON_WRITE_DATA' => 'Savu la datumojn kaj daŭrigu',
+'BUTTON_WRITE_LICENCE' => 'Savu la rajtigilan ŝlosilon',
 'ERROR_BAD_DEMODATA' => 'ERROR: Issue while inserting this SQL statements: ',
 'ERROR_BAD_SERIAL_NUMBER' => 'ERROR: Wrong license key!',
 'ERROR_BAD_SQL' => 'ERROR: Issue while inserting this SQL statements: ',
