@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: benmoh (17), menhem-it (152), mohamad.alshehabie (167), tarazi (33)
+ * @translators: benmoh (17), menhem-it (152), mohamad.alshehabie (370), tarazi (33)
  */
 
 $sLangName  = 'العربية';
@@ -30,17 +30,17 @@ $sLangName  = 'العربية';
 $aLang = array(
 'charset' => 'utf-8',
 'ATTENTION' => 'يرجى الملاحظة',
-'BUTTON_BEGIN_INSTALL' => 'Start installation',
+'BUTTON_BEGIN_INSTALL' => 'بدء التثبيت',
 'BUTTON_DB_INSTALL' => 'الآن إنشاء قاعدة بيانات',
-'BUTTON_LICENCE' => 'Continue',
+'BUTTON_LICENCE' => 'استمرار',
 'BUTTON_PROCEED_INSTALL' => 'بدء الإعداد',
 'BUTTON_RADIO_INSTALL_DB_DEMO' => 'تثبيت البيانات التجريبي',
-'BUTTON_RADIO_LICENCE_ACCEPT' => 'I accept license conditions.',
-'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'I do not accept license conditions.',
-'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => 'Do <strong>not</strong> install demodata',
-'BUTTON_START_INSTALL' => 'Restart setup',
+'BUTTON_RADIO_LICENCE_ACCEPT' => 'انا اوافق على شروط الترخيص',
+'BUTTON_RADIO_LICENCE_NOT_ACCEPT' => 'اتا لا اوافق على شروط الترخيص',
+'BUTTON_RADIO_NOT_INSTALL_DB_DEMO' => 'لا تنصب ديموداتا',
+'BUTTON_START_INSTALL' => 'اعد التنصيب',
 'BUTTON_WRITE_DATA' => 'تخزين البيانات الآن',
-'BUTTON_WRITE_LICENCE' => 'Save license key',
+'BUTTON_WRITE_LICENCE' => 'احفظ مفاتيح الترخيص',
 'ERROR_BAD_DEMODATA' => 'ERROR: Issue while inserting this SQL statements: ',
 'ERROR_BAD_SERIAL_NUMBER' => 'خطأ: الرقم التسلسلي خاطئة!',
 'ERROR_BAD_SQL' => 'خطأ: (بيانات التجريبي ) مشاكل مع أوامر SQL التالية :',

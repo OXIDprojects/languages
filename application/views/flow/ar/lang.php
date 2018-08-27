@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: benmoh (17), menhem-it (152), mohamad.alshehabie (167), tarazi (33)
+ * @translators: benmoh (17), menhem-it (152), mohamad.alshehabie (370), tarazi (33)
  */
 
 $sLangName  = 'العربية';
@@ -30,19 +30,20 @@ $sLangName  = 'العربية';
 $aLang = array(
 'charset' => 'utf-8',
 'BACK_TO_OVERVIEW' => 'لمحة عامة',
-'DD_BASKET_BACK_TO_SHOP' => 'back to shop',
-'DD_CLOSE_MODAL' => 'close',
-'DD_CONTACT_ADDRESS_HEADING' => 'Address',
-'DD_CONTACT_FORM_HEADING' => 'Contact',
-'DD_CONTACT_PAGE_HEADING' => 'Contact us!',
-'DD_CONTACT_THANKYOU1' => 'Thank you.',
-'DD_CONTACT_THANKYOU2' => ' appreciates your comments.',
-'DD_DEMO_ADMIN_TOOL' => 'Open admin interface',
-'DD_DOWNLOADLINKS_HEADING' => 'Your download links - orders',
-'DD_DOWNLOADS_DOWNLOAD_TOOLTIP' => 'download',
-'DD_ERR_404_CONTACT_BUTTON' => 'to contact page',
-'DD_ERR_404_CONTACT_TEXT' => 'May we assist you?<br>Feel free to call us or write an email:',
-'DD_ERR_404_START_BUTTON' => 'Go to home page',
+'DD_BASKET_BACK_TO_SHOP' => 'العودة لتسوق',
+'DD_CLOSE_MODAL' => 'اغلاق',
+'DD_CONTACT_ADDRESS_HEADING' => 'العنوان',
+'DD_CONTACT_FORM_HEADING' => 'الاتصال',
+'DD_CONTACT_PAGE_HEADING' => 'اتصل بنا',
+'DD_CONTACT_THANKYOU1' => 'شكرا لك',
+'DD_CONTACT_THANKYOU2' => 'تعرب عن تقديرها للتعليقات الخاصة بك.',
+'DD_DEMO_ADMIN_TOOL' => 'واجهة الإدارة المفتوحة',
+'DD_DOWNLOADLINKS_HEADING' => 'وصلات التحميل الخاص بك--أوامر',
+'DD_DOWNLOADS_DOWNLOAD_TOOLTIP' => 'تحميمل',
+'DD_ERR_404_CONTACT_BUTTON' => 'الى صفحة الاتصال',
+'DD_ERR_404_CONTACT_TEXT' => 'ربما يمكننا مساعدتك؟ 
+لا تتردد في الاتصال بنا أو كتابة رسالة بريد إلكتروني:',
+'DD_ERR_404_START_BUTTON' => 'اذهب الى الصفحة الرئيسية',
 'DD_ERR_404_START_TEXT' => 'You may find the requested information from our home page:',
 'DD_FILE_ATTRIBUTES_FILENAME' => 'File name:',
 'DD_FILE_ATTRIBUTES_FILESIZE' => 'File size:',

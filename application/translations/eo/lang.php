@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: nikandrojac (305)
+ * @translators: nikandrojac (336)
  */
 
 $sLangName  = 'Esperanto';
@@ -31,7 +31,7 @@ $aLang = array(
 'charset' => 'utf-8',
 'ACCESSORIES' => 'Akcesoraj',
 'ACCOUNT' => 'Konto',
-'ACCOUNT_INFORMATION' => 'Konta informo',
+'ACCOUNT_INFORMATION' => 'Konto informo',
 'ADD' => 'aldoni',
 'ADDITIONAL_INFO' => 'Pliaj informoj',
 'ADDRESS' => 'Adreso',
@@ -89,8 +89,8 @@ $aLang = array(
 'CARD_TO' => 'Karto al:',
 'CARD_VISA' => 'Visa',
 'CART' => 'Butikuma korbo',
-'CATEGORIES' => 'Categories',
-'CATEGORY' => 'Category',
+'CATEGORIES' => 'Kategorioj',
+'CATEGORY' => 'Kategorio',
 'CATEGORY_OVERVIEW' => 'Category overview',
 'CATEGORY_PRODUCTS_S' => 'Category/%s',
 'CATEGORY_S' => 'Category: %s',
@@ -547,10 +547,10 @@ $aLang = array(
 'OXVPE' => 'Packingunit',
 'OXWEIGHT' => 'Weight',
 'OXWIDTH' => 'Width',
-'OXZOOM1' => 'Zoom Picture 1',
-'OXZOOM2' => 'Zoom Picture 2',
-'OXZOOM3' => 'Zoom Picture 3',
-'OXZOOM4' => 'Zoom Picture 4',
+'OXZOOM1' => 'Zomo bildo 1',
+'OXZOOM2' => 'Zomo bildo 2',
+'OXZOOM3' => 'Zomo bildo 3',
+'OXZOOM4' => 'Zomo bildo 4',
 'PAGE' => 'Page',
 'PAGE_TITLE_ACCOUNT' => 'My Account',
 'PAGE_TITLE_ACCOUNT_DOWNLOADS' => 'My Downloads',
@@ -788,7 +788,7 @@ $aLang = array(
 'YOUR_TEAM' => 'Your %s Team',
 'YOU_ARE_HERE' => 'You are here',
 'YOU_CAN_GO' => 'You can go',
-'ZOOM' => 'Zoom',
+'ZOOM' => 'Zomo',
 '_UNIT_CM' => 'cm',
 '_UNIT_G' => 'g',
 '_UNIT_ITEM' => 'item',
