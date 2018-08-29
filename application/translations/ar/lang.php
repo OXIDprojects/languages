@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: benmoh (17), menhem-it (152), mohamad.alshehabie (937), tarazi (33)
+ * @translators: benmoh (17), menhem-it (152), mohamad.alshehabie (980), tarazi (33)
  */
 
 $sLangName  = 'العربية';
