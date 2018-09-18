@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: benmoh (17), menhem-it (152), mohamad.alshehabie (980), tarazi (33)
+ * @translators: benmoh (17), menhem-it (152), mohamad.alshehabie (1143), tarazi (33)
  */
 
 $sLangName  = 'العربية';
@@ -65,8 +65,8 @@ $aLang = array(
 'ERROR_VIEWS_CANT_DROP' => 'خطأ: لا يمكن إسقاط الملفات الشخصية. يرجى التحقق من امتيازات مستخدم قاعدة البيانات الخاصة بك.',
 'ERROR_VIEWS_CANT_SELECT' => 'خطأ: لا يمكن الاختيار من بين المشاهدات. يرجى التحقق من امتيازات مستخدم قاعدة البيانات الخاصة بك.',
 'FOOTER_OXID_ESALES' => '© OXID eSales AG 2003 - Y',
-'HEADER_META_MAIN_TITLE' => 'OXID eShop installation wizard',
-'HEADER_TEXT_SETUP_NOT_RUNS_AUTOMATICLY' => 'If setup does not continue in a few seconds, please click ',
+'HEADER_META_MAIN_TITLE' => 'معالج التثبيت eShop OXID',
+'HEADER_TEXT_SETUP_NOT_RUNS_AUTOMATICLY' => 'إذا كان برنامج الإعداد المتابعة في بضع ثوان، الرجاء النقر فوق',
 'HERE' => 'here',
 'LOAD_DYN_CONTENT_NOTICE' => '<p>If checkbox is set, you will see an additional menu in the admin area of your OXID eShop.</p><p>In that menu you get further information about e-commerce services like Google product search.</p> <p>You can change these settings at any time.</p>',
 'MOD_ALLOW_URL_FOPEN' => 'allow_url_fopen or fsockopen to port 80',
