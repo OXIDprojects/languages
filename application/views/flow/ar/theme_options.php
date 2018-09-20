@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: benmoh (17), menhem-it (152), mohamad.alshehabie (1143), tarazi (33)
+ * @translators: benmoh (17), menhem-it (152), mohamad.alshehabie (1210), tarazi (33)
  */
 
 $sLangName  = 'العربية';
@@ -29,7 +29,7 @@ $sLangName  = 'العربية';
 // -------------------------------
 $aLang = array(
 'charset' => 'utf-8',
-'HELP_SHOP_THEME_blShowListDisplayType' => 'Decide if the visitor of your store can select the type of the product list in store front. If this options is not activated, your visitors will see the lists displayed like you adjusted in the drop box "Default product list type".',
+'HELP_SHOP_THEME_blShowListDisplayType' => 'أن تقرر إذا كان الزائر لتخزين الخاص بك يمكن تحديد نوع قائمة المنتجات في مخزن جبهة. إذا لم يتم تنشيط هذا الخيار، سوف ترى الزوار قوائم عرض مثل يمكنك تعديله في مربع القائمة "نوع قائمة المنتج الافتراضي".',
 'HELP_SHOP_THEME_blSliderShowImageCaption' => 'A caption is visible, when the active slide has an assigned product.',
 'HELP_SHOP_THEME_blUseGAEcommerceTracking' => 'Please keep in mind that this option needs to be enabled in your Google Analytics account, too. Manual: <a href="https://support.google.com/analytics/answer/1009612?hl=en&ref_topic=1037061" target="_blank">Link</a>',
 'HELP_SHOP_THEME_iNewBasketItemMessage' => 'When customer adds products to cart, OXID eShop can behave differently. Set up what shall happen to give proper feedback to customer.',

@@ -19,7 +19,7 @@
  * @package   lang
  * @copyright (C) OXID eSales AG 2003-2016
  * @version OXID eShop CE
- * @translators: benmoh (17), menhem-it (152), mohamad.alshehabie (1143), tarazi (33)
+ * @translators: benmoh (17), menhem-it (152), mohamad.alshehabie (1210), tarazi (33)
  */
 
 $sLangName  = 'العربية';
@@ -97,8 +97,8 @@ $aLang = array(
 'DETAILS_VPE_MESSAGE_1' => 'هذا المنتج يمكن أن يطلب فقط في وحدات التعبئة والتغليف',
 'DETAILS_VPE_MESSAGE_2' => 'الاسعار',
 'FOOTER_NEWSLETTER_INFO' => 'الحصول على معلومات حول أحدث المنتجات والعروض في البريد الإلكتروني.',
-'MANUFACTURERSLIDER_SUBHEAD' => 'We present our carefully selected brands, whose products can be found in our shop.',
-'OF' => 'of',
+'MANUFACTURERSLIDER_SUBHEAD' => 'ونقدم منتجاتنا مختارة بعناية، يمكن الاطلاع على منتجاتها في متجر.',
+'OF' => 'من',
 'PAGE_DETAILS_CUSTOMERS_ALSO_BOUGHT_SUBHEADER' => 'Customers who bought this item also bought one of the following products.',
 'SEARCH_SUBMIT' => 'Search',
 'SEARCH_TITLE' => 'Enter a search term...',
