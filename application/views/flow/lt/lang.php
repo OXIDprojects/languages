@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (24), akasauskas (14), creaturex (5), dumus (94), gvidas123 (1), linasg (3), mantas.vaitkunas (1), marco (1), muslimukas (8), NFQ Lithuania (2756), regneo (1), sanis (1), swolou (3), tlt (204), vaidasif (75)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Lietuvių';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'BACK_TO_OVERVIEW' => 'į apžvalgą',
 'DD_BASKET_BACK_TO_SHOP' => 'grįžti į parduotuvę',
 'DD_CLOSE_MODAL' => 'uždaryti',
@@ -110,4 +89,4 @@ $aLang = array(
 'WIDGET_PRODUCT_RELATED_PRODUCTS_ACCESSORIES_SUBHEADER' => '',
 'WIDGET_PRODUCT_RELATED_PRODUCTS_CROSSSELING_SUBHEADER' => '',
 'WIDGET_PRODUCT_RELATED_PRODUCTS_SIMILAR_SUBHEADER' => '',
-);
+];

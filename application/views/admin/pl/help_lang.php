@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: elaberino (5), ET (15), irus (74), jmatos (667), la bete (5), makolab (3214), marco (4), mart (139), NADi (21), p3t3r (17), pawelch (1660), pkoper (20), remiq (27), topconcepts (209)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Polski';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => 'Alternatywny adres URL do serwera multimediów może być wskazany w pliku konfiguracyjnym config.inc.php przez ustawienie <i>sAltImageUrl</i> and <i>sSSLAltImageUrl</i>.<br> Przez to wszystkie zdjęcia produktów będą łądowane z tego alternatywnego serwera zamiast lokalnego. Jednakże wszystkie pliki uploadowane, będą przechowywane lokalnie. Tak więc synchronizacja pomiędzy tymi serwerami musi odbywać się ręcznie lub za pomocą zewnętrzych skryptów.',
 'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => 'Alarm cenowy może zostać wyłączony dla tego produktu.',
 'HELP_ARTICLE_EXTEND_EXTURL' => 'W tym polu wpisujemy adres URL pod którym będzie dostępne więcej informacji o produkcie (np. strona producenta). W polu <span class="navipath_or_inputname">Tekst linku zewnętrznego</span> podajesz słowo które zostaje podlinkowane, np. <span class="userinput_or_code">Sprawdź wolne terminy</span>, <span class="userinput_or_code">Więcej informacji</span>.',
@@ -260,4 +239,4 @@ $aLang = array(
 'HELP_VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Czy można użyć kilka kuponów z tej samej serii podczas wielu zamówień.',
 'HELP_VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Proszę podać numer kuponu. Numer ten jest używany przy jego tworzeniu kiedy opcja Automatycznego losowego generowania numerów jest wyłączona. Wszystkie kupony dostają ten sam numer.',
 'HELP_WRAPPING_MAIN_PICTURE' => 'Tutaj należy przypisać zdjęcie do opcji "Zapakuj jako prezent".',
-);
+];

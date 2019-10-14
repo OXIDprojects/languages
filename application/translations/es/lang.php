@@ -4,7 +4,9 @@
  * See LICENSE file for license details.
  */
 $sLangName  = "English";
-
+// -------------------------------
+// RESOURCE IDENTIFIER = STRING
+// -------------------------------
 $aLang = [
 'ACCESSORIES' => 'Accesorios',
 'ACCOUNT' => 'Cuenta',

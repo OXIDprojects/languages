@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: allabreve (3765), koikaam (227), patmat2809 (7)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Magyar';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'HELP_SHOP_THEME_blShowListDisplayType' => 'Meghatározhatja a látogató a terméklistatípusok módját? Amennyiben ez az opció nincs aktiválva, akkor az alapértelmezett terméklistanézet jelenik meg.',
 'HELP_SHOP_THEME_blSliderShowImageCaption' => 'Ez akkor jelenik meg, ha  egy szalagképhez hozzárendelünk egy terméket.',
 'HELP_SHOP_THEME_blUseGAEcommerceTracking' => 'Kérem, vegye figyelembe, hogy ezt az opciót a Google Analytics fiókjában is aktiválnia kell. Bővebben: <a href="https://support.google.com/analytics/answer/1009612?hl=de&ref_topic=1037061" target="_blank">Link</a>',
@@ -179,4 +158,4 @@ $aLang = array(
 'SHOP_THEME_sTwitterUrl' => 'Twitter Profil-URL',
 'SHOP_THEME_sYouTubeUrl' => 'YouTube Csatorna-URL',
 'SHOP_THEME_sZoomImageSize' => 'A nagyított képek mérete (Nagyítás 1-4) pixelben (szélesség*magasság)',
-);
+];

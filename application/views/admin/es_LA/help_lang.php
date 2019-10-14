@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: jordhy (3201), jsmaster (11)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Español de América';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => 'URL alternativa a imagen remota en el servidor puede especificarse en el archivo de configuración config.inc.php definiendo <i>sAltImageUrl</i> and <i>sSSLAltImageUrl</i>.<br> Así todos los productos se cargarán desde este servidor alternativo en vez del local. Aunque, los archivos subidos se guardarán localmente. En este caso la sincronización con el servidor externo puede hacerse a mano o con scripts personalizados.',
 'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => 'Alerta de precio puede deshabilitarse para este producto.',
 'HELP_ARTICLE_EXTEND_EXTURL' => 'En <span class="navipath_or_inputname"> URL externa </span> puede introducir un link donde obtener más información sobre el producto está disponible (por ejemplo, en la página web del fabricante). En el texto <span class="navipath_or_inputname"> de URL externa </span> puede introducir el texto que se vincula por ej. <span class="userinput_or_code"> más información en el sitio web del fabricante</span>.',
@@ -264,4 +243,4 @@ $aLang = array(
 'HELP_VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Aquí se puede establecer si los usuarios pueden usar los cupones de esta serie de cupones en los pedidos múltiples.',
 'HELP_VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Aquí puede introducir un número de cupón. Este número se utiliza cuando se crean nuevos cupones si <span class=navipath_or_inputname> números aleatorios </ span> se desactiva. Todos los cupones obtener el número de cupón misma.',
 'HELP_WRAPPING_MAIN_PICTURE' => '<span Class=navipath_or_inputname> Imagen </ span> <span class=navipath_or_inputname> Subir Imagen </ span> puede subir una foto para la envoltura de regalos. En <span class=navipath_or_inputname> Subir Imagen </ span> seleccionar la imagen que desea cargar. Al hacer clic en <span class=navipath_or_inputname> Guardar </ span> la imagen se carga. Después de cargar el nombre de archivo se muestra en la <span class=navipath_or_inputname> Imagen </ span>.',
-);
+];

@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: alexraimondo (1), Alpha-Sys (5), chatard (318), cowboy9571 (10), ET (10), ftn2018 (236), marco (9), patmat2809 (5), Phenix (203), piccobello (1), Rainbow40 (2), rava3000 (8), vikapera (376)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Français';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'HELP_SHOP_THEME_blShowListDisplayType' => 'Decide if the visitor of your store can select the type of the product list in store front. If this options is not activated, your visitors will see the lists displayed like you adjusted in the drop box "product list type".',
 'HELP_SHOP_THEME_iNewBasketItemMessage' => 'Lorsqu\'un client met un produit dans le panier, OXID eShop peut se comporter de différentes manières. Définissez le comportement à adopter.',
 'HELP_SHOP_THEME_sCatIconsize' => 'Dans la vue par catégorie, les images de s catégories sont affichées dans la taille définie ici.',
@@ -72,4 +51,4 @@ $aLang = array(
 'SHOP_THEME_sStartPageListDisplayType_line' => 'Liste',
 'SHOP_THEME_sThumbnailsize' => 'Taille des vignettes (largeur x hauteur)',
 'SHOP_THEME_sZoomImageSize' => 'Taille des images Zoom (largeur x hauteur)',
-);
+];

@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: ascheider (10), asot (4), compisat (26), cyberkatze (8), ET (10), ilya (1095), mantgomery (2), marco (1339), muslimukas (4), Natalia I (244), pianoservis (345), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (50), vlad13 (1)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Русский';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => 'Альтернативный URL на удаленный сервер изображений может быть задан в файле конфигурации config.inc.php изменив <i>sAltImageUrl</i> и <i>sSSLAltImageUrl</i>.<br> Таким образом, все изображения продукта будут загружены с этого альтернативного сервера вместо локального. Тем не менее, загруженные файлы будут сохранены локально. В этом случае синхронизация с внешним сервером должна быть сделана вручную или с помощью пользовательских скриптов.',
 'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => 'Оповещение о цене для этого продукта можно отключить',
 'HELP_ARTICLE_EXTEND_EXTURL' => 'В <span class="navipath_or_inputname"> Внешний URL-адрес </span> можно ввести ссылку, где дополнительная информация о продукте доступна (например, на веб-сайте производителя). В <span class="navipath_or_inputname">Текст для внешнего URL</span> можно ввести текст, который будет связан, по электронной .g.  <span class="userinput_or_code">Дополнительная информация на сайте производителя </span>.',
@@ -260,4 +239,4 @@ $aLang = array(
 'HELP_VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Здесь вы можете установить может ли пользователь использовать купон этой серии в нескольких заказах.',
 'HELP_VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Здесь вы можете ввести номер купона. Этот номер будет использоваться при создании новых купонов, если выбор <span class = "navipath_or_inputname"> случайных чисел </ span> отключен. Все купоны получат тот же номер.',
 'HELP_WRAPPING_MAIN_PICTURE' => 'С <span class="navipath_or_inputname">Картинка</span> по <span class="navipath_or_inputname">Загрузить фото</span> вы можете загрузить изображение на подарочной упаковке. В <span class="navipath_or_inputname">Загрузить фото</span>, выберите изображение для загрузки. При нажатии на <span class="navipath_or_inputname">Сохранить</span>, как фотография загружена. После загрузки, имя файла показано в  <span class="navipath_or_inputname">Picture</span>.',
-);
+];

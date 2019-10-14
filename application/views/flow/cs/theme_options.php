@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (146), inquisitor8 (414), jadi82 (7), marco (1), ondrej123 (2), RSee (1551), SYSKO (9), zerog (18)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Česky';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'HELP_SHOP_THEME_blShowListDisplayType' => 'Rozhodnout, zda návštěvník vašeho obchodu může zvolit typ seznamu produktů v obchodu . Není-li tato volba aktivována, budou vaši návštěvníci vidět seznamy zobrazené jako byste upravil v zaškrtávacím poli "typ seznamu výchozí produkt".',
 'HELP_SHOP_THEME_blSliderShowImageCaption' => 'Je viditelné v případě přiřazení produktu aktivnímu slidu.',
 'HELP_SHOP_THEME_blUseGAEcommerceTracking' => 'Prosím, mějte na paměti, že tuto volbu je třeba mít také povolenou v účtu Google Analytics. Návod: <a href="https://support.google.com/analytics/answer/1009612?hl=en&ref_topic=1037061" target="_blank">Odkaz</a>',
@@ -179,4 +158,4 @@ $aLang = array(
 'SHOP_THEME_sTwitterUrl' => 'URL profilu Twitter',
 'SHOP_THEME_sYouTubeUrl' => 'YouTube Kanal-URL',
 'SHOP_THEME_sZoomImageSize' => 'Velikost zoomu obrázku (zoom 1-4) v pixelech (šířka*výška)',
-);
+];

@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: afimage (504), diegotech (7), djraptor (1368), Espana (5), ET (219), jmatos (31), jsmaster (6), kai.gazmaga (3), mvirolde (8), nuelgoz (156), Sweetlana (2)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Español';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'HELP_SHOP_THEME_blShowListDisplayType' => 'Decidir si el visitante de su tienda puede seleccionar el tipo de la lista de productos en frente de la tienda. Si esta opción no está activada, el visitante podrá ver las listas que aparecen como ha ajustado en el tipo de buzón de la lista de productos.',
 'HELP_SHOP_THEME_iNewBasketItemMessage' => 'Cuando el cliente añade productos a la cesta eShop OXID puede comportarse de manera diferente. Establecer lo que debe suceder para dar retroalimentación adecuada al cliente.',
 'HELP_SHOP_THEME_sCatIconsize' => 'Teniendo en cuenta la categoría de imágenes de subcategorías de la categoría se muestran en el tamaño definido.',
@@ -72,4 +51,4 @@ $aLang = array(
 'SHOP_THEME_sStartPageListDisplayType_line' => 'Lista',
 'SHOP_THEME_sThumbnailsize' => 'tamaño de las miniaturas (ancho * alto)',
 'SHOP_THEME_sZoomImageSize' => 'Ampliar tamaño de la imagen (ancho * alto)',
-);
+];

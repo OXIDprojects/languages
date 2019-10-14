@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: allabreve (3765), koikaam (227), patmat2809 (7)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Magyar';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => 'A config.inc.php konfigurációs fájlban a következő paraméterekkel <i>sAltImageUrl</i> és <i>sSSLAltImageUrl</i> egy külső képtároló szerverre mutató linket lehet beállítani. Erről az alternatív szerverről töltődne az összes termékkép. Ugyanakkor a feltöltött képek a shop helyi szerverén tárolódik. Így kézzel, vagy egy skript segítségével lehetségessé válik a szinkronizáció.',
 'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => 'Az árriasztás kikapcsolható erre a termékre.',
 'HELP_ARTICLE_EXTEND_EXTURL' => 'A <span class="navipath_or_inputname">Külső URL</span>-nél megadhat egy Linket, ahol a termékhez kapcsolódó információk találhatók (pl.: a gyártó weboldala). A <span class="navipath_or_inputname"> név a külső URL-hez</span>-nél adhatja meg a link megnevezését (Pl: <span class="userinput_or_code">további információk a gyártótól:</span>).',
@@ -261,4 +240,4 @@ beállítás hatályon kívül helyezi ezt, így a régi SEO URL megmarad és ne
 'HELP_VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Itt állíthatja be azt, hogy a felhasználó ebből az utalványsorozatból több vásárlást bonyolíthat-e le.',
 'HELP_VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Itt adhatja meg az utalvány számát. Ez akkor adható meg, ha ön egy új utalványt hoz létre. Ha ön több utalványt hoz létre, akkor mindegyiknek ugyanaz a száma.',
 'HELP_WRAPPING_MAIN_PICTURE' => 'A <span class="navipath_or_inputname">Kép</span> és a <span class="navipath_or_inputname">Kép feltöltése</span>-nél feltölthet egy képet a díszcsomagoláshoz. Válassza ki a <span class="navipath_or_inputname">Kép feltöltése</span> segítségével a megfelelő képet. Ha a mentésre gombra kattint, a kép fel lesz töltve, majd a feltöltött fájl neve megjelenik a <span class="navipath_or_inputname">Kép</span> melletti mezőben.',
-);
+];

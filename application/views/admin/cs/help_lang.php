@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: Acdcman7 (2), dave2005 (76), ET (12), i7 (146), inquisitor8 (414), jadi82 (7), marco (1), ondrej123 (2), RSee (1551), SYSKO (9), zerog (18)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Česky';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => 'Alternativní URL na vzdálený server s obrázky lze nastavit v konfiguračním souboru config.inc.php nastavením <i> sAltImageUrl </ i> a <i> sSSLAltImageUrl </ i>. <br> Proto všechny fotografie produktů budou načteny z této alternativy namísto lokálního. Nicméně, nahrané soubory budou uloženy lokálně. V tomto případě synchronizace k externímu serveru musí být provedena ručně nebo pomocí vlastních skriptů.',
 'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => 'Cenový alarm lze pro tento produkt vypnout.',
 'HELP_ARTICLE_EXTEND_EXTURL' => 'Do pole <span class="navipath_or_inputname">Externí odkaz</span> můžete zadat odkaz týkající se produktu (např. web výrobce). Do pole <span class="navipath_or_inputname">text externího odkazu</span> zadejte text, který bude sloužit jako popis odkazu, např. <span class="navipath_or_inputname">Více informací od výrobce</span>.',
@@ -264,4 +243,4 @@ $aLang = array(
 'HELP_VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Zde můžete nastavit, zda uživatel může uplatnit kupóny této série v různých objednávkách.',
 'HELP_VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Zde můžete zadat číslo poukázky. Toto bude použito při generování nové poukázky <span class="navipath_or_inputname">Generování čísel</span>. Pokud vytvoříte více poukázek, všechny budou mít stejné číslo.',
 'HELP_WRAPPING_MAIN_PICTURE' => 'Pomocí <span class="navipath_or_inputname">Obrázek</span> a <span class="navipath_or_inputname">Nahrát obrázek</span> můžete nahrát obrázek dárkového balení. V <span class="navipath_or_inputname">Nahrát obrázek</span> vyberte obrázek a kliknutím na <span class="navipath_or_inputname">Uložit</span> ho nahrajte.',
-);
+];

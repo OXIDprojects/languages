@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: alexraimondo (1), Alpha-Sys (5), chatard (318), cowboy9571 (10), ET (10), ftn2018 (236), marco (9), patmat2809 (5), Phenix (203), piccobello (1), Rainbow40 (2), rava3000 (8), vikapera (376)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Français';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => 'Il est possible de spécifier une url alternative d\'un serveur d\'images distant dans le fichier de configuration config.inc.php avec les paramètres <i>sAltImageUrl</i> et <i>sSSLAltImageUrl</i>.<br>Ainsi, toutes les photos de produits seront chargés depuis ce serveur alternatif plutôt que depuis le serveur local. Cependant, les fichiers uploadés sont stockés en local. Dans ce cas, une synchronisation avec le serveur externe doit être mis en place manuellement ou avec un script personnalisé.',
 'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => 'L\'alerte de prix peut être désactivé sur ce produit.',
 'HELP_ARTICLE_EXTEND_EXTURL' => 'Dans <span class="navipath_or_inputname">URL Externe</span> vous pouvez renseigner un lien vers des informations complémentaires (ex: Vers le site de la marque). Dans <span class="navipath_or_inputname">Texte de l\'URL externe</span> saisissez le texte qui sera affiché pour le lien (ex: <span class="userinput_or_code">Plus d\'information sur le site de la marque</span>.',
@@ -264,4 +243,4 @@ $aLang = array(
 'HELP_VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Vous pouvez définir ici si les clients peuvent utiliser des bons de réduction d\'une même série dans différentes commandes.',
 'HELP_VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Ici vous pouvez saisir un numéro pour les codes de réduction. Ce noméro est utilisé lors de la génération de nouveaux codes de réduction si <span class="navipath_or_inputname">Numéros aléatoires</span> est désactivé. Tous les coupons porterons le même numéro.',
 'HELP_WRAPPING_MAIN_PICTURE' => 'Avec <span class="navipath_or_inputname">Image</span> et <span class="navipath_or_inputname">Envoyer image</span> Vous pouvez envoyer une image pour les emaballages cadeau. Dans <span class="navipath_or_inputname">Envoyer image</span>, Choisissez l\'image à envoyer. En cliquent sur <span class="navipath_or_inputname">Enregistrer</span>, L\'image est envoyée sur le serveur. Après l\'envoi, le nom du fichier est affiché dans <span class="navipath_or_inputname">Image</span>.',
-);
+];

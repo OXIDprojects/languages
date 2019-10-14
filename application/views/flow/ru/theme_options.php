@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: ascheider (10), asot (4), compisat (26), cyberkatze (8), ET (10), ilya (1095), mantgomery (2), marco (1339), muslimukas (4), Natalia I (244), pianoservis (345), riefi (9), savisko (18), unicum (35), usmaxx (23), vanilla thunder (50), vlad13 (1)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Русский';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'HELP_SHOP_THEME_blShowListDisplayType' => 'Эта опция позволяет определить смогут ли пользователи вашего магазина сортировать товары на его главной странице. Если опция не активна, товары будут отсортированы согласно настройкам "Сортировка товаров по умолчанию".',
 'HELP_SHOP_THEME_blSliderShowImageCaption' => 'Будет отображаться название товара, когда он привязан к активному слайду.',
 'HELP_SHOP_THEME_blUseGAEcommerceTracking' => 'Пожалуйста, имейте в виду, что эту опцию нужно также активировать в вашем аккаунте Google Analytics. Руководство доступно по этой <a href="https://support.google.com/analytics/answer/1009612?hl=en&ref_topic=1037061" target="_blank">Ссылке</a>.',
@@ -179,4 +158,4 @@ $aLang = array(
 'SHOP_THEME_sTwitterUrl' => 'Ссылка на профиль в Twitter',
 'SHOP_THEME_sYouTubeUrl' => 'Ссылка на YouTube-канал',
 'SHOP_THEME_sZoomImageSize' => 'Размер увеличенного изображения (ширина*высота)',
-);
+];

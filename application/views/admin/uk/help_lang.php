@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: asot (59), b.verbelchuk (32), pianoservis (3900)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Українська';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => 'Альтернативний URL на віддалений сервер зображень може бути заданий у файлі конфігурації config.inc.php змінивши <i>sAltImageUrl</i> і <i>sSSLAltImageUrl</i>.<br> Таким чином, всі зображення продукту будуть завантажені з цього альтернативного серверу замість локального. Тим не менш, завантажені файли будуть збережені локально. У цьому випадку синхронізація із зовнішнім сервером має бути зроблено вручну або за допомогою користувацьких скриптів.',
 'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => 'Повідомлення про ціну для цього продукту можна відключити',
 'HELP_ARTICLE_EXTEND_EXTURL' => 'В <span class="navipath_or_inputname">Зовнішній URL</span> можна ввести посилання, де додаткова інформація про продукт доступна (наприклад, на веб-сайті виробника). В <span class="navipath_or_inputname">Текст для зовнішнього URL</span> можна ввести текст, який буде пов\'язаний, адреса .g. <span class="userinput_or_code">Додаткова інформація на сайті виробника</span>.',
@@ -261,4 +240,4 @@ $aLang = array(
 'HELP_VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Тут ви можете встановити чи може користувач використовувати купон цієї серії в декількох замовленнях.',
 'HELP_VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Тут ви можете ввести номер купона. Цей номер буде використовуватись при створенні нових купонів, якщо вибір<span class="navipath_or_inputname">випадкових чисел</span> відключено. Всі купони отримають той же номер.',
 'HELP_WRAPPING_MAIN_PICTURE' => 'З <span class="navipath_or_inputname">Картинка</span> по <span class="navipath_or_inputname">Завантажити фото</span> ви зможете завантажити зображення на подарунковій упаковці. В <span class="navipath_or_inputname">Завантажити фото</span>, выберите изображение для загрузки. При нажатии на <span class="navipath_or_inputname">Зберегти</span>, фотографія завантажена. Після завантаження, ім\'я файлу показано в <span class="navipath_or_inputname">Picture</span>.',
-);
+];

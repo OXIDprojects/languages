@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: alexraimondo (1), Alpha-Sys (5), chatard (318), cowboy9571 (10), ET (10), ftn2018 (236), marco (9), patmat2809 (5), Phenix (203), piccobello (1), Rainbow40 (2), rava3000 (8), vikapera (376)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Français';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'HELP_SHOP_THEME_blShowListDisplayType' => 'Décidez si le visiteur de votre magasin peut sélectionner le type de la liste de produits en magasin avant. Si cette option n\'est pas activée, vos visiteurs verront les listes affichées comme vous les avez ajustées dans la liste déroulante "Type de liste de produits par défaut".',
 'HELP_SHOP_THEME_blSliderShowImageCaption' => 'Une légende est visible lorsque la diapositive active est associée à un produit.',
 'HELP_SHOP_THEME_blUseGAEcommerceTracking' => 'Gardez à l\'esprit que cette option doit également être activée dans votre compte Google Analytics. Manuel: <a href="https://support.google.com/analytics/answer/1009612?hl=fr&ref_topic=1037061" target="_blank"> Lien </a>',
@@ -182,4 +161,4 @@ class="filename_filepath_or_italic">Bargain</span>). </li></ul>Pour éviter les 
 'SHOP_THEME_sTwitterUrl' => 'Twitter Profil-URL',
 'SHOP_THEME_sYouTubeUrl' => 'URL de la chaîne YouTube',
 'SHOP_THEME_sZoomImageSize' => 'Zoomer la taille de l\'image (largeur * hauteur)',
-);
+];

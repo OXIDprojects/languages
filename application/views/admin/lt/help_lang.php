@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: abejingas (188), agladutis (24), akasauskas (14), creaturex (5), dumus (94), gvidas123 (1), linasg (3), mantas.vaitkunas (1), marco (1), muslimukas (8), NFQ Lithuania (2756), regneo (1), sanis (1), swolou (3), tlt (204), vaidasif (75)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Lietuvių';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => '',
 'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => '',
 'HELP_ARTICLE_EXTEND_EXTURL' => 'Išorinio URL laukelyje</var> galite įvesti nuorodą, kurioje pateikiama papildoma informacija apie prekę (pvz. gamintojo puslapyje). <var>Išoriniam URL teksto laukelyje</var> galite įvesti tekstą, kuris turi nuorodą, pvz. <kbd>Kita informacija gamintojo svetainėje</kbd>.',
@@ -260,4 +239,4 @@ $aLang = array(
 'HELP_VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Čia galite pasirinkti ar vartotojai gali naudoti tos pačios serijos kuponus keliuose užsakymuose.',
 'HELP_VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Čia galite įvesti kupono numerį. Šis numeris yra naudojamas, kai kuriamas naujas kuponas jei <var>Atsitiktinis numeris</var> yra nepasirinktas. Visi kuponai gauna tą pati numeriuką.',
 'HELP_WRAPPING_MAIN_PICTURE' => 'Laukeliuose <var>Paveikslėlis</var> ir <var>Įkelti nuotrauką</var> galite įkelti nuotrauką atvirutei ar pakavimo popieriui. Laukelyje <var>Įkelti nuotrauką</var>, pasirinkite paveikslėlį, kurį norite įkelti. Tada paspauskite <var>Saugoti</var> nuotrauka bus įkelta. Po failo įkėlimo laukelyje <var>Paveikslėlis</var> bus rodomas nuotraukos pavadinimas.',
-);
+];

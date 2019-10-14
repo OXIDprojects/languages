@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: asot (59), b.verbelchuk (32), pianoservis (3900)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Українська';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'HELP_SHOP_THEME_blShowListDisplayType' => 'Ця опція дозволяє визначити чи зможуть користувачі вашого магазину сортувати товари на його головній сторінці. Якщо опція не активна, товари будуть відсортовані відповідно до налаштувань "Сортування товарів за замовчуванням".',
 'HELP_SHOP_THEME_blSliderShowImageCaption' => 'Відображатиметься назва товару, коли він прив\'язаний до активного слайду.',
 'HELP_SHOP_THEME_blUseGAEcommerceTracking' => 'Будь ласка, майте на увазі, що цю опцію потрібно також активувати у вашому обліковому записі Google Analytics. Керіування доступно за цим <a href="https://support.google.com/analytics/answer/1009612?hl=en&ref_topic=1037061" target="_blank"> Посиланням </a>.',
@@ -179,4 +158,4 @@ $aLang = array(
 'SHOP_THEME_sTwitterUrl' => 'Посилання на профіль в Twitter',
 'SHOP_THEME_sYouTubeUrl' => 'Посилання на YouTube-канал',
 'SHOP_THEME_sZoomImageSize' => 'Розмір збільшеного зображення (ширина * висота)',
-);
+];

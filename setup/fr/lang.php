@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: alexraimondo (1), Alpha-Sys (5), chatard (318), cowboy9571 (10), ET (10), ftn2018 (236), marco (9), patmat2809 (5), Phenix (203), piccobello (1), Rainbow40 (2), rava3000 (8), vikapera (376)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Français';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'ATTENTION' => 'Attention, important',
 'BUTTON_BEGIN_INSTALL' => 'Démarrer l\'installation',
 'BUTTON_DB_INSTALL' => 'Créer la base de données maintenant',
@@ -181,4 +160,4 @@ $aLang = array(
 'TAB_6_DESC' => 'Installation effectuée avec succès',
 'TAB_6_TITLE' => 'Terminée',
 'USE_DYNAMIC_PAGES' => 'Afin d\'augmenter votre réussite des information supplementaires sont disponibles sur les serveurs d\'OXID. Vous trouverez davantage d\'information dans',
-);
+];

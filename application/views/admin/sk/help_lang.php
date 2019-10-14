@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: DominikS (404), ET (12), etch (6), i7 (754), lubosdz (18), stefanbalaz (15), tomasadamcik (60), zweistein (1)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Slovenčina';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => 'Alternatívna URL na vzdialený server s obrázkami sa dá nastaviť v konfiguračnom súbore config.inc.php nastavením <i> sAltImageUrl </ i> a <i> sSSLAltImageUrl </ i>. <br> Preto všetky fotografie produktov budú načítané z tejto alternatívy namiesto lokálneho. Nahrané súbory avšak budú uložené lokálne. V tomto prípade synchronizácia k externému serveru musí byť prevedená ručne alebo pomocou vlastných skriptov.',
 'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => 'Cenový alarm je možné vypnúť pre tento produkt.',
 'HELP_ARTICLE_EXTEND_EXTURL' => 'Do poľa <var>Externý odkaz</var> môžete zadať odkaz týkajúci sa výrobku (napr. web výrobcu). Do poľa <var>text externého odkazu</var> zadajte text, ktorý bude slúžiť ako popis odkazu, napr. <kbd>Viac informácií</kbd>.',
@@ -260,4 +239,4 @@ $aLang = array(
 'HELP_VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Tu môžete rozhodnút, či môžu užívatelia používať viacero kupónov naraz.',
 'HELP_VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Tu môžete zadať číslo kupónu. Túto možnosť využijete pri tvorbe nových kupónov, pokiaľ je neaktívne <var>Generovanie čísel</var>. Všetky kupóny série budú mať rovnaké číslo.',
 'HELP_WRAPPING_MAIN_PICTURE' => 'Pomocou <var>Obrázok</var> a <var>Nahrať obrázok</var> môžete nahrať obrázok darčekového balenia. V <var>Nahrát obrázek</var> vyberte obrázek a kliknutím na <var>Uložit</var> ho nahrajte.',
-);
+];

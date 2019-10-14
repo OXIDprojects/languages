@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: crashover (330), fifo (9), marco (2), Marcus77 (35), val (1076)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Български';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'HELP_SHOP_THEME_blShowListDisplayType' => 'Решете дали посетителите в магазина могат да избират типа на продуктовата листа във фронтенда .Ако тази опция не е активирана, посетителите ще виждат листите да се показват както са нагласени в падащото меню  "Default product list type"',
 'HELP_SHOP_THEME_iNewBasketItemMessage' => 'Когато клиент добавя артикул в кошницата, OXID eShop може да се държи различно.Настройте какво трябва да става за по-добра връзка с клиента.',
 'HELP_SHOP_THEME_sCatIconsize' => 'При преглед по категории, снимките на подкатегориите се показват в дефинирания размер.',
@@ -72,4 +51,4 @@ $aLang = array(
 'SHOP_THEME_sStartPageListDisplayType_line' => '',
 'SHOP_THEME_sThumbnailsize' => '',
 'SHOP_THEME_sZoomImageSize' => '',
-);
+];

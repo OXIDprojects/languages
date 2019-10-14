@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: AWIDON (2), BLA (56), dsb (1), jonashess (2), marco (4983), patmat2809 (1), simoneschuppe (4), SvenBrunk (2), Thielo (1)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Deutsch informell';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'HELP_ALTERNATIVE_IMAGE_SERVER_NOTE' => 'In der Konfigurationsdatei config.inc.php kann mit den Parametern <i>sAltImageUrl</i> und <i>sSSLAltImageUrl</i> eine URL zu einem externen Bilder-Server gesetzt werden. Dadurch werden alle Artikelbilder von diesem alternativen Server geladen. Alle hochgeladenen Dateien werden jedoch lokal gespeichert, so dass sie manuell oder per Script mit dem externen Server synchronisiert werden müssen.',
 'HELP_ARTICLE_EXTEND_BLFIXEDPRICE' => 'Der Preisalarm kann für diesen Artikel ausgeschaltet werden.',
 'HELP_ARTICLE_EXTEND_EXTURL' => 'Bei <span class="navipath_or_inputname">Externe URL</span> kannst Du einen Link eingeben, wo weitere Informationen zu dem Artikel erhältlich sind (z. B. auf der Hersteller-Website). Bei <span class="navipath_or_inputname">Text für ext. URL</span> kannst Du den Text eingeben, der verlinkt wird (z. B. <span class="userinput_or_code">weitere Informationen vom Hersteller</span>).',
@@ -264,4 +243,4 @@ $aLang = array(
 'HELP_VOUCHERSERIE_MAIN_SAMESEROTHERORDER' => 'Hier kannst Du einstellen, ob Benutzer Gutscheine dieser Gutscheinserie bei mehreren Bestellungen einlösen dürfen.',
 'HELP_VOUCHERSERIE_MAIN_VOUCHERNUM' => 'Hier kannst Du eine Gutscheinnummer eingeben. Diese wird verwendet wenn Du neue Gutscheine anlegen. Wenn Du mehrere Gutscheine anlegst, erhalten alle Gutscheine die gleiche Nummer.',
 'HELP_WRAPPING_MAIN_PICTURE' => 'Bei <span class="navipath_or_inputname">Bild</span> und <span class="navipath_or_inputname">Bild hochladen</span> kannst Du ein Bild für die Geschenkverpackung hochladen. Wähle bei <span class="navipath_or_inputname">Bild hochladen</span> das Bild aus, das Du hochladen möchtest. Wenn Du auf Speichern klickst, wird das Bild hochgeladen. Nachdem das Bild hochgeladen ist, wird der Dateiname des Bildes in <span class="navipath_or_inputname">Bild</span> angezeigt.',
-);
+];

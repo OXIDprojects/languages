@@ -1,34 +1,13 @@
 <?php
 /**
- *    This file is part of OXID eShop Community Edition.
- *
- *    OXID eShop Community Edition is free software: you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation, either version 3 of the License, or
- *    (at your option) any later version.
- *
- *    OXID eShop Community Edition is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
- *
- * @link      http://www.oxid-esales.com
- * @package   lang
- * @copyright (C) OXID eSales AG 2003-2016
- * @version OXID eShop CE
- * @translators: angelhardt (80), HolgerGremminger (69), marco (934), Palmer (73), rhinosmedia (4), skogsverktyg (820), topconcepts (118)
+ * Copyright © OXID eSales AG. All rights reserved.
+ * See LICENSE file for license details.
  */
-
-$sLangName  = 'Svenska';
-
+$sLangName  = "English";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
-$aLang = array(
-'charset' => 'utf-8',
+$aLang = [
 'HELP_SHOP_THEME_blShowListDisplayType' => 'Kan besökarna på din online-shop för att välja listavisniingstyp? Om alternativet ikke er aktivt, visas listavisningen som sat i Dropbox "Produktlistatyp".',
 'HELP_SHOP_THEME_iNewBasketItemMessage' => 'När kunden har lagt en produkt i varukorgen, kan OXID eShopen utföra olika feedbak-åtgärder.',
 'HELP_SHOP_THEME_sCatIconsize' => 'I kategoriöversikten visas kategoribilder av underkategorin i den storleken som definerats här.',
@@ -72,4 +51,4 @@ $aLang = array(
 'SHOP_THEME_sStartPageListDisplayType_line' => 'Lista',
 'SHOP_THEME_sThumbnailsize' => 'Storlek på thumbnails i pixlar (bredd*höjd)',
 'SHOP_THEME_sZoomImageSize' => 'Storleken på Zoombilder (zoom 1-4) i pixlar (bredd*höjd)',
-);
+];
