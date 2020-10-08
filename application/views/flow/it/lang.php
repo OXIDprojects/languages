@@ -3,7 +3,7 @@
  * Copyright © OXID eSales AG. All rights reserved.
  * See LICENSE file for license details.
  */
-$sLangName  = "English";
+$sLangName  = "Italiano";
 // -------------------------------
 // RESOURCE IDENTIFIER = STRING
 // -------------------------------
